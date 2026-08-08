@@ -220,6 +220,292 @@ async function montarDiario() {
 }
 
 // ============================================================
+// SEÇÃO 3: SPOTIFY
+// ============================================================
+
+const SPOTIFY_ARQUIVO = "spotify/data.json";
+
+function criarCardArtistaSpotify(artista, posicao) {
+    const card = document.createElement("div");
+    card.className = "spotify-card";
+
+    const img = document.createElement("img");
+
+    if (artista.image) {
+        img.src = artista.image;
+        img.alt = `Foto de ${artista.name}`;
+    } else {
+        img.alt = `Imagem não disponível para ${artista.name}`;
+    }
+
+    card.appendChild(img);
+
+    const ranking = document.createElement("p");
+    ranking.className = "spotify-ranking";
+    ranking.textContent = `#${posicao}`;
+    card.appendChild(ranking);
+
+    const nome = document.createElement("h3");
+    nome.textContent = artista.name;
+    card.appendChild(nome);
+
+    if (artista.url) {
+        const link = document.createElement("a");
+
+        link.href = artista.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+
+        link.textContent = "Abrir no Spotify";
+
+        card.appendChild(link);
+    }
+
+    return card;
+}
+
+
+function criarCardMusicaSpotify(musica, posicao) {
+    const card = document.createElement("div");
+    card.className = "spotify-card";
+
+    const img = document.createElement("img");
+
+    if (musica.album && musica.album.image) {
+        img.src = musica.album.image;
+        img.alt = `Capa do álbum ${musica.album.name}`;
+    } else {
+        img.alt = `Capa não disponível para ${musica.name}`;
+    }
+
+    card.appendChild(img);
+
+    const ranking = document.createElement("p");
+    ranking.className = "spotify-ranking";
+    ranking.textContent = `#${posicao}`;
+    card.appendChild(ranking);
+
+    const nome = document.createElement("h3");
+    nome.textContent = musica.name;
+    card.appendChild(nome);
+
+    if (musica.artists && musica.artists.length > 0) {
+        const artistas = document.createElement("p");
+
+        artistas.textContent = musica.artists
+            .map(artista => artista.name)
+            .join(", ");
+
+        card.appendChild(artistas);
+    }
+
+    if (musica.album && musica.album.name) {
+        const album = document.createElement("p");
+
+        album.textContent = musica.album.name;
+
+        card.appendChild(album);
+    }
+
+    if (musica.url) {
+        const link = document.createElement("a");
+
+        link.href = musica.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+
+        link.textContent = "Ouvir no Spotify";
+
+        card.appendChild(link);
+    }
+
+    return card;
+}
+
+
+function formatarDataSpotify(data) {
+    if (!data) return "";
+
+    const dataObj = new Date(data);
+
+    if (isNaN(dataObj.getTime())) {
+        return "";
+    }
+
+    return dataObj.toLocaleString("pt-BR", {
+        dateStyle: "short",
+        timeStyle: "short"
+    });
+}
+
+
+function criarCardHistoricoSpotify(musica) {
+    const card = criarCardMusicaSpotify(musica, "");
+
+    const data = document.createElement("p");
+    data.textContent = `Ouvido em ${formatarDataSpotify(musica.played_at)}`;
+
+    card.appendChild(data);
+
+    return card;
+}
+
+
+async function montarSpotify() {
+
+    const status = document.getElementById("spotify-status");
+
+    const artistasContainer =
+        document.getElementById("spotify-artistas");
+
+    const musicasContainer =
+        document.getElementById("spotify-musicas");
+
+    const historicoContainer =
+        document.getElementById("spotify-historico");
+
+    const atualizado =
+        document.getElementById("spotify-atualizado");
+
+
+    try {
+
+        const resposta = await fetch(SPOTIFY_ARQUIVO);
+
+        if (!resposta.ok) {
+            throw new Error(
+                `Não foi possível carregar ${SPOTIFY_ARQUIVO}`
+            );
+        }
+
+        const dados = await resposta.json();
+
+
+        // ----------------------------------------------------
+        // ARTISTAS
+        // ----------------------------------------------------
+
+        artistasContainer.innerHTML = "";
+
+        if (
+            dados.top_artists &&
+            dados.top_artists.length > 0
+        ) {
+
+            dados.top_artists.forEach((artista, index) => {
+
+                const card =
+                    criarCardArtistaSpotify(
+                        artista,
+                        index + 1
+                    );
+
+                artistasContainer.appendChild(card);
+
+            });
+
+        } else {
+
+            artistasContainer.innerHTML =
+                "<p>Nenhum artista encontrado.</p>";
+        }
+
+
+        // ----------------------------------------------------
+        // MÚSICAS
+        // ----------------------------------------------------
+
+        musicasContainer.innerHTML = "";
+
+        if (
+            dados.top_tracks &&
+            dados.top_tracks.length > 0
+        ) {
+
+            dados.top_tracks.forEach((musica, index) => {
+
+                const card =
+                    criarCardMusicaSpotify(
+                        musica,
+                        index + 1
+                    );
+
+                musicasContainer.appendChild(card);
+
+            });
+
+        } else {
+
+            musicasContainer.innerHTML =
+                "<p>Nenhuma música encontrada.</p>";
+        }
+
+
+        // ----------------------------------------------------
+        // HISTÓRICO
+        // ----------------------------------------------------
+
+        historicoContainer.innerHTML = "";
+
+        if (
+            dados.recently_played &&
+            dados.recently_played.length > 0
+        ) {
+
+            dados.recently_played.forEach(musica => {
+
+                const card =
+                    criarCardHistoricoSpotify(musica);
+
+                historicoContainer.appendChild(card);
+
+            });
+
+        } else {
+
+            historicoContainer.innerHTML =
+                "<p>Nenhum histórico encontrado.</p>";
+        }
+
+
+        // ----------------------------------------------------
+        // DATA DA ATUALIZAÇÃO
+        // ----------------------------------------------------
+
+        if (dados.updated_at) {
+
+            atualizado.textContent =
+                `Dados atualizados em ${formatarDataSpotify(
+                    dados.updated_at
+                )}`;
+
+        }
+
+
+        status.textContent =
+            "Dados carregados do Spotify.";
+
+        ativarArraste(artistasContainer);
+        ativarArraste(musicasContainer);
+        ativarArraste(historicoContainer);
+
+
+    } catch (erro) {
+
+        console.error(
+            "Erro ao carregar Spotify:",
+            erro
+        );
+
+        status.textContent =
+            "Não foi possível carregar os dados do Spotify.";
+
+    }
+}
+
+
+
+// ============================================================
 // ARRASTAR CARROSSEL NA HORIZONTAL (mouse e touch)
 // ============================================================
 function ativarArraste(container) {
