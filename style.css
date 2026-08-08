@@ -330,18 +330,46 @@ section:hover {
    FILMES
    ========================================================= */
 
-#filme {
+#filme .titulo-filmes {
+    text-align: center;
+}
+
+#filme-lista {
     display: flex;
 
     gap: 20px;
 
-    flex-wrap: wrap;
+    overflow-x: auto;
 
-    justify-content: center;
+    padding: 10px 5px 20px;
+
+    scroll-behavior: smooth;
+
+    cursor: grab;
+
+    user-select: none;
+}
+
+#filme-lista.arrastando {
+    cursor: grabbing;
+
+    scroll-behavior: auto;
+}
+
+#filme-lista::-webkit-scrollbar {
+    height: 8px;
+}
+
+#filme-lista::-webkit-scrollbar-thumb {
+    background: rgba(0, 0, 0, 0.3);
+
+    border-radius: 4px;
 }
 
 #filme .card-filme {
     width: 220px;
+
+    flex: 0 0 auto;
 
     background: #f4f4f4;
 
@@ -352,6 +380,26 @@ section:hover {
     text-align: center;
 
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+#filme .card-filme img {
+    pointer-events: none;
+}
+
+#filme .selo-tipo {
+    display: inline-block;
+
+    margin-top: 8px;
+
+    padding: 3px 10px;
+
+    font-size: 0.75rem;
+
+    border-radius: 999px;
+
+    background: #333;
+
+    color: #fff;
 }
 
 #filme .card-filme h2,
