@@ -7,7 +7,7 @@
 // 3. Cole abaixo o seu "API Read Access Token" (v4 auth)
 // ============================================================
 
-const TMDB_API_KEY = dcd47c0c799d5f1d53ef2611a309ed68
+const TMDB_API_KEY = "dcd47c0c799d5f1d53ef2611a309ed68"
 
 // Lista de filmes e séries que você quer mostrar (edite como quiser)
 // tipo: "movie" para filme, "tv" para série
@@ -79,7 +79,7 @@ async function montarTitulos() {
     const container = document.getElementById("filme-lista");
     const status = document.getElementById("filme-status");
 
-    if (!TMDB_API_KEY || TMDB_API_KEY === dcd47c0c799d5f1d53ef2611a309ed68) {
+    if (!TMDB_API_KEY || TMDB_API_KEY === "dcd47c0c799d5f1d53ef2611a309ed68") {
         status.textContent = "Configure sua chave da API do TMDB no arquivo script.js para exibir os filmes e séries.";
         return;
     }
