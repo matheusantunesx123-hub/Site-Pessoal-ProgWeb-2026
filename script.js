@@ -7,7 +7,7 @@
 // 3. Cole abaixo o seu "API Read Access Token" (v4 auth)
 // ============================================================
 
-const TMDB_API_KEY = "dcd47c0c799d5f1d53ef2611a309ed68";
+const TMDB_API_KEY = "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkY2Q0N2MwYzc5OWQ1ZjFkNTNlZjI2MTFhMzA5ZWQ2OCIsIm5iZiI6MTc4NjE1NDk4OS44NzksInN1YiI6IjZhNzY4ZmVkZWQwZjkwNzc2YmJiYjUyYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6Fg_360iglwt0-ExGGcUmOdB3oeD1d7zTf4y410-4co";
 
 // Lista de filmes e séries que você quer mostrar (edite como quiser)
 // tipo: "movie" para filme, "tv" para série
@@ -79,7 +79,7 @@ async function montarTitulos() {
     const container = document.getElementById("filme-lista");
     const status = document.getElementById("filme-status");
 
-    if (!TMDB_API_KEY || TMDB_API_KEY === "dcd47c0c799d5f1d53ef2611a309ed68") {
+    if (!TMDB_API_KEY || TMDB_API_KEY === "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJkY2Q0N2MwYzc5OWQ1ZjFkNTNlZjI2MTFhMzA5ZWQ2OCIsIm5iZiI6MTc4NjE1NDk4OS44NzksInN1YiI6IjZhNzY4ZmVkZWQwZjkwNzc2YmJiYjUyYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.6Fg_360iglwt0-ExGGcUmOdB3oeD1d7zTf4y410-4co") {
         status.textContent = "Configure sua chave da API do TMDB no arquivo script.js para exibir os filmes e séries.";
         return;
     }
