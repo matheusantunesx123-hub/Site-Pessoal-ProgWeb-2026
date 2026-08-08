@@ -548,4 +548,5 @@ function ativarArraste(container) {
 document.addEventListener("DOMContentLoaded", () => {
     montarTitulos();
     montarDiario();
+      montarSpotify();
 });
