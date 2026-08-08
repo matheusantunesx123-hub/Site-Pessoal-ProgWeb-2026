@@ -330,11 +330,11 @@ section:hover {
    FILMES
    ========================================================= */
 
-#filme .titulo-filmes {
+.titulo-filmes {
     text-align: center;
 }
 
-#filme-lista {
+.carrossel {
     display: flex;
 
     gap: 20px;
@@ -350,23 +350,23 @@ section:hover {
     user-select: none;
 }
 
-#filme-lista.arrastando {
+.carrossel.arrastando {
     cursor: grabbing;
 
     scroll-behavior: auto;
 }
 
-#filme-lista::-webkit-scrollbar {
+.carrossel::-webkit-scrollbar {
     height: 8px;
 }
 
-#filme-lista::-webkit-scrollbar-thumb {
+.carrossel::-webkit-scrollbar-thumb {
     background: rgba(0, 0, 0, 0.3);
 
     border-radius: 4px;
 }
 
-#filme .card-filme {
+.card-filme {
     width: 220px;
 
     flex: 0 0 auto;
@@ -382,11 +382,35 @@ section:hover {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
 }
 
-#filme .card-filme img {
+.card-filme img {
     pointer-events: none;
+
+    width: 100%;
+
+    height: auto;
+
+    border-radius: 8px;
 }
 
-#filme .selo-tipo {
+.card-filme .estrelas {
+    color: #d4a017;
+
+    font-size: 1.1rem;
+
+    letter-spacing: 2px;
+
+    margin: 4px 0 0;
+}
+
+.card-filme .data-assistida {
+    font-size: 0.8rem;
+
+    color: #555;
+
+    margin: 2px 0 0;
+}
+
+.selo-tipo {
     display: inline-block;
 
     margin-top: 8px;
@@ -402,17 +426,9 @@ section:hover {
     color: #fff;
 }
 
-#filme .card-filme h2,
-#filme .card-filme p {
+.card-filme h2,
+.card-filme p {
     color: #111;
-}
-
-#filme .card-filme img {
-    width: 100%;
-
-    height: auto;
-
-    border-radius: 8px;
 }
 
 
