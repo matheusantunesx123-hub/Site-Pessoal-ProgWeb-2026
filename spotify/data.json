@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T01:17:55.229182+00:00",
+  "updated_at": "2026-08-09T06:47:18.689360+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -536,618 +536,9 @@
   ],
   "recently_played": [
     {
-      "id": "3gojFWZfp7TXkLZyKFHmSA",
-      "name": "Motor - Ao Vivo",
-      "url": "https://open.spotify.com/track/3gojFWZfp7TXkLZyKFHmSA",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
-      },
-      "duration_ms": 262424,
-      "played_at": "2026-08-07T23:27:40.379Z"
-    },
-    {
-      "id": "0Y2v82GQsomVCqnfWpRSg5",
-      "name": "Dois Amores, Duas Paixões",
-      "url": "https://open.spotify.com/track/0Y2v82GQsomVCqnfWpRSg5",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Dois Amores, Duas Paixões, Vol. 14",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738d21ebf96b902a059911fd9c"
-      },
-      "duration_ms": 223007,
-      "played_at": "2026-08-07T20:50:48.999Z"
-    },
-    {
-      "id": "1yNstWFOG0z4CFkJrusyzP",
-      "name": "Manchete dos Jornais",
-      "url": "https://open.spotify.com/track/1yNstWFOG0z4CFkJrusyzP",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Mágica, Vol. 12",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
-      },
-      "duration_ms": 239516,
-      "played_at": "2026-08-07T20:47:14.824Z"
-    },
-    {
-      "id": "74QtGMeYncf3wP6fhg00zb",
-      "name": "Diga Sim pra Mim",
-      "url": "https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb",
-      "artists": [
-        {
-          "id": "2BwGxEffKsSjsQyKNtBgcQ",
-          "name": "Desejo De Menina",
-          "url": "https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ"
-        }
-      ],
-      "album": {
-        "name": "Diga Sim, Vol. 4",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827"
-      },
-      "duration_ms": 221200,
-      "played_at": "2026-08-07T20:43:24.306Z"
-    },
-    {
-      "id": "2QFzn5NXgtqssepxJjmJYP",
-      "name": "Liga pra Mim (Ao Vivo)",
-      "url": "https://open.spotify.com/track/2QFzn5NXgtqssepxJjmJYP",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Eu Amo Demais, Vol. 21 (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c03eeb7fc5d730e034b89c2e"
-      },
-      "duration_ms": 200773,
-      "played_at": "2026-08-07T20:39:52.103Z"
-    },
-    {
-      "id": "1qamKCfDlcPV44niEiQsOa",
-      "name": "Faço Chover (It Will Rain)",
-      "url": "https://open.spotify.com/track/1qamKCfDlcPV44niEiQsOa",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Calcinha Preta Premium",
-        "image": "https://i.scdn.co/image/ab67616d0000b273affbc662fdc4630890d21353"
-      },
-      "duration_ms": 230093,
-      "played_at": "2026-08-07T20:36:40.478Z"
-    },
-    {
-      "id": "7AaW6x9Ld7c9JqBuyw6vzB",
-      "name": "Mágica",
-      "url": "https://open.spotify.com/track/7AaW6x9Ld7c9JqBuyw6vzB",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Mágica, Vol. 12",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
-      },
-      "duration_ms": 259657,
-      "played_at": "2026-08-07T20:32:59.229Z"
-    },
-    {
-      "id": "0G6RszlmbBTvYJFEqgqFOX",
-      "name": "Casinha de Sapê",
-      "url": "https://open.spotify.com/track/0G6RszlmbBTvYJFEqgqFOX",
-      "artists": [
-        {
-          "id": "0jOs0wnXCu1bGGP7kh5uIu",
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "album": {
-        "name": "Nuvens",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d4af255844fc147eaf5e8f75"
-      },
-      "duration_ms": 218226,
-      "played_at": "2026-08-07T20:25:58.248Z"
-    },
-    {
-      "id": "0G6RszlmbBTvYJFEqgqFOX",
-      "name": "Casinha de Sapê",
-      "url": "https://open.spotify.com/track/0G6RszlmbBTvYJFEqgqFOX",
-      "artists": [
-        {
-          "id": "0jOs0wnXCu1bGGP7kh5uIu",
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "album": {
-        "name": "Nuvens",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d4af255844fc147eaf5e8f75"
-      },
-      "duration_ms": 218226,
-      "played_at": "2026-08-07T17:11:07.927Z"
-    },
-    {
-      "id": "7tkka2fYf1erIg8wy8r9Lt",
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Mais",
-        "image": "https://i.scdn.co/image/ab67616d0000b273892f2051533befd8a3cad534"
-      },
-      "duration_ms": 194040,
-      "played_at": "2026-08-07T16:14:22.590Z"
-    },
-    {
-      "id": "2GV8HvFDaRxPkKadAVoSJr",
-      "name": "Espelhos d'Água",
-      "url": "https://open.spotify.com/track/2GV8HvFDaRxPkKadAVoSJr",
-      "artists": [
-        {
-          "id": "43bh4WLBq3yxN3kIucxnHE",
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        }
-      ],
-      "album": {
-        "name": "Ficar Com Você",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c8eeb968f888f19c74438c19"
-      },
-      "duration_ms": 221893,
-      "played_at": "2026-08-07T16:11:08.077Z"
-    },
-    {
-      "id": "7L1cmgAlKGEXXLnKzE0ezf",
-      "name": "Todo O Amor Que Houver Nessa Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/7L1cmgAlKGEXXLnKzE0ezf",
-      "artists": [
-        {
-          "id": "1PwOU6fFbmaGkK3wkbb8fU",
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "album": {
-        "name": "O Tempo Nao Pára - Cazuza Ao Vivo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f939a1a7ec0750308a0b179c"
-      },
-      "duration_ms": 170066,
-      "played_at": "2026-08-07T16:07:25.694Z"
-    },
-    {
-      "id": "0PgsB53yhlKs8D19LgYU4i",
-      "name": "Se...",
-      "url": "https://open.spotify.com/track/0PgsB53yhlKs8D19LgYU4i",
-      "artists": [
-        {
-          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "album": {
-        "name": "Coisa de Acender",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cca4a9128ae58440c667876f"
-      },
-      "duration_ms": 291533,
-      "played_at": "2026-08-07T16:04:35.161Z"
-    },
-    {
-      "id": "1rMcQF59UMomlc0HJy9j5W",
-      "name": "Olha O Que O Amor Me Faz / Citação: All By Myself - Medley",
-      "url": "https://open.spotify.com/track/1rMcQF59UMomlc0HJy9j5W",
-      "artists": [
-        {
-          "id": "05mFGgWzooDQMWGNcNsM05",
-          "name": "Sandy e Junior",
-          "url": "https://open.spotify.com/artist/05mFGgWzooDQMWGNcNsM05"
-        }
-      ],
-      "album": {
-        "name": "As Quatro Estações",
-        "image": "https://i.scdn.co/image/ab67616d0000b273de473228f3c6ca04a054eb49"
-      },
-      "duration_ms": 208733,
-      "played_at": "2026-08-07T15:59:43.157Z"
-    },
-    {
-      "id": "7LxiQ3v6iEaejUgnBBphNS",
-      "name": "Se Eu Não Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS",
-      "artists": [
-        {
-          "id": "7dzq55YG3wjViqexDwiycQ",
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "album": {
-        "name": "Ivete Sangalo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b0bfa572787ccbe19185a418"
-      },
-      "duration_ms": 249440,
-      "played_at": "2026-08-07T15:56:13.924Z"
-    },
-    {
-      "id": "1ewnsEdiX9GcsclM4FvR4J",
-      "name": "Olha",
-      "url": "https://open.spotify.com/track/1ewnsEdiX9GcsclM4FvR4J",
-      "artists": [
-        {
-          "id": "3f5VCwd57gZsqMad28jyLV",
-          "name": "Maria Bethânia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "album": {
-        "name": "As Canções Que Você Fez Pra Mim",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738d2adca42edebb7b51c46032"
-      },
-      "duration_ms": 220826,
-      "played_at": "2026-08-07T15:52:03.961Z"
-    },
-    {
-      "id": "6p3uQq9gB4kFkVMrKwptK2",
-      "name": "Amanhã Talvez",
-      "url": "https://open.spotify.com/track/6p3uQq9gB4kFkVMrKwptK2",
-      "artists": [
-        {
-          "id": "3TbM7sfQ1oDiZVGScaKr02",
-          "name": "Joanna",
-          "url": "https://open.spotify.com/artist/3TbM7sfQ1oDiZVGScaKr02"
-        }
-      ],
-      "album": {
-        "name": "Joanna '86",
-        "image": "https://i.scdn.co/image/ab67616d0000b273535da41141387e3576805ab2"
-      },
-      "duration_ms": 236960,
-      "played_at": "2026-08-07T15:48:22.662Z"
-    },
-    {
-      "id": "7Fp2zfZYm5VrHwXWSbls7R",
-      "name": "Meu Bem Querer",
-      "url": "https://open.spotify.com/track/7Fp2zfZYm5VrHwXWSbls7R",
-      "artists": [
-        {
-          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "album": {
-        "name": "Alumbramento",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d32e0dc1fa50a3d7cd6d8c5d"
-      },
-      "duration_ms": 203093,
-      "played_at": "2026-08-07T15:44:24.933Z"
-    },
-    {
-      "id": "7xb1bY3h1FfvaLAvwJzz3F",
-      "name": "Metade",
-      "url": "https://open.spotify.com/track/7xb1bY3h1FfvaLAvwJzz3F",
-      "artists": [
-        {
-          "id": "72f733zGuCPEzCSLs9wOVi",
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "album": {
-        "name": "A Fábrica Do Poema",
-        "image": "https://i.scdn.co/image/ab67616d0000b27328d717dd71dfef54d67862a6"
-      },
-      "duration_ms": 207733,
-      "played_at": "2026-08-07T15:41:01.304Z"
-    },
-    {
-      "id": "3qJrvUyRn5JKgEeTeYFwRm",
-      "name": "Quando Chove",
-      "url": "https://open.spotify.com/track/3qJrvUyRn5JKgEeTeYFwRm",
-      "artists": [
-        {
-          "id": "43bh4WLBq3yxN3kIucxnHE",
-          "name": "Patricia Marx",
-          "url": "https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE"
-        }
-      ],
-      "album": {
-        "name": "Ficar Com Você",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c8eeb968f888f19c74438c19"
-      },
-      "duration_ms": 217600,
-      "played_at": "2026-08-07T15:37:33.096Z"
-    },
-    {
-      "id": "4aZxMIynfK07iuw8bDAQ9O",
-      "name": "Tudo Por Nada",
-      "url": "https://open.spotify.com/track/4aZxMIynfK07iuw8bDAQ9O",
-      "artists": [
-        {
-          "id": "07V0GWuWYmgheREejBORmk",
-          "name": "Paulo Ricardo",
-          "url": "https://open.spotify.com/artist/07V0GWuWYmgheREejBORmk"
-        }
-      ],
-      "album": {
-        "name": "O Amor Me Escolheu",
-        "image": "https://i.scdn.co/image/ab67616d0000b273280ee90e8ea30bcc796fb3eb"
-      },
-      "duration_ms": 264506,
-      "played_at": "2026-08-07T15:33:39.339Z"
-    },
-    {
-      "id": "0hQbovQO5Cui5Imze8Q3oo",
-      "name": "Voce E Linda - Remixed Original Album",
-      "url": "https://open.spotify.com/track/0hQbovQO5Cui5Imze8Q3oo",
-      "artists": [
-        {
-          "id": "7HGNYPmbDrMkylWqeFCOIQ",
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "album": {
-        "name": "Uns",
-        "image": "https://i.scdn.co/image/ab67616d0000b273212298c62a17891ea62d0b49"
-      },
-      "duration_ms": 292306,
-      "played_at": "2026-08-07T15:27:57.020Z"
-    },
-    {
-      "id": "5R2ZDKN9EOQxg2ApKCfTYh",
-      "name": "Vapor Barato (feat. Zeca Baleiro)",
-      "url": "https://open.spotify.com/track/5R2ZDKN9EOQxg2ApKCfTYh",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        },
-        {
-          "id": "7LunbFWIm3RPQpywjOSSd8",
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "album": {
-        "name": "Maxximum - Gal Costa",
-        "image": "https://i.scdn.co/image/ab67616d0000b27331c424f2020012097bff0fc7"
-      },
-      "duration_ms": 411733,
-      "played_at": "2026-08-07T10:02:23.363Z"
-    },
-    {
-      "id": "215mQEOW8ddILFNINNd9YI",
-      "name": "Maria, Maria",
-      "url": "https://open.spotify.com/track/215mQEOW8ddILFNINNd9YI",
-      "artists": [
-        {
-          "id": "0yFvXd36g5sNKYDi0Kkvl8",
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "album": {
-        "name": "Elis Por Ela",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736c478a7442fbce2cb88dd4c3"
-      },
-      "duration_ms": 164266,
-      "played_at": "2026-08-07T08:31:47.187Z"
-    },
-    {
-      "id": "4hwFMMi701tLeLw9ws4Qhx",
-      "name": "Coisa Banho de Mar",
-      "url": "https://open.spotify.com/track/4hwFMMi701tLeLw9ws4Qhx",
-      "artists": [
-        {
-          "id": "4U1VRNe8VwcTAA6ShGyuke",
-          "name": "Letrux",
-          "url": "https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke"
-        }
-      ],
-      "album": {
-        "name": "Letrux em Noite de Climão",
-        "image": "https://i.scdn.co/image/ab67616d0000b273923cbb29a7bbedccd723576b"
-      },
-      "duration_ms": 264930,
-      "played_at": "2026-08-07T08:29:11.855Z"
-    },
-    {
-      "id": "7tkka2fYf1erIg8wy8r9Lt",
-      "name": "Beija Eu",
-      "url": "https://open.spotify.com/track/7tkka2fYf1erIg8wy8r9Lt",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Mais",
-        "image": "https://i.scdn.co/image/ab67616d0000b273892f2051533befd8a3cad534"
-      },
-      "duration_ms": 194040,
-      "played_at": "2026-08-07T08:24:55.939Z"
-    },
-    {
-      "id": "5mc6JZRS6t9X6TJWtowFab",
-      "name": "Sem Nome, Mas Com Endereço",
-      "url": "https://open.spotify.com/track/5mc6JZRS6t9X6TJWtowFab",
-      "artists": [
-        {
-          "id": "5ZtyHkAGvYFPSYcWPfmL5n",
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "id": "7v5Y5Ua4GZTLrbYUUfK9Hi",
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        },
-        {
-          "id": "2O6q06oNcmOIPg1qidSU3C",
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "album": {
-        "name": "Remonta",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738835438b708b633c54f6786d"
-      },
-      "duration_ms": 268931,
-      "played_at": "2026-08-07T08:21:50.891Z"
-    },
-    {
-      "id": "3H8LiTvcRDARbWZVmwznRI",
-      "name": "De Amor Eu Morrerei",
-      "url": "https://open.spotify.com/track/3H8LiTvcRDARbWZVmwznRI",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "Obras-Primas",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734a275c43b2f5e29877e249b0"
-      },
-      "duration_ms": 227146,
-      "played_at": "2026-08-07T08:17:30.993Z"
-    },
-    {
-      "id": "0KzNwN043l8Y1vkINLpBL7",
-      "name": "Na hora do almoço",
-      "url": "https://open.spotify.com/track/0KzNwN043l8Y1vkINLpBL7",
-      "artists": [
-        {
-          "id": "0C8HhyOa7zfzIl3gmPjY52",
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "album": {
-        "name": "Belchior",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731ce4a8ed6cb2cedb7dceefea"
-      },
-      "duration_ms": 151739,
-      "played_at": "2026-08-07T08:13:52.809Z"
-    },
-    {
-      "id": "25ekOd3tku7iJGFHcCT9T1",
-      "name": "Uma Quase Mulher",
-      "url": "https://open.spotify.com/track/25ekOd3tku7iJGFHcCT9T1",
-      "artists": [
-        {
-          "id": "0ttwBh6o5To3XujSD4x3uA",
-          "name": "Sérgio Sampaio",
-          "url": "https://open.spotify.com/artist/0ttwBh6o5To3XujSD4x3uA"
-        }
-      ],
-      "album": {
-        "name": "Cruel",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738fb4ec431bf91ee500671013"
-      },
-      "duration_ms": 181185,
-      "played_at": "2026-08-07T08:11:30.081Z"
-    },
-    {
-      "id": "6eY4CzQWRgDKL6Q4Xxs7vB",
-      "name": "É Você - Ao Vivo",
-      "url": "https://open.spotify.com/track/6eY4CzQWRgDKL6Q4Xxs7vB",
-      "artists": [
-        {
-          "id": "4laQz4PaKeh2Hu6QL6evVD",
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "album": {
-        "name": "Tribalistas (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c6e0e48f93b9cc97343eb801"
-      },
-      "duration_ms": 193499,
-      "played_at": "2026-08-07T08:08:37.898Z"
-    },
-    {
-      "id": "0wjlJ3GCJPCuIV15g2WnaC",
-      "name": "O Que Me Importa - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/0wjlJ3GCJPCuIV15g2WnaC",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Memórias, Crônicas e Declarações de Amor",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b8b0cd2aba0baaf566bcd625"
-      },
-      "duration_ms": 201493,
-      "played_at": "2026-08-07T08:05:33.406Z"
-    },
-    {
-      "id": "63hnaSGfoMIsikV5hiUeH9",
-      "name": "Alguém Me Disse",
-      "url": "https://open.spotify.com/track/63hnaSGfoMIsikV5hiUeH9",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "Plural",
-        "image": "https://i.scdn.co/image/ab67616d0000b273162b3d1e69d94ac5f8e8be13"
-      },
-      "duration_ms": 226493,
-      "played_at": "2026-08-07T08:02:20.950Z"
-    },
-    {
-      "id": "4GoiD3z9pafgfAZgRi1h2o",
-      "name": "Vestido vermelho",
-      "url": "https://open.spotify.com/track/4GoiD3z9pafgfAZgRi1h2o",
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
       "artists": [
         {
           "id": "1i2xi8v7H0aXgMNZcOaYzB",
@@ -1159,108 +550,13 @@
         "name": "Prét-A-Porter",
         "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
       },
-      "duration_ms": 244160,
-      "played_at": "2026-08-07T07:58:43.499Z"
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:44:55.600Z"
     },
     {
-      "id": "5scGvEhNqShhwq8lZWciZb",
-      "name": "Paralelas",
-      "url": "https://open.spotify.com/track/5scGvEhNqShhwq8lZWciZb",
-      "artists": [
-        {
-          "id": "0C8HhyOa7zfzIl3gmPjY52",
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "album": {
-        "name": "Coração selvagem (1977)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737c9bb9fe16c20db24ab644f3"
-      },
-      "duration_ms": 258200,
-      "played_at": "2026-08-07T07:54:48.258Z"
-    },
-    {
-      "id": "0mfThM8aCMszXntfvBTbwd",
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/0mfThM8aCMszXntfvBTbwd",
-      "artists": [
-        {
-          "id": "21LI2q2QDyaNjyfXaWWTOE",
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        },
-        {
-          "id": "1TqENBMGiIRbO5A0Rhc0za",
-          "name": "Laura Lavieri",
-          "url": "https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za"
-        }
-      ],
-      "album": {
-        "name": "Feito pra Acabar",
-        "image": "https://i.scdn.co/image/ab67616d0000b273175e83829b2ff84adebeb88c"
-      },
-      "duration_ms": 252608,
-      "played_at": "2026-08-07T07:50:39.096Z"
-    },
-    {
-      "id": "2yQb1Li08Y3S4w6blh2d4K",
-      "name": "Você Bem Sabe",
-      "url": "https://open.spotify.com/track/2yQb1Li08Y3S4w6blh2d4K",
-      "artists": [
-        {
-          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "album": {
-        "name": "Djavan",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325b58a31f35a0878c3254a23"
-      },
-      "duration_ms": 192626,
-      "played_at": "2026-08-07T07:46:35.503Z"
-    },
-    {
-      "id": "65b0deZ0dZxyVEihUg0lJo",
-      "name": "Dê um Rolê - Ao Vivo",
-      "url": "https://open.spotify.com/track/65b0deZ0dZxyVEihUg0lJo",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
-      },
-      "duration_ms": 285092,
-      "played_at": "2026-08-07T07:43:31.909Z"
-    },
-    {
-      "id": "372rx8AKjuyr3WZzJGum6X",
-      "name": "A Primeira Pedra",
-      "url": "https://open.spotify.com/track/372rx8AKjuyr3WZzJGum6X",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Infinito Particular",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b944f430d0489ae7c6a1fd02"
-      },
-      "duration_ms": 174906,
-      "played_at": "2026-08-07T07:38:55.806Z"
-    },
-    {
-      "id": "5vqMnefAglXTstkrKsgaCN",
-      "name": "Magnético",
-      "url": "https://open.spotify.com/track/5vqMnefAglXTstkrKsgaCN",
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
       "artists": [
         {
           "id": "1i2xi8v7H0aXgMNZcOaYzB",
@@ -1272,175 +568,13 @@
         "name": "Prét-A-Porter",
         "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
       },
-      "duration_ms": 241760,
-      "played_at": "2026-08-07T07:36:09.887Z"
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:41:12.298Z"
     },
     {
-      "id": "3rwduIZV035Mj9czplinaL",
-      "name": "Divina Comédia Humana",
-      "url": "https://open.spotify.com/track/3rwduIZV035Mj9czplinaL",
-      "artists": [
-        {
-          "id": "0C8HhyOa7zfzIl3gmPjY52",
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "album": {
-        "name": "Divina Comédia Humana",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d061206583f9a5bf99369070"
-      },
-      "duration_ms": 325400,
-      "played_at": "2026-08-07T07:32:17.109Z"
-    },
-    {
-      "id": "1mddBlCzFhX7EHGhfYj3Oq",
-      "name": "Que Se Chama Amor",
-      "url": "https://open.spotify.com/track/1mddBlCzFhX7EHGhfYj3Oq",
-      "artists": [
-        {
-          "id": "0L8NDdn0V7vaqvUyibKLmq",
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "album": {
-        "name": "Impossível Dizer Que Não Senti",
-        "image": "https://i.scdn.co/image/ab67616d0000b27385a68849fc5cbae90a3608e2"
-      },
-      "duration_ms": 215322,
-      "played_at": "2026-08-07T07:27:00.712Z"
-    },
-    {
-      "id": "5qmN95wAndpjAiah5pRp4T",
-      "name": "Tigresa",
-      "url": "https://open.spotify.com/track/5qmN95wAndpjAiah5pRp4T",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "Caras E Bocas",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a5e485e18fcfb94b91967ad8"
-      },
-      "duration_ms": 254133,
-      "played_at": "2026-08-07T07:23:34.410Z"
-    },
-    {
-      "id": "21ekEMTpTFlGloXy3uMXbd",
-      "name": "Pensando Em Você - Ao Vivo",
-      "url": "https://open.spotify.com/track/21ekEMTpTFlGloXy3uMXbd",
-      "artists": [
-        {
-          "id": "50sWvKw2zsmX9lmcPWmJaT",
-          "name": "Paulinho Moska",
-          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
-        }
-      ],
-      "album": {
-        "name": "+ Novo de Novo (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739a855237e6f12e544a45b7bb"
-      },
-      "duration_ms": 196706,
-      "played_at": "2026-08-07T07:19:29.311Z"
-    },
-    {
-      "id": "66P7pLyDxR2vhntX11Eg15",
-      "name": "Esqueça",
-      "url": "https://open.spotify.com/track/66P7pLyDxR2vhntX11Eg15",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Coleção",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5f9d12436a969f0d35a2bf3"
-      },
-      "duration_ms": 196087,
-      "played_at": "2026-08-07T07:16:21.598Z"
-    },
-    {
-      "id": "5ayMrwnzBZ9QanL2M9A5Ey",
-      "name": "Me Chamando de Paixão",
-      "url": "https://open.spotify.com/track/5ayMrwnzBZ9QanL2M9A5Ey",
-      "artists": [
-        {
-          "id": "5JYtpnUKxAzXfHEYpOeeit",
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "album": {
-        "name": "Sonsual",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737e26fd74eaa79abd6182f21b"
-      },
-      "duration_ms": 199826,
-      "played_at": "2026-08-07T07:13:14.515Z"
-    },
-    {
-      "id": "1JJmTnCPoA2crDNG9rTzSf",
-      "name": "Todo sujo de batom",
-      "url": "https://open.spotify.com/track/1JJmTnCPoA2crDNG9rTzSf",
-      "artists": [
-        {
-          "id": "0C8HhyOa7zfzIl3gmPjY52",
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "album": {
-        "name": "Coração selvagem (1977)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737c9bb9fe16c20db24ab644f3"
-      },
-      "duration_ms": 258680,
-      "played_at": "2026-08-07T07:10:03.700Z"
-    },
-    {
-      "id": "6XI11w7TevAE1nXwl0gI0f",
-      "name": "O Que É Que Há - Ao Vivo",
-      "url": "https://open.spotify.com/track/6XI11w7TevAE1nXwl0gI0f",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "A Pele do Futuro Ao Vivo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
-      },
-      "duration_ms": 229804,
-      "played_at": "2026-08-07T07:05:54.017Z"
-    },
-    {
-      "id": "2MddJi3XeknnPQ0cyfLLIA",
-      "name": "Drão",
-      "url": "https://open.spotify.com/track/2MddJi3XeknnPQ0cyfLLIA",
-      "artists": [
-        {
-          "id": "7oEkUINVIj1Nr3Wnj8tzqr",
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "album": {
-        "name": "Um banda um",
-        "image": "https://i.scdn.co/image/ab67616d0000b273369d09bf4a3e24e2fb38e598"
-      },
-      "duration_ms": 196306,
-      "played_at": "2026-08-07T07:02:13.198Z"
-    },
-    {
-      "id": "6scmJKmMBlgIpa0ZplmY3Y",
-      "name": "Cinco horas",
-      "url": "https://open.spotify.com/track/6scmJKmMBlgIpa0ZplmY3Y",
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
       "artists": [
         {
           "id": "1i2xi8v7H0aXgMNZcOaYzB",
@@ -1452,8 +586,854 @@
         "name": "Prét-A-Porter",
         "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
       },
-      "duration_ms": 248160,
-      "played_at": "2026-08-07T06:59:05.862Z"
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:37:28.907Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:33:45.507Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:30:02.110Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:26:18.757Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:22:35.354Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:18:52.141Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:15:08.645Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:11:25.191Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:07:41.842Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:03:58.443Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T06:00:02.098Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:56:18.697Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:52:35.333Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:48:51.928Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:45:08.520Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:41:25.073Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:37:41.774Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:33:58.392Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:30:14.999Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:26:31.575Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:22:48.196Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:19:04.797Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:15:21.440Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:11:38.098Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:07:54.735Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:04:11.252Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T05:00:27.910Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:56:44.518Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:53:01.121Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:49:17.744Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:45:34.425Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:41:50.972Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:38:07.628Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:34:24.223Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:30:40.908Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:26:57.525Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:23:14.053Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:19:30.691Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:15:47.327Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:12:03.905Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:08:20.529Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:04:37.229Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T04:00:53.827Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T03:57:10.429Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T03:53:27.029Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T03:49:43.627Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T03:46:00.220Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-09T03:42:16.930Z"
     }
   ]
 }
