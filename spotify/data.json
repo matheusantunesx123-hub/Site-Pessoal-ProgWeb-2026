@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10T07:22:31.576417+00:00",
+  "updated_at": "2026-08-10T12:56:33.519493+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -535,6 +535,60 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "6Zv4HVHfadVo3JQSSbwY7r",
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r",
+      "artists": [
+        {
+          "id": "7Brxri4l1ATShikyHXsEr6",
+          "name": "Los Hermanos",
+          "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
+        }
+      ],
+      "album": {
+        "name": "Bloco Do Eu Sozinho",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739a9b702689f4df55273ec029"
+      },
+      "duration_ms": 310093,
+      "played_at": "2026-08-10T11:52:56.200Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-08-10T11:47:55.096Z"
+    },
+    {
+      "id": "3gojFWZfp7TXkLZyKFHmSA",
+      "name": "Motor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gojFWZfp7TXkLZyKFHmSA",
+      "artists": [
+        {
+          "id": "1b8kpp4DUwt1hWaxTiWQhD",
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
+      },
+      "duration_ms": 262424,
+      "played_at": "2026-08-10T11:44:11.660Z"
+    },
     {
       "id": "29zEnzrQ7pZxD5wmTkgtV9",
       "name": "Back To Bad",
@@ -1440,60 +1494,6 @@
       },
       "duration_ms": 232386,
       "played_at": "2026-08-09T08:25:26.957Z"
-    },
-    {
-      "id": "6bUrD4iFmsTFzoC95PLTk7",
-      "name": "Espelhos d'água",
-      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
-      "artists": [
-        {
-          "id": "1i2xi8v7H0aXgMNZcOaYzB",
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "album": {
-        "name": "Prét-A-Porter",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
-      },
-      "duration_ms": 232386,
-      "played_at": "2026-08-09T08:21:43.562Z"
-    },
-    {
-      "id": "6bUrD4iFmsTFzoC95PLTk7",
-      "name": "Espelhos d'água",
-      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
-      "artists": [
-        {
-          "id": "1i2xi8v7H0aXgMNZcOaYzB",
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "album": {
-        "name": "Prét-A-Porter",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
-      },
-      "duration_ms": 232386,
-      "played_at": "2026-08-09T08:18:00.245Z"
-    },
-    {
-      "id": "6bUrD4iFmsTFzoC95PLTk7",
-      "name": "Espelhos d'água",
-      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
-      "artists": [
-        {
-          "id": "1i2xi8v7H0aXgMNZcOaYzB",
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "album": {
-        "name": "Prét-A-Porter",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
-      },
-      "duration_ms": 232386,
-      "played_at": "2026-08-09T08:14:16.854Z"
     }
   ]
 }
