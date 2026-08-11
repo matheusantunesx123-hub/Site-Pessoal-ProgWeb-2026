@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T06:58:16.796401+00:00",
+  "updated_at": "2026-08-11T12:52:50.401052+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -535,6 +535,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0r4GPkgHNBgqSJNLBUpQHh",
+      "name": "Recomeçar",
+      "url": "https://open.spotify.com/track/0r4GPkgHNBgqSJNLBUpQHh",
+      "artists": [
+        {
+          "id": "5SVFuUaS3BKAdJs6I8rVa4",
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "album": {
+        "name": "Recomeçar",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2e47f761c130b212bd2f3b8"
+      },
+      "duration_ms": 235442,
+      "played_at": "2026-08-11T07:43:46.132Z"
+    },
     {
       "id": "7uQxtUlTW9CTfCIDkR2yv1",
       "name": "Esquadros",
@@ -1431,24 +1449,6 @@
       },
       "duration_ms": 203333,
       "played_at": "2026-08-11T03:41:44.244Z"
-    },
-    {
-      "id": "7ufO0ROFQ6BwSMPx5LuW4e",
-      "name": "Infinito Particular",
-      "url": "https://open.spotify.com/track/7ufO0ROFQ6BwSMPx5LuW4e",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Infinito Particular",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b944f430d0489ae7c6a1fd02"
-      },
-      "duration_ms": 251693,
-      "played_at": "2026-08-11T03:38:20.945Z"
     }
   ]
 }
