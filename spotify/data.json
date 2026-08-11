@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T12:52:50.401052+00:00",
+  "updated_at": "2026-08-11T18:55:40.789892+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -62,16 +62,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e3285f3148b331b0f3b8040"
     },
     {
-      "id": "3qm84nBOXUEQ2vnTfUTTFC",
-      "name": "Guns N' Roses",
-      "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c"
-    },
-    {
       "id": "3f5VCwd57gZsqMad28jyLV",
       "name": "Maria Bethânia",
       "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV",
       "image": "https://i.scdn.co/image/ab6761610000e5eb6dd0de52c3b1a36a6400eb6d"
+    },
+    {
+      "id": "3qm84nBOXUEQ2vnTfUTTFC",
+      "name": "Guns N' Roses",
+      "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c"
     },
     {
       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
@@ -535,6 +535,192 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "6sGULM32w31Kq0GiO71HOl",
+      "name": "MEGATRON",
+      "url": "https://open.spotify.com/track/6sGULM32w31Kq0GiO71HOl",
+      "artists": [
+        {
+          "id": "2M0BRHVrzJ5y20huTCzMJu",
+          "name": "Irmãs de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "id": "0YYrMvekr8APmc9sIbIpx3",
+          "name": "CyberKills",
+          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+        }
+      ],
+      "album": {
+        "name": "Gambiarra Chic, Pt. 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a780cf8bd00b62c81a8f595a"
+      },
+      "duration_ms": 180428,
+      "played_at": "2026-08-11T18:54:02.604Z"
+    },
+    {
+      "id": "5bJxFYztEjgWrIN7w3zhcF",
+      "name": "Fuso",
+      "url": "https://open.spotify.com/track/5bJxFYztEjgWrIN7w3zhcF",
+      "artists": [
+        {
+          "id": "1JlC6XG7lkwT6GzgQB9xOx",
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "id": "6dHnnLJitCxdFTt9QmSQ8G",
+          "name": "Go Dassisti",
+          "url": "https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G"
+        }
+      ],
+      "album": {
+        "name": "SIX.",
+        "image": "https://i.scdn.co/image/ab67616d0000b273862efcc2a1558cd0016e4e5d"
+      },
+      "duration_ms": 114645,
+      "played_at": "2026-08-11T18:50:19.986Z"
+    },
+    {
+      "id": "0J04fTkB0VXZXWzsIK8gKn",
+      "name": "Somos Amigas",
+      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Edição Completa)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+      },
+      "duration_ms": 152389,
+      "played_at": "2026-08-11T18:48:34.417Z"
+    },
+    {
+      "id": "3HiBLTcFTY58Csk7BCkIGO",
+      "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+      "url": "https://open.spotify.com/track/3HiBLTcFTY58Csk7BCkIGO",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "id": "0J4DHkFbIhACgOkPFvWl9Y",
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "5W0yWqP7U3b2Y89gSgR9OD",
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f4becaa242c2600d970637e6"
+      },
+      "duration_ms": 209142,
+      "played_at": "2026-08-11T18:41:57.141Z"
+    },
+    {
+      "id": "53mayywrzfO7gVzTgobb8E",
+      "name": "Rola Grossa, Que Gostosa!",
+      "url": "https://open.spotify.com/track/53mayywrzfO7gVzTgobb8E",
+      "artists": [
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "id": "058LwSlFHb689Oywervu0j",
+          "name": "Frimes",
+          "url": "https://open.spotify.com/artist/058LwSlFHb689Oywervu0j"
+        },
+        {
+          "id": "3EyGhcFA4SvnSkgDACAYot",
+          "name": "FKOFF1963",
+          "url": "https://open.spotify.com/artist/3EyGhcFA4SvnSkgDACAYot"
+        }
+      ],
+      "album": {
+        "name": "Rola Grossa, Que Gostosa!",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c389d88a572ca262125676a3"
+      },
+      "duration_ms": 176470,
+      "played_at": "2026-08-11T18:38:36.988Z"
+    },
+    {
+      "id": "048VGsQtCmQ0AXYJpIxuRJ",
+      "name": "CHACINA",
+      "url": "https://open.spotify.com/track/048VGsQtCmQ0AXYJpIxuRJ",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "2M0BRHVrzJ5y20huTCzMJu",
+          "name": "Irmãs de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736a5fc859fee7a2eea9890bcf"
+      },
+      "duration_ms": 203555,
+      "played_at": "2026-08-11T18:35:43.954Z"
+    },
+    {
+      "id": "49aHfgQ6S4d1oYAamHEzlq",
+      "name": "Melô de ilusão",
+      "url": "https://open.spotify.com/track/49aHfgQ6S4d1oYAamHEzlq",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 232560,
+      "played_at": "2026-08-11T18:26:35.350Z"
+    },
     {
       "id": "0r4GPkgHNBgqSJNLBUpQHh",
       "name": "Recomeçar",
@@ -1323,132 +1509,6 @@
       },
       "duration_ms": 191702,
       "played_at": "2026-08-11T04:06:36.725Z"
-    },
-    {
-      "id": "5RKHT0lTqrfJqR8nidSvbn",
-      "name": "Sua Estupidez",
-      "url": "https://open.spotify.com/track/5RKHT0lTqrfJqR8nidSvbn",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "Divina, Maravilhosa",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ef6b83effb570a23c3f812dc"
-      },
-      "duration_ms": 206533,
-      "played_at": "2026-08-11T04:03:24.856Z"
-    },
-    {
-      "id": "7IsUsMa9T63GIg9Uv0dUX2",
-      "name": "Folhetim",
-      "url": "https://open.spotify.com/track/7IsUsMa9T63GIg9Uv0dUX2",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "Agua Viva",
-        "image": "https://i.scdn.co/image/ab67616d0000b273885feff7b5d469d4051d1ee2"
-      },
-      "duration_ms": 210000,
-      "played_at": "2026-08-11T03:59:58.245Z"
-    },
-    {
-      "id": "2DREhftHdD8pRmNdSs6nyF",
-      "name": "Sangue latino",
-      "url": "https://open.spotify.com/track/2DREhftHdD8pRmNdSs6nyF",
-      "artists": [
-        {
-          "id": "4EKJxXaAZapG14Q5FTZoxm",
-          "name": "Secos & Molhados",
-          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
-        }
-      ],
-      "album": {
-        "name": "A volta de Secos & Molhados",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739f0e7b0974da507e8289db25"
-      },
-      "duration_ms": 128000,
-      "played_at": "2026-08-11T03:56:28.238Z"
-    },
-    {
-      "id": "3UetIF4P07FHt2TYUl0K7Z",
-      "name": "Segredo",
-      "url": "https://open.spotify.com/track/3UetIF4P07FHt2TYUl0K7Z",
-      "artists": [
-        {
-          "id": "52GmrK0buOOvHo7Kk20O4U",
-          "name": "Zé Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
-        }
-      ],
-      "album": {
-        "name": "AFIM",
-        "image": "https://i.scdn.co/image/ab67616d0000b273632c4515f7561402ed388b84"
-      },
-      "duration_ms": 265750,
-      "played_at": "2026-08-11T03:54:20.372Z"
-    },
-    {
-      "id": "0ghVM7aQqTeA4QkfsZnQvJ",
-      "name": "Vive",
-      "url": "https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ",
-      "artists": [
-        {
-          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "album": {
-        "name": "Rua dos Amores",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736cce8e319f857f9470096138"
-      },
-      "duration_ms": 322266,
-      "played_at": "2026-08-11T03:49:54.592Z"
-    },
-    {
-      "id": "3wiN3YodUt5uIAAuVLBvdS",
-      "name": "Atrás Da Porta",
-      "url": "https://open.spotify.com/track/3wiN3YodUt5uIAAuVLBvdS",
-      "artists": [
-        {
-          "id": "0yFvXd36g5sNKYDi0Kkvl8",
-          "name": "Elis Regina",
-          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
-        }
-      ],
-      "album": {
-        "name": "Elis",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733fadbe3cdd5f652a804b81ab"
-      },
-      "duration_ms": 168093,
-      "played_at": "2026-08-11T03:44:32.333Z"
-    },
-    {
-      "id": "72sdbHdX0G0WqDQDtxRfbI",
-      "name": "O Mundo É Um Moinho - Live",
-      "url": "https://open.spotify.com/track/72sdbHdX0G0WqDQDtxRfbI",
-      "artists": [
-        {
-          "id": "1PwOU6fFbmaGkK3wkbb8fU",
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "album": {
-        "name": "I Love MPB - O Nosso Amor A Gente Inventa",
-        "image": "https://i.scdn.co/image/ab67616d0000b27393649d894cf0183a1db063bb"
-      },
-      "duration_ms": 203333,
-      "played_at": "2026-08-11T03:41:44.244Z"
     }
   ]
 }
