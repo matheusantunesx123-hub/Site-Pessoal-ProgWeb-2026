@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12T07:17:35.617172+00:00",
+  "updated_at": "2026-08-12T12:57:47.798505+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -535,6 +535,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0oxYB9GoOIDrdzniNdKC44",
+      "name": "When the Sun Hits",
+      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
+      "artists": [
+        {
+          "id": "72X6FHxaShda0XeQw3vbeF",
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "album": {
+        "name": "Souvlaki",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41"
+      },
+      "duration_ms": 285906,
+      "played_at": "2026-08-12T10:03:38.150Z"
+    },
     {
       "id": "3NM41PVVUr0ceootKAtkAj",
       "name": "As the World Caves In",
@@ -1491,29 +1509,6 @@
       },
       "duration_ms": 125538,
       "played_at": "2026-08-11T19:15:28.836Z"
-    },
-    {
-      "id": "6uOK37bqCAcndrqwhxxcTd",
-      "name": "FUDER CHAPADA",
-      "url": "https://open.spotify.com/track/6uOK37bqCAcndrqwhxxcTd",
-      "artists": [
-        {
-          "id": "2TGtBMeVz0MkIATkn2gHhe",
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
-        },
-        {
-          "id": "0HeSaJ2OiMF7ZpdKTkTZF1",
-          "name": "Iasmin Turbininha",
-          "url": "https://open.spotify.com/artist/0HeSaJ2OiMF7ZpdKTkTZF1"
-        }
-      ],
-      "album": {
-        "name": "SEXTAPE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b989a876667811aa48c1b63d"
-      },
-      "duration_ms": 140903,
-      "played_at": "2026-08-11T19:13:32.266Z"
     }
   ]
 }
