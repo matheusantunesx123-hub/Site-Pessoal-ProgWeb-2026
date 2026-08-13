@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T01:27:54.360667+00:00",
+  "updated_at": "2026-08-13T07:19:03.070269+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -180,23 +180,6 @@
       "duration_ms": 295346
     },
     {
-      "id": "0lWfavNNZv6eYAvNlJjIfz",
-      "name": "Fire In My Heart",
-      "url": "https://open.spotify.com/track/0lWfavNNZv6eYAvNlJjIfz",
-      "artists": [
-        {
-          "id": "1xSJPHGAj5EOrbeUCbbUD9",
-          "name": "Escape from New York",
-          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
-        }
-      ],
-      "album": {
-        "name": "Fire in My Heart",
-        "image": "https://i.scdn.co/image/ab67616d0000b27375fd9ec7678af2ee912b4b66"
-      },
-      "duration_ms": 313638
-    },
-    {
       "id": "1JkLTSDz8bKt9IRub0T8Ty",
       "name": "Magnata",
       "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
@@ -212,6 +195,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
       },
       "duration_ms": 105442
+    },
+    {
+      "id": "0lWfavNNZv6eYAvNlJjIfz",
+      "name": "Fire In My Heart",
+      "url": "https://open.spotify.com/track/0lWfavNNZv6eYAvNlJjIfz",
+      "artists": [
+        {
+          "id": "1xSJPHGAj5EOrbeUCbbUD9",
+          "name": "Escape from New York",
+          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
+        }
+      ],
+      "album": {
+        "name": "Fire in My Heart",
+        "image": "https://i.scdn.co/image/ab67616d0000b27375fd9ec7678af2ee912b4b66"
+      },
+      "duration_ms": 313638
     },
     {
       "id": "7bNgXJ9MgGG7xOkyz9SLOY",
@@ -434,6 +434,23 @@
       "duration_ms": 255946
     },
     {
+      "id": "0YrH15XcTh2Kf3re3yubZ5",
+      "name": "Metade Da Metade",
+      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 184659
+    },
+    {
       "id": "57wrj5gmY8aZA4YBmqfitc",
       "name": "Teto de Vidro",
       "url": "https://open.spotify.com/track/57wrj5gmY8aZA4YBmqfitc",
@@ -515,23 +532,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273e87ff33b18fb6fe39f9a7530"
       },
       "duration_ms": 294065
-    },
-    {
-      "id": "0WiMJIxYYEex2AqhRqzV3u",
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "This Old Dog",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
-      },
-      "duration_ms": 182306
     }
   ],
   "recently_played": [
