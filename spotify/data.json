@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T07:17:20.339883+00:00",
+  "updated_at": "2026-08-14T12:55:08.929405+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "played_at": "2026-08-14T10:04:42.924Z"
+    },
     {
       "id": "3lbJOjTodWzzMMOshsO8lF",
       "name": "Na Treta do CJ",
@@ -1651,24 +1669,6 @@
       },
       "duration_ms": 184659,
       "played_at": "2026-08-12T10:10:32.826Z"
-    },
-    {
-      "id": "0oxYB9GoOIDrdzniNdKC44",
-      "name": "When the Sun Hits",
-      "url": "https://open.spotify.com/track/0oxYB9GoOIDrdzniNdKC44",
-      "artists": [
-        {
-          "id": "72X6FHxaShda0XeQw3vbeF",
-          "name": "Slowdive",
-          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
-        }
-      ],
-      "album": {
-        "name": "Souvlaki",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f6e31941d10e4819d290af41"
-      },
-      "duration_ms": 285906,
-      "played_at": "2026-08-12T10:03:38.150Z"
     }
   ]
 }
