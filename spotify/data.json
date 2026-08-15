@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T06:29:28.411223+00:00",
+  "updated_at": "2026-08-15T12:27:29.336852+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -348,23 +348,6 @@
       "duration_ms": 310093
     },
     {
-      "id": "5Ctzx0mMiUPAu9JqbAOY9n",
-      "name": "Be Like a Woman",
-      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n",
-      "artists": [
-        {
-          "id": "0CnHF3fzueVi59nz8fdwcl",
-          "name": "Chris Rainbow",
-          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
-        }
-      ],
-      "album": {
-        "name": "White Trails (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5"
-      },
-      "duration_ms": 255946
-    },
-    {
       "id": "0YrH15XcTh2Kf3re3yubZ5",
       "name": "Metade Da Metade",
       "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
@@ -380,6 +363,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
       },
       "duration_ms": 184659
+    },
+    {
+      "id": "5Ctzx0mMiUPAu9JqbAOY9n",
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n",
+      "artists": [
+        {
+          "id": "0CnHF3fzueVi59nz8fdwcl",
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "album": {
+        "name": "White Trails (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5"
+      },
+      "duration_ms": 255946
     },
     {
       "id": "57wrj5gmY8aZA4YBmqfitc",
