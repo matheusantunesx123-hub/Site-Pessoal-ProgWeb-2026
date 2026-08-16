@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16T01:00:01.704773+00:00",
+  "updated_at": "2026-08-16T06:31:43.766383+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -265,6 +265,23 @@
       "duration_ms": 334373
     },
     {
+      "id": "2R5smAQVZCdyulSwDPYFeZ",
+      "name": "50 Meninas",
+      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 212693
+    },
+    {
       "id": "161dJFOgyuYcgKg0AzYuAh",
       "name": "Ela ké Leitada",
       "url": "https://open.spotify.com/track/161dJFOgyuYcgKg0AzYuAh",
@@ -295,23 +312,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2731398c63fa9c4935fe19a0aef"
       },
       "duration_ms": 156708
-    },
-    {
-      "id": "2R5smAQVZCdyulSwDPYFeZ",
-      "name": "50 Meninas",
-      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Te Amo Lá Fora",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
-      },
-      "duration_ms": 212693
     },
     {
       "id": "3oEkrIfXfSh9zGnE7eBzSV",
