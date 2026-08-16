@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T18:21:00.468257+00:00",
+  "updated_at": "2026-08-16T01:00:01.704773+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,114 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1V0G7UNW4SPThnc3o8RemS",
+      "name": "Nossa Geração",
+      "url": "https://open.spotify.com/track/1V0G7UNW4SPThnc3o8RemS",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Quando Deixamos Nossos Beijos na Esquina",
+        "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
+      },
+      "duration_ms": 259678,
+      "played_at": "2026-08-15T22:24:33.935Z"
+    },
+    {
+      "id": "02f6IAHYdlyDimpHpz2FHR",
+      "name": "Acontecimentos",
+      "url": "https://open.spotify.com/track/02f6IAHYdlyDimpHpz2FHR",
+      "artists": [
+        {
+          "id": "28IcRPf399RPv4TUiZ7uol",
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "album": {
+        "name": "Marina Lima",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730f9686786387fe33b29b83e6"
+      },
+      "duration_ms": 246400,
+      "played_at": "2026-08-15T21:19:47.679Z"
+    },
+    {
+      "id": "1V0G7UNW4SPThnc3o8RemS",
+      "name": "Nossa Geração",
+      "url": "https://open.spotify.com/track/1V0G7UNW4SPThnc3o8RemS",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Quando Deixamos Nossos Beijos na Esquina",
+        "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
+      },
+      "duration_ms": 259678,
+      "played_at": "2026-08-15T21:15:08.061Z"
+    },
+    {
+      "id": "2MMjeTLbuI7DCRepXYfdJe",
+      "name": "Back To Bad",
+      "url": "https://open.spotify.com/track/2MMjeTLbuI7DCRepXYfdJe",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Sinto Muito",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739f37b014317a3a62d298a6c7"
+      },
+      "duration_ms": 231539,
+      "played_at": "2026-08-15T21:10:30.149Z"
+    },
+    {
+      "id": "5Z0dcUQdxmmkTEtNueOoXz",
+      "name": "PREPARADA",
+      "url": "https://open.spotify.com/track/5Z0dcUQdxmmkTEtNueOoXz",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 143695,
+      "played_at": "2026-08-15T21:06:14.140Z"
+    },
+    {
+      "id": "2R5smAQVZCdyulSwDPYFeZ",
+      "name": "50 Meninas",
+      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 212693,
+      "played_at": "2026-08-15T21:03:50.405Z"
+    },
     {
       "id": "5weTYPqLyxPP2zqzoLWep3",
       "name": "Malandro TouchScreen",
@@ -1711,134 +1819,6 @@
       },
       "duration_ms": 237898,
       "played_at": "2026-08-13T21:06:19.951Z"
-    },
-    {
-      "id": "0aOf6Y8RLmBWIspDtHjxna",
-      "name": "SOLTO",
-      "url": "https://open.spotify.com/track/0aOf6Y8RLmBWIspDtHjxna",
-      "artists": [
-        {
-          "id": "204IwDdaHE4ymGk9Kya2pY",
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "id": "6UiNFle7UUqz6t9x8A6i0A",
-          "name": "Hot",
-          "url": "https://open.spotify.com/artist/6UiNFle7UUqz6t9x8A6i0A"
-        },
-        {
-          "id": "2PhFsxtwCQLS3e9SJwDN3j",
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        }
-      ],
-      "album": {
-        "name": "O MENINO QUE QUERIA SER DEUS",
-        "image": "https://i.scdn.co/image/ab67616d0000b273020dc36ab1c7e511a6f17734"
-      },
-      "duration_ms": 219178,
-      "played_at": "2026-08-13T21:00:59.804Z"
-    },
-    {
-      "id": "7yRlmQTjZ5pdtlq7ska9mj",
-      "name": "Artista Genérico",
-      "url": "https://open.spotify.com/track/7yRlmQTjZ5pdtlq7ska9mj",
-      "artists": [
-        {
-          "id": "4YqwRbMLqGHRHLS1w2ZKse",
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "id": "3prRKGJz16RRMRSIM97nHw",
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "album": {
-        "name": "Eu Venci o Mundo",
-        "image": "https://i.scdn.co/image/ab67616d0000b27385889b9e026c0c175d73c381"
-      },
-      "duration_ms": 150861,
-      "played_at": "2026-08-13T20:57:29.592Z"
-    },
-    {
-      "id": "50qnLA5HKWXs7hc4Qjw8m1",
-      "name": "Vá Com Deus",
-      "url": "https://open.spotify.com/track/50qnLA5HKWXs7hc4Qjw8m1",
-      "artists": [
-        {
-          "id": "57pVvBwa3ZCR9LsVlkLXj7",
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "album": {
-        "name": "Quando Deixamos Nossos Beijos na Esquina",
-        "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
-      },
-      "duration_ms": 207269,
-      "played_at": "2026-08-13T20:53:54.682Z"
-    },
-    {
-      "id": "2qcfKvkTopzpSOeLW9AvyM",
-      "name": "Fullgás",
-      "url": "https://open.spotify.com/track/2qcfKvkTopzpSOeLW9AvyM",
-      "artists": [
-        {
-          "id": "28IcRPf399RPv4TUiZ7uol",
-          "name": "Marina Lima",
-          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
-        }
-      ],
-      "album": {
-        "name": "Fullgás",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730c1b5f723452b5b2b7bc4ada"
-      },
-      "duration_ms": 247533,
-      "played_at": "2026-08-13T19:53:14.338Z"
-    },
-    {
-      "id": "1pBaOciKhiw5ByzwrjwwfO",
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/1pBaOciKhiw5ByzwrjwwfO",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "#1",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738e4ea37a937640d9cd773f4e"
-      },
-      "duration_ms": 267893,
-      "played_at": "2026-08-13T19:43:19.462Z"
-    },
-    {
-      "id": "0dUbrcYI7YE6Nmlp8x4GQj",
-      "name": "Quente e Colorido",
-      "url": "https://open.spotify.com/track/0dUbrcYI7YE6Nmlp8x4GQj",
-      "artists": [
-        {
-          "id": "5gWFbdcQOMRYz1cdCuBxWO",
-          "name": "Illy",
-          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
-        },
-        {
-          "id": "0nFdWpwl7h6fp3ADRyG14L",
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "album": {
-        "name": "O Que Me Cabe",
-        "image": "https://i.scdn.co/image/ab67616d0000b273715041be0b9e6745275aaa60"
-      },
-      "duration_ms": 227973,
-      "played_at": "2026-08-13T19:39:00.536Z"
     }
   ]
 }
