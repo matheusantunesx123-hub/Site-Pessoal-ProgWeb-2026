@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T00:58:04.491574+00:00",
+  "updated_at": "2026-08-17T06:43:08.437800+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,60 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "68WXIG8PyHuArBOOhSp6Wt",
+      "name": "Não Sei Dançar",
+      "url": "https://open.spotify.com/track/68WXIG8PyHuArBOOhSp6Wt",
+      "artists": [
+        {
+          "id": "28IcRPf399RPv4TUiZ7uol",
+          "name": "Marina Lima",
+          "url": "https://open.spotify.com/artist/28IcRPf399RPv4TUiZ7uol"
+        }
+      ],
+      "album": {
+        "name": "Marina Lima",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730f9686786387fe33b29b83e6"
+      },
+      "duration_ms": 305373,
+      "played_at": "2026-08-17T06:41:11.790Z"
+    },
+    {
+      "id": "6Zv4HVHfadVo3JQSSbwY7r",
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r",
+      "artists": [
+        {
+          "id": "7Brxri4l1ATShikyHXsEr6",
+          "name": "Los Hermanos",
+          "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
+        }
+      ],
+      "album": {
+        "name": "Bloco Do Eu Sozinho",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739a9b702689f4df55273ec029"
+      },
+      "duration_ms": 310093,
+      "played_at": "2026-08-17T06:36:06.358Z"
+    },
+    {
+      "id": "3gojFWZfp7TXkLZyKFHmSA",
+      "name": "Motor - Ao Vivo",
+      "url": "https://open.spotify.com/track/3gojFWZfp7TXkLZyKFHmSA",
+      "artists": [
+        {
+          "id": "1b8kpp4DUwt1hWaxTiWQhD",
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "album": {
+        "name": "A Pele do Futuro Ao Vivo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
+      },
+      "duration_ms": 262424,
+      "played_at": "2026-08-17T06:30:58.488Z"
+    },
     {
       "id": "0FRiKJad36zm8EY9RV5sfL",
       "name": "Tanto Faz - Live",
@@ -1660,100 +1714,6 @@
       },
       "duration_ms": 105442,
       "played_at": "2026-08-14T10:04:42.924Z"
-    },
-    {
-      "id": "3lbJOjTodWzzMMOshsO8lF",
-      "name": "Na Treta do CJ",
-      "url": "https://open.spotify.com/track/3lbJOjTodWzzMMOshsO8lF",
-      "artists": [
-        {
-          "id": "4fKJ81BAFxuwAFUI3B1BXM",
-          "name": "cjnobeat",
-          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
-        },
-        {
-          "id": "4RNE8Ro4jtQIn1wb3apo4L",
-          "name": "Mc Rose da Treta",
-          "url": "https://open.spotify.com/artist/4RNE8Ro4jtQIn1wb3apo4L"
-        }
-      ],
-      "album": {
-        "name": "Na Treta do CJ",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ef8cb2add108a95ecb55a8eb"
-      },
-      "duration_ms": 127384,
-      "played_at": "2026-08-13T23:13:06.228Z"
-    },
-    {
-      "id": "7qax5a35g3cSIDoCPkzZI8",
-      "name": "Joga Nele - Remix",
-      "url": "https://open.spotify.com/track/7qax5a35g3cSIDoCPkzZI8",
-      "artists": [
-        {
-          "id": "3XtuCcYVAgDABkXDLUk8BE",
-          "name": "MC Marcelly",
-          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
-        },
-        {
-          "id": "0fRzXMoiuuR3kQDr8aavt2",
-          "name": "DJ Ruan da VK",
-          "url": "https://open.spotify.com/artist/0fRzXMoiuuR3kQDr8aavt2"
-        },
-        {
-          "id": "70JVilt92BAThI767veckx",
-          "name": "D'BEATS",
-          "url": "https://open.spotify.com/artist/70JVilt92BAThI767veckx"
-        },
-        {
-          "id": "3H5shZe6q9nbTcliPDyBwg",
-          "name": "DJ NZR",
-          "url": "https://open.spotify.com/artist/3H5shZe6q9nbTcliPDyBwg"
-        }
-      ],
-      "album": {
-        "name": "Joga Nele (Remix)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273769d959c0292bae0d8f49f89"
-      },
-      "duration_ms": 109461,
-      "played_at": "2026-08-13T22:12:47.806Z"
-    },
-    {
-      "id": "3HiBLTcFTY58Csk7BCkIGO",
-      "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
-      "url": "https://open.spotify.com/track/3HiBLTcFTY58Csk7BCkIGO",
-      "artists": [
-        {
-          "id": "6424uJS5kZLTGL0pAW7e3J",
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
-        },
-        {
-          "id": "18d98atAsxwOOhHGF9Mhxb",
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "id": "0J4DHkFbIhACgOkPFvWl9Y",
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
-        },
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "id": "5W0yWqP7U3b2Y89gSgR9OD",
-          "name": "Lastra",
-          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
-        }
-      ],
-      "album": {
-        "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f4becaa242c2600d970637e6"
-      },
-      "duration_ms": 209142,
-      "played_at": "2026-08-13T22:09:47.238Z"
     }
   ]
 }
