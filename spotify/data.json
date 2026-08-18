@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T06:34:39.939256+00:00",
+  "updated_at": "2026-08-18T12:35:22.337931+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -490,6 +490,42 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "4SqWKzw0CbA05TGszDgMlc",
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc",
+      "artists": [
+        {
+          "id": "027TpXKGwdXP7iwbjUSpV8",
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "album": {
+        "name": "I Love You So",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a9ab24f62c01f4bd4a08571e"
+      },
+      "duration_ms": 160239,
+      "played_at": "2026-08-18T12:34:13.179Z"
+    },
+    {
+      "id": "0YrH15XcTh2Kf3re3yubZ5",
+      "name": "Metade Da Metade",
+      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 184659,
+      "played_at": "2026-08-18T10:56:40.008Z"
+    },
     {
       "id": "2qofYKO8OEGeDpUUqv7Lyy",
       "name": "MIDNIGHT SUN EXTREMO SUBMUNDO",
@@ -1503,42 +1539,6 @@
       },
       "duration_ms": 182625,
       "played_at": "2026-08-17T18:36:32.985Z"
-    },
-    {
-      "id": "0VezJrJkqmKMwo6JF6DS4a",
-      "name": "Amar-Te Mais",
-      "url": "https://open.spotify.com/track/0VezJrJkqmKMwo6JF6DS4a",
-      "artists": [
-        {
-          "id": "1sWAcwfPuIuEdS4dSTd3HR",
-          "name": "Davidson Silva",
-          "url": "https://open.spotify.com/artist/1sWAcwfPuIuEdS4dSTd3HR"
-        }
-      ],
-      "album": {
-        "name": "Tomé",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ba2c0f861c07736b7e0955a2"
-      },
-      "duration_ms": 259160,
-      "played_at": "2026-08-17T18:31:54.197Z"
-    },
-    {
-      "id": "3lVEY1I9bktKfXT2jxgYK5",
-      "name": "Águas De Um Mar Azul",
-      "url": "https://open.spotify.com/track/3lVEY1I9bktKfXT2jxgYK5",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 275669,
-      "played_at": "2026-08-17T18:29:14.163Z"
     }
   ]
 }
