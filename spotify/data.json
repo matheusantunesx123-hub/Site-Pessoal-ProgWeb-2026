@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T00:56:10.079019+00:00",
+  "updated_at": "2026-08-18T06:34:39.939256+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -265,6 +265,23 @@
       "duration_ms": 334373
     },
     {
+      "id": "0YrH15XcTh2Kf3re3yubZ5",
+      "name": "Metade Da Metade",
+      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 184659
+    },
+    {
       "id": "2R5smAQVZCdyulSwDPYFeZ",
       "name": "50 Meninas",
       "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
@@ -365,23 +382,6 @@
       "duration_ms": 262424
     },
     {
-      "id": "0YrH15XcTh2Kf3re3yubZ5",
-      "name": "Metade Da Metade",
-      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
-      "artists": [
-        {
-          "id": "0EGHYkXkJxZIcYUiAJUNOo",
-          "name": "Banda Magníficos",
-          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
-        }
-      ],
-      "album": {
-        "name": "Chamego Ou Xaveco?",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
-      },
-      "duration_ms": 184659
-    },
-    {
       "id": "5Ctzx0mMiUPAu9JqbAOY9n",
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n",
@@ -397,6 +397,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5"
       },
       "duration_ms": 255946
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387
     },
     {
       "id": "57wrj5gmY8aZA4YBmqfitc",
@@ -470,23 +487,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2"
       },
       "duration_ms": 194637
-    },
-    {
-      "id": "1hL4Ez8As4A4VJBw8X2eVA",
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 149387
     }
   ],
   "recently_played": [
