@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T00:56:42.599752+00:00",
+  "updated_at": "2026-08-20T06:37:15.111418+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -32,6 +32,12 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb1e911671efb2ed25cadadfe4"
     },
     {
+      "id": "0nFdWpwl7h6fp3ADRyG14L",
+      "name": "Marina Sena",
+      "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3285f3148b331b0f3b8040"
+    },
+    {
       "id": "6Kps94g1Npexh3LrinIOvC",
       "name": "Calcinha Preta",
       "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
@@ -54,12 +60,6 @@
       "name": "Mac DeMarco",
       "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d"
-    },
-    {
-      "id": "0nFdWpwl7h6fp3ADRyG14L",
-      "name": "Marina Sena",
-      "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3285f3148b331b0f3b8040"
     },
     {
       "id": "3f5VCwd57gZsqMad28jyLV",
@@ -490,6 +490,83 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1T9yLjCFIh5IcE2NXjNPjd",
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd",
+      "artists": [
+        {
+          "id": "3oDfBqnWBkgMSag02YYXHG",
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+          "name": "João Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273736ca1ef7935d87749d8f244"
+      },
+      "duration_ms": 154137,
+      "played_at": "2026-08-20T01:59:48.479Z"
+    },
+    {
+      "id": "70iK9fZYPTpxbpQ4ox8usx",
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/70iK9fZYPTpxbpQ4ox8usx",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191000,
+      "played_at": "2026-08-20T01:52:57.687Z"
+    },
+    {
+      "id": "70iK9fZYPTpxbpQ4ox8usx",
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/70iK9fZYPTpxbpQ4ox8usx",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191000,
+      "played_at": "2026-08-20T01:22:27.728Z"
+    },
+    {
+      "id": "54MW0MeBLyJeswM8w0LtR0",
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/54MW0MeBLyJeswM8w0LtR0",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 177650,
+      "played_at": "2026-08-20T00:58:52.363Z"
+    },
     {
       "id": "70iK9fZYPTpxbpQ4ox8usx",
       "name": "Seu Olhar",
@@ -1382,78 +1459,6 @@
       },
       "duration_ms": 236978,
       "played_at": "2026-08-18T20:51:57.158Z"
-    },
-    {
-      "id": "2ECKaCwZCqrlDWqJ07IZYW",
-      "name": "GAME",
-      "url": "https://open.spotify.com/track/2ECKaCwZCqrlDWqJ07IZYW",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Te Amo Lá Fora",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
-      },
-      "duration_ms": 203573,
-      "played_at": "2026-08-18T19:51:47.906Z"
-    },
-    {
-      "id": "57dVtT9QGyLku0R3nQhDjf",
-      "name": "DESAPAiXONAR",
-      "url": "https://open.spotify.com/track/57dVtT9QGyLku0R3nQhDjf",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 174047,
-      "played_at": "2026-08-18T19:43:10.438Z"
-    },
-    {
-      "id": "3YW3kj99qdMYp7LNpJ8Qao",
-      "name": "Bolo de Rolo",
-      "url": "https://open.spotify.com/track/3YW3kj99qdMYp7LNpJ8Qao",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Sinto Muito",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739f37b014317a3a62d298a6c7"
-      },
-      "duration_ms": 233661,
-      "played_at": "2026-08-18T19:39:18.672Z"
-    },
-    {
-      "id": "5DN7LROd7Tio5pG9PgFzj2",
-      "name": "Meu Pisêro",
-      "url": "https://open.spotify.com/track/5DN7LROd7Tio5pG9PgFzj2",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Te Amo Lá Fora",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
-      },
-      "duration_ms": 199813,
-      "played_at": "2026-08-18T19:38:29.412Z"
     }
   ]
 }
