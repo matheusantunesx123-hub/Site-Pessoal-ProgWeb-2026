@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T06:37:15.111418+00:00",
+  "updated_at": "2026-08-20T12:37:18.003794+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -490,6 +490,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "6Z0GSXbiH3vkzrtT0h7OZo",
+      "name": "EMBAIXO",
+      "url": "https://open.spotify.com/track/6Z0GSXbiH3vkzrtT0h7OZo",
+      "artists": [
+        {
+          "id": "59cjyEhOTYmvvJyWXzopOu",
+          "name": "GPhonk73",
+          "url": "https://open.spotify.com/artist/59cjyEhOTYmvvJyWXzopOu"
+        }
+      ],
+      "album": {
+        "name": "EMBAIXO!",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731964c1e061241a45083c0ba1"
+      },
+      "duration_ms": 86591,
+      "played_at": "2026-08-20T10:57:22.764Z"
+    },
     {
       "id": "1T9yLjCFIh5IcE2NXjNPjd",
       "name": "Idiota Raiz (Deixa Ir)",
@@ -1441,24 +1459,6 @@
       },
       "duration_ms": 200238,
       "played_at": "2026-08-18T20:57:17.606Z"
-    },
-    {
-      "id": "6J2mNzYGSE5jLzn1nFqDLj",
-      "name": "por aí mozão",
-      "url": "https://open.spotify.com/track/6J2mNzYGSE5jLzn1nFqDLj",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 236978,
-      "played_at": "2026-08-18T20:51:57.158Z"
     }
   ]
 }
