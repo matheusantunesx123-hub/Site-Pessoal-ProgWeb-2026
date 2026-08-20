@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T18:26:55.327583+00:00",
+  "updated_at": "2026-08-20T00:56:42.599752+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -490,6 +490,239 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "70iK9fZYPTpxbpQ4ox8usx",
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/70iK9fZYPTpxbpQ4ox8usx",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191000,
+      "played_at": "2026-08-20T00:55:12.485Z"
+    },
+    {
+      "id": "54FfJeZZvj6RMy7bI9SOMt",
+      "name": "Caninga",
+      "url": "https://open.spotify.com/track/54FfJeZZvj6RMy7bI9SOMt",
+      "artists": [
+        {
+          "id": "4MavQ0I0q9aAXj0mErfkqC",
+          "name": "Luísa e os Alquimistas",
+          "url": "https://open.spotify.com/artist/4MavQ0I0q9aAXj0mErfkqC"
+        },
+        {
+          "id": "5xA5rj8tUegPoax30Xs2uh",
+          "name": "Getúlio Abelha",
+          "url": "https://open.spotify.com/artist/5xA5rj8tUegPoax30Xs2uh"
+        },
+        {
+          "id": "7CsVgmYd9DmB7PiCm93Ccb",
+          "name": "LEOA",
+          "url": "https://open.spotify.com/artist/7CsVgmYd9DmB7PiCm93Ccb"
+        }
+      ],
+      "album": {
+        "name": "Caninga",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738fb6bb8e3e71b16587eabfe9"
+      },
+      "duration_ms": 158000,
+      "played_at": "2026-08-20T00:49:55.164Z"
+    },
+    {
+      "id": "4X2g1jxXbaudwnhJMv6sjt",
+      "name": "Deus",
+      "url": "https://open.spotify.com/track/4X2g1jxXbaudwnhJMv6sjt",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "37ZflmHTdxkSLQuT8w9NBs",
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 170931,
+      "played_at": "2026-08-20T00:47:17.180Z"
+    },
+    {
+      "id": "7Mu4XSS2eqoUUrWDkJjQJD",
+      "name": "NA TUA CABEÇA",
+      "url": "https://open.spotify.com/track/7Mu4XSS2eqoUUrWDkJjQJD",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 220381,
+      "played_at": "2026-08-20T00:44:26.364Z"
+    },
+    {
+      "id": "3fzWEhohdeEF6Z9aBrBCno",
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/3fzWEhohdeEF6Z9aBrBCno",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "0J4DHkFbIhACgOkPFvWl9Y",
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        },
+        {
+          "id": "5W0yWqP7U3b2Y89gSgR9OD",
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398b5432383db981563f8f2ba"
+      },
+      "duration_ms": 162964,
+      "played_at": "2026-08-20T00:40:45.911Z"
+    },
+    {
+      "id": "4T8ox558vnY7tCdWvdOhan",
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan",
+      "artists": [
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Batidão Tropical Vol. 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273eb3be2aa722f8170d5b8c80e"
+      },
+      "duration_ms": 144175,
+      "played_at": "2026-08-20T00:35:56.925Z"
+    },
+    {
+      "id": "7L1FuZqKXSKnpiBmyYt96B",
+      "name": "NiGHT MARé",
+      "url": "https://open.spotify.com/track/7L1FuZqKXSKnpiBmyYt96B",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 167774,
+      "played_at": "2026-08-20T00:33:32.919Z"
+    },
+    {
+      "id": "7nGGKB0KX7FojvyJ5DNrK3",
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 217916,
+      "played_at": "2026-08-20T00:30:44.958Z"
+    },
+    {
+      "id": "70iK9fZYPTpxbpQ4ox8usx",
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/70iK9fZYPTpxbpQ4ox8usx",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191000,
+      "played_at": "2026-08-20T00:25:08.287Z"
+    },
+    {
+      "id": "45HrnWjiqGgxg1woOUtt2d",
+      "name": "Etiópia",
+      "url": "https://open.spotify.com/track/45HrnWjiqGgxg1woOUtt2d",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 214730,
+      "played_at": "2026-08-20T00:19:28.054Z"
+    },
+    {
+      "id": "45HrnWjiqGgxg1woOUtt2d",
+      "name": "Etiópia",
+      "url": "https://open.spotify.com/track/45HrnWjiqGgxg1woOUtt2d",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 214730,
+      "played_at": "2026-08-20T00:15:56.484Z"
+    },
     {
       "id": "45HrnWjiqGgxg1woOUtt2d",
       "name": "Etiópia",
@@ -1221,209 +1454,6 @@
       },
       "duration_ms": 199813,
       "played_at": "2026-08-18T19:38:29.412Z"
-    },
-    {
-      "id": "7nGGKB0KX7FojvyJ5DNrK3",
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 217916,
-      "played_at": "2026-08-18T19:35:18.124Z"
-    },
-    {
-      "id": "3e0kjFMR5IFSSxOQMX7S5r",
-      "name": "Adoleta",
-      "url": "https://open.spotify.com/track/3e0kjFMR5IFSSxOQMX7S5r",
-      "artists": [
-        {
-          "id": "5g0Xoyr7uIlAYCkpgsFhJH",
-          "name": "Kelly Key",
-          "url": "https://open.spotify.com/artist/5g0Xoyr7uIlAYCkpgsFhJH"
-        }
-      ],
-      "album": {
-        "name": "Do Meu Jeito",
-        "image": "https://i.scdn.co/image/ab67616d0000b273afea956dde8b2ec3012e08b1"
-      },
-      "duration_ms": 273440,
-      "played_at": "2026-08-18T19:26:20.613Z"
-    },
-    {
-      "id": "31zNTOrPhG23A1qgEBufMZ",
-      "name": "Telefone - Ao Vivo",
-      "url": "https://open.spotify.com/track/31zNTOrPhG23A1qgEBufMZ",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        },
-        {
-          "id": "0NFJAW3QGhPDdZAuIMKT00",
-          "name": "DJ Juninho Portugal",
-          "url": "https://open.spotify.com/artist/0NFJAW3QGhPDdZAuIMKT00"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É o Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27360fddcb75845937ee44529ed"
-      },
-      "duration_ms": 251663,
-      "played_at": "2026-08-18T19:24:43.685Z"
-    },
-    {
-      "id": "0YBBfhk8M288EOJmVgUf7k",
-      "name": "Samara",
-      "url": "https://open.spotify.com/track/0YBBfhk8M288EOJmVgUf7k",
-      "artists": [
-        {
-          "id": "0ga39iuVvywmu57DDuLv10",
-          "name": "Forró Perfeito",
-          "url": "https://open.spotify.com/artist/0ga39iuVvywmu57DDuLv10"
-        }
-      ],
-      "album": {
-        "name": "Vai Doidão!",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738dbb1e04c437948fbd243976"
-      },
-      "duration_ms": 243106,
-      "played_at": "2026-08-18T19:20:32.013Z"
-    },
-    {
-      "id": "0RpAQUFX5VJW5YV2FYuUgp",
-      "name": "É Chamego Ou Xaveco?",
-      "url": "https://open.spotify.com/track/0RpAQUFX5VJW5YV2FYuUgp",
-      "artists": [
-        {
-          "id": "0EGHYkXkJxZIcYUiAJUNOo",
-          "name": "Banda Magníficos",
-          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
-        }
-      ],
-      "album": {
-        "name": "Chamego Ou Xaveco?",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
-      },
-      "duration_ms": 221178,
-      "played_at": "2026-08-18T19:16:03.966Z"
-    },
-    {
-      "id": "48PzkSfXRDSGgPYAHn2HkK",
-      "name": "Meteoro",
-      "url": "https://open.spotify.com/track/48PzkSfXRDSGgPYAHn2HkK",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
-      },
-      "duration_ms": 234400,
-      "played_at": "2026-08-18T19:12:22.935Z"
-    },
-    {
-      "id": "2Mu8Y7FBKm1pExucSO16Vf",
-      "name": "Me Libera",
-      "url": "https://open.spotify.com/track/2Mu8Y7FBKm1pExucSO16Vf",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
-      },
-      "duration_ms": 232560,
-      "played_at": "2026-08-18T19:08:28.459Z"
-    },
-    {
-      "id": "0YrH15XcTh2Kf3re3yubZ5",
-      "name": "Metade Da Metade",
-      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
-      "artists": [
-        {
-          "id": "0EGHYkXkJxZIcYUiAJUNOo",
-          "name": "Banda Magníficos",
-          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
-        }
-      ],
-      "album": {
-        "name": "Chamego Ou Xaveco?",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
-      },
-      "duration_ms": 184659,
-      "played_at": "2026-08-18T19:03:35.896Z"
-    },
-    {
-      "id": "0MQJBNtHjIseujJqgKrRxT",
-      "name": "O Naufrágio",
-      "url": "https://open.spotify.com/track/0MQJBNtHjIseujJqgKrRxT",
-      "artists": [
-        {
-          "id": "6bNGDMgM00nUzHxgCtkxQQ",
-          "name": "forró novo desejo",
-          "url": "https://open.spotify.com/artist/6bNGDMgM00nUzHxgCtkxQQ"
-        }
-      ],
-      "album": {
-        "name": "O Naufrágio",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739b4ec2ac2d3f046dbaa9d977"
-      },
-      "duration_ms": 169245,
-      "played_at": "2026-08-18T18:59:36.123Z"
-    },
-    {
-      "id": "6Vl6N6uWU48OZjIYAMJq7I",
-      "name": "Tarde Demais - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Vl6N6uWU48OZjIYAMJq7I",
-      "artists": [
-        {
-          "id": "3J4WurF5XyCy2ToWeCof5Y",
-          "name": "Dorgival Dantas",
-          "url": "https://open.spotify.com/artist/3J4WurF5XyCy2ToWeCof5Y"
-        }
-      ],
-      "album": {
-        "name": "Simplesmente Dorgival Dantas (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fd3abf808a406ace931ceb8b"
-      },
-      "duration_ms": 245786,
-      "played_at": "2026-08-18T18:56:46.902Z"
-    },
-    {
-      "id": "74QtGMeYncf3wP6fhg00zb",
-      "name": "Diga Sim pra Mim",
-      "url": "https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb",
-      "artists": [
-        {
-          "id": "2BwGxEffKsSjsQyKNtBgcQ",
-          "name": "Desejo De Menina",
-          "url": "https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ"
-        }
-      ],
-      "album": {
-        "name": "Diga Sim, Vol. 4",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827"
-      },
-      "duration_ms": 221200,
-      "played_at": "2026-08-18T18:52:01.334Z"
     }
   ]
 }
