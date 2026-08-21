@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T01:00:30.875375+00:00",
+  "updated_at": "2026-08-21T06:37:04.065011+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -490,6 +490,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "49aHfgQ6S4d1oYAamHEzlq",
+      "name": "Melô de ilusão",
+      "url": "https://open.spotify.com/track/49aHfgQ6S4d1oYAamHEzlq",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 232560,
+      "played_at": "2026-08-21T01:18:57.275Z"
+    },
     {
       "id": "6JeScr350YP7OUCcmVVKol",
       "name": "Olhos de Tocha",
@@ -1571,24 +1589,6 @@
       },
       "duration_ms": 145624,
       "played_at": "2026-08-19T17:16:54.986Z"
-    },
-    {
-      "id": "5bEPffNapJrNGtdXzsqvXQ",
-      "name": "Quando A Fonte Secar",
-      "url": "https://open.spotify.com/track/5bEPffNapJrNGtdXzsqvXQ",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 202656,
-      "played_at": "2026-08-19T17:11:12.783Z"
     }
   ]
 }
