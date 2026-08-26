@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T06:39:22.196427+00:00",
+  "updated_at": "2026-08-26T12:41:01.378541+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -495,6 +495,42 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "74QtGMeYncf3wP6fhg00zb",
+      "name": "Diga Sim pra Mim",
+      "url": "https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb",
+      "artists": [
+        {
+          "id": "2BwGxEffKsSjsQyKNtBgcQ",
+          "name": "Desejo De Menina",
+          "url": "https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ"
+        }
+      ],
+      "album": {
+        "name": "Diga Sim, Vol. 4",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827"
+      },
+      "duration_ms": 221200,
+      "played_at": "2026-08-26T10:56:24.388Z"
+    },
+    {
+      "id": "74QtGMeYncf3wP6fhg00zb",
+      "name": "Diga Sim pra Mim",
+      "url": "https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb",
+      "artists": [
+        {
+          "id": "2BwGxEffKsSjsQyKNtBgcQ",
+          "name": "Desejo De Menina",
+          "url": "https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ"
+        }
+      ],
+      "album": {
+        "name": "Diga Sim, Vol. 4",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827"
+      },
+      "duration_ms": 221200,
+      "played_at": "2026-08-26T09:46:43.189Z"
+    },
     {
       "id": "5wOoZcRp69w4YTfu5PGnfF",
       "name": "Holy Source",
@@ -1503,52 +1539,6 @@
       },
       "duration_ms": 126692,
       "played_at": "2026-08-26T02:34:48.452Z"
-    },
-    {
-      "id": "4C4TXEyMjcfCTr0Yio5uBX",
-      "name": "good friends",
-      "url": "https://open.spotify.com/track/4C4TXEyMjcfCTr0Yio5uBX",
-      "artists": [
-        {
-          "id": "3DS80e9pCgy5RyTztgncuC",
-          "name": "Tatami Construct",
-          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
-        },
-        {
-          "id": "1bbah9s09626gweOzzLbKG",
-          "name": "Towerz",
-          "url": "https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG"
-        }
-      ],
-      "album": {
-        "name": "Hidden World",
-        "image": "https://i.scdn.co/image/ab67616d0000b27397ed9d9795f3a0777588d346"
-      },
-      "duration_ms": 144000,
-      "played_at": "2026-08-26T02:32:50.747Z"
-    },
-    {
-      "id": "71btbtlrq64UB8GL3gmqtr",
-      "name": "Garden",
-      "url": "https://open.spotify.com/track/71btbtlrq64UB8GL3gmqtr",
-      "artists": [
-        {
-          "id": "6ALIOkppAXyMd9G0MbHqOL",
-          "name": "Kayba",
-          "url": "https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL"
-        },
-        {
-          "id": "2UxHowdAHxVWPhQQswzpT6",
-          "name": "Lomme",
-          "url": "https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6"
-        }
-      ],
-      "album": {
-        "name": "Explore",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d4b27d6bb0042cbd9f2cedca"
-      },
-      "duration_ms": 147692,
-      "played_at": "2026-08-26T02:30:35.735Z"
     }
   ]
 }
