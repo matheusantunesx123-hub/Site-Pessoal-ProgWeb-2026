@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T01:00:27.465859+00:00",
+  "updated_at": "2026-08-26T06:39:22.196427+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -496,1014 +496,808 @@
   ],
   "recently_played": [
     {
-      "id": "6oMZhY0f1ReI6AJDDYfuSb",
-      "name": "500 Miles",
-      "url": "https://open.spotify.com/track/6oMZhY0f1ReI6AJDDYfuSb",
+      "id": "5wOoZcRp69w4YTfu5PGnfF",
+      "name": "Holy Source",
+      "url": "https://open.spotify.com/track/5wOoZcRp69w4YTfu5PGnfF",
       "artists": [
         {
-          "id": "6yrBBtqX2gKCHCrZOYBDrB",
-          "name": "Peter, Paul and Mary",
-          "url": "https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB"
+          "id": "4VfNwO9Vm7qytrCtUlwwGY",
+          "name": "Blue Fox",
+          "url": "https://open.spotify.com/artist/4VfNwO9Vm7qytrCtUlwwGY"
         }
       ],
       "album": {
-        "name": "Peter, Paul and Mary",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cc97a3e6a8fe3fbc123e4fce"
+        "name": "Dreamland",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f47b9ddb703e879995f58206"
       },
-      "duration_ms": 162933,
-      "played_at": "2026-08-25T19:54:39.633Z"
+      "duration_ms": 156923,
+      "played_at": "2026-08-26T04:28:22.690Z"
     },
     {
-      "id": "4KWzsYmXYYbTjb4tYxulvd",
-      "name": "Who's Crying Now (2022 Remaster)",
-      "url": "https://open.spotify.com/track/4KWzsYmXYYbTjb4tYxulvd",
+      "id": "71CjXYb4zUk1RrdnWgYw1p",
+      "name": "Sand Cottage",
+      "url": "https://open.spotify.com/track/71CjXYb4zUk1RrdnWgYw1p",
       "artists": [
         {
-          "id": "0rvjqX7ttXeg3mTy8Xscbt",
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "album": {
-        "name": "Escape (2022 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27323290120a609a65e14cfe018"
-      },
-      "duration_ms": 299653,
-      "played_at": "2026-08-25T19:53:38.310Z"
-    },
-    {
-      "id": "6LUGvXEAK8WxIBYK43uoTb",
-      "name": "Back to the Old House - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb",
-      "artists": [
-        {
-          "id": "3yY2gUcIsjMr8hjo51PoJ8",
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "album": {
-        "name": "Louder Than Bombs",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574"
-      },
-      "duration_ms": 186626,
-      "played_at": "2026-08-25T19:47:27.576Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-08-25T19:44:08.618Z"
-    },
-    {
-      "id": "1uvyZBs4IZYRebHIB1747m",
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
-      "artists": [
-        {
-          "id": "5a2EaR3hamoenG9rDuVn8j",
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "album": {
-        "name": "Purple Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
-      },
-      "duration_ms": 521866,
-      "played_at": "2026-08-25T19:38:44.702Z"
-    },
-    {
-      "id": "026wpXkLAjImiWOzzcJBHj",
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/026wpXkLAjImiWOzzcJBHj",
-      "artists": [
-        {
-          "id": "5GGJosGMs08YEmKTZJe1fL",
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "album": {
-        "name": "Good Looking",
-        "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3"
-      },
-      "duration_ms": 214800,
-      "played_at": "2026-08-25T19:30:02.721Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-08-25T19:26:28.006Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-08-25T19:20:49.833Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-08-25T19:19:43.857Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-08-25T16:24:24.456Z"
-    },
-    {
-      "id": "1qk26emY1Ze0HbsXeF07d2",
-      "name": "Eu Tô Solteira",
-      "url": "https://open.spotify.com/track/1qk26emY1Ze0HbsXeF07d2",
-      "artists": [
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
-      },
-      "duration_ms": 68666,
-      "played_at": "2026-08-25T16:00:53.644Z"
-    },
-    {
-      "id": "048VGsQtCmQ0AXYJpIxuRJ",
-      "name": "CHACINA",
-      "url": "https://open.spotify.com/track/048VGsQtCmQ0AXYJpIxuRJ",
-      "artists": [
-        {
-          "id": "7Eli9jWjQ5F1d06clIH46R",
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+          "id": "40GMyQ5sv1bfiui9CrEPME",
+          "name": "Lawrence Walther",
+          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
         },
         {
-          "id": "1h27s7BnaBATagMAgDOcDF",
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+          "id": "3Pgwg5ygkVRVU7Gq443DAT",
+          "name": "Recalibration Machine",
+          "url": "https://open.spotify.com/artist/3Pgwg5ygkVRVU7Gq443DAT"
         },
         {
-          "id": "2M0BRHVrzJ5y20huTCzMJu",
-          "name": "Irmãs de Pau",
-          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+          "id": "37gab2kHkQ8LnCRXYRPHxe",
+          "name": "Less Gravity",
+          "url": "https://open.spotify.com/artist/37gab2kHkQ8LnCRXYRPHxe"
         }
       ],
       "album": {
-        "name": "Epica 2 (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736a5fc859fee7a2eea9890bcf"
+        "name": "Dune Days",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a201f1037076f7b5dffa7ec2"
       },
-      "duration_ms": 203555,
-      "played_at": "2026-08-25T15:59:54.035Z"
+      "duration_ms": 205885,
+      "played_at": "2026-08-26T04:25:54.880Z"
     },
     {
-      "id": "4X2g1jxXbaudwnhJMv6sjt",
-      "name": "Deus",
-      "url": "https://open.spotify.com/track/4X2g1jxXbaudwnhJMv6sjt",
+      "id": "2NnDZfjRD7KVKmiEQwnuR8",
+      "name": "Lost Tapes",
+      "url": "https://open.spotify.com/track/2NnDZfjRD7KVKmiEQwnuR8",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "id": "37ZflmHTdxkSLQuT8w9NBs",
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+          "id": "0wcen0V8FgQu6xYupnZMbB",
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
         }
       ],
       "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+        "name": "The Breeze",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739021c9693de7301fac0dfe72"
       },
-      "duration_ms": 170931,
-      "played_at": "2026-08-25T15:55:35.538Z"
+      "duration_ms": 156774,
+      "played_at": "2026-08-26T04:22:37.985Z"
     },
     {
-      "id": "6ovDi26fsRcfb7M3lI6rhQ",
-      "name": "Horta de Piroca",
-      "url": "https://open.spotify.com/track/6ovDi26fsRcfb7M3lI6rhQ",
+      "id": "2ncMpIDzleIZZ2UXW8Ln8R",
+      "name": "Galaxy",
+      "url": "https://open.spotify.com/track/2ncMpIDzleIZZ2UXW8Ln8R",
       "artists": [
         {
-          "id": "7Esv5D6U1qtVOHbXihKgea",
-          "name": "DJ MAVI",
-          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+          "id": "1EpXwbpQDflfGg6juJz89j",
+          "name": "Ornithology",
+          "url": "https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j"
         },
         {
-          "id": "36MLP28p1UX0xIRdhZTeUc",
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        },
-        {
-          "id": "3ulyIBeBwBcg8rmnPE6TmV",
-          "name": "YUMI",
-          "url": "https://open.spotify.com/artist/3ulyIBeBwBcg8rmnPE6TmV"
+          "id": "5xJ9q1lHwa8AShRof94oIt",
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
         }
       ],
       "album": {
-        "name": "Horta de Piroca",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f2feba73d713377191f19b10"
+        "name": "Ethereal Nights",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a4cffdddaaaa9ed200451470"
       },
-      "duration_ms": 152633,
-      "played_at": "2026-08-25T15:50:06.541Z"
+      "duration_ms": 151578,
+      "played_at": "2026-08-26T04:20:10.188Z"
     },
     {
-      "id": "0J04fTkB0VXZXWzsIK8gKn",
-      "name": "Somos Amigas",
-      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "id": "3NmWLESV4bmTq6q9CicnbO",
+      "name": "Zenith",
+      "url": "https://open.spotify.com/track/3NmWLESV4bmTq6q9CicnbO",
       "artists": [
         {
-          "id": "7Eli9jWjQ5F1d06clIH46R",
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        },
-        {
-          "id": "1h27s7BnaBATagMAgDOcDF",
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
-        },
-        {
-          "id": "7BT8x82CjBZUjJy6xj1G3O",
-          "name": "MC Pipokinha",
-          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+          "id": "16jGQ1yGlftJxlzKUbpkWy",
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/16jGQ1yGlftJxlzKUbpkWy"
         }
       ],
       "album": {
-        "name": "Epica 2 (Edição Completa)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+        "name": "Distant Worlds 4",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f5d92290fff0a1ce3adce092"
       },
-      "duration_ms": 152389,
-      "played_at": "2026-08-25T15:47:42.927Z"
+      "duration_ms": 163031,
+      "played_at": "2026-08-26T04:17:47.583Z"
     },
     {
-      "id": "2BdJ63hkTPQPJcSdBMPouv",
-      "name": "Vaya Con Dios - Live",
-      "url": "https://open.spotify.com/track/2BdJ63hkTPQPJcSdBMPouv",
+      "id": "2xF6nalb8gdyiDbRwVg2G0",
+      "name": "Opening",
+      "url": "https://open.spotify.com/track/2xF6nalb8gdyiDbRwVg2G0",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "1Mh9G47YfuaLdQs44voLrQ",
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
         }
       ],
       "album": {
-        "name": "HER MIND (LIVE)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27343adb54ffebc7f4394beb899"
+        "name": "Equation Of Time",
+        "image": "https://i.scdn.co/image/ab67616d0000b27384da42622f4a40b557e2db63"
       },
-      "duration_ms": 145624,
-      "played_at": "2026-08-25T15:45:19.536Z"
+      "duration_ms": 135223,
+      "played_at": "2026-08-26T04:15:13.590Z"
     },
     {
-      "id": "1nSF7mrf2Wt4VKsN3cemM2",
-      "name": "Voz Do Brasil",
-      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
+      "id": "4P0MzFyattBDHWPtsctBm2",
+      "name": "fuji",
+      "url": "https://open.spotify.com/track/4P0MzFyattBDHWPtsctBm2",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "3Zi91vuWAU6SUwcKDf8zDq",
+          "name": "Bert",
+          "url": "https://open.spotify.com/artist/3Zi91vuWAU6SUwcKDf8zDq"
         },
         {
-          "id": "76hYPcWML9NGEh8LashwT5",
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "id": "1R9fj5Tiy9XMFp5ANzS7FA",
+          "name": "Jhove",
+          "url": "https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA"
         }
       ],
       "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+        "name": "offline",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dad2c343f802495dd274d877"
       },
-      "duration_ms": 193920,
-      "played_at": "2026-08-25T15:43:02.932Z"
+      "duration_ms": 165013,
+      "played_at": "2026-08-26T04:13:07.359Z"
     },
     {
-      "id": "3HiBLTcFTY58Csk7BCkIGO",
-      "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
-      "url": "https://open.spotify.com/track/3HiBLTcFTY58Csk7BCkIGO",
+      "id": "5lp7SqrD9b6PFxA1Ri7a1A",
+      "name": "In the Night",
+      "url": "https://open.spotify.com/track/5lp7SqrD9b6PFxA1Ri7a1A",
       "artists": [
         {
-          "id": "6424uJS5kZLTGL0pAW7e3J",
-          "name": "WES",
-          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+          "id": "2UxHowdAHxVWPhQQswzpT6",
+          "name": "Lomme",
+          "url": "https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6"
         },
         {
-          "id": "18d98atAsxwOOhHGF9Mhxb",
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "id": "0J4DHkFbIhACgOkPFvWl9Y",
-          "name": "CARLO",
-          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
-        },
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "id": "5W0yWqP7U3b2Y89gSgR9OD",
-          "name": "Lastra",
-          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+          "id": "1Nl5io0qeF6ISnWrdTnFQB",
+          "name": "Elk Beats",
+          "url": "https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB"
         }
       ],
       "album": {
-        "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f4becaa242c2600d970637e6"
+        "name": "Learning How",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b2361eb4c253cb3724f938ab"
       },
-      "duration_ms": 209142,
-      "played_at": "2026-08-25T15:35:24.621Z"
+      "duration_ms": 139624,
+      "played_at": "2026-08-26T04:10:31.359Z"
     },
     {
-      "id": "58yGiA1glEPIeGMoCcRPoB",
-      "name": "Tatuagem do Teu Ex 2",
-      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
+      "id": "1ECJjsZDjcrZ02LLVMSVmT",
+      "name": "clear eyes, blind sight",
+      "url": "https://open.spotify.com/track/1ECJjsZDjcrZ02LLVMSVmT",
       "artists": [
         {
-          "id": "36MLP28p1UX0xIRdhZTeUc",
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+          "id": "3D7OiZlCToIsRybYCEDvIL",
+          "name": "idylla",
+          "url": "https://open.spotify.com/artist/3D7OiZlCToIsRybYCEDvIL"
+        }
+      ],
+      "album": {
+        "name": "blindsighted",
+        "image": "https://i.scdn.co/image/ab67616d0000b27376d022c0a2a094ca6b0dc514"
+      },
+      "duration_ms": 140531,
+      "played_at": "2026-08-26T04:08:20.785Z"
+    },
+    {
+      "id": "0UfokNlZP2LyH0G03iFycf",
+      "name": "miss you",
+      "url": "https://open.spotify.com/track/0UfokNlZP2LyH0G03iFycf",
+      "artists": [
+        {
+          "id": "1csp9v9FfSxU0LcBtfWFCb",
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        }
+      ],
+      "album": {
+        "name": "Distance Love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739951cd37ee3c6f1646700136"
+      },
+      "duration_ms": 155392,
+      "played_at": "2026-08-26T04:06:09.154Z"
+    },
+    {
+      "id": "1E0acGsbMn2xCUhjWfgtsH",
+      "name": "Macabre",
+      "url": "https://open.spotify.com/track/1E0acGsbMn2xCUhjWfgtsH",
+      "artists": [
+        {
+          "id": "0wcen0V8FgQu6xYupnZMbB",
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
         },
         {
-          "id": "7Esv5D6U1qtVOHbXihKgea",
-          "name": "DJ MAVI",
-          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+          "id": "46RYzJ2442SuhtOTl281nz",
+          "name": "Dimension 32",
+          "url": "https://open.spotify.com/artist/46RYzJ2442SuhtOTl281nz"
+        }
+      ],
+      "album": {
+        "name": "Frozen Lands",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737b39bf29b70bde5ad476f73a"
+      },
+      "duration_ms": 167307,
+      "played_at": "2026-08-26T04:03:42.801Z"
+    },
+    {
+      "id": "4BrjMlk5Zlna5wQGvbrl9N",
+      "name": "Cruelty",
+      "url": "https://open.spotify.com/track/4BrjMlk5Zlna5wQGvbrl9N",
+      "artists": [
+        {
+          "id": "5p2HHGakKOJCICf9fnfnQ9",
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "album": {
+        "name": "Fallen Souls",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d85983ff88cc9d729019773c"
+      },
+      "duration_ms": 160000,
+      "played_at": "2026-08-26T04:01:04.504Z"
+    },
+    {
+      "id": "1Yn4ESd7tRehdUb6SSyLvg",
+      "name": "See You Again",
+      "url": "https://open.spotify.com/track/1Yn4ESd7tRehdUb6SSyLvg",
+      "artists": [
+        {
+          "id": "4vv1FFVqxnHyQFLmWxjizb",
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
         },
         {
-          "id": "2TGtBMeVz0MkIATkn2gHhe",
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+          "id": "3azKf6nXrUCI1RLZkX4Aj6",
+          "name": "H.1",
+          "url": "https://open.spotify.com/artist/3azKf6nXrUCI1RLZkX4Aj6"
+        }
+      ],
+      "album": {
+        "name": "Winter Getaway",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d684dd8a69b6caeb84489460"
+      },
+      "duration_ms": 224510,
+      "played_at": "2026-08-26T03:58:33.510Z"
+    },
+    {
+      "id": "1SJas9KXtb7eH8X62svdcf",
+      "name": "Wildflower",
+      "url": "https://open.spotify.com/track/1SJas9KXtb7eH8X62svdcf",
+      "artists": [
+        {
+          "id": "7185Q95lPFld0aoPqO6e0U",
+          "name": "Blue Wednesday",
+          "url": "https://open.spotify.com/artist/7185Q95lPFld0aoPqO6e0U"
+        }
+      ],
+      "album": {
+        "name": "After Hours",
+        "image": "https://i.scdn.co/image/ab67616d0000b27355057cb25eed0df90b10ed76"
+      },
+      "duration_ms": 154310,
+      "played_at": "2026-08-26T03:54:58.013Z"
+    },
+    {
+      "id": "4aitX11ej2f0TtvA2M8wq4",
+      "name": "Backyard Memories",
+      "url": "https://open.spotify.com/track/4aitX11ej2f0TtvA2M8wq4",
+      "artists": [
+        {
+          "id": "7i9PhtRTxJnGvgoOXgTox2",
+          "name": "møndberg",
+          "url": "https://open.spotify.com/artist/7i9PhtRTxJnGvgoOXgTox2"
         },
         {
-          "id": "2sQHo73pQF1OTq3lDuQhlO",
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "id": "18d98atAsxwOOhHGF9Mhxb",
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+          "id": "2CiO7xWdwPMDlVwlt9qa1f",
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
         }
       ],
       "album": {
-        "name": "Tatuagem do Teu Ex 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
+        "name": "Living Free",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dc252010074cb388148f33b1"
       },
-      "duration_ms": 133138,
-      "played_at": "2026-08-25T15:32:04.436Z"
+      "duration_ms": 153003,
+      "played_at": "2026-08-26T03:52:32.722Z"
     },
     {
-      "id": "04zj7YtTSjAd2Y8tt8KX2K",
-      "name": "Rolling",
-      "url": "https://open.spotify.com/track/04zj7YtTSjAd2Y8tt8KX2K",
+      "id": "4Ow6Ra9CnAl0RrSGKbB9wS",
+      "name": "Spring Rain",
+      "url": "https://open.spotify.com/track/4Ow6Ra9CnAl0RrSGKbB9wS",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "6epVsx5GlfaQOg5cNe4fUP",
+          "name": "BVG",
+          "url": "https://open.spotify.com/artist/6epVsx5GlfaQOg5cNe4fUP"
         }
       ],
       "album": {
-        "name": "HER MIND (BLOSSOM EDITION)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738bc08a43d5027b70585d2f11"
+        "name": "Temple Garden",
+        "image": "https://i.scdn.co/image/ab67616d0000b27327bdaca7a1ff66338ebc721b"
       },
-      "duration_ms": 135199,
-      "played_at": "2026-08-25T15:30:00.274Z"
+      "duration_ms": 174015,
+      "played_at": "2026-08-26T03:50:08.674Z"
     },
     {
-      "id": "1hL4Ez8As4A4VJBw8X2eVA",
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "id": "2y3lX3c2VcbMclMaopLZr9",
+      "name": "My Dear",
+      "url": "https://open.spotify.com/track/2y3lX3c2VcbMclMaopLZr9",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "1pvbdPT4qv8egDvkcOhBN0",
+          "name": "Swink",
+          "url": "https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0"
         }
       ],
       "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 149387,
-      "played_at": "2026-08-25T15:27:54.133Z"
-    },
-    {
-      "id": "7nGGKB0KX7FojvyJ5DNrK3",
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 217916,
-      "played_at": "2026-08-25T11:24:18.550Z"
-    },
-    {
-      "id": "4pAjQMx0HQFUDHv9J9mtQw",
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/4pAjQMx0HQFUDHv9J9mtQw",
-      "artists": [
-        {
-          "id": "0cqZ61vhObf3KJ2UgaveZg",
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "album": {
-        "name": "Backyard Beats",
-        "image": "https://i.scdn.co/image/ab67616d0000b273eb23fb9bafc895c46984b4eb"
-      },
-      "duration_ms": 149610,
-      "played_at": "2026-08-25T10:03:32.335Z"
-    },
-    {
-      "id": "39nh9si85HSngXLN3H7tLZ",
-      "name": "Adrift",
-      "url": "https://open.spotify.com/track/39nh9si85HSngXLN3H7tLZ",
-      "artists": [
-        {
-          "id": "5eAVEXfUncEQ0klgSky3TY",
-          "name": "Zadbeatz",
-          "url": "https://open.spotify.com/artist/5eAVEXfUncEQ0klgSky3TY"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Blue Night",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730ff695b7b6eb704886aa880a"
-      },
-      "duration_ms": 132063,
-      "played_at": "2026-08-25T07:29:17.204Z"
-    },
-    {
-      "id": "3Z9d2DbjMtWJUROpbPAi2B",
-      "name": "Lullaby in the City",
-      "url": "https://open.spotify.com/track/3Z9d2DbjMtWJUROpbPAi2B",
-      "artists": [
-        {
-          "id": "5r6y2LSrNBItO3bwDAnKgb",
-          "name": "FRUCCI",
-          "url": "https://open.spotify.com/artist/5r6y2LSrNBItO3bwDAnKgb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Urban Tranquility",
-        "image": "https://i.scdn.co/image/ab67616d0000b273228cb12e4bff442a68fddd5b"
-      },
-      "duration_ms": 165000,
-      "played_at": "2026-08-25T07:27:14.220Z"
-    },
-    {
-      "id": "1g0Tqvej4dhLRDGyDRTWIt",
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1g0Tqvej4dhLRDGyDRTWIt",
-      "artists": [
-        {
-          "id": "1oex6GCeWzSxHupAa6Fbnb",
-          "name": "créature sonore",
-          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "state of mind",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738111d747043582f1da0bfe20"
-      },
-      "duration_ms": 100645,
-      "played_at": "2026-08-25T07:24:38.236Z"
-    },
-    {
-      "id": "4JcE0k1jNBVmafgMAI44Eu",
-      "name": "Comedown",
-      "url": "https://open.spotify.com/track/4JcE0k1jNBVmafgMAI44Eu",
-      "artists": [
-        {
-          "id": "07cqYCAhK2tVhD6JKkWAIS",
-          "name": "User67",
-          "url": "https://open.spotify.com/artist/07cqYCAhK2tVhD6JKkWAIS"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Just A Memory",
-        "image": "https://i.scdn.co/image/ab67616d0000b273748fcad21caea99c93ba55ce"
-      },
-      "duration_ms": 152380,
-      "played_at": "2026-08-25T07:23:06.581Z"
-    },
-    {
-      "id": "1iUSIYMw3iTfdMUxSmFRYc",
-      "name": "vivid harmony",
-      "url": "https://open.spotify.com/track/1iUSIYMw3iTfdMUxSmFRYc",
-      "artists": [
-        {
-          "id": "1oex6GCeWzSxHupAa6Fbnb",
-          "name": "créature sonore",
-          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "à la tombée de la nuit",
-        "image": "https://i.scdn.co/image/ab67616d0000b273052d3877f8db1af39abbc3fc"
-      },
-      "duration_ms": 116470,
-      "played_at": "2026-08-25T07:20:43.232Z"
-    },
-    {
-      "id": "2JecauISenrLboCHzonCWe",
-      "name": "Flying through the clouds",
-      "url": "https://open.spotify.com/track/2JecauISenrLboCHzonCWe",
-      "artists": [
-        {
-          "id": "42QwQu3kEDuZBWJeQtPM5s",
-          "name": "19:37",
-          "url": "https://open.spotify.com/artist/42QwQu3kEDuZBWJeQtPM5s"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "A new beginning",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c75485e440c4de18b3e68e8"
-      },
-      "duration_ms": 166285,
-      "played_at": "2026-08-25T07:18:55.728Z"
-    },
-    {
-      "id": "2gVvby6a2FIlMGDr7PnEJq",
-      "name": "Memories Painted in Love's Hue",
-      "url": "https://open.spotify.com/track/2gVvby6a2FIlMGDr7PnEJq",
-      "artists": [
-        {
-          "id": "1oex6GCeWzSxHupAa6Fbnb",
-          "name": "créature sonore",
-          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "eternal love lost",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735c78178b33823da7ed8de97c"
-      },
-      "duration_ms": 130485,
-      "played_at": "2026-08-25T07:16:18.433Z"
-    },
-    {
-      "id": "3hF0iieY9YkJihDTuSNk0b",
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/3hF0iieY9YkJihDTuSNk0b",
-      "artists": [
-        {
-          "id": "0cqZ61vhObf3KJ2UgaveZg",
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "album": {
-        "name": "Distance",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732b14b5b095e13c99b919d71a"
-      },
-      "duration_ms": 191946,
-      "played_at": "2026-08-25T07:14:16.925Z"
-    },
-    {
-      "id": "1RmGCPniIT91shfpzk8WWW",
-      "name": "Cotton Clouds",
-      "url": "https://open.spotify.com/track/1RmGCPniIT91shfpzk8WWW",
-      "artists": [
-        {
-          "id": "3VoFRrRqwrD1WPLiQVbr1K",
-          "name": "Hakuuro",
-          "url": "https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Mom Memories",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c8a5ec40819776b34a9d1b40"
-      },
-      "duration_ms": 144730,
-      "played_at": "2026-08-25T07:11:13.992Z"
-    },
-    {
-      "id": "5u5Uxhw0Y4U1MRwR0SAxrR",
-      "name": "Unknown",
-      "url": "https://open.spotify.com/track/5u5Uxhw0Y4U1MRwR0SAxrR",
-      "artists": [
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        },
-        {
-          "id": "5eAVEXfUncEQ0klgSky3TY",
-          "name": "Zadbeatz",
-          "url": "https://open.spotify.com/artist/5eAVEXfUncEQ0klgSky3TY"
-        }
-      ],
-      "album": {
-        "name": "Rainy beats",
-        "image": "https://i.scdn.co/image/ab67616d0000b27380498b90c2b1531784149e9e"
-      },
-      "duration_ms": 126875,
-      "played_at": "2026-08-25T07:08:58.306Z"
-    },
-    {
-      "id": "18AVCvyadlYho76wxiBTd7",
-      "name": "nostalgic texture",
-      "url": "https://open.spotify.com/track/18AVCvyadlYho76wxiBTd7",
-      "artists": [
-        {
-          "id": "1oex6GCeWzSxHupAa6Fbnb",
-          "name": "créature sonore",
-          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "à la tombée de la nuit",
-        "image": "https://i.scdn.co/image/ab67616d0000b273052d3877f8db1af39abbc3fc"
-      },
-      "duration_ms": 149257,
-      "played_at": "2026-08-25T07:07:00.328Z"
-    },
-    {
-      "id": "0AmV5O3hQuhJoe85QnXOUC",
-      "name": "Mellow City Nights",
-      "url": "https://open.spotify.com/track/0AmV5O3hQuhJoe85QnXOUC",
-      "artists": [
-        {
-          "id": "5r6y2LSrNBItO3bwDAnKgb",
-          "name": "FRUCCI",
-          "url": "https://open.spotify.com/artist/5r6y2LSrNBItO3bwDAnKgb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Urban Tranquility",
-        "image": "https://i.scdn.co/image/ab67616d0000b273228cb12e4bff442a68fddd5b"
-      },
-      "duration_ms": 132923,
-      "played_at": "2026-08-25T07:04:40.125Z"
-    },
-    {
-      "id": "7geXfRruiae5dNkGasDDCy",
-      "name": "Hollow",
-      "url": "https://open.spotify.com/track/7geXfRruiae5dNkGasDDCy",
-      "artists": [
-        {
-          "id": "7EFgazliYfBAB0KNLX0bYn",
-          "name": "prins",
-          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "fading echoes",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734260e297840305fe9ac8c965"
-      },
-      "duration_ms": 148965,
-      "played_at": "2026-08-25T07:02:36.222Z"
-    },
-    {
-      "id": "0T3K2U7eqzCPQiXKloXTvF",
-      "name": "Reminding you",
-      "url": "https://open.spotify.com/track/0T3K2U7eqzCPQiXKloXTvF",
-      "artists": [
-        {
-          "id": "7EFgazliYfBAB0KNLX0bYn",
-          "name": "prins",
-          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
-        },
-        {
-          "id": "5eTBRNl0TxiL7CJvwvNh3w",
-          "name": "Fedeflaviano",
-          "url": "https://open.spotify.com/artist/5eTBRNl0TxiL7CJvwvNh3w"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Boreal nights",
-        "image": "https://i.scdn.co/image/ab67616d0000b273355b0f976dd3ec0b6ef17ebc"
-      },
-      "duration_ms": 146181,
-      "played_at": "2026-08-25T07:00:16.222Z"
-    },
-    {
-      "id": "130lPkSmz3Rcp35ejLvflL",
-      "name": "those days",
-      "url": "https://open.spotify.com/track/130lPkSmz3Rcp35ejLvflL",
-      "artists": [
-        {
-          "id": "2f8JIAu0okvEPCyqVKIm25",
-          "name": "Chae",
-          "url": "https://open.spotify.com/artist/2f8JIAu0okvEPCyqVKIm25"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "feels like home",
-        "image": "https://i.scdn.co/image/ab67616d0000b27333c2303c2514bc4b1ce0d0d2"
-      },
-      "duration_ms": 147711,
-      "played_at": "2026-08-25T06:57:59.119Z"
-    },
-    {
-      "id": "5jPSUypKfEw2yAZMjhDtQ3",
-      "name": "deep echoes",
-      "url": "https://open.spotify.com/track/5jPSUypKfEw2yAZMjhDtQ3",
-      "artists": [
-        {
-          "id": "7EFgazliYfBAB0KNLX0bYn",
-          "name": "prins",
-          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "tales for bedtime",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ae426365de830ab7ca08e3c3"
-      },
-      "duration_ms": 114418,
-      "played_at": "2026-08-25T06:55:40.390Z"
-    },
-    {
-      "id": "7roqnrGOoTG9nd2pkhAIQE",
-      "name": "stardust",
-      "url": "https://open.spotify.com/track/7roqnrGOoTG9nd2pkhAIQE",
-      "artists": [
-        {
-          "id": "1oex6GCeWzSxHupAa6Fbnb",
-          "name": "créature sonore",
-          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "crescent moon scent",
-        "image": "https://i.scdn.co/image/ab67616d0000b273901b23c3174fa0dd18788066"
-      },
-      "duration_ms": 144000,
-      "played_at": "2026-08-25T06:53:54.906Z"
-    },
-    {
-      "id": "6804VfP2DLvaVDilwr9XUw",
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/6804VfP2DLvaVDilwr9XUw",
-      "artists": [
-        {
-          "id": "5eTBRNl0TxiL7CJvwvNh3w",
-          "name": "Fedeflaviano",
-          "url": "https://open.spotify.com/artist/5eTBRNl0TxiL7CJvwvNh3w"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Voices in my head",
-        "image": "https://i.scdn.co/image/ab67616d0000b27365167455215a959f611192c3"
-      },
-      "duration_ms": 121875,
-      "played_at": "2026-08-25T06:51:39.912Z"
-    },
-    {
-      "id": "0ENMYRUrSskVwRxDZwJi7x",
-      "name": "Picnic",
-      "url": "https://open.spotify.com/track/0ENMYRUrSskVwRxDZwJi7x",
-      "artists": [
-        {
-          "id": "0cqZ61vhObf3KJ2UgaveZg",
-          "name": "Tosama Beats",
-          "url": "https://open.spotify.com/artist/0cqZ61vhObf3KJ2UgaveZg"
-        }
-      ],
-      "album": {
-        "name": "Picnic",
-        "image": "https://i.scdn.co/image/ab67616d0000b273da554de525963208c603aa8a"
-      },
-      "duration_ms": 116571,
-      "played_at": "2026-08-25T06:49:47.016Z"
-    },
-    {
-      "id": "138DnfldEsvAiWlx9ElW7Z",
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/138DnfldEsvAiWlx9ElW7Z",
-      "artists": [
-        {
-          "id": "1zAGw4dlvOQX4P5bhCrSm4",
-          "name": "mono._",
-          "url": "https://open.spotify.com/artist/1zAGw4dlvOQX4P5bhCrSm4"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
-        }
-      ],
-      "album": {
-        "name": "Dreams of Sky",
-        "image": "https://i.scdn.co/image/ab67616d0000b27389a759c68ff1ed232d7d12d7"
+        "name": "Like a Necessity",
+        "image": "https://i.scdn.co/image/ab67616d0000b273406c24d3c757b88d70db37d7"
       },
       "duration_ms": 140000,
-      "played_at": "2026-08-25T06:47:59.515Z"
+      "played_at": "2026-08-26T03:47:23.720Z"
     },
     {
-      "id": "53Vl1gP4ZhGAOjO8obXknF",
-      "name": "day one",
-      "url": "https://open.spotify.com/track/53Vl1gP4ZhGAOjO8obXknF",
+      "id": "6Ne2LndkKW8I7KnIl5UXhv",
+      "name": "Thinking Spot",
+      "url": "https://open.spotify.com/track/6Ne2LndkKW8I7KnIl5UXhv",
       "artists": [
         {
-          "id": "3VoFRrRqwrD1WPLiQVbr1K",
-          "name": "Hakuuro",
-          "url": "https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
+          "id": "6ysKfYgiKUTMCuq2fSTLK3",
+          "name": "xander.",
+          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
         }
       ],
       "album": {
-        "name": "day one",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731352854b98f3c7fde967c2d2"
+        "name": "Forest Of Dreams",
+        "image": "https://i.scdn.co/image/ab67616d0000b27311c3219c56a9819403295bad"
       },
-      "duration_ms": 148168,
-      "played_at": "2026-08-25T06:45:48.514Z"
+      "duration_ms": 189981,
+      "played_at": "2026-08-26T03:45:12.690Z"
     },
     {
-      "id": "0LxNpVryZZe2YKAHrX0Yxr",
-      "name": "blue mood",
-      "url": "https://open.spotify.com/track/0LxNpVryZZe2YKAHrX0Yxr",
+      "id": "605mFcFVHMXNSSCz6gm7ij",
+      "name": "Dancing in the Dark",
+      "url": "https://open.spotify.com/track/605mFcFVHMXNSSCz6gm7ij",
       "artists": [
         {
-          "id": "7EFgazliYfBAB0KNLX0bYn",
-          "name": "prins",
-          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
+          "id": "1XFN3VcuKr4tsTtQlRiTgK",
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
         },
         {
-          "id": "0zRhlnZOOvpAwow405hTFw",
-          "name": "Arkei",
-          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
-        },
-        {
-          "id": "42QwQu3kEDuZBWJeQtPM5s",
-          "name": "19:37",
-          "url": "https://open.spotify.com/artist/42QwQu3kEDuZBWJeQtPM5s"
+          "id": "3MhGQxnXMGb8fgTlAqcxeu",
+          "name": "Aiguille",
+          "url": "https://open.spotify.com/artist/3MhGQxnXMGb8fgTlAqcxeu"
         }
       ],
       "album": {
-        "name": "blue mood",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ab6b83016663b577d18bc4e4"
+        "name": "Nature’s Beauty",
+        "image": "https://i.scdn.co/image/ab67616d0000b273487fbab306591a7a8b083099"
       },
-      "duration_ms": 102000,
-      "played_at": "2026-08-25T06:43:29.387Z"
+      "duration_ms": 153000,
+      "played_at": "2026-08-26T03:42:11.752Z"
     },
     {
-      "id": "2i0WDMnOg6vfIC8EJEi3ir",
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/2i0WDMnOg6vfIC8EJEi3ir",
+      "id": "4dJcl2d02HOASjve5MPKfl",
+      "name": "youth",
+      "url": "https://open.spotify.com/track/4dJcl2d02HOASjve5MPKfl",
+      "artists": [
+        {
+          "id": "4ApyJoQGYHAcMtJEvK5tRx",
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "id": "2XCHpjjS3zJJy9OafEt7bC",
+          "name": "Ayzic",
+          "url": "https://open.spotify.com/artist/2XCHpjjS3zJJy9OafEt7bC"
+        }
+      ],
+      "album": {
+        "name": "beyond the pines",
+        "image": "https://i.scdn.co/image/ab67616d0000b273daef1a63997d727fb2befae6"
+      },
+      "duration_ms": 143414,
+      "played_at": "2026-08-26T03:39:47.718Z"
+    },
+    {
+      "id": "01hlUtRerTAy3QUB8HY9IH",
+      "name": "I'll be here in the morning",
+      "url": "https://open.spotify.com/track/01hlUtRerTAy3QUB8HY9IH",
+      "artists": [
+        {
+          "id": "04TycqJU9QoZ0DRQfuDM5S",
+          "name": "Nadav Cohen",
+          "url": "https://open.spotify.com/artist/04TycqJU9QoZ0DRQfuDM5S"
+        }
+      ],
+      "album": {
+        "name": "A place above heaven",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739cefbe71856980eea4149b9e"
+      },
+      "duration_ms": 154000,
+      "played_at": "2026-08-26T03:37:33.316Z"
+    },
+    {
+      "id": "1QkPe0XgpCOjboIvH19YiW",
+      "name": "outer space",
+      "url": "https://open.spotify.com/track/1QkPe0XgpCOjboIvH19YiW",
+      "artists": [
+        {
+          "id": "5iMUho98faEp2w6j5p44PH",
+          "name": "j'san",
+          "url": "https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH"
+        },
+        {
+          "id": "31jYTsfmnHqcK7ahdqlqmo",
+          "name": "Epektase",
+          "url": "https://open.spotify.com/artist/31jYTsfmnHqcK7ahdqlqmo"
+        }
+      ],
+      "album": {
+        "name": "outer space",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b48d0c7e9dfff12c018a5b4a"
+      },
+      "duration_ms": 152571,
+      "played_at": "2026-08-26T03:35:08.317Z"
+    },
+    {
+      "id": "1e4fBej0vWThs7RHTmEC6u",
+      "name": "Capturing the Light",
+      "url": "https://open.spotify.com/track/1e4fBej0vWThs7RHTmEC6u",
+      "artists": [
+        {
+          "id": "0QmdasntOdQpEwRd40wyp3",
+          "name": "less.people",
+          "url": "https://open.spotify.com/artist/0QmdasntOdQpEwRd40wyp3"
+        }
+      ],
+      "album": {
+        "name": "One Day It’s Over",
+        "image": "https://i.scdn.co/image/ab67616d0000b27308f0bb5eb731031a6f2e957a"
+      },
+      "duration_ms": 130169,
+      "played_at": "2026-08-26T03:32:44.718Z"
+    },
+    {
+      "id": "7mWZfItxfphZdzozHv6k4Y",
+      "name": "Dahlia",
+      "url": "https://open.spotify.com/track/7mWZfItxfphZdzozHv6k4Y",
+      "artists": [
+        {
+          "id": "4vXVzSSH673xUv5sUmRGYX",
+          "name": "no one's perfect",
+          "url": "https://open.spotify.com/artist/4vXVzSSH673xUv5sUmRGYX"
+        },
+        {
+          "id": "0Q6S7QIOyuvDYzbhpvM5FO",
+          "name": "Kanisan",
+          "url": "https://open.spotify.com/artist/0Q6S7QIOyuvDYzbhpvM5FO"
+        }
+      ],
+      "album": {
+        "name": "Measures Of Time",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c4e9d8852baa128e674c80a7"
+      },
+      "duration_ms": 127058,
+      "played_at": "2026-08-26T03:30:43.529Z"
+    },
+    {
+      "id": "6AZ1AQQLNZ2IO8niMTrETv",
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/6AZ1AQQLNZ2IO8niMTrETv",
+      "artists": [
+        {
+          "id": "7daSp9zXk1dmqNxwKFkL35",
+          "name": "Kupla",
+          "url": "https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35"
+        }
+      ],
+      "album": {
+        "name": "Somewhere. Nowhere.",
+        "image": "https://i.scdn.co/image/ab67616d0000b273485d8ef777125d0c5773c260"
+      },
+      "duration_ms": 201137,
+      "played_at": "2026-08-26T03:28:45.526Z"
+    },
+    {
+      "id": "76l36NoH9xKW0vrHH857dQ",
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/76l36NoH9xKW0vrHH857dQ",
+      "artists": [
+        {
+          "id": "5l1oiy2VufzI1tbdpiaoQi",
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "album": {
+        "name": "Fantasia - Vol II",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cbf8e756fe9503bf5d405d28"
+      },
+      "duration_ms": 160324,
+      "played_at": "2026-08-26T03:25:33.392Z"
+    },
+    {
+      "id": "62NIpIKIkB0CUpwwKvHPaZ",
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/62NIpIKIkB0CUpwwKvHPaZ",
+      "artists": [
+        {
+          "id": "6kG4rnzy0AVEvZb7RGZtoy",
+          "name": "M e a d o w",
+          "url": "https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy"
+        },
+        {
+          "id": "5D6V4Z6oPz4waooiuBaWIf",
+          "name": "Sátyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "id": "0wN7ALPeSqOb16sG7vl4RC",
+          "name": "Drxnk",
+          "url": "https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC"
+        }
+      ],
+      "album": {
+        "name": "Days Of Tomorrow",
+        "image": "https://i.scdn.co/image/ab67616d0000b273890911ca8ad9f8754e18ab12"
+      },
+      "duration_ms": 112000,
+      "played_at": "2026-08-26T03:23:02.093Z"
+    },
+    {
+      "id": "4vaS3nKV8XfRHaeJLWOvys",
+      "name": "Blue Moon",
+      "url": "https://open.spotify.com/track/4vaS3nKV8XfRHaeJLWOvys",
+      "artists": [
+        {
+          "id": "77ONEFnCEJnH1qm5dBzDcf",
+          "name": "takeo",
+          "url": "https://open.spotify.com/artist/77ONEFnCEJnH1qm5dBzDcf"
+        },
+        {
+          "id": "4btBTQ1pWqpnDPY4BWMh1S",
+          "name": "Spencer Hunt",
+          "url": "https://open.spotify.com/artist/4btBTQ1pWqpnDPY4BWMh1S"
+        }
+      ],
+      "album": {
+        "name": "Window Seat",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ba74f297862d3ba1bb58ced8"
+      },
+      "duration_ms": 132971,
+      "played_at": "2026-08-26T03:21:19.079Z"
+    },
+    {
+      "id": "35zJXEiHzUXOhxgaXxnO8q",
+      "name": "Noctilucent",
+      "url": "https://open.spotify.com/track/35zJXEiHzUXOhxgaXxnO8q",
       "artists": [
         {
           "id": "6MvnyPinXRQbUCMsPoymhR",
           "name": "Lenny Loops",
           "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "id": "3AHKvfq0OPpGwaZTh8ouuH",
+          "name": "stream_error",
+          "url": "https://open.spotify.com/artist/3AHKvfq0OPpGwaZTh8ouuH"
+        }
+      ],
+      "album": {
+        "name": "Noctilucent",
+        "image": "https://i.scdn.co/image/ab67616d0000b27352df6a7949278b497f9b2738"
+      },
+      "duration_ms": 131200,
+      "played_at": "2026-08-26T03:19:15.124Z"
+    },
+    {
+      "id": "5tPDhrXL4JtcvfCW5iOOQv",
+      "name": "Trying To Sleep",
+      "url": "https://open.spotify.com/track/5tPDhrXL4JtcvfCW5iOOQv",
+      "artists": [
+        {
+          "id": "2CiO7xWdwPMDlVwlt9qa1f",
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
+        }
+      ],
+      "album": {
+        "name": "South Pole",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738df310738f8c81854204481d"
+      },
+      "duration_ms": 174074,
+      "played_at": "2026-08-26T03:17:12.915Z"
+    },
+    {
+      "id": "5TQUR01RsBdrVpLFe4UE1g",
+      "name": "We Met",
+      "url": "https://open.spotify.com/track/5TQUR01RsBdrVpLFe4UE1g",
+      "artists": [
+        {
+          "id": "53rCVzFVlyntj7jEjnY2oM",
+          "name": "Yasumu",
+          "url": "https://open.spotify.com/artist/53rCVzFVlyntj7jEjnY2oM"
+        }
+      ],
+      "album": {
+        "name": "Until Forever",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a431f01b7206a9de8e3708da"
+      },
+      "duration_ms": 141442,
+      "played_at": "2026-08-26T03:14:27.818Z"
+    },
+    {
+      "id": "2pC4GbI7nxoiEWUB7nUIDG",
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/2pC4GbI7nxoiEWUB7nUIDG",
+      "artists": [
+        {
+          "id": "0wcen0V8FgQu6xYupnZMbB",
+          "name": "softy",
+          "url": "https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB"
+        },
+        {
+          "id": "1XFN3VcuKr4tsTtQlRiTgK",
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "album": {
+        "name": "Distant Images",
+        "image": "https://i.scdn.co/image/ab67616d0000b27364bdc0dd331c6038c0964da1"
+      },
+      "duration_ms": 155224,
+      "played_at": "2026-08-26T03:12:15.340Z"
+    },
+    {
+      "id": "4z9fUuoM4bup4B7wjKkqwy",
+      "name": "Belle",
+      "url": "https://open.spotify.com/track/4z9fUuoM4bup4B7wjKkqwy",
+      "artists": [
+        {
+          "id": "6M6LWvHKgBle8SUtSpq6SU",
+          "name": "iamalex",
+          "url": "https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU"
+        },
+        {
+          "id": "5zNV6mtDd7Bo9ncZws9TFG",
+          "name": "Felty",
+          "url": "https://open.spotify.com/artist/5zNV6mtDd7Bo9ncZws9TFG"
+        },
+        {
+          "id": "4J0hluRQr6Ef1IwHzBJfNA",
+          "name": "susan",
+          "url": "https://open.spotify.com/artist/4J0hluRQr6Ef1IwHzBJfNA"
+        }
+      ],
+      "album": {
+        "name": "Blue Bird",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737e68ffc7ac8c1b6b1b13bfb0"
+      },
+      "duration_ms": 183862,
+      "played_at": "2026-08-26T03:09:49.233Z"
+    },
+    {
+      "id": "7K6bjetr9K5RGNHwlMkYKi",
+      "name": "pictures i can't look at",
+      "url": "https://open.spotify.com/track/7K6bjetr9K5RGNHwlMkYKi",
+      "artists": [
+        {
+          "id": "4vv1FFVqxnHyQFLmWxjizb",
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        }
+      ],
+      "album": {
+        "name": "talking to myself",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738f4a84a725c0c42f9c1c7c97"
+      },
+      "duration_ms": 129304,
+      "played_at": "2026-08-26T03:06:54.338Z"
+    },
+    {
+      "id": "7wFmqXskSs5ZBhI2nL0y97",
+      "name": "Reassuring Skies",
+      "url": "https://open.spotify.com/track/7wFmqXskSs5ZBhI2nL0y97",
+      "artists": [
+        {
+          "id": "6MvnyPinXRQbUCMsPoymhR",
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "id": "2z92TjllsDfZLyBjp0SDuq",
+          "name": "Hoffy Beats",
+          "url": "https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq"
+        },
+        {
+          "id": "1eDIWVJt7ZWKsrXw5WVNsN",
+          "name": "Lofi Girl",
+          "url": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
+        }
+      ],
+      "album": {
+        "name": "Best-of lofi hip-hop 2021",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fb9816c0fecf93437da2830d"
+      },
+      "duration_ms": 144000,
+      "played_at": "2026-08-26T03:04:54.001Z"
+    },
+    {
+      "id": "148aizzILE3nJZQQfOxPAg",
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/148aizzILE3nJZQQfOxPAg",
+      "artists": [
+        {
+          "id": "3yu4VilcxpQ6h35vRcemBp",
+          "name": "Tenno",
+          "url": "https://open.spotify.com/artist/3yu4VilcxpQ6h35vRcemBp"
+        }
+      ],
+      "album": {
+        "name": "The Prophecy",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733d840b053777cd30023a4111"
+      },
+      "duration_ms": 173823,
+      "played_at": "2026-08-26T03:02:39.005Z"
+    },
+    {
+      "id": "64jZiT7ghX4e3fvOoKR8oq",
+      "name": "Bodies",
+      "url": "https://open.spotify.com/track/64jZiT7ghX4e3fvOoKR8oq",
+      "artists": [
+        {
+          "id": "2Gq799yTibgF2YWweyB16G",
+          "name": "kudo",
+          "url": "https://open.spotify.com/artist/2Gq799yTibgF2YWweyB16G"
+        }
+      ],
+      "album": {
+        "name": "Staring Through",
+        "image": "https://i.scdn.co/image/ab67616d0000b27319d1499795538c9dbab8a88c"
+      },
+      "duration_ms": 153000,
+      "played_at": "2026-08-26T02:59:54.232Z"
+    },
+    {
+      "id": "50Gv0O5gZ03ShJFCV63jKv",
+      "name": "Tiger Lily",
+      "url": "https://open.spotify.com/track/50Gv0O5gZ03ShJFCV63jKv",
+      "artists": [
+        {
+          "id": "40GMyQ5sv1bfiui9CrEPME",
+          "name": "Lawrence Walther",
+          "url": "https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME"
+        },
+        {
+          "id": "74xLamiAg7I4qmr2XsOddO",
+          "name": "Solar Body",
+          "url": "https://open.spotify.com/artist/74xLamiAg7I4qmr2XsOddO"
+        }
+      ],
+      "album": {
+        "name": "Back to Nature",
+        "image": "https://i.scdn.co/image/ab67616d0000b27359f42cb8bead99061bacb169"
+      },
+      "duration_ms": 139636,
+      "played_at": "2026-08-26T02:57:30.176Z"
+    },
+    {
+      "id": "434n7916o9pnZgM5wUj1Qw",
+      "name": "Morning Brew",
+      "url": "https://open.spotify.com/track/434n7916o9pnZgM5wUj1Qw",
+      "artists": [
+        {
+          "id": "4vv1FFVqxnHyQFLmWxjizb",
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
         },
         {
           "id": "68XRCDJOwzgKgyX6AbPtlS",
@@ -1512,103 +1306,249 @@
         }
       ],
       "album": {
-        "name": "Horizons",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735a0088d6dd9107ceaddca4cf"
+        "name": "Before It’s Late, Pt. 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b27305f1baf40d64274408e104d5"
       },
-      "duration_ms": 134166,
-      "played_at": "2026-08-25T06:41:56.314Z"
+      "duration_ms": 139882,
+      "played_at": "2026-08-26T02:55:19.559Z"
     },
     {
-      "id": "6iFRl1vPWxtZVLqG2iTMn7",
-      "name": "Trivial Matters",
-      "url": "https://open.spotify.com/track/6iFRl1vPWxtZVLqG2iTMn7",
+      "id": "0CtiUwCohUeRygqIie0cHe",
+      "name": "Ancestral",
+      "url": "https://open.spotify.com/track/0CtiUwCohUeRygqIie0cHe",
       "artists": [
         {
-          "id": "1oex6GCeWzSxHupAa6Fbnb",
-          "name": "créature sonore",
-          "url": "https://open.spotify.com/artist/1oex6GCeWzSxHupAa6Fbnb"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
+          "id": "5zUSfxfP1NETZiaWt0Ui0a",
+          "name": "Casiio",
+          "url": "https://open.spotify.com/artist/5zUSfxfP1NETZiaWt0Ui0a"
         }
       ],
       "album": {
-        "name": "state of mind",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738111d747043582f1da0bfe20"
+        "name": "Far Off",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bbdfb6f707a591395345fbdd"
       },
-      "duration_ms": 118153,
-      "played_at": "2026-08-25T06:39:51.156Z"
+      "duration_ms": 96116,
+      "played_at": "2026-08-26T02:53:08.686Z"
     },
     {
-      "id": "4hMChifjvK9gyUBpitdCos",
-      "name": "link",
-      "url": "https://open.spotify.com/track/4hMChifjvK9gyUBpitdCos",
+      "id": "3JAOV8TBj1ylYq0tjfCjUh",
+      "name": "Mourning Dove",
+      "url": "https://open.spotify.com/track/3JAOV8TBj1ylYq0tjfCjUh",
       "artists": [
         {
-          "id": "7EFgazliYfBAB0KNLX0bYn",
-          "name": "prins",
-          "url": "https://open.spotify.com/artist/7EFgazliYfBAB0KNLX0bYn"
+          "id": "2CiO7xWdwPMDlVwlt9qa1f",
+          "name": "WYS",
+          "url": "https://open.spotify.com/artist/2CiO7xWdwPMDlVwlt9qa1f"
         },
         {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
+          "id": "0CF9CnQbK6uS8u78KVnIPv",
+          "name": "Sweet Medicine",
+          "url": "https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv"
         }
       ],
       "album": {
-        "name": "tales for bedtime",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ae426365de830ab7ca08e3c3"
+        "name": "Evermore",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730ef5bbd61eba0519dc9137cc"
       },
-      "duration_ms": 121607,
-      "played_at": "2026-08-25T06:38:01.982Z"
+      "duration_ms": 141158,
+      "played_at": "2026-08-26T02:51:41.520Z"
     },
     {
-      "id": "7CqaHhBHoo27lFezEGrRWN",
-      "name": "one day",
-      "url": "https://open.spotify.com/track/7CqaHhBHoo27lFezEGrRWN",
+      "id": "5jg1mpZkmPajpue3CMEkQ0",
+      "name": "apollo",
+      "url": "https://open.spotify.com/track/5jg1mpZkmPajpue3CMEkQ0",
       "artists": [
         {
-          "id": "3VoFRrRqwrD1WPLiQVbr1K",
-          "name": "Hakuuro",
-          "url": "https://open.spotify.com/artist/3VoFRrRqwrD1WPLiQVbr1K"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
+          "id": "6yxMxVw1MRLoB9EJWO5XVe",
+          "name": "Theo Aabel",
+          "url": "https://open.spotify.com/artist/6yxMxVw1MRLoB9EJWO5XVe"
         }
       ],
       "album": {
-        "name": "day one",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731352854b98f3c7fde967c2d2"
+        "name": "the search for planet x",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea353ba4e05d911582f29a18"
       },
-      "duration_ms": 180019,
-      "played_at": "2026-08-25T06:36:09.378Z"
+      "duration_ms": 156800,
+      "played_at": "2026-08-26T02:49:29.460Z"
     },
     {
-      "id": "42EJwceTQzZ2iS91iaJkbd",
-      "name": "Break",
-      "url": "https://open.spotify.com/track/42EJwceTQzZ2iS91iaJkbd",
+      "id": "2edqGuHHVsYExyVmUjzNnR",
+      "name": "Inception",
+      "url": "https://open.spotify.com/track/2edqGuHHVsYExyVmUjzNnR",
       "artists": [
         {
-          "id": "0zRhlnZOOvpAwow405hTFw",
-          "name": "Arkei",
-          "url": "https://open.spotify.com/artist/0zRhlnZOOvpAwow405hTFw"
-        },
-        {
-          "id": "6FRp4QaPuNXElp7RzYVNc8",
-          "name": "Chillhop World",
-          "url": "https://open.spotify.com/artist/6FRp4QaPuNXElp7RzYVNc8"
+          "id": "5BJiJign2sqMUCJhpStgNd",
+          "name": "Team Astro",
+          "url": "https://open.spotify.com/artist/5BJiJign2sqMUCJhpStgNd"
         }
       ],
       "album": {
-        "name": "De viaje",
-        "image": "https://i.scdn.co/image/ab67616d0000b273952203536b1283692fdbab01"
+        "name": "Is This It?",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736ac3f2cb2d979a31b5151dfa"
       },
-      "duration_ms": 128000,
-      "played_at": "2026-08-25T06:33:18.399Z"
+      "duration_ms": 175384,
+      "played_at": "2026-08-26T02:47:01.653Z"
+    },
+    {
+      "id": "14rlFpJ4R6gIq8RuumZdz1",
+      "name": "Paws & Furs",
+      "url": "https://open.spotify.com/track/14rlFpJ4R6gIq8RuumZdz1",
+      "artists": [
+        {
+          "id": "3iGthn6RykA9JUHnilAIr0",
+          "name": "Krynoze",
+          "url": "https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0"
+        },
+        {
+          "id": "5l1oiy2VufzI1tbdpiaoQi",
+          "name": "Lucid Keys",
+          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
+        }
+      ],
+      "album": {
+        "name": "Take A Paws",
+        "image": "https://i.scdn.co/image/ab67616d0000b27318d834380c2ac4278fa3efb5"
+      },
+      "duration_ms": 139384,
+      "played_at": "2026-08-26T02:44:15.256Z"
+    },
+    {
+      "id": "0zJL74Ad923040dJ0tpUw2",
+      "name": "Leaving This Place",
+      "url": "https://open.spotify.com/track/0zJL74Ad923040dJ0tpUw2",
+      "artists": [
+        {
+          "id": "1csp9v9FfSxU0LcBtfWFCb",
+          "name": "Tibeauthetraveler",
+          "url": "https://open.spotify.com/artist/1csp9v9FfSxU0LcBtfWFCb"
+        },
+        {
+          "id": "2ma4p5K4XNOuJAZLlIHouS",
+          "name": "reysi",
+          "url": "https://open.spotify.com/artist/2ma4p5K4XNOuJAZLlIHouS"
+        },
+        {
+          "id": "1eDIWVJt7ZWKsrXw5WVNsN",
+          "name": "Lofi Girl",
+          "url": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
+        }
+      ],
+      "album": {
+        "name": "Best-of lofi hip-hop 2021",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fb9816c0fecf93437da2830d"
+      },
+      "duration_ms": 158709,
+      "played_at": "2026-08-26T02:42:04.866Z"
+    },
+    {
+      "id": "4gD9t8qDzKXlxWMy4CWdGI",
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/4gD9t8qDzKXlxWMy4CWdGI",
+      "artists": [
+        {
+          "id": "059FO27JuDB25OC6L8ILqm",
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/059FO27JuDB25OC6L8ILqm"
+        }
+      ],
+      "album": {
+        "name": "Distant Worlds II",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a517334fda9af1306664c8a3"
+      },
+      "duration_ms": 157659,
+      "played_at": "2026-08-26T02:39:35.193Z"
+    },
+    {
+      "id": "2r4pc5Oau4gYkVjA4NEw7v",
+      "name": "Ivory",
+      "url": "https://open.spotify.com/track/2r4pc5Oau4gYkVjA4NEw7v",
+      "artists": [
+        {
+          "id": "5H3acacLmK93wEdJWZhERU",
+          "name": "trxxshed",
+          "url": "https://open.spotify.com/artist/5H3acacLmK93wEdJWZhERU"
+        },
+        {
+          "id": "1R9fj5Tiy9XMFp5ANzS7FA",
+          "name": "Jhove",
+          "url": "https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA"
+        }
+      ],
+      "album": {
+        "name": "Retro Colors",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732c72897248f00fb394318f96"
+      },
+      "duration_ms": 147000,
+      "played_at": "2026-08-26T02:37:06.464Z"
+    },
+    {
+      "id": "3MwVsYCDEt3U76cuyorfsD",
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3MwVsYCDEt3U76cuyorfsD",
+      "artists": [
+        {
+          "id": "4vv1FFVqxnHyQFLmWxjizb",
+          "name": "Hevi",
+          "url": "https://open.spotify.com/artist/4vv1FFVqxnHyQFLmWxjizb"
+        },
+        {
+          "id": "4n9z9czt00gzw36hdoVU3G",
+          "name": "Kainbeats",
+          "url": "https://open.spotify.com/artist/4n9z9czt00gzw36hdoVU3G"
+        }
+      ],
+      "album": {
+        "name": "Drifting Away",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dfd80461283c5ab0b3d4a0a2"
+      },
+      "duration_ms": 126692,
+      "played_at": "2026-08-26T02:34:48.452Z"
+    },
+    {
+      "id": "4C4TXEyMjcfCTr0Yio5uBX",
+      "name": "good friends",
+      "url": "https://open.spotify.com/track/4C4TXEyMjcfCTr0Yio5uBX",
+      "artists": [
+        {
+          "id": "3DS80e9pCgy5RyTztgncuC",
+          "name": "Tatami Construct",
+          "url": "https://open.spotify.com/artist/3DS80e9pCgy5RyTztgncuC"
+        },
+        {
+          "id": "1bbah9s09626gweOzzLbKG",
+          "name": "Towerz",
+          "url": "https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG"
+        }
+      ],
+      "album": {
+        "name": "Hidden World",
+        "image": "https://i.scdn.co/image/ab67616d0000b27397ed9d9795f3a0777588d346"
+      },
+      "duration_ms": 144000,
+      "played_at": "2026-08-26T02:32:50.747Z"
+    },
+    {
+      "id": "71btbtlrq64UB8GL3gmqtr",
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/71btbtlrq64UB8GL3gmqtr",
+      "artists": [
+        {
+          "id": "6ALIOkppAXyMd9G0MbHqOL",
+          "name": "Kayba",
+          "url": "https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL"
+        },
+        {
+          "id": "2UxHowdAHxVWPhQQswzpT6",
+          "name": "Lomme",
+          "url": "https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6"
+        }
+      ],
+      "album": {
+        "name": "Explore",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d4b27d6bb0042cbd9f2cedca"
+      },
+      "duration_ms": 147692,
+      "played_at": "2026-08-26T02:30:35.735Z"
     }
   ]
 }
