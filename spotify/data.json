@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-27T06:53:53.935557+00:00",
+  "updated_at": "2026-08-27T21:38:07.579498+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -74,16 +74,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
     },
     {
-      "id": "1b8kpp4DUwt1hWaxTiWQhD",
-      "name": "Gal Costa",
-      "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb9ba799363b79e9a73b2c303a"
-    },
-    {
       "id": "0e86yPdC41PGRkLp2Q1Bph",
       "name": "Mother Mother",
       "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph",
       "image": "https://i.scdn.co/image/ab6761610000e5ebb87f3a2808a2660deca9a3b7"
+    },
+    {
+      "id": "1b8kpp4DUwt1hWaxTiWQhD",
+      "name": "Gal Costa",
+      "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb9ba799363b79e9a73b2c303a"
     },
     {
       "id": "7Brxri4l1ATShikyHXsEr6",
@@ -475,6 +475,600 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3z7YYkTNEpG6FXIuZmfnPg",
+      "name": "É Tudo Meu",
+      "url": "https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 182625,
+      "played_at": "2026-08-27T21:23:19.738Z"
+    },
+    {
+      "id": "0gOXG1Zpk7yWGIv7Srl0mc",
+      "name": "Sequencia do Repete",
+      "url": "https://open.spotify.com/track/0gOXG1Zpk7yWGIv7Srl0mc",
+      "artists": [
+        {
+          "id": "22RXQj1gd5zEbcRjdxiJbu",
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        },
+        {
+          "id": "4kEtpjbEnSh4WNeLF1IeG7",
+          "name": "MC Zudo Boladão",
+          "url": "https://open.spotify.com/artist/4kEtpjbEnSh4WNeLF1IeG7"
+        },
+        {
+          "id": "0Vxqvpm9tpZcz6d4egDtjX",
+          "name": "MC PR",
+          "url": "https://open.spotify.com/artist/0Vxqvpm9tpZcz6d4egDtjX"
+        },
+        {
+          "id": "07uP31efUtxj4xfgWYitcY",
+          "name": "Mc Galaxia",
+          "url": "https://open.spotify.com/artist/07uP31efUtxj4xfgWYitcY"
+        },
+        {
+          "id": "3FPXlDlvOoKaDRrqQcFH8l",
+          "name": "Mc Grigo 22",
+          "url": "https://open.spotify.com/artist/3FPXlDlvOoKaDRrqQcFH8l"
+        }
+      ],
+      "album": {
+        "name": "Set Final de Ano",
+        "image": "https://i.scdn.co/image/ab67616d0000b273db2372d3fd9ee1117eedc317"
+      },
+      "duration_ms": 111552,
+      "played_at": "2026-08-27T21:16:18.640Z"
+    },
+    {
+      "id": "4SbdUBm7EHjYSPW5KXgAEZ",
+      "name": "Achei Que Era Pagode",
+      "url": "https://open.spotify.com/track/4SbdUBm7EHjYSPW5KXgAEZ",
+      "artists": [
+        {
+          "id": "6276zy2XCEnVKkUN2VrcZ6",
+          "name": "Digdin",
+          "url": "https://open.spotify.com/artist/6276zy2XCEnVKkUN2VrcZ6"
+        },
+        {
+          "id": "0q3ElVcc042mnCyUBce8CG",
+          "name": "Mc Priscila",
+          "url": "https://open.spotify.com/artist/0q3ElVcc042mnCyUBce8CG"
+        },
+        {
+          "id": "0ccPgj6OLaH1ZouAB6gO2T",
+          "name": "Corvina Dj",
+          "url": "https://open.spotify.com/artist/0ccPgj6OLaH1ZouAB6gO2T"
+        },
+        {
+          "id": "4HtkrcbPO73MxUdD0M12Dz",
+          "name": "MC ERYCK HK",
+          "url": "https://open.spotify.com/artist/4HtkrcbPO73MxUdD0M12Dz"
+        },
+        {
+          "id": "7yq1E7CCXcq43AcjgYYssR",
+          "name": "DJ Ferrujo da Serra",
+          "url": "https://open.spotify.com/artist/7yq1E7CCXcq43AcjgYYssR"
+        },
+        {
+          "id": "1vQmEkUObXvubDjIJb4Urv",
+          "name": "DJ Tezinho",
+          "url": "https://open.spotify.com/artist/1vQmEkUObXvubDjIJb4Urv"
+        }
+      ],
+      "album": {
+        "name": "Achei Que Era Pagode",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737de7121117aa6016b15cd7c9"
+      },
+      "duration_ms": 147727,
+      "played_at": "2026-08-27T21:14:36.136Z"
+    },
+    {
+      "id": "5Qjz1w6gyWje58AK2u0IMV",
+      "name": "Putaria 2000",
+      "url": "https://open.spotify.com/track/5Qjz1w6gyWje58AK2u0IMV",
+      "artists": [
+        {
+          "id": "0zbO4WWM2wJM3ulFmCbMwB",
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "id": "4EEMmF8KqAKox5uogK8uhy",
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
+        }
+      ],
+      "album": {
+        "name": "Putaria 2000",
+        "image": "https://i.scdn.co/image/ab67616d0000b273016632b56ae3d271ebfaba4d"
+      },
+      "duration_ms": 107204,
+      "played_at": "2026-08-27T21:01:57.265Z"
+    },
+    {
+      "id": "58yGiA1glEPIeGMoCcRPoB",
+      "name": "Tatuagem do Teu Ex 2",
+      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
+      "artists": [
+        {
+          "id": "36MLP28p1UX0xIRdhZTeUc",
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "id": "7Esv5D6U1qtVOHbXihKgea",
+          "name": "DJ MAVI",
+          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+        },
+        {
+          "id": "2TGtBMeVz0MkIATkn2gHhe",
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        },
+        {
+          "id": "2sQHo73pQF1OTq3lDuQhlO",
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "album": {
+        "name": "Tatuagem do Teu Ex 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
+      },
+      "duration_ms": 133138,
+      "played_at": "2026-08-27T21:00:19.086Z"
+    },
+    {
+      "id": "5dxHYAiCZnqsolgrrbfVU6",
+      "name": "BEBIDA DROGA E SEXO",
+      "url": "https://open.spotify.com/track/5dxHYAiCZnqsolgrrbfVU6",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "7ufHJna3thtyJ5b2X7zY3W",
+          "name": "MC Donzela",
+          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
+        },
+        {
+          "id": "3kyCaYYNMNumGoI3Gn179C",
+          "name": "DJ NDM",
+          "url": "https://open.spotify.com/artist/3kyCaYYNMNumGoI3Gn179C"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "BEBIDA DROGA E SEXO",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739707f207ca2c003d0578c2e8"
+      },
+      "duration_ms": 162461,
+      "played_at": "2026-08-27T20:56:02.299Z"
+    },
+    {
+      "id": "2pRfTAHIsEJTmOYQogZBic",
+      "name": "Vai deitar sem Sono",
+      "url": "https://open.spotify.com/track/2pRfTAHIsEJTmOYQogZBic",
+      "artists": [
+        {
+          "id": "1rXWQkRMKVJhZOsKI2Xcjq",
+          "name": "Mc Souza",
+          "url": "https://open.spotify.com/artist/1rXWQkRMKVJhZOsKI2Xcjq"
+        }
+      ],
+      "album": {
+        "name": "Vai deitar sem Sono",
+        "image": "https://i.scdn.co/image/ab67616d0000b273be95a50583721af46beaaed5"
+      },
+      "duration_ms": 129230,
+      "played_at": "2026-08-27T20:53:28.892Z"
+    },
+    {
+      "id": "30F8TAtbxYAb1cz1FgKy63",
+      "name": "Vou Investir em Você",
+      "url": "https://open.spotify.com/track/30F8TAtbxYAb1cz1FgKy63",
+      "artists": [
+        {
+          "id": "0zbO4WWM2wJM3ulFmCbMwB",
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "id": "78jcF59aMpz63E2TYmntws",
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "id": "7w1eimo0NMZhuwNZTf4MHY",
+          "name": "LB Único",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "album": {
+        "name": "Vou Investir em Você",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739e9785af4e4bc4854d41c48c"
+      },
+      "duration_ms": 173538,
+      "played_at": "2026-08-27T20:51:28.629Z"
+    },
+    {
+      "id": "6qylu0VNKUfKiVi88WL3Ci",
+      "name": "Marolento",
+      "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci",
+      "artists": [
+        {
+          "id": "0zbO4WWM2wJM3ulFmCbMwB",
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "id": "6jBww4kwlSrjaNYP7AQPtX",
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "id": "25XJqeReVV38w0tR04GGBd",
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "id": "2E4sNJOOy9hae0J8DkT43M",
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "id": "1puzPcrOHKTMQ6KTuYfqU0",
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "id": "2PyMbAyHhTofwt07234U0f",
+          "name": "Pedro Bala",
+          "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
+        }
+      ],
+      "album": {
+        "name": "Marolento",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732132a9f6081362e7f24aa39e"
+      },
+      "duration_ms": 161379,
+      "played_at": "2026-08-27T20:48:00.009Z"
+    },
+    {
+      "id": "5tcdKHU3wqvFy8huoo4p68",
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "id": "5vl7Vj67mORmn0yJccFCfq",
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        }
+      ],
+      "album": {
+        "name": "Vício Inerente",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
+      },
+      "duration_ms": 190000,
+      "played_at": "2026-08-27T20:45:05.108Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-08-27T20:37:28.562Z"
+    },
+    {
+      "id": "1T9yLjCFIh5IcE2NXjNPjd",
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd",
+      "artists": [
+        {
+          "id": "3oDfBqnWBkgMSag02YYXHG",
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+          "name": "João Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273736ca1ef7935d87749d8f244"
+      },
+      "duration_ms": 154137,
+      "played_at": "2026-08-27T10:26:20.906Z"
+    },
+    {
+      "id": "1T9yLjCFIh5IcE2NXjNPjd",
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd",
+      "artists": [
+        {
+          "id": "3oDfBqnWBkgMSag02YYXHG",
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+          "name": "João Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273736ca1ef7935d87749d8f244"
+      },
+      "duration_ms": 154137,
+      "played_at": "2026-08-27T10:06:30.261Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-08-27T10:03:36.915Z"
+    },
+    {
+      "id": "2rTYjT1y8gR95ak0Xyic68",
+      "name": "Remember You (feat. Olivia Olson & Tom Kenny)",
+      "url": "https://open.spotify.com/track/2rTYjT1y8gR95ak0Xyic68",
+      "artists": [
+        {
+          "id": "3Op7D6tFVJCOHW6EAV0ck1",
+          "name": "Adventure Time",
+          "url": "https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1"
+        },
+        {
+          "id": "2sGZdCqPuoAaSLq9vGJWOe",
+          "name": "Tom Kenny",
+          "url": "https://open.spotify.com/artist/2sGZdCqPuoAaSLq9vGJWOe"
+        },
+        {
+          "id": "6md7K2UM0UBU0fzI5erQCb",
+          "name": "Olivia Olson",
+          "url": "https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb"
+        }
+      ],
+      "album": {
+        "name": "Adventure Time, Vol. 2 (Original Soundtrack)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273529f5b594d93451f004c7334"
+      },
+      "duration_ms": 135682,
+      "played_at": "2026-08-27T09:57:48.375Z"
+    },
+    {
+      "id": "3h1ipSBbufvYp6nDmkIJzQ",
+      "name": "Ruby Rider (feat. Charlyne Yi)",
+      "url": "https://open.spotify.com/track/3h1ipSBbufvYp6nDmkIJzQ",
+      "artists": [
+        {
+          "id": "4rF7c8zpCKzuSXohs2HIpA",
+          "name": "Steven Universe",
+          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
+        },
+        {
+          "id": "4g7sAbyq2q5Eou0inGABvw",
+          "name": "Charlyne Yi",
+          "url": "https://open.spotify.com/artist/4g7sAbyq2q5Eou0inGABvw"
+        }
+      ],
+      "album": {
+        "name": "Steven Universe, Vol. 2 (Original Soundtrack)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d74d3e00833d61d2455e448"
+      },
+      "duration_ms": 123745,
+      "played_at": "2026-08-27T07:16:35.052Z"
+    },
+    {
+      "id": "19siCk4vlsMuzQmLTwi5yt",
+      "name": "Isle Unto Thyself",
+      "url": "https://open.spotify.com/track/19siCk4vlsMuzQmLTwi5yt",
+      "artists": [
+        {
+          "id": "2FRXiAz5Uz78LLLSwEUhLt",
+          "name": "Miracle Musical",
+          "url": "https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt"
+        }
+      ],
+      "album": {
+        "name": "Hawaii: Part II",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432"
+      },
+      "duration_ms": 227346,
+      "played_at": "2026-08-27T07:14:40.241Z"
+    },
+    {
+      "id": "2o1PiGHw7EScDkUwDV1z8y",
+      "name": "Sitting Pretty",
+      "url": "https://open.spotify.com/track/2o1PiGHw7EScDkUwDV1z8y",
+      "artists": [
+        {
+          "id": "4BLdbgVNetzII3ggCMsNtq",
+          "name": "Madds Buckley",
+          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
+        }
+      ],
+      "album": {
+        "name": "Sitting Pretty",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733af24f4b0f9b706b722b0710"
+      },
+      "duration_ms": 250393,
+      "played_at": "2026-08-27T07:11:02.024Z"
+    },
+    {
+      "id": "4bZi0vF5fPvB2g8JiWDARW",
+      "name": "Evelyn Evelyn",
+      "url": "https://open.spotify.com/track/4bZi0vF5fPvB2g8JiWDARW",
+      "artists": [
+        {
+          "id": "2lbkouJ8JyhOM2Napjr4A4",
+          "name": "Evelyn Evelyn",
+          "url": "https://open.spotify.com/artist/2lbkouJ8JyhOM2Napjr4A4"
+        }
+      ],
+      "album": {
+        "name": "Evelyn Evelyn",
+        "image": "https://i.scdn.co/image/ab67616d0000b27388cae4a83ccfde0b2d41c52b"
+      },
+      "duration_ms": 276173,
+      "played_at": "2026-08-27T07:07:00.558Z"
+    },
+    {
+      "id": "1hJXpII24ReABFg8Ig6k7w",
+      "name": "Abbey",
+      "url": "https://open.spotify.com/track/1hJXpII24ReABFg8Ig6k7w",
+      "artists": [
+        {
+          "id": "2uYWxilOVlUdk4oV9DvwqK",
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "album": {
+        "name": "Lush",
+        "image": "https://i.scdn.co/image/ab67616d0000b27318bbdba0da26e4ae050fb1b8"
+      },
+      "duration_ms": 166706,
+      "played_at": "2026-08-27T07:02:33.443Z"
+    },
+    {
+      "id": "62FiLOP80W5f72mYuPdhxv",
+      "name": "Full Disclosure (feat. Zach Callison)",
+      "url": "https://open.spotify.com/track/62FiLOP80W5f72mYuPdhxv",
+      "artists": [
+        {
+          "id": "4rF7c8zpCKzuSXohs2HIpA",
+          "name": "Steven Universe",
+          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
+        },
+        {
+          "id": "57YFNq46Xx86nl7ETkd1Ei",
+          "name": "Zach Callison",
+          "url": "https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei"
+        }
+      ],
+      "album": {
+        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
+      },
+      "duration_ms": 97000,
+      "played_at": "2026-08-27T06:59:55.696Z"
+    },
+    {
+      "id": "7kfzX7ufDOV18X8l00ko4u",
+      "name": "Being Human - Single Version",
+      "url": "https://open.spotify.com/track/7kfzX7ufDOV18X8l00ko4u",
+      "artists": [
+        {
+          "id": "4uxtD4xLA6ey1JP0fNkQBM",
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/4uxtD4xLA6ey1JP0fNkQBM"
+        },
+        {
+          "id": "4sIyCz2Qurt0THKPlhYpgb",
+          "name": "aivi & surasshu",
+          "url": "https://open.spotify.com/artist/4sIyCz2Qurt0THKPlhYpgb"
+        },
+        {
+          "id": "1rI5ZwPEiSXyBslh9NDUKT",
+          "name": "Rebecca Sugar",
+          "url": "https://open.spotify.com/artist/1rI5ZwPEiSXyBslh9NDUKT"
+        },
+        {
+          "id": "3w0Wbs0fnS1gVRBFRFh0uE",
+          "name": "Roger Hicks",
+          "url": "https://open.spotify.com/artist/3w0Wbs0fnS1gVRBFRFh0uE"
+        },
+        {
+          "id": "5rVXWjcOgQUY1l7FraanUa",
+          "name": "Edwin Rhodes",
+          "url": "https://open.spotify.com/artist/5rVXWjcOgQUY1l7FraanUa"
+        },
+        {
+          "id": "5qZrSyfZ5g8IyeJJ62WMxh",
+          "name": "Travis Kindred",
+          "url": "https://open.spotify.com/artist/5qZrSyfZ5g8IyeJJ62WMxh"
+        }
+      ],
+      "album": {
+        "name": "Steven Universe Future (Original Soundtrack)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273172f6ffcc74ec70bfcd1d9e1"
+      },
+      "duration_ms": 106016,
+      "played_at": "2026-08-27T06:58:27.650Z"
+    },
+    {
+      "id": "2aDk1KkyB7ieSwwEDXCHJg",
+      "name": "The Mind Electric",
+      "url": "https://open.spotify.com/track/2aDk1KkyB7ieSwwEDXCHJg",
+      "artists": [
+        {
+          "id": "2FRXiAz5Uz78LLLSwEUhLt",
+          "name": "Miracle Musical",
+          "url": "https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt"
+        }
+      ],
+      "album": {
+        "name": "Hawaii: Part II",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432"
+      },
+      "duration_ms": 373359,
+      "played_at": "2026-08-27T06:56:50.626Z"
+    },
     {
       "id": "1mZ7f37mVxW347a63p576D",
       "name": "Thing",
@@ -1065,480 +1659,6 @@
       },
       "duration_ms": 291317,
       "played_at": "2026-08-27T05:30:09.813Z"
-    },
-    {
-      "id": "2eqzI3kGqPk93vz8RkASfA",
-      "name": "It's Over Isn't It (feat. Deedee Magno Hall)",
-      "url": "https://open.spotify.com/track/2eqzI3kGqPk93vz8RkASfA",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "5QGswxSXQUHzQoc2r9hVPI",
-          "name": "Deedee Magno Hall",
-          "url": "https://open.spotify.com/artist/5QGswxSXQUHzQoc2r9hVPI"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
-      },
-      "duration_ms": 138006,
-      "played_at": "2026-08-27T05:25:27.573Z"
-    },
-    {
-      "id": "4ZHGRFGwjnEIXHG2FhcDPv",
-      "name": "I Hear a Symphony",
-      "url": "https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv",
-      "artists": [
-        {
-          "id": "7dOCnyDR2oEa1hQlvTXvdT",
-          "name": "Cody Fry",
-          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
-        }
-      ],
-      "album": {
-        "name": "Flying",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ae2fcfd361e13fd65a47363e"
-      },
-      "duration_ms": 185176,
-      "played_at": "2026-08-27T05:23:18.571Z"
-    },
-    {
-      "id": "0Dhe6vjPMRLFhmmEMT6OHs",
-      "name": "Drift Away Omnichord",
-      "url": "https://open.spotify.com/track/0Dhe6vjPMRLFhmmEMT6OHs",
-      "artists": [
-        {
-          "id": "3f1O89U9qMnCQbqcwmNXNV",
-          "name": "Trillian",
-          "url": "https://open.spotify.com/artist/3f1O89U9qMnCQbqcwmNXNV"
-        }
-      ],
-      "album": {
-        "name": "Drift Away Omnichord",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3300af94a7550f6f3e1942f"
-      },
-      "duration_ms": 193018,
-      "played_at": "2026-08-27T05:20:22.364Z"
-    },
-    {
-      "id": "1Jwie6qjH5PLhWFuY7zXfg",
-      "name": "Up and Down",
-      "url": "https://open.spotify.com/track/1Jwie6qjH5PLhWFuY7zXfg",
-      "artists": [
-        {
-          "id": "0ydTotn3IHqcZ9LaNVSyT3",
-          "name": "Judi Singh",
-          "url": "https://open.spotify.com/artist/0ydTotn3IHqcZ9LaNVSyT3"
-        }
-      ],
-      "album": {
-        "name": "A Time For Love",
-        "image": "https://i.scdn.co/image/ab67616d0000b27330e9ca3133576772868c6443"
-      },
-      "duration_ms": 221813,
-      "played_at": "2026-08-27T05:17:18.331Z"
-    },
-    {
-      "id": "5411TEB6tlzvuF5A4oyldr",
-      "name": "Francis Forever",
-      "url": "https://open.spotify.com/track/5411TEB6tlzvuF5A4oyldr",
-      "artists": [
-        {
-          "id": "2uYWxilOVlUdk4oV9DvwqK",
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "album": {
-        "name": "Bury Me At Makeout Creek",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e90db8983ebd43b776694179"
-      },
-      "duration_ms": 149680,
-      "played_at": "2026-08-27T05:13:45.525Z"
-    },
-    {
-      "id": "3pp8dCqnbhs9NEpWz836sc",
-      "name": "Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone & Sarah Stiles) - Reprise",
-      "url": "https://open.spotify.com/track/3pp8dCqnbhs9NEpWz836sc",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "5NIkWjqBwqrnKwlVk66yDn",
-          "name": "Christine Ebersole",
-          "url": "https://open.spotify.com/artist/5NIkWjqBwqrnKwlVk66yDn"
-        },
-        {
-          "id": "0z7Yuv7DuDQ5SaVn4VSlLt",
-          "name": "Lisa Hannigan",
-          "url": "https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt"
-        },
-        {
-          "id": "5VHtlZ44YzNmJY3G7nF944",
-          "name": "Patti LuPone",
-          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
-        },
-        {
-          "id": "7AdaaN0SN1NF24cTg9RPga",
-          "name": "Sarah Stiles",
-          "url": "https://open.spotify.com/artist/7AdaaN0SN1NF24cTg9RPga"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe The Movie (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27304382e3ca53d25acbef29d0b"
-      },
-      "duration_ms": 112201,
-      "played_at": "2026-08-27T05:11:24.869Z"
-    },
-    {
-      "id": "3Kh7jZ6QdVJJq63A3xRneN",
-      "name": "Again & Again",
-      "url": "https://open.spotify.com/track/3Kh7jZ6QdVJJq63A3xRneN",
-      "artists": [
-        {
-          "id": "65XA3lk0aG9XejO8y37jjD",
-          "name": "the bird and the bee",
-          "url": "https://open.spotify.com/artist/65XA3lk0aG9XejO8y37jjD"
-        }
-      ],
-      "album": {
-        "name": "the bird and the bee",
-        "image": "https://i.scdn.co/image/ab67616d0000b273485396dfe12cd25c4f743873"
-      },
-      "duration_ms": 165600,
-      "played_at": "2026-08-27T05:09:41.673Z"
-    },
-    {
-      "id": "7LpY1rFYJINvy3WQyC95tD",
-      "name": "may you never forget me",
-      "url": "https://open.spotify.com/track/7LpY1rFYJINvy3WQyC95tD",
-      "artists": [
-        {
-          "id": "6C28zKEQyk8yNoiQcqWbcQ",
-          "name": "Temachii",
-          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
-        }
-      ],
-      "album": {
-        "name": "flora maniia",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ac4a383aa9f6935cb7bb03e4"
-      },
-      "duration_ms": 215064,
-      "played_at": "2026-08-27T05:07:05.089Z"
-    },
-    {
-      "id": "0AFydkgl5Creero3gNjqvF",
-      "name": "Murders",
-      "url": "https://open.spotify.com/track/0AFydkgl5Creero3gNjqvF",
-      "artists": [
-        {
-          "id": "2FRXiAz5Uz78LLLSwEUhLt",
-          "name": "Miracle Musical",
-          "url": "https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt"
-        }
-      ],
-      "album": {
-        "name": "Hawaii: Part II",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432"
-      },
-      "duration_ms": 222985,
-      "played_at": "2026-08-27T05:03:38.974Z"
-    },
-    {
-      "id": "1HOhw9h6IpSVpFPS6OzUu4",
-      "name": "Oh Ana",
-      "url": "https://open.spotify.com/track/1HOhw9h6IpSVpFPS6OzUu4",
-      "artists": [
-        {
-          "id": "0e86yPdC41PGRkLp2Q1Bph",
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "album": {
-        "name": "Touch Up",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739334fc21964be25ec3179f0f"
-      },
-      "duration_ms": 197080,
-      "played_at": "2026-08-27T05:00:05.080Z"
-    },
-    {
-      "id": "5UOXwSPgkkOf8Ba9ehmDgu",
-      "name": "Peace and Love on the Planet Earth (feat. Zach Callison, Estelle, Deedee Magno Hall, Michaela Dietz & Shelby Rabara)",
-      "url": "https://open.spotify.com/track/5UOXwSPgkkOf8Ba9ehmDgu",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "57YFNq46Xx86nl7ETkd1Ei",
-          "name": "Zach Callison",
-          "url": "https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei"
-        },
-        {
-          "id": "6fYhIfhfeVpKztZc4Eqag7",
-          "name": "Shelby Rabara",
-          "url": "https://open.spotify.com/artist/6fYhIfhfeVpKztZc4Eqag7"
-        },
-        {
-          "id": "3MBBCjjwCjbeikYXPswyZc",
-          "name": "Michaela Dietz",
-          "url": "https://open.spotify.com/artist/3MBBCjjwCjbeikYXPswyZc"
-        },
-        {
-          "id": "5T0MSzX9RC5NA6gAI6irSn",
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        },
-        {
-          "id": "5QGswxSXQUHzQoc2r9hVPI",
-          "name": "Deedee Magno Hall",
-          "url": "https://open.spotify.com/artist/5QGswxSXQUHzQoc2r9hVPI"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
-      },
-      "duration_ms": 112198,
-      "played_at": "2026-08-27T04:56:56.959Z"
-    },
-    {
-      "id": "7FHj19QQigvMH1onMYRNLn",
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/7FHj19QQigvMH1onMYRNLn",
-      "artists": [
-        {
-          "id": "2uYWxilOVlUdk4oV9DvwqK",
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "album": {
-        "name": "Retired from Sad, New Career in Business",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334b5e51adeea6f1aa2285ce3"
-      },
-      "duration_ms": 183792,
-      "played_at": "2026-08-27T04:55:13.674Z"
-    },
-    {
-      "id": "2n0U2OG5d6TuW5mKx7YrC0",
-      "name": "Two Birds",
-      "url": "https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0",
-      "artists": [
-        {
-          "id": "3z6Gk257P9jNcZbBXJNX5i",
-          "name": "Regina Spektor",
-          "url": "https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i"
-        }
-      ],
-      "album": {
-        "name": "Far",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c06f8d26d1620c4689f8d46a"
-      },
-      "duration_ms": 195840,
-      "played_at": "2026-08-27T04:52:18.921Z"
-    },
-    {
-      "id": "2gvmxusSOe3vNjNDjQWaso",
-      "name": "My Alcoholic Friends",
-      "url": "https://open.spotify.com/track/2gvmxusSOe3vNjNDjQWaso",
-      "artists": [
-        {
-          "id": "5JqX1glXPg6428ubI1w72i",
-          "name": "The Dresden Dolls",
-          "url": "https://open.spotify.com/artist/5JqX1glXPg6428ubI1w72i"
-        }
-      ],
-      "album": {
-        "name": "Yes, Virginia",
-        "image": "https://i.scdn.co/image/ab67616d0000b27392adfb971e67f88466e79edf"
-      },
-      "duration_ms": 167680,
-      "played_at": "2026-08-27T04:49:12.137Z"
-    },
-    {
-      "id": "2k47MKPoBLFbKwqP796ZAA",
-      "name": "rises the moon",
-      "url": "https://open.spotify.com/track/2k47MKPoBLFbKwqP796ZAA",
-      "artists": [
-        {
-          "id": "5zVu34ozw0BzXIcNHqkO0u",
-          "name": "Liana Flores",
-          "url": "https://open.spotify.com/artist/5zVu34ozw0BzXIcNHqkO0u"
-        }
-      ],
-      "album": {
-        "name": "recently",
-        "image": "https://i.scdn.co/image/ab67616d0000b273effe26bfdf05230a512f68f2"
-      },
-      "duration_ms": 161929,
-      "played_at": "2026-08-27T04:46:33.408Z"
-    },
-    {
-      "id": "5wYuFvL7exa1EltUAxBkuq",
-      "name": "Familiar (feat. Zach Callison)",
-      "url": "https://open.spotify.com/track/5wYuFvL7exa1EltUAxBkuq",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "57YFNq46Xx86nl7ETkd1Ei",
-          "name": "Zach Callison",
-          "url": "https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe, Vol. 2 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734d74d3e00833d61d2455e448"
-      },
-      "duration_ms": 152349,
-      "played_at": "2026-08-27T04:44:00.574Z"
-    },
-    {
-      "id": "0SyDN2bmZtpM5Kr0y1DE6G",
-      "name": "Ghosting",
-      "url": "https://open.spotify.com/track/0SyDN2bmZtpM5Kr0y1DE6G",
-      "artists": [
-        {
-          "id": "0e86yPdC41PGRkLp2Q1Bph",
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "album": {
-        "name": "O My Heart",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767"
-      },
-      "duration_ms": 285986,
-      "played_at": "2026-08-27T04:41:37.153Z"
-    },
-    {
-      "id": "3pANfZVFdtuVnJsE6xa5Ox",
-      "name": "Me and My Husband",
-      "url": "https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox",
-      "artists": [
-        {
-          "id": "2uYWxilOVlUdk4oV9DvwqK",
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "album": {
-        "name": "Be the Cowboy",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c428f67b4a9b7e1114dfc117"
-      },
-      "duration_ms": 137141,
-      "played_at": "2026-08-27T04:37:00.172Z"
-    },
-    {
-      "id": "3YFHsrIJBPwoInrbdto7Q4",
-      "name": "The Red Means I Love You",
-      "url": "https://open.spotify.com/track/3YFHsrIJBPwoInrbdto7Q4",
-      "artists": [
-        {
-          "id": "4BLdbgVNetzII3ggCMsNtq",
-          "name": "Madds Buckley",
-          "url": "https://open.spotify.com/artist/4BLdbgVNetzII3ggCMsNtq"
-        }
-      ],
-      "album": {
-        "name": "Sunset on Summerville",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731dbc999090a14535535ae485"
-      },
-      "duration_ms": 233979,
-      "played_at": "2026-08-27T04:34:51.988Z"
-    },
-    {
-      "id": "3RznzRnsl8mzP63l4AF2M7",
-      "name": "Dream Sweet in Sea Major",
-      "url": "https://open.spotify.com/track/3RznzRnsl8mzP63l4AF2M7",
-      "artists": [
-        {
-          "id": "2FRXiAz5Uz78LLLSwEUhLt",
-          "name": "Miracle Musical",
-          "url": "https://open.spotify.com/artist/2FRXiAz5Uz78LLLSwEUhLt"
-        }
-      ],
-      "album": {
-        "name": "Hawaii: Part II",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b3d0bf02a5fb2f676c748432"
-      },
-      "duration_ms": 420012,
-      "played_at": "2026-08-27T04:31:07.079Z"
-    },
-    {
-      "id": "4qmT806nB5E33pZSYYqWcU",
-      "name": "Stronger Than You (feat. Estelle)",
-      "url": "https://open.spotify.com/track/4qmT806nB5E33pZSYYqWcU",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "5T0MSzX9RC5NA6gAI6irSn",
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
-      },
-      "duration_ms": 172636,
-      "played_at": "2026-08-27T04:24:16.084Z"
-    },
-    {
-      "id": "0RjG5JmdOWXAR68dGlKBA5",
-      "name": "Hidden In the Sand",
-      "url": "https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5",
-      "artists": [
-        {
-          "id": "7lqaPghwYv2mE9baz5XQmL",
-          "name": "Tally Hall",
-          "url": "https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL"
-        }
-      ],
-      "album": {
-        "name": "Marvin's Marvelous Mechanical Museum",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b9ccb466665c2ac10dc0d628"
-      },
-      "duration_ms": 112960,
-      "played_at": "2026-08-27T04:21:32.484Z"
-    },
-    {
-      "id": "007JQyyu6DrGza9XX6scAN",
-      "name": "Wrecking Ball",
-      "url": "https://open.spotify.com/track/007JQyyu6DrGza9XX6scAN",
-      "artists": [
-        {
-          "id": "0e86yPdC41PGRkLp2Q1Bph",
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "album": {
-        "name": "O My Heart",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767"
-      },
-      "duration_ms": 194320,
-      "played_at": "2026-08-27T04:19:48.459Z"
     }
   ]
 }
