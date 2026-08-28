@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T08:41:51.941628+00:00",
+  "updated_at": "2026-08-28T21:40:17.551326+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -8,16 +8,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebf35e1c3f88c658be155a2db2"
     },
     {
-      "id": "2QLSJqqGIstNbO6nYRR16o",
-      "name": "DUDA BEAT",
-      "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783"
-    },
-    {
       "id": "1U1el3k54VvEUzo3ybLPlM",
       "name": "Kali Uchis",
       "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM",
       "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a"
+    },
+    {
+      "id": "2QLSJqqGIstNbO6nYRR16o",
+      "name": "DUDA BEAT",
+      "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783"
     },
     {
       "id": "00FQb4jTyendYWaN8pK0wa",
@@ -98,16 +98,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816"
     },
     {
-      "id": "3yY2gUcIsjMr8hjo51PoJ8",
-      "name": "The Smiths",
-      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
-      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
-    },
-    {
       "id": "7Ln80lUS6He07XvHI8qqHH",
       "name": "Arctic Monkeys",
       "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
       "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f"
+    },
+    {
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "name": "The Smiths",
+      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
     },
     {
       "id": "7IAXZaLTb6nkJr8RmVPn5y",
@@ -333,23 +333,6 @@
       "duration_ms": 212693
     },
     {
-      "id": "6Zv4HVHfadVo3JQSSbwY7r",
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/6Zv4HVHfadVo3JQSSbwY7r",
-      "artists": [
-        {
-          "id": "7Brxri4l1ATShikyHXsEr6",
-          "name": "Los Hermanos",
-          "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6"
-        }
-      ],
-      "album": {
-        "name": "Bloco Do Eu Sozinho",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739a9b702689f4df55273ec029"
-      },
-      "duration_ms": 310093
-    },
-    {
       "id": "3oEkrIfXfSh9zGnE7eBzSV",
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV",
@@ -472,9 +455,223 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
       },
       "duration_ms": 182306
+    },
+    {
+      "id": "6PKoUpo9sis5LWkMXSck6f",
+      "name": "Territorial",
+      "url": "https://open.spotify.com/track/6PKoUpo9sis5LWkMXSck6f",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Sincerely,",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2"
+      },
+      "duration_ms": 194637
     }
   ],
   "recently_played": [
+    {
+      "id": "3HiBLTcFTY58Csk7BCkIGO",
+      "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+      "url": "https://open.spotify.com/track/3HiBLTcFTY58Csk7BCkIGO",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "id": "0J4DHkFbIhACgOkPFvWl9Y",
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "5W0yWqP7U3b2Y89gSgR9OD",
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f4becaa242c2600d970637e6"
+      },
+      "duration_ms": 209142,
+      "played_at": "2026-08-28T21:04:33.892Z"
+    },
+    {
+      "id": "0J04fTkB0VXZXWzsIK8gKn",
+      "name": "Somos Amigas",
+      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Edição Completa)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+      },
+      "duration_ms": 152389,
+      "played_at": "2026-08-28T21:01:04.585Z"
+    },
+    {
+      "id": "1bl2YM4oCjwZVOrtXIq6vB",
+      "name": "VICIADA",
+      "url": "https://open.spotify.com/track/1bl2YM4oCjwZVOrtXIq6vB",
+      "artists": [
+        {
+          "id": "5KpJINAPgQnczxnDtHskwT",
+          "name": "BZLNN",
+          "url": "https://open.spotify.com/artist/5KpJINAPgQnczxnDtHskwT"
+        },
+        {
+          "id": "6Xk7H8ufVBIZcgGWAhY9b3",
+          "name": "DJ RaMeMes (O DESTRUIDOR DO FUNK)",
+          "url": "https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3"
+        }
+      ],
+      "album": {
+        "name": "VICIADA",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734e38308be8c1f384d7897e7f"
+      },
+      "duration_ms": 81692,
+      "played_at": "2026-08-28T20:56:43.194Z"
+    },
+    {
+      "id": "2qnP80eqDwpQHdFnYA1dQN",
+      "name": "q prazer",
+      "url": "https://open.spotify.com/track/2qnP80eqDwpQHdFnYA1dQN",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 213532,
+      "played_at": "2026-08-28T20:55:21.776Z"
+    },
+    {
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "played_at": "2026-08-28T20:51:48.008Z"
+    },
+    {
+      "id": "1YtSJMWeo0EReUtuRkSZoh",
+      "name": "Temporal - ESPECIAL",
+      "url": "https://open.spotify.com/track/1YtSJMWeo0EReUtuRkSZoh",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "Especial de Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302dfb2e5ab6677ac2bab1a19"
+      },
+      "duration_ms": 203639,
+      "played_at": "2026-08-28T20:49:08.789Z"
+    },
+    {
+      "id": "7nGGKB0KX7FojvyJ5DNrK3",
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 217916,
+      "played_at": "2026-08-28T20:41:04.510Z"
+    },
+    {
+      "id": "7nGGKB0KX7FojvyJ5DNrK3",
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 217916,
+      "played_at": "2026-08-28T20:37:29.791Z"
+    },
+    {
+      "id": "0ghVM7aQqTeA4QkfsZnQvJ",
+      "name": "Vive",
+      "url": "https://open.spotify.com/track/0ghVM7aQqTeA4QkfsZnQvJ",
+      "artists": [
+        {
+          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "album": {
+        "name": "Rua dos Amores",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736cce8e319f857f9470096138"
+      },
+      "duration_ms": 322266,
+      "played_at": "2026-08-28T20:36:40.971Z"
+    },
     {
       "id": "1HVkisttB0LgE0gxcqsnG4",
       "name": "Fala",
@@ -1066,7 +1263,7 @@
       ],
       "album": {
         "name": "Color Within Everything",
-        "image": "https://i.scdn.co/image/ab67616d0000b273798e1b8422ac2c0eb1367b6a"
+        "image": "https://i.scdn.co/image/ab67616d0000b27372897d2f238e6c108a524d2f"
       },
       "duration_ms": 174246,
       "played_at": "2026-08-28T05:43:48.543Z"
@@ -1089,7 +1286,7 @@
       ],
       "album": {
         "name": "Latibule",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c74b6f5c57b93820354b8cc7"
+        "image": "https://i.scdn.co/image/ab67616d0000b273cd954a7c604f41490e2aa3f1"
       },
       "duration_ms": 140571,
       "played_at": "2026-08-28T05:10:32.829Z"
@@ -1112,7 +1309,7 @@
       ],
       "album": {
         "name": "beyond the pines",
-        "image": "https://i.scdn.co/image/ab67616d0000b273daef1a63997d727fb2befae6"
+        "image": "https://i.scdn.co/image/ab67616d0000b27375996f179cb7009f000cc356"
       },
       "duration_ms": 143414,
       "played_at": "2026-08-28T05:08:21.225Z"
@@ -1130,7 +1327,7 @@
       ],
       "album": {
         "name": "In My Head",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c60b8a9ca87dcf8e81202134"
+        "image": "https://i.scdn.co/image/ab67616d0000b27300a48db45f3bc55c5dc99ac7"
       },
       "duration_ms": 213038,
       "played_at": "2026-08-28T05:06:06.830Z"
@@ -1153,7 +1350,7 @@
       ],
       "album": {
         "name": "After Life",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f5745aa043aad5c3b97a646e"
+        "image": "https://i.scdn.co/image/ab67616d0000b273bada886029cafebbf8dd645b"
       },
       "duration_ms": 168000,
       "played_at": "2026-08-28T05:02:42.835Z"
@@ -1171,7 +1368,7 @@
       ],
       "album": {
         "name": "Moving On",
-        "image": "https://i.scdn.co/image/ab67616d0000b27332df779af263ef72d4e2752c"
+        "image": "https://i.scdn.co/image/ab67616d0000b27329e2cb5ad79b560f4b79b1b7"
       },
       "duration_ms": 171870,
       "played_at": "2026-08-28T05:00:03.771Z"
@@ -1189,7 +1386,7 @@
       ],
       "album": {
         "name": "Close To Home",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d6399cdf310346d1f0e4f746"
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8c33d309ba513d864ea90a5"
       },
       "duration_ms": 144615,
       "played_at": "2026-08-28T04:57:20.816Z"
@@ -1207,7 +1404,7 @@
       ],
       "album": {
         "name": "When I Dreamt of You",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732b1fa71ada7b0b5781f14311"
+        "image": "https://i.scdn.co/image/ab67616d0000b27398384c6262b46857facfa9f7"
       },
       "duration_ms": 155951,
       "played_at": "2026-08-28T04:55:05.209Z"
@@ -1225,7 +1422,7 @@
       ],
       "album": {
         "name": "The Day I Passed",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736aaaf845369fb182058b2db1"
+        "image": "https://i.scdn.co/image/ab67616d0000b273be39d8768fb43aa29d2f19d6"
       },
       "duration_ms": 178124,
       "played_at": "2026-08-28T04:52:38.219Z"
@@ -1243,207 +1440,10 @@
       ],
       "album": {
         "name": "Windy City",
-        "image": "https://i.scdn.co/image/ab67616d0000b27398136443424651bb59eb7b23"
+        "image": "https://i.scdn.co/image/ab67616d0000b2734d1526bf8fcb9cf93bc301e1"
       },
       "duration_ms": 112065,
       "played_at": "2026-08-28T04:49:49.127Z"
-    },
-    {
-      "id": "6FwqELANqXOkMbzbMDEXx4",
-      "name": "Heart of the Sea",
-      "url": "https://open.spotify.com/track/6FwqELANqXOkMbzbMDEXx4",
-      "artists": [
-        {
-          "id": "5ffORofXMmNRRtwIeQsyW3",
-          "name": "Charlee Nguyen",
-          "url": "https://open.spotify.com/artist/5ffORofXMmNRRtwIeQsyW3"
-        },
-        {
-          "id": "1XFN3VcuKr4tsTtQlRiTgK",
-          "name": "Mondo Loops",
-          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
-        }
-      ],
-      "album": {
-        "name": "Amidst the Seven Seas",
-        "image": "https://i.scdn.co/image/ab67616d0000b27373401d6953637bccd7cbbbbc"
-      },
-      "duration_ms": 142325,
-      "played_at": "2026-08-28T04:48:06.073Z"
-    },
-    {
-      "id": "4y7KBwIXiKQA9xSUdGgPu5",
-      "name": "Holy Cloud",
-      "url": "https://open.spotify.com/track/4y7KBwIXiKQA9xSUdGgPu5",
-      "artists": [
-        {
-          "id": "4tQMVafcBzEyxZqY81q3Fj",
-          "name": "Tonion",
-          "url": "https://open.spotify.com/artist/4tQMVafcBzEyxZqY81q3Fj"
-        },
-        {
-          "id": "6ysKfYgiKUTMCuq2fSTLK3",
-          "name": "xander.",
-          "url": "https://open.spotify.com/artist/6ysKfYgiKUTMCuq2fSTLK3"
-        },
-        {
-          "id": "0EocooOvTYLsjqSSQdqiyi",
-          "name": "Dario Lessing",
-          "url": "https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi"
-        }
-      ],
-      "album": {
-        "name": "Stories of Synergy",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738ca7754db860445986fa3890"
-      },
-      "duration_ms": 205714,
-      "played_at": "2026-08-28T04:45:52.723Z"
-    },
-    {
-      "id": "2xF6nalb8gdyiDbRwVg2G0",
-      "name": "Opening",
-      "url": "https://open.spotify.com/track/2xF6nalb8gdyiDbRwVg2G0",
-      "artists": [
-        {
-          "id": "1Mh9G47YfuaLdQs44voLrQ",
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        }
-      ],
-      "album": {
-        "name": "Equation Of Time",
-        "image": "https://i.scdn.co/image/ab67616d0000b27384da42622f4a40b557e2db63"
-      },
-      "duration_ms": 135223,
-      "played_at": "2026-08-28T04:42:36.028Z"
-    },
-    {
-      "id": "5Vs4jKpzL8Q04FIGdaWNCI",
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/5Vs4jKpzL8Q04FIGdaWNCI",
-      "artists": [
-        {
-          "id": "7sRau6OFIdLc2jMdzZRt81",
-          "name": "Two Scents",
-          "url": "https://open.spotify.com/artist/7sRau6OFIdLc2jMdzZRt81"
-        },
-        {
-          "id": "5l1oiy2VufzI1tbdpiaoQi",
-          "name": "Lucid Keys",
-          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
-        }
-      ],
-      "album": {
-        "name": "Lately",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b2720a56b388853c8248ff1c"
-      },
-      "duration_ms": 149624,
-      "played_at": "2026-08-28T04:40:29.776Z"
-    },
-    {
-      "id": "33Ru1U4hGEOX2WFgpuV35p",
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/33Ru1U4hGEOX2WFgpuV35p",
-      "artists": [
-        {
-          "id": "1Mh9G47YfuaLdQs44voLrQ",
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        }
-      ],
-      "album": {
-        "name": "Life Is For Living",
-        "image": "https://i.scdn.co/image/ab67616d0000b27373dba5d877d3c5d2b5c8a25a"
-      },
-      "duration_ms": 181285,
-      "played_at": "2026-08-28T04:38:09.243Z"
-    },
-    {
-      "id": "3nRKUw2gDB4gitbplVrMlj",
-      "name": "Koshi",
-      "url": "https://open.spotify.com/track/3nRKUw2gDB4gitbplVrMlj",
-      "artists": [
-        {
-          "id": "0sLb0ouettR8lDLnEgCSVK",
-          "name": "Living Room",
-          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
-        },
-        {
-          "id": "0yABOXFZ5fJ1KyoXXgj5B0",
-          "name": "Otaam",
-          "url": "https://open.spotify.com/artist/0yABOXFZ5fJ1KyoXXgj5B0"
-        }
-      ],
-      "album": {
-        "name": "Memories",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733cc9afd9ede5ab6dc3acf450"
-      },
-      "duration_ms": 125571,
-      "played_at": "2026-08-28T04:35:16.863Z"
-    },
-    {
-      "id": "76l36NoH9xKW0vrHH857dQ",
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/76l36NoH9xKW0vrHH857dQ",
-      "artists": [
-        {
-          "id": "5l1oiy2VufzI1tbdpiaoQi",
-          "name": "Lucid Keys",
-          "url": "https://open.spotify.com/artist/5l1oiy2VufzI1tbdpiaoQi"
-        }
-      ],
-      "album": {
-        "name": "Fantasia - Vol II",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cbf8e756fe9503bf5d405d28"
-      },
-      "duration_ms": 160324,
-      "played_at": "2026-08-28T04:33:20.339Z"
-    },
-    {
-      "id": "7ID6up61pCzNkGDoNfhy7G",
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/7ID6up61pCzNkGDoNfhy7G",
-      "artists": [
-        {
-          "id": "1pvbdPT4qv8egDvkcOhBN0",
-          "name": "Swink",
-          "url": "https://open.spotify.com/artist/1pvbdPT4qv8egDvkcOhBN0"
-        },
-        {
-          "id": "1eDIWVJt7ZWKsrXw5WVNsN",
-          "name": "Lofi Girl",
-          "url": "https://open.spotify.com/artist/1eDIWVJt7ZWKsrXw5WVNsN"
-        }
-      ],
-      "album": {
-        "name": "Best-of lofi hip-hop 2021",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fb9816c0fecf93437da2830d"
-      },
-      "duration_ms": 200547,
-      "played_at": "2026-08-28T04:30:48.968Z"
-    },
-    {
-      "id": "4OazHeVrO2TvLd3txE0ExJ",
-      "name": "Inhale",
-      "url": "https://open.spotify.com/track/4OazHeVrO2TvLd3txE0ExJ",
-      "artists": [
-        {
-          "id": "1Mh9G47YfuaLdQs44voLrQ",
-          "name": "Hoogway",
-          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
-        },
-        {
-          "id": "6iuLyhiEemtogvz593CVKK",
-          "name": "Nowun",
-          "url": "https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK"
-        }
-      ],
-      "album": {
-        "name": "Moments To Keep",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dac8cdfb21ce48fa8b36ca2e"
-      },
-      "duration_ms": 161379,
-      "played_at": "2026-08-28T04:27:37.433Z"
     }
   ]
 }
