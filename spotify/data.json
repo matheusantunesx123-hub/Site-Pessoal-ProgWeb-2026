@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T05:19:45.183975+00:00",
+  "updated_at": "2026-08-29T12:10:19.504602+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -74,16 +74,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
     },
     {
-      "id": "0e86yPdC41PGRkLp2Q1Bph",
-      "name": "Mother Mother",
-      "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb87f3a2808a2660deca9a3b7"
-    },
-    {
       "id": "1b8kpp4DUwt1hWaxTiWQhD",
       "name": "Gal Costa",
       "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9ba799363b79e9a73b2c303a"
+    },
+    {
+      "id": "0e86yPdC41PGRkLp2Q1Bph",
+      "name": "Mother Mother",
+      "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb87f3a2808a2660deca9a3b7"
     },
     {
       "id": "7Brxri4l1ATShikyHXsEr6",
@@ -333,6 +333,23 @@
       "duration_ms": 212693
     },
     {
+      "id": "7nGGKB0KX7FojvyJ5DNrK3",
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 217916
+    },
+    {
       "id": "3oEkrIfXfSh9zGnE7eBzSV",
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV",
@@ -423,23 +440,6 @@
       "duration_ms": 294065
     },
     {
-      "id": "7nGGKB0KX7FojvyJ5DNrK3",
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 217916
-    },
-    {
       "id": "0WiMJIxYYEex2AqhRqzV3u",
       "name": "For the First Time",
       "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
@@ -475,6 +475,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "7L1FuZqKXSKnpiBmyYt96B",
+      "name": "NiGHT MARé",
+      "url": "https://open.spotify.com/track/7L1FuZqKXSKnpiBmyYt96B",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 167774,
+      "played_at": "2026-08-29T06:54:32.901Z"
+    },
     {
       "id": "6A8nSvQYeCvoo0zpCLYb2Q",
       "name": "Mais Ninguém",
@@ -1416,24 +1434,6 @@
       },
       "duration_ms": 268653,
       "played_at": "2026-08-28T06:14:42.294Z"
-    },
-    {
-      "id": "51K301CKuavVEP7A9vsUaz",
-      "name": "Linha do Equador",
-      "url": "https://open.spotify.com/track/51K301CKuavVEP7A9vsUaz",
-      "artists": [
-        {
-          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "album": {
-        "name": "Coisa de Acender",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cca4a9128ae58440c667876f"
-      },
-      "duration_ms": 273306,
-      "played_at": "2026-08-28T06:10:22.695Z"
     }
   ]
 }
