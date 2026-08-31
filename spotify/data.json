@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T12:30:25.664882+00:00",
+  "updated_at": "2026-08-31T22:19:27.190921+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -20,16 +20,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783"
     },
     {
-      "id": "00FQb4jTyendYWaN8pK0wa",
-      "name": "Lana Del Rey",
-      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
-    },
-    {
       "id": "0nFdWpwl7h6fp3ADRyG14L",
       "name": "Marina Sena",
       "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L",
       "image": "https://i.scdn.co/image/ab6761610000e5eb7e3285f3148b331b0f3b8040"
+    },
+    {
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "name": "Lana Del Rey",
+      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
     },
     {
       "id": "2dmQ0vMD3THLMcz7DsvfaT",
@@ -475,6 +475,611 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "2rC41weP3q2jhM0PDYOZGo",
+      "name": "Sem querer",
+      "url": "https://open.spotify.com/track/2rC41weP3q2jhM0PDYOZGo",
+      "artists": [
+        {
+          "id": "3CDoRporvSjdzTrm99a3gi",
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "album": {
+        "name": "Hoje",
+        "image": "https://i.scdn.co/image/ab67616d0000b273852ba896e3854666bf636443"
+      },
+      "duration_ms": 169114,
+      "played_at": "2026-08-31T16:10:12.226Z"
+    },
+    {
+      "id": "1K64W9CWpVvreQhbT4zbrn",
+      "name": "Combo da Sorte",
+      "url": "https://open.spotify.com/track/1K64W9CWpVvreQhbT4zbrn",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "Coisas Naturais",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737ae4d78852e406eff2f4eef6"
+      },
+      "duration_ms": 219944,
+      "played_at": "2026-08-31T15:58:20.617Z"
+    },
+    {
+      "id": "6mLPEdGqvEtQ3gKZ7lQAX1",
+      "name": "Pisca Duas Vezes",
+      "url": "https://open.spotify.com/track/6mLPEdGqvEtQ3gKZ7lQAX1",
+      "artists": [
+        {
+          "id": "0bTjZS6jUVce4Sa7aMIFYk",
+          "name": "NandaTsunami",
+          "url": "https://open.spotify.com/artist/0bTjZS6jUVce4Sa7aMIFYk"
+        },
+        {
+          "id": "4JNDTzpVfxrzffzbK2qVn3",
+          "name": "AnjO 005",
+          "url": "https://open.spotify.com/artist/4JNDTzpVfxrzffzbK2qVn3"
+        },
+        {
+          "id": "42KlXyEj8tt6vVyxQjpLaL",
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
+        },
+        {
+          "id": "1d0DvzCeLWFfznOsLNvjL9",
+          "name": "sONTH",
+          "url": "https://open.spotify.com/artist/1d0DvzCeLWFfznOsLNvjL9"
+        }
+      ],
+      "album": {
+        "name": "É Disso Que Eu Me Alimento",
+        "image": "https://i.scdn.co/image/ab67616d0000b27385ba6128079f023a7e089cb3"
+      },
+      "duration_ms": 140952,
+      "played_at": "2026-08-31T15:54:40.742Z"
+    },
+    {
+      "id": "6qylu0VNKUfKiVi88WL3Ci",
+      "name": "Marolento",
+      "url": "https://open.spotify.com/track/6qylu0VNKUfKiVi88WL3Ci",
+      "artists": [
+        {
+          "id": "0zbO4WWM2wJM3ulFmCbMwB",
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "id": "6jBww4kwlSrjaNYP7AQPtX",
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "id": "25XJqeReVV38w0tR04GGBd",
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        },
+        {
+          "id": "2E4sNJOOy9hae0J8DkT43M",
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "id": "1puzPcrOHKTMQ6KTuYfqU0",
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+        },
+        {
+          "id": "2PyMbAyHhTofwt07234U0f",
+          "name": "Pedro Bala",
+          "url": "https://open.spotify.com/artist/2PyMbAyHhTofwt07234U0f"
+        }
+      ],
+      "album": {
+        "name": "Marolento",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732132a9f6081362e7f24aa39e"
+      },
+      "duration_ms": 161379,
+      "played_at": "2026-08-31T15:52:19.744Z"
+    },
+    {
+      "id": "5lYwQwSqkBuPvAynYRRcXq",
+      "name": "AEROMOÇA",
+      "url": "https://open.spotify.com/track/5lYwQwSqkBuPvAynYRRcXq",
+      "artists": [
+        {
+          "id": "5YwzDz4RJfTiMHS4tdR5Lf",
+          "name": "Xamã",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "id": "5Znx4PG5UsUitigaJnmZX3",
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "album": {
+        "name": "FRAGMENTADO",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737bc99a7b8dfaf6f7471bf9eb"
+      },
+      "duration_ms": 158571,
+      "played_at": "2026-08-31T15:49:23.194Z"
+    },
+    {
+      "id": "56TQVGBKUdcNpYcEcCDt3O",
+      "name": "Vou Investir em Você",
+      "url": "https://open.spotify.com/track/56TQVGBKUdcNpYcEcCDt3O",
+      "artists": [
+        {
+          "id": "0zbO4WWM2wJM3ulFmCbMwB",
+          "name": "Puterrier",
+          "url": "https://open.spotify.com/artist/0zbO4WWM2wJM3ulFmCbMwB"
+        },
+        {
+          "id": "78jcF59aMpz63E2TYmntws",
+          "name": "Mc Carol",
+          "url": "https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws"
+        },
+        {
+          "id": "7w1eimo0NMZhuwNZTf4MHY",
+          "name": "LB Único",
+          "url": "https://open.spotify.com/artist/7w1eimo0NMZhuwNZTf4MHY"
+        }
+      ],
+      "album": {
+        "name": "Putaria é Quase Amor",
+        "image": "https://i.scdn.co/image/ab67616d0000b273375fe0a26481e59a67d713dc"
+      },
+      "duration_ms": 173538,
+      "played_at": "2026-08-31T15:46:20.722Z"
+    },
+    {
+      "id": "6PETRfB5ssib6VqCAG6nIF",
+      "name": "Santo",
+      "url": "https://open.spotify.com/track/6PETRfB5ssib6VqCAG6nIF",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 212269,
+      "played_at": "2026-08-31T15:40:40.296Z"
+    },
+    {
+      "id": "4oAp6TwkxdhCEadnvXNSoV",
+      "name": "Nossa Chance",
+      "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "id": "3lIU3RoZiHen1QXAQ3KQ9e",
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        }
+      ],
+      "album": {
+        "name": "Nossa Chance",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c0bc7a096ab5deb705c27491"
+      },
+      "duration_ms": 224881,
+      "played_at": "2026-08-31T15:36:47.436Z"
+    },
+    {
+      "id": "5tcdKHU3wqvFy8huoo4p68",
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "id": "5vl7Vj67mORmn0yJccFCfq",
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        }
+      ],
+      "album": {
+        "name": "Vício Inerente",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
+      },
+      "duration_ms": 190000,
+      "played_at": "2026-08-31T15:32:50.121Z"
+    },
+    {
+      "id": "5tcdKHU3wqvFy8huoo4p68",
+      "name": "Que Tal",
+      "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "id": "5vl7Vj67mORmn0yJccFCfq",
+          "name": "Fleezus",
+          "url": "https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq"
+        }
+      ],
+      "album": {
+        "name": "Vício Inerente",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
+      },
+      "duration_ms": 190000,
+      "played_at": "2026-08-31T15:29:42.536Z"
+    },
+    {
+      "id": "0sMGRLaGhsGtXYP4KZRCBR",
+      "name": "Não Pegue Esse Avião",
+      "url": "https://open.spotify.com/track/0sMGRLaGhsGtXYP4KZRCBR",
+      "artists": [
+        {
+          "id": "421vs0uTmJqkbaYBd5ww42",
+          "name": "Cavaleiros do Forró",
+          "url": "https://open.spotify.com/artist/421vs0uTmJqkbaYBd5ww42"
+        }
+      ],
+      "album": {
+        "name": "Cavaleiros do Forró Meio a Meio",
+        "image": "https://i.scdn.co/image/ab67616d0000b273caaa6acf1851a61faeca0812"
+      },
+      "duration_ms": 204146,
+      "played_at": "2026-08-31T13:26:43.148Z"
+    },
+    {
+      "id": "04zj7YtTSjAd2Y8tt8KX2K",
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/04zj7YtTSjAd2Y8tt8KX2K",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (BLOSSOM EDITION)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738bc08a43d5027b70585d2f11"
+      },
+      "duration_ms": 135199,
+      "played_at": "2026-08-31T12:28:16.502Z"
+    },
+    {
+      "id": "0J04fTkB0VXZXWzsIK8gKn",
+      "name": "Somos Amigas",
+      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Edição Completa)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+      },
+      "duration_ms": 152389,
+      "played_at": "2026-08-31T12:26:10.319Z"
+    },
+    {
+      "id": "70iK9fZYPTpxbpQ4ox8usx",
+      "name": "Seu Olhar",
+      "url": "https://open.spotify.com/track/70iK9fZYPTpxbpQ4ox8usx",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191000,
+      "played_at": "2026-08-31T12:23:46.935Z"
+    },
+    {
+      "id": "0YrH15XcTh2Kf3re3yubZ5",
+      "name": "Metade Da Metade",
+      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 184659,
+      "played_at": "2026-08-31T12:20:44.929Z"
+    },
+    {
+      "id": "5bEPffNapJrNGtdXzsqvXQ",
+      "name": "Quando A Fonte Secar",
+      "url": "https://open.spotify.com/track/5bEPffNapJrNGtdXzsqvXQ",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 202656,
+      "played_at": "2026-08-31T12:17:49.281Z"
+    },
+    {
+      "id": "1T9yLjCFIh5IcE2NXjNPjd",
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd",
+      "artists": [
+        {
+          "id": "3oDfBqnWBkgMSag02YYXHG",
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+          "name": "João Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273736ca1ef7935d87749d8f244"
+      },
+      "duration_ms": 154137,
+      "played_at": "2026-08-31T12:14:35.623Z"
+    },
+    {
+      "id": "3HiBLTcFTY58Csk7BCkIGO",
+      "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+      "url": "https://open.spotify.com/track/3HiBLTcFTY58Csk7BCkIGO",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "id": "0J4DHkFbIhACgOkPFvWl9Y",
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "5W0yWqP7U3b2Y89gSgR9OD",
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f4becaa242c2600d970637e6"
+      },
+      "duration_ms": 209142,
+      "played_at": "2026-08-31T12:12:10.500Z"
+    },
+    {
+      "id": "58yGiA1glEPIeGMoCcRPoB",
+      "name": "Tatuagem do Teu Ex 2",
+      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
+      "artists": [
+        {
+          "id": "36MLP28p1UX0xIRdhZTeUc",
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "id": "7Esv5D6U1qtVOHbXihKgea",
+          "name": "DJ MAVI",
+          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+        },
+        {
+          "id": "2TGtBMeVz0MkIATkn2gHhe",
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        },
+        {
+          "id": "2sQHo73pQF1OTq3lDuQhlO",
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "album": {
+        "name": "Tatuagem do Teu Ex 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
+      },
+      "duration_ms": 133138,
+      "played_at": "2026-08-31T12:08:50.338Z"
+    },
+    {
+      "id": "3lVEY1I9bktKfXT2jxgYK5",
+      "name": "Águas De Um Mar Azul",
+      "url": "https://open.spotify.com/track/3lVEY1I9bktKfXT2jxgYK5",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 275669,
+      "played_at": "2026-08-31T12:06:46.218Z"
+    },
+    {
+      "id": "048VGsQtCmQ0AXYJpIxuRJ",
+      "name": "CHACINA",
+      "url": "https://open.spotify.com/track/048VGsQtCmQ0AXYJpIxuRJ",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "2M0BRHVrzJ5y20huTCzMJu",
+          "name": "Irmãs de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736a5fc859fee7a2eea9890bcf"
+      },
+      "duration_ms": 203555,
+      "played_at": "2026-08-31T12:02:19.510Z"
+    },
+    {
+      "id": "74QtGMeYncf3wP6fhg00zb",
+      "name": "Diga Sim pra Mim",
+      "url": "https://open.spotify.com/track/74QtGMeYncf3wP6fhg00zb",
+      "artists": [
+        {
+          "id": "2BwGxEffKsSjsQyKNtBgcQ",
+          "name": "Desejo De Menina",
+          "url": "https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ"
+        }
+      ],
+      "album": {
+        "name": "Diga Sim, Vol. 4",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827"
+      },
+      "duration_ms": 221200,
+      "played_at": "2026-08-31T11:59:04.943Z"
+    },
+    {
+      "id": "6ovDi26fsRcfb7M3lI6rhQ",
+      "name": "Horta de Piroca",
+      "url": "https://open.spotify.com/track/6ovDi26fsRcfb7M3lI6rhQ",
+      "artists": [
+        {
+          "id": "7Esv5D6U1qtVOHbXihKgea",
+          "name": "DJ MAVI",
+          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+        },
+        {
+          "id": "36MLP28p1UX0xIRdhZTeUc",
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "id": "3ulyIBeBwBcg8rmnPE6TmV",
+          "name": "YUMI",
+          "url": "https://open.spotify.com/artist/3ulyIBeBwBcg8rmnPE6TmV"
+        }
+      ],
+      "album": {
+        "name": "Horta de Piroca",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f2feba73d713377191f19b10"
+      },
+      "duration_ms": 152633,
+      "played_at": "2026-08-31T11:55:32.833Z"
+    },
+    {
+      "id": "2R5smAQVZCdyulSwDPYFeZ",
+      "name": "50 Meninas",
+      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 212693,
+      "played_at": "2026-08-31T11:53:09.145Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-08-31T11:49:22.352Z"
+    },
     {
       "id": "42lrVq6KambSMyAFo1zmeo",
       "name": "Flooding Rain",
@@ -924,456 +1529,6 @@
       },
       "duration_ms": 154124,
       "played_at": "2026-08-31T05:13:39.779Z"
-    },
-    {
-      "id": "0KVR7j8hleyMeKrnGL1E4M",
-      "name": "Low Rain Environment",
-      "url": "https://open.spotify.com/track/0KVR7j8hleyMeKrnGL1E4M",
-      "artists": [
-        {
-          "id": "3TFc8OzzeYmHntSzculujA",
-          "name": "Pluvial Echo",
-          "url": "https://open.spotify.com/artist/3TFc8OzzeYmHntSzculujA"
-        }
-      ],
-      "album": {
-        "name": "Low Rain Environment",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d11dbf2f08f9d76937b09273"
-      },
-      "duration_ms": 122810,
-      "played_at": "2026-08-31T05:11:17.603Z"
-    },
-    {
-      "id": "7oSBHzA5J69kqhFp4anTNy",
-      "name": "Rain and Thunder",
-      "url": "https://open.spotify.com/track/7oSBHzA5J69kqhFp4anTNy",
-      "artists": [
-        {
-          "id": "5YwgJh6Sx2jIZ0NTqzYCDW",
-          "name": "Sleep Waves",
-          "url": "https://open.spotify.com/artist/5YwgJh6Sx2jIZ0NTqzYCDW"
-        }
-      ],
-      "album": {
-        "name": "Exclusive Nature",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b6b90fccada47e1eb11ce62e"
-      },
-      "duration_ms": 84706,
-      "played_at": "2026-08-31T05:09:26.511Z"
-    },
-    {
-      "id": "5D3Qv60Pfpt01xIxizpT6l",
-      "name": "Slumber Night Rains",
-      "url": "https://open.spotify.com/track/5D3Qv60Pfpt01xIxizpT6l",
-      "artists": [
-        {
-          "id": "49v15Biw9XvZRUShSgK2aQ",
-          "name": "Nature Advisor",
-          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
-        }
-      ],
-      "album": {
-        "name": "Slumber Night Rains",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739ad4063c768e5c34a08fff83"
-      },
-      "duration_ms": 147769,
-      "played_at": "2026-08-31T05:08:13.503Z"
-    },
-    {
-      "id": "1KHPO5gTCdM4XLoSeqUZu9",
-      "name": "Steady Heavy Maine Rain",
-      "url": "https://open.spotify.com/track/1KHPO5gTCdM4XLoSeqUZu9",
-      "artists": [
-        {
-          "id": "1uWldAX5DTfh3ok6HvgkJJ",
-          "name": "The Beautiful World Around",
-          "url": "https://open.spotify.com/artist/1uWldAX5DTfh3ok6HvgkJJ"
-        }
-      ],
-      "album": {
-        "name": "Gentle Splashy September Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e0d436f07be710122daab363"
-      },
-      "duration_ms": 189000,
-      "played_at": "2026-08-31T05:05:57.743Z"
-    },
-    {
-      "id": "45lICfV5vHF9zeVTsXoREP",
-      "name": "Rainfall Symphony",
-      "url": "https://open.spotify.com/track/45lICfV5vHF9zeVTsXoREP",
-      "artists": [
-        {
-          "id": "2HJzq0KBIm0RuSd42IVCjZ",
-          "name": "Pax Natura",
-          "url": "https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ"
-        }
-      ],
-      "album": {
-        "name": "Rainfall Symphony",
-        "image": "https://i.scdn.co/image/ab67616d0000b27322f1ae3279b42a6e27846fe9"
-      },
-      "duration_ms": 264000,
-      "played_at": "2026-08-31T05:03:00.802Z"
-    },
-    {
-      "id": "5jD3UfznmqTdBvWOkKKPKa",
-      "name": "Storm Dreaming",
-      "url": "https://open.spotify.com/track/5jD3UfznmqTdBvWOkKKPKa",
-      "artists": [
-        {
-          "id": "3hrpVisxCnVzRPdXg4K6EL",
-          "name": "Haruna Fields",
-          "url": "https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL"
-        }
-      ],
-      "album": {
-        "name": "Black Storm",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734adb29a6df7bd9f032c10c94"
-      },
-      "duration_ms": 124000,
-      "played_at": "2026-08-31T04:58:48.724Z"
-    },
-    {
-      "id": "7iug7zoz8Q0hYJB1aFoyZ3",
-      "name": "Night Storm",
-      "url": "https://open.spotify.com/track/7iug7zoz8Q0hYJB1aFoyZ3",
-      "artists": [
-        {
-          "id": "5iaYfJCxvfufnRwTVSMahD",
-          "name": "Ablation",
-          "url": "https://open.spotify.com/artist/5iaYfJCxvfufnRwTVSMahD"
-        }
-      ],
-      "album": {
-        "name": "Peceful Waters",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730ef3e0a8d6827c3c11056e74"
-      },
-      "duration_ms": 129288,
-      "played_at": "2026-08-31T04:56:56.822Z"
-    },
-    {
-      "id": "6lZhsqlVmplDidqrUqCV8b",
-      "name": "Pouring Rain And Thunder",
-      "url": "https://open.spotify.com/track/6lZhsqlVmplDidqrUqCV8b",
-      "artists": [
-        {
-          "id": "5DaWXcbvLdip9ADHVSwVVt",
-          "name": "Berg & Sjo",
-          "url": "https://open.spotify.com/artist/5DaWXcbvLdip9ADHVSwVVt"
-        }
-      ],
-      "album": {
-        "name": "Ovader",
-        "image": "https://i.scdn.co/image/ab67616d0000b27337b10b2ed4bdbb36048e316f"
-      },
-      "duration_ms": 154333,
-      "played_at": "2026-08-31T04:54:59.819Z"
-    },
-    {
-      "id": "6pxSZmtSm4GygcOKcxkV5D",
-      "name": "Eye Of The Storm",
-      "url": "https://open.spotify.com/track/6pxSZmtSm4GygcOKcxkV5D",
-      "artists": [
-        {
-          "id": "2oWN3OXJUk1mh7CAhkJeqX",
-          "name": "Thunder In Paradise",
-          "url": "https://open.spotify.com/artist/2oWN3OXJUk1mh7CAhkJeqX"
-        }
-      ],
-      "album": {
-        "name": "Episode One",
-        "image": "https://i.scdn.co/image/ab67616d0000b27306f2a7c00f8d02103cc837f8"
-      },
-      "duration_ms": 226000,
-      "played_at": "2026-08-31T04:52:37.804Z"
-    },
-    {
-      "id": "2Tbu3ljhZHiCl0Odpigcre",
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/2Tbu3ljhZHiCl0Odpigcre",
-      "artists": [
-        {
-          "id": "2ldc1mlbRMXPMUiyyttiZG",
-          "name": "Fabrique Noise",
-          "url": "https://open.spotify.com/artist/2ldc1mlbRMXPMUiyyttiZG"
-        }
-      ],
-      "album": {
-        "name": "Smooth Street Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b27315091a7e8521ad7d31b4af52"
-      },
-      "duration_ms": 172386,
-      "played_at": "2026-08-31T04:49:03.768Z"
-    },
-    {
-      "id": "767C8s4KVShgz4r8hqJAd0",
-      "name": "Luscious Rain",
-      "url": "https://open.spotify.com/track/767C8s4KVShgz4r8hqJAd0",
-      "artists": [
-        {
-          "id": "334v3jkZ2T1J40I0QGT3rZ",
-          "name": "Harmonious Nature",
-          "url": "https://open.spotify.com/artist/334v3jkZ2T1J40I0QGT3rZ"
-        }
-      ],
-      "album": {
-        "name": "Luscious Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b4ba81a1a10bd4cadabd06d1"
-      },
-      "duration_ms": 132124,
-      "played_at": "2026-08-31T04:46:23.828Z"
-    },
-    {
-      "id": "3VuSxr8PLrEKQHe2pMvVKI",
-      "name": "Rainy Dream",
-      "url": "https://open.spotify.com/track/3VuSxr8PLrEKQHe2pMvVKI",
-      "artists": [
-        {
-          "id": "2C32BFATM0fyN4FFTl3fHe",
-          "name": "Royal Rain",
-          "url": "https://open.spotify.com/artist/2C32BFATM0fyN4FFTl3fHe"
-        }
-      ],
-      "album": {
-        "name": "Carriage Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b27311dfb50e1275cced7cc5f632"
-      },
-      "duration_ms": 212858,
-      "played_at": "2026-08-31T04:44:23.630Z"
-    },
-    {
-      "id": "3du4x4mjmzMZNXu5CFNkIE",
-      "name": "Stormy Weather",
-      "url": "https://open.spotify.com/track/3du4x4mjmzMZNXu5CFNkIE",
-      "artists": [
-        {
-          "id": "7926Y6ve9rJTFcjeCYTjqx",
-          "name": "Rain Hive",
-          "url": "https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx"
-        }
-      ],
-      "album": {
-        "name": "Rain Hive",
-        "image": "https://i.scdn.co/image/ab67616d0000b273df4f0b80bcac2e7127d18141"
-      },
-      "duration_ms": 134489,
-      "played_at": "2026-08-31T04:41:02.820Z"
-    },
-    {
-      "id": "62FbvSIIiSQ8nCClTv5JTr",
-      "name": "Muffled Thunder",
-      "url": "https://open.spotify.com/track/62FbvSIIiSQ8nCClTv5JTr",
-      "artists": [
-        {
-          "id": "3FGtKDRRneWEDpWEUSwnKY",
-          "name": "In The Noise",
-          "url": "https://open.spotify.com/artist/3FGtKDRRneWEDpWEUSwnKY"
-        }
-      ],
-      "album": {
-        "name": "Bad Day Weather",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732d1ec51b5f557d92addb0234"
-      },
-      "duration_ms": 137666,
-      "played_at": "2026-08-31T04:39:00.524Z"
-    },
-    {
-      "id": "5qBURD07mYmymBewmZf3de",
-      "name": "Rain Wall For Sleep",
-      "url": "https://open.spotify.com/track/5qBURD07mYmymBewmZf3de",
-      "artists": [
-        {
-          "id": "2JwZFiiENk7S0lKD4lyTk1",
-          "name": "Natures Acoustics",
-          "url": "https://open.spotify.com/artist/2JwZFiiENk7S0lKD4lyTk1"
-        }
-      ],
-      "album": {
-        "name": "Night Time Rain Fall",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303885ba9962228108aa1fe26"
-      },
-      "duration_ms": 153068,
-      "played_at": "2026-08-31T04:36:54.819Z"
-    },
-    {
-      "id": "71XsLqUK4kmYNW8fV5HYVV",
-      "name": "Circle of Rain",
-      "url": "https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV",
-      "artists": [
-        {
-          "id": "0yYHxGvTufoACTinBREEXT",
-          "name": "Wet Forest",
-          "url": "https://open.spotify.com/artist/0yYHxGvTufoACTinBREEXT"
-        }
-      ],
-      "album": {
-        "name": "Wilderness",
-        "image": "https://i.scdn.co/image/ab67616d0000b27380d8e4dddf279892cc497ea4"
-      },
-      "duration_ms": 155295,
-      "played_at": "2026-08-31T04:34:33.814Z"
-    },
-    {
-      "id": "1okGLDjpL04V0dQ2YFOH4h",
-      "name": "Soft Evening Rain",
-      "url": "https://open.spotify.com/track/1okGLDjpL04V0dQ2YFOH4h",
-      "artists": [
-        {
-          "id": "3nom2q4wk6XDl2RN6xTs5f",
-          "name": "BCCF",
-          "url": "https://open.spotify.com/artist/3nom2q4wk6XDl2RN6xTs5f"
-        }
-      ],
-      "album": {
-        "name": "Soft Evening Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c061f5b68e947d5a7e11a01f"
-      },
-      "duration_ms": 126000,
-      "played_at": "2026-08-31T04:32:10.829Z"
-    },
-    {
-      "id": "3D2GrmhenTD06ndgz7MjTJ",
-      "name": "Continuous Rain",
-      "url": "https://open.spotify.com/track/3D2GrmhenTD06ndgz7MjTJ",
-      "artists": [
-        {
-          "id": "6dBj5bCBZzgZdWuo9Gb0eh",
-          "name": "The Sound Of The Rain",
-          "url": "https://open.spotify.com/artist/6dBj5bCBZzgZdWuo9Gb0eh"
-        }
-      ],
-      "album": {
-        "name": "Volume 1",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737a48436fdc8ce3b8766ea943"
-      },
-      "duration_ms": 204171,
-      "played_at": "2026-08-31T04:30:16.801Z"
-    },
-    {
-      "id": "7AA6L1DQd4aOg5CHxhhUMx",
-      "name": "Natural Sounds Of Nature",
-      "url": "https://open.spotify.com/track/7AA6L1DQd4aOg5CHxhhUMx",
-      "artists": [
-        {
-          "id": "714vmv7c7CRLZXkJG1xzPO",
-          "name": "BioSounds",
-          "url": "https://open.spotify.com/artist/714vmv7c7CRLZXkJG1xzPO"
-        }
-      ],
-      "album": {
-        "name": "Harmless Harmonics",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d3462a109ab1442370448965"
-      },
-      "duration_ms": 150093,
-      "played_at": "2026-08-31T04:27:04.819Z"
-    },
-    {
-      "id": "35KfAAi2VoPCtDS43Y2WSi",
-      "name": "Morning Walk in Rain",
-      "url": "https://open.spotify.com/track/35KfAAi2VoPCtDS43Y2WSi",
-      "artists": [
-        {
-          "id": "0eG97LRAmRBrC7qbEhx2Qs",
-          "name": "Samplestar",
-          "url": "https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs"
-        }
-      ],
-      "album": {
-        "name": "Morning Walk in Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739dfa102a88c920baee72f7dd"
-      },
-      "duration_ms": 127292,
-      "played_at": "2026-08-31T04:24:46.819Z"
-    },
-    {
-      "id": "1baZVsKUgC1Uisoz0Cq6Ih",
-      "name": "Friskt Regn",
-      "url": "https://open.spotify.com/track/1baZVsKUgC1Uisoz0Cq6Ih",
-      "artists": [
-        {
-          "id": "3ajIuyxPMn88QDy3p6P6FB",
-          "name": "Naturen",
-          "url": "https://open.spotify.com/artist/3ajIuyxPMn88QDy3p6P6FB"
-        }
-      ],
-      "album": {
-        "name": "Regn",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dde7179662fed3cb5dc68a98"
-      },
-      "duration_ms": 179500,
-      "played_at": "2026-08-31T04:22:51.270Z"
-    },
-    {
-      "id": "7qOERAzik4dEeYKJH2ZsgW",
-      "name": "Entre Gotas",
-      "url": "https://open.spotify.com/track/7qOERAzik4dEeYKJH2ZsgW",
-      "artists": [
-        {
-          "id": "78RzbCrbIehBAcQZNyATUb",
-          "name": "Cumulus",
-          "url": "https://open.spotify.com/artist/78RzbCrbIehBAcQZNyATUb"
-        }
-      ],
-      "album": {
-        "name": "Entre Gotas",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e002544ae5a76ffee91b88df"
-      },
-      "duration_ms": 138466,
-      "played_at": "2026-08-31T04:20:03.814Z"
-    },
-    {
-      "id": "4Tx8wbiny4HLw62K9hppp8",
-      "name": "Calming Rain Sounds",
-      "url": "https://open.spotify.com/track/4Tx8wbiny4HLw62K9hppp8",
-      "artists": [
-        {
-          "id": "0VlKTntxvT0pVWEXPyWhli",
-          "name": "Stormy Station",
-          "url": "https://open.spotify.com/artist/0VlKTntxvT0pVWEXPyWhli"
-        }
-      ],
-      "album": {
-        "name": "Calming Rain Sounds",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cd52c36c46d233ec4274d25b"
-      },
-      "duration_ms": 177586,
-      "played_at": "2026-08-31T04:17:57.419Z"
-    },
-    {
-      "id": "2ovzsu0useW9oyDCoDPxKe",
-      "name": "Stormy Rain",
-      "url": "https://open.spotify.com/track/2ovzsu0useW9oyDCoDPxKe",
-      "artists": [
-        {
-          "id": "0wv2UcMaagFUFqzqbBW7za",
-          "name": "DreamDrops",
-          "url": "https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za"
-        }
-      ],
-      "album": {
-        "name": "Fairytale Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734bbef9993163d75eb1dd077a"
-      },
-      "duration_ms": 176329,
-      "played_at": "2026-08-31T04:15:11.779Z"
-    },
-    {
-      "id": "7AEqfRTwTJfHqk0OcVTDEj",
-      "name": "Breeze, Light Rain, Thunder",
-      "url": "https://open.spotify.com/track/7AEqfRTwTJfHqk0OcVTDEj",
-      "artists": [
-        {
-          "id": "3FGtKDRRneWEDpWEUSwnKY",
-          "name": "In The Noise",
-          "url": "https://open.spotify.com/artist/3FGtKDRRneWEDpWEUSwnKY"
-        }
-      ],
-      "album": {
-        "name": "Bad Day Weather",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732d1ec51b5f557d92addb0234"
-      },
-      "duration_ms": 138000,
-      "played_at": "2026-08-31T04:12:27.874Z"
     }
   ]
 }
