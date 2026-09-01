@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T15:57:56.629755+00:00",
+  "updated_at": "2026-09-01T20:26:25.449011+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -475,6 +475,244 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1V0G7UNW4SPThnc3o8RemS",
+      "name": "Nossa Geração",
+      "url": "https://open.spotify.com/track/1V0G7UNW4SPThnc3o8RemS",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Quando Deixamos Nossos Beijos na Esquina",
+        "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
+      },
+      "duration_ms": 259678,
+      "played_at": "2026-09-01T19:56:20.319Z"
+    },
+    {
+      "id": "7nGGKB0KX7FojvyJ5DNrK3",
+      "name": "BABY",
+      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 217916,
+      "played_at": "2026-09-01T17:56:34.859Z"
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "played_at": "2026-09-01T17:51:24.788Z"
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "played_at": "2026-09-01T17:45:55.974Z"
+    },
+    {
+      "id": "6A8nSvQYeCvoo0zpCLYb2Q",
+      "name": "Mais Ninguém",
+      "url": "https://open.spotify.com/track/6A8nSvQYeCvoo0zpCLYb2Q",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 222333,
+      "played_at": "2026-09-01T17:43:18.894Z"
+    },
+    {
+      "id": "5yk7F9bIN9JJmrF4E9O6Fr",
+      "name": "Sonho Bom",
+      "url": "https://open.spotify.com/track/5yk7F9bIN9JJmrF4E9O6Fr",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "Vício Inerente",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
+      },
+      "duration_ms": 231000,
+      "played_at": "2026-09-01T17:31:40.964Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-01T17:17:31.376Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-09-01T17:15:11.461Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-09-01T17:06:58.142Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-01T17:06:38.389Z"
+    },
+    {
+      "id": "1V0G7UNW4SPThnc3o8RemS",
+      "name": "Nossa Geração",
+      "url": "https://open.spotify.com/track/1V0G7UNW4SPThnc3o8RemS",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Quando Deixamos Nossos Beijos na Esquina",
+        "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
+      },
+      "duration_ms": 259678,
+      "played_at": "2026-09-01T17:03:09.354Z"
+    },
     {
       "id": "0gbNLi9uvioDGatRBM8HHo",
       "name": "Vídeo Sensual",
@@ -1361,204 +1599,6 @@
       },
       "duration_ms": 142663,
       "played_at": "2026-08-31T06:05:23.431Z"
-    },
-    {
-      "id": "57LeBd9g44zcR6vPAtN8XG",
-      "name": "Ethereal Rains",
-      "url": "https://open.spotify.com/track/57LeBd9g44zcR6vPAtN8XG",
-      "artists": [
-        {
-          "id": "49v15Biw9XvZRUShSgK2aQ",
-          "name": "Nature Advisor",
-          "url": "https://open.spotify.com/artist/49v15Biw9XvZRUShSgK2aQ"
-        }
-      ],
-      "album": {
-        "name": "Ethereal Rains",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d1778538b3860e8a24147b12"
-      },
-      "duration_ms": 153572,
-      "played_at": "2026-08-31T06:03:12.379Z"
-    },
-    {
-      "id": "6CsDarsSyGWH4OKJTLJKDU",
-      "name": "Corrientes",
-      "url": "https://open.spotify.com/track/6CsDarsSyGWH4OKJTLJKDU",
-      "artists": [
-        {
-          "id": "7jvfAbf9xdkVSlJx8XBbpJ",
-          "name": "Ciclo del Agua",
-          "url": "https://open.spotify.com/artist/7jvfAbf9xdkVSlJx8XBbpJ"
-        }
-      ],
-      "album": {
-        "name": "Condensación",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cc73758d5afae563ec5057b6"
-      },
-      "duration_ms": 155120,
-      "played_at": "2026-08-31T06:00:50.784Z"
-    },
-    {
-      "id": "1mWWaKRiywpw4CSULMpOAa",
-      "name": "Rain Sky Pt. 1",
-      "url": "https://open.spotify.com/track/1mWWaKRiywpw4CSULMpOAa",
-      "artists": [
-        {
-          "id": "4AbWC5jrOCMHtDTN0lsGjJ",
-          "name": "Olvidara",
-          "url": "https://open.spotify.com/artist/4AbWC5jrOCMHtDTN0lsGjJ"
-        }
-      ],
-      "album": {
-        "name": "Rain Sky",
-        "image": "https://i.scdn.co/image/ab67616d0000b273eeed01328d42a43feec10920"
-      },
-      "duration_ms": 124877,
-      "played_at": "2026-08-31T05:58:27.582Z"
-    },
-    {
-      "id": "1MyeT7GjwylrPvcLsBSjds",
-      "name": "Under the Rain Clouds",
-      "url": "https://open.spotify.com/track/1MyeT7GjwylrPvcLsBSjds",
-      "artists": [
-        {
-          "id": "0yC8fbzqIzSAGEPZtbSwal",
-          "name": "Mussina",
-          "url": "https://open.spotify.com/artist/0yC8fbzqIzSAGEPZtbSwal"
-        }
-      ],
-      "album": {
-        "name": "Endless Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b27399cec9b23d0caf0516d98c2a"
-      },
-      "duration_ms": 158987,
-      "played_at": "2026-08-31T05:56:34.679Z"
-    },
-    {
-      "id": "4qeovMaYuZLdxH8SFS5GLm",
-      "name": "Ambience: Forest Rain",
-      "url": "https://open.spotify.com/track/4qeovMaYuZLdxH8SFS5GLm",
-      "artists": [
-        {
-          "id": "5XmANDHn1nUVL3rVyohz9t",
-          "name": "X.L.T",
-          "url": "https://open.spotify.com/artist/5XmANDHn1nUVL3rVyohz9t"
-        }
-      ],
-      "album": {
-        "name": "Ambience: Forest Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a15889ea67a9b56906f7cc74"
-      },
-      "duration_ms": 168671,
-      "played_at": "2026-08-31T05:54:07.457Z"
-    },
-    {
-      "id": "1ueUSUH6SUhdGKLAlwyIJh",
-      "name": "Peaceful Rain Falling",
-      "url": "https://open.spotify.com/track/1ueUSUH6SUhdGKLAlwyIJh",
-      "artists": [
-        {
-          "id": "6Pu5E98JgFYXOEa7qPFX1p",
-          "name": "Earthlite",
-          "url": "https://open.spotify.com/artist/6Pu5E98JgFYXOEa7qPFX1p"
-        }
-      ],
-      "album": {
-        "name": "Rainy Afternoons",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e6943856923160117af3c764"
-      },
-      "duration_ms": 152000,
-      "played_at": "2026-08-31T05:51:30.759Z"
-    },
-    {
-      "id": "2M9dMZm19VVwBpJyi2vbSl",
-      "name": "Steady Rural Rain",
-      "url": "https://open.spotify.com/track/2M9dMZm19VVwBpJyi2vbSl",
-      "artists": [
-        {
-          "id": "03eX3RX46RbMeY7FA8xF99",
-          "name": "NatuREM",
-          "url": "https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99"
-        }
-      ],
-      "album": {
-        "name": "Mind Calming Rainstorms",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737aa598daa3d1216dc1e936c2"
-      },
-      "duration_ms": 181000,
-      "played_at": "2026-08-31T05:49:10.775Z"
-    },
-    {
-      "id": "5Xn5HO5wAQS1ya8fmJMkAQ",
-      "name": "Dock Rain 독 비",
-      "url": "https://open.spotify.com/track/5Xn5HO5wAQS1ya8fmJMkAQ",
-      "artists": [
-        {
-          "id": "2o0U8zZEXzdcTHWnbGQt4X",
-          "name": "sumyeon uisa 수면 의사",
-          "url": "https://open.spotify.com/artist/2o0U8zZEXzdcTHWnbGQt4X"
-        }
-      ],
-      "album": {
-        "name": "Dock Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739a3f03c904dd4c3778cb0f15"
-      },
-      "duration_ms": 127402,
-      "played_at": "2026-08-31T05:46:21.772Z"
-    },
-    {
-      "id": "0o5VWWgcf66ctfBM8HsO5i",
-      "name": "Rain On The Lake",
-      "url": "https://open.spotify.com/track/0o5VWWgcf66ctfBM8HsO5i",
-      "artists": [
-        {
-          "id": "5jNKsTKXS0Ub5ng4c4XsL1",
-          "name": "Northerly Nature",
-          "url": "https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1"
-        }
-      ],
-      "album": {
-        "name": "Rain On The Lake",
-        "image": "https://i.scdn.co/image/ab67616d0000b27323cc6612c868bece8d7f122a"
-      },
-      "duration_ms": 182368,
-      "played_at": "2026-08-31T05:44:26.763Z"
-    },
-    {
-      "id": "5L7wMQ9STafKqV0t2MsE2W",
-      "name": "Outdoors Rain With Thunder - Seamless",
-      "url": "https://open.spotify.com/track/5L7wMQ9STafKqV0t2MsE2W",
-      "artists": [
-        {
-          "id": "7q3i8BbWfYPSZmTMJtge2P",
-          "name": "Nature Calm",
-          "url": "https://open.spotify.com/artist/7q3i8BbWfYPSZmTMJtge2P"
-        }
-      ],
-      "album": {
-        "name": "Sleepy Rainfall",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e46dc2012204b395e2556b14"
-      },
-      "duration_ms": 182000,
-      "played_at": "2026-08-31T05:41:36.773Z"
-    },
-    {
-      "id": "5mhS5BXqC8InFDFvmvH8WH",
-      "name": "Cool Air & Rain",
-      "url": "https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH",
-      "artists": [
-        {
-          "id": "0g6EfUCgC19RgPQHGYlbhH",
-          "name": "Bien Dorm",
-          "url": "https://open.spotify.com/artist/0g6EfUCgC19RgPQHGYlbhH"
-        }
-      ],
-      "album": {
-        "name": "Drizzle Down",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732eb5886dd34c5f12178bd42d"
-      },
-      "duration_ms": 131517,
-      "played_at": "2026-08-31T05:38:46.273Z"
     }
   ]
 }
