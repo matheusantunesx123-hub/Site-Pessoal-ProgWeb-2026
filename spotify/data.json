@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-01T10:58:58.818659+00:00",
+  "updated_at": "2026-09-01T15:57:56.629755+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -475,6 +475,72 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-01T10:09:09.791Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-01T10:06:20.118Z"
+    },
     {
       "id": "4qvUtYRNwmFzfJ2loWkQCH",
       "name": "Vilarejo",
@@ -1493,42 +1559,6 @@
       },
       "duration_ms": 131517,
       "played_at": "2026-08-31T05:38:46.273Z"
-    },
-    {
-      "id": "0lyKoc6Batb1kDGCtw6pdF",
-      "name": "Sleepy Rain Noise",
-      "url": "https://open.spotify.com/track/0lyKoc6Batb1kDGCtw6pdF",
-      "artists": [
-        {
-          "id": "3qlVZpNlhxCVf5xIuDd7kL",
-          "name": "Amsonia Star",
-          "url": "https://open.spotify.com/artist/3qlVZpNlhxCVf5xIuDd7kL"
-        }
-      ],
-      "album": {
-        "name": "Sleepy Rain Noise",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737ca4ddb6ea425dff1722f203"
-      },
-      "duration_ms": 170294,
-      "played_at": "2026-08-31T05:36:46.761Z"
-    },
-    {
-      "id": "4M2Ig5mHw3p3H1OJwutuyO",
-      "name": "Rain On The Rooftop",
-      "url": "https://open.spotify.com/track/4M2Ig5mHw3p3H1OJwutuyO",
-      "artists": [
-        {
-          "id": "0wv2UcMaagFUFqzqbBW7za",
-          "name": "DreamDrops",
-          "url": "https://open.spotify.com/artist/0wv2UcMaagFUFqzqbBW7za"
-        }
-      ],
-      "album": {
-        "name": "Fairytale Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734bbef9993163d75eb1dd077a"
-      },
-      "duration_ms": 190152,
-      "played_at": "2026-08-31T05:34:08.726Z"
     }
   ]
 }
