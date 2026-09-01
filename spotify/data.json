@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-31T22:19:27.190921+00:00",
+  "updated_at": "2026-09-01T03:13:40.652617+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -475,6 +475,150 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "4qvUtYRNwmFzfJ2loWkQCH",
+      "name": "Vilarejo",
+      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH",
+      "artists": [
+        {
+          "id": "0rSTXALHu0EKAawPLBdODH",
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "album": {
+        "name": "Infinito Particular",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b944f430d0489ae7c6a1fd02"
+      },
+      "duration_ms": 209546,
+      "played_at": "2026-09-01T00:17:05.770Z"
+    },
+    {
+      "id": "3DL16fQz0klrNlYxpriqxm",
+      "name": "teu beijo",
+      "url": "https://open.spotify.com/track/3DL16fQz0klrNlYxpriqxm",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 145337,
+      "played_at": "2026-08-31T23:13:16.759Z"
+    },
+    {
+      "id": "0W6aXi2B0UlwY0sPckvrmT",
+      "name": "Foguinho",
+      "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 82971,
+      "played_at": "2026-08-31T23:07:01.062Z"
+    },
+    {
+      "id": "2h4EUH2kBqjkGvv2sJ5MyP",
+      "name": "Mande um Sinal",
+      "url": "https://open.spotify.com/track/2h4EUH2kBqjkGvv2sJ5MyP",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "Vício Inerente",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
+      },
+      "duration_ms": 279849,
+      "played_at": "2026-08-31T23:05:34.812Z"
+    },
+    {
+      "id": "54MW0MeBLyJeswM8w0LtR0",
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/54MW0MeBLyJeswM8w0LtR0",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 177650,
+      "played_at": "2026-08-31T23:00:25.767Z"
+    },
+    {
+      "id": "1qk26emY1Ze0HbsXeF07d2",
+      "name": "Eu Tô Solteira",
+      "url": "https://open.spotify.com/track/1qk26emY1Ze0HbsXeF07d2",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 68666,
+      "played_at": "2026-08-31T22:56:34.467Z"
+    },
+    {
+      "id": "4j6rGhtzKsL2DHpYHEko0I",
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4j6rGhtzKsL2DHpYHEko0I",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191395,
+      "played_at": "2026-08-31T22:55:13.069Z"
+    },
+    {
+      "id": "4j6rGhtzKsL2DHpYHEko0I",
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4j6rGhtzKsL2DHpYHEko0I",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191395,
+      "played_at": "2026-08-31T22:51:52.038Z"
+    },
     {
       "id": "2rC41weP3q2jhM0PDYOZGo",
       "name": "Sem querer",
@@ -1385,150 +1529,6 @@
       },
       "duration_ms": 190152,
       "played_at": "2026-08-31T05:34:08.726Z"
-    },
-    {
-      "id": "678emSwcNj7TVaNlFRt2DC",
-      "name": "Earth Rain",
-      "url": "https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC",
-      "artists": [
-        {
-          "id": "6UxIoQdnDknYEYsVX61G9z",
-          "name": "Celestial Noise",
-          "url": "https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z"
-        }
-      ],
-      "album": {
-        "name": "Space Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fb73a041fe42fc47da470f2a"
-      },
-      "duration_ms": 221000,
-      "played_at": "2026-08-31T05:31:10.763Z"
-    },
-    {
-      "id": "1zH3ZD0xXlwNphuANYz00z",
-      "name": "Rain: Dark Skies",
-      "url": "https://open.spotify.com/track/1zH3ZD0xXlwNphuANYz00z",
-      "artists": [
-        {
-          "id": "4bUfAQsEWiP31GmX5D6E1r",
-          "name": "H20 Recording",
-          "url": "https://open.spotify.com/artist/4bUfAQsEWiP31GmX5D6E1r"
-        }
-      ],
-      "album": {
-        "name": "Rain: Dark Skies",
-        "image": "https://i.scdn.co/image/ab67616d0000b273680a770b41be1915af828761"
-      },
-      "duration_ms": 163469,
-      "played_at": "2026-08-31T05:27:41.759Z"
-    },
-    {
-      "id": "60uoiqXyQpKkbRtPSs8nAF",
-      "name": "Raining For Hours",
-      "url": "https://open.spotify.com/track/60uoiqXyQpKkbRtPSs8nAF",
-      "artists": [
-        {
-          "id": "5sDGFYfzqLSGypFQUMtf2u",
-          "name": "Rain Story",
-          "url": "https://open.spotify.com/artist/5sDGFYfzqLSGypFQUMtf2u"
-        }
-      ],
-      "album": {
-        "name": "Raining For Hours",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732446644f51d4ce4965be0b6a"
-      },
-      "duration_ms": 130000,
-      "played_at": "2026-08-31T05:25:10.696Z"
-    },
-    {
-      "id": "2HmeXv7UyYDfCaAlJNGdRc",
-      "name": "Porch Cleanse",
-      "url": "https://open.spotify.com/track/2HmeXv7UyYDfCaAlJNGdRc",
-      "artists": [
-        {
-          "id": "20FQZwDT0EqBx7aSMrt5NA",
-          "name": "Aquamoon",
-          "url": "https://open.spotify.com/artist/20FQZwDT0EqBx7aSMrt5NA"
-        }
-      ],
-      "album": {
-        "name": "Waterworlds",
-        "image": "https://i.scdn.co/image/ab67616d0000b27361894e42134e1cabc599aefb"
-      },
-      "duration_ms": 138000,
-      "played_at": "2026-08-31T05:23:12.797Z"
-    },
-    {
-      "id": "51yBX5feHREH4CQB3z4Mk0",
-      "name": "Chill Summer Rain",
-      "url": "https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0",
-      "artists": [
-        {
-          "id": "0Whrxu3qzfYHtEnnztpdVQ",
-          "name": "All Rain",
-          "url": "https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ"
-        }
-      ],
-      "album": {
-        "name": "Chill Summer Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739a52d06a53d0805545bab3ee"
-      },
-      "duration_ms": 137044,
-      "played_at": "2026-08-31T05:21:06.696Z"
-    },
-    {
-      "id": "1zKUJivfBXl4t8DeFC2058",
-      "name": "Get Ur Rain On",
-      "url": "https://open.spotify.com/track/1zKUJivfBXl4t8DeFC2058",
-      "artists": [
-        {
-          "id": "6zyjNEfUOGjqpWNy4ZXt5Z",
-          "name": "Hydrometry",
-          "url": "https://open.spotify.com/artist/6zyjNEfUOGjqpWNy4ZXt5Z"
-        }
-      ],
-      "album": {
-        "name": "Evaporation",
-        "image": "https://i.scdn.co/image/ab67616d0000b273be2515dd42daaf301abe7b42"
-      },
-      "duration_ms": 152000,
-      "played_at": "2026-08-31T05:19:01.703Z"
-    },
-    {
-      "id": "0Gtm2nMH4ejUNylrz0ulC5",
-      "name": "Raindrops Keep Falling",
-      "url": "https://open.spotify.com/track/0Gtm2nMH4ejUNylrz0ulC5",
-      "artists": [
-        {
-          "id": "0JklQwIpSXSIxaSP1IbT8j",
-          "name": "Nature's Essence",
-          "url": "https://open.spotify.com/artist/0JklQwIpSXSIxaSP1IbT8j"
-        }
-      ],
-      "album": {
-        "name": "Raindrops Keep Falling",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a20616297f4968569e853f51"
-      },
-      "duration_ms": 194009,
-      "played_at": "2026-08-31T05:16:41.796Z"
-    },
-    {
-      "id": "45eRVAGkGYIygQ1GjTl2Ff",
-      "name": "rumbling rainfall",
-      "url": "https://open.spotify.com/track/45eRVAGkGYIygQ1GjTl2Ff",
-      "artists": [
-        {
-          "id": "6kqOxJqJ4r4cIlbYR4GbP4",
-          "name": "oh, the joy.",
-          "url": "https://open.spotify.com/artist/6kqOxJqJ4r4cIlbYR4GbP4"
-        }
-      ],
-      "album": {
-        "name": "peaceful showers (rain)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733d339ffb69fba3cb83d84f0e"
-      },
-      "duration_ms": 154124,
-      "played_at": "2026-08-31T05:13:39.779Z"
     }
   ]
 }
