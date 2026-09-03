@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-03T02:39:23.301200+00:00",
+  "updated_at": "2026-09-03T10:34:32.111210+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -248,23 +248,6 @@
       "duration_ms": 263026
     },
     {
-      "id": "2FEWcWHnDmGD6WSqpW4VYu",
-      "name": "This I Love",
-      "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu",
-      "artists": [
-        {
-          "id": "3qm84nBOXUEQ2vnTfUTTFC",
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "album": {
-        "name": "Chinese Democracy",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e29a351729da4d29214e54e2"
-      },
-      "duration_ms": 334373
-    },
-    {
       "id": "1hL4Ez8As4A4VJBw8X2eVA",
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
@@ -280,6 +263,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
       },
       "duration_ms": 149387
+    },
+    {
+      "id": "2FEWcWHnDmGD6WSqpW4VYu",
+      "name": "This I Love",
+      "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu",
+      "artists": [
+        {
+          "id": "3qm84nBOXUEQ2vnTfUTTFC",
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "album": {
+        "name": "Chinese Democracy",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e29a351729da4d29214e54e2"
+      },
+      "duration_ms": 334373
     },
     {
       "id": "0YrH15XcTh2Kf3re3yubZ5",
@@ -475,6 +475,100 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "27rqWKpmFCD0Mmw3XABBOW",
+      "name": "Eu Vou Cuspir",
+      "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW",
+      "artists": [
+        {
+          "id": "3lxhCRbMuc8uHPFG714lqM",
+          "name": "DJ YAN MARIOTO",
+          "url": "https://open.spotify.com/artist/3lxhCRbMuc8uHPFG714lqM"
+        },
+        {
+          "id": "3uSPe0aATQvPSLWin1kZsQ",
+          "name": "MC Marlon PH",
+          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
+        },
+        {
+          "id": "75KmA2fnu28O4MunN3AskC",
+          "name": "BIG MC",
+          "url": "https://open.spotify.com/artist/75KmA2fnu28O4MunN3AskC"
+        }
+      ],
+      "album": {
+        "name": "Eu Vou Cuspir",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f92f8fff9e2e5fe2c68fbe41"
+      },
+      "duration_ms": 121846,
+      "played_at": "2026-09-03T09:31:54.645Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-03T09:31:54.182Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-03T09:29:21.728Z"
+    },
     {
       "id": "7cLbmv2MDKM8r8EKqOMkSM",
       "name": "Okê",
@@ -1690,85 +1784,6 @@
       },
       "duration_ms": 148921,
       "played_at": "2026-09-01T17:17:31.376Z"
-    },
-    {
-      "id": "5xebls1ZOUqKDVVwQA5YDG",
-      "name": "QUANDO EU TOMO GIN DE 10",
-      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
-      "artists": [
-        {
-          "id": "466CdZBDPcGn9fuvBhzRRk",
-          "name": "Mc Neguinho do Morro",
-          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
-        },
-        {
-          "id": "1VgGaAocQcDmFfazjofQQ6",
-          "name": "MC NINA",
-          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
-        },
-        {
-          "id": "5rDBnqOlE9v4vZRFC5QNKm",
-          "name": "MITOS ENTRETENIMENTO",
-          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
-        }
-      ],
-      "album": {
-        "name": "QUANDO EU TOMO GIN DE 10",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
-      },
-      "duration_ms": 167999,
-      "played_at": "2026-09-01T17:15:11.461Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-09-01T17:06:58.142Z"
-    },
-    {
-      "id": "0gbNLi9uvioDGatRBM8HHo",
-      "name": "Vídeo Sensual",
-      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
-      "artists": [
-        {
-          "id": "7rbQBgqL5HYC01Ox1C00oY",
-          "name": "DJ Patrick Original",
-          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
-        },
-        {
-          "id": "1SccqhX1lbpNKrJ7bVRDLh",
-          "name": "Game Records",
-          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "id": "5xKesKsXI1jv2TorLOnbbm",
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        }
-      ],
-      "album": {
-        "name": "Vídeo Sensual",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
-      },
-      "duration_ms": 148921,
-      "played_at": "2026-09-01T17:06:38.389Z"
     }
   ]
 }
