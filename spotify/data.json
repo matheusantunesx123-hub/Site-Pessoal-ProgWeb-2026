@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T20:25:57.273017+00:00",
+  "updated_at": "2026-09-03T02:39:23.301200+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -475,6 +475,312 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "7cLbmv2MDKM8r8EKqOMkSM",
+      "name": "Okê",
+      "url": "https://open.spotify.com/track/7cLbmv2MDKM8r8EKqOMkSM",
+      "artists": [
+        {
+          "id": "7FNnA9vBm6EKceENgCGRMb",
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "id": "5nwwplsLg8wQ93qamvX4Pq",
+          "name": "Brô MC's",
+          "url": "https://open.spotify.com/artist/5nwwplsLg8wQ93qamvX4Pq"
+        },
+        {
+          "id": "0yWiR1yDhEOBiiYDwwuZEN",
+          "name": "Katu Mirim",
+          "url": "https://open.spotify.com/artist/0yWiR1yDhEOBiiYDwwuZEN"
+        }
+      ],
+      "album": {
+        "name": "EQUILIBRIVM II",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fc561bc173dc5cf4a08e0ab7"
+      },
+      "duration_ms": 162090,
+      "played_at": "2026-09-02T23:35:01.561Z"
+    },
+    {
+      "id": "3z7YYkTNEpG6FXIuZmfnPg",
+      "name": "É Tudo Meu",
+      "url": "https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 182625,
+      "played_at": "2026-09-02T22:35:08.052Z"
+    },
+    {
+      "id": "1fGLp6zPFPyESFKI3HxC3e",
+      "name": "Pode Mandar",
+      "url": "https://open.spotify.com/track/1fGLp6zPFPyESFKI3HxC3e",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "1PUMdtllFKYq4Ymzduzocv",
+          "name": "Vírus",
+          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165000,
+      "played_at": "2026-09-02T22:28:32.958Z"
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "played_at": "2026-09-02T22:25:27.018Z"
+    },
+    {
+      "id": "1APD7xqJK8QODjedrx14I9",
+      "name": "Toma Pipoca Posso Dar pra Voce e pro Seu Amigo",
+      "url": "https://open.spotify.com/track/1APD7xqJK8QODjedrx14I9",
+      "artists": [
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "id": "5kLUQ7J1U7CqxjW0hu8rr3",
+          "name": "DJ BRUNO PRADO",
+          "url": "https://open.spotify.com/artist/5kLUQ7J1U7CqxjW0hu8rr3"
+        },
+        {
+          "id": "5AWdsNtZ3cFCrvGQovuPzu",
+          "name": "Novo Império",
+          "url": "https://open.spotify.com/artist/5AWdsNtZ3cFCrvGQovuPzu"
+        }
+      ],
+      "album": {
+        "name": "Toma Pipoca Posso Dar pra Voce e pro Seu Amigo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737a7d284d3819d6140e64ab46"
+      },
+      "duration_ms": 191999,
+      "played_at": "2026-09-02T22:20:14.891Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-09-02T22:17:02.892Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-02T22:14:14.865Z"
+    },
+    {
+      "id": "6xi41eSOTp4o5N84iIyUs8",
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "TOMA NO CU (Maria Gasolina)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
+      },
+      "duration_ms": 91321,
+      "played_at": "2026-09-02T22:08:13.391Z"
+    },
+    {
+      "id": "77ktPgR21JTA59L1R7NQn9",
+      "name": "Tua Ex É uma Delícia",
+      "url": "https://open.spotify.com/track/77ktPgR21JTA59L1R7NQn9",
+      "artists": [
+        {
+          "id": "0DLzO3qfGGEJyXwLflcgXK",
+          "name": "Anderson Neiff",
+          "url": "https://open.spotify.com/artist/0DLzO3qfGGEJyXwLflcgXK"
+        },
+        {
+          "id": "7xyQhIc2JbJ7tzvm0rmqpb",
+          "name": "Mano Cheffe",
+          "url": "https://open.spotify.com/artist/7xyQhIc2JbJ7tzvm0rmqpb"
+        }
+      ],
+      "album": {
+        "name": "Tua Ex É uma Delícia",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739695e2ee9060eb38b76a18c3"
+      },
+      "duration_ms": 197425,
+      "played_at": "2026-09-02T22:06:41.939Z"
+    },
+    {
+      "id": "7qax5a35g3cSIDoCPkzZI8",
+      "name": "Joga Nele - Remix",
+      "url": "https://open.spotify.com/track/7qax5a35g3cSIDoCPkzZI8",
+      "artists": [
+        {
+          "id": "3XtuCcYVAgDABkXDLUk8BE",
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "id": "0fRzXMoiuuR3kQDr8aavt2",
+          "name": "DJ Ruan da VK",
+          "url": "https://open.spotify.com/artist/0fRzXMoiuuR3kQDr8aavt2"
+        },
+        {
+          "id": "70JVilt92BAThI767veckx",
+          "name": "D'BEATS",
+          "url": "https://open.spotify.com/artist/70JVilt92BAThI767veckx"
+        },
+        {
+          "id": "3H5shZe6q9nbTcliPDyBwg",
+          "name": "DJ NZR",
+          "url": "https://open.spotify.com/artist/3H5shZe6q9nbTcliPDyBwg"
+        }
+      ],
+      "album": {
+        "name": "Joga Nele (Remix)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273769d959c0292bae0d8f49f89"
+      },
+      "duration_ms": 109461,
+      "played_at": "2026-09-02T22:03:24.502Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-02T21:59:26.024Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-09-02T21:58:36.342Z"
+    },
     {
       "id": "1ZP3EOQjnFCGFMqrshLDlV",
       "name": "deja vu",
@@ -1463,252 +1769,6 @@
       },
       "duration_ms": 148921,
       "played_at": "2026-09-01T17:06:38.389Z"
-    },
-    {
-      "id": "1V0G7UNW4SPThnc3o8RemS",
-      "name": "Nossa Geração",
-      "url": "https://open.spotify.com/track/1V0G7UNW4SPThnc3o8RemS",
-      "artists": [
-        {
-          "id": "57pVvBwa3ZCR9LsVlkLXj7",
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "album": {
-        "name": "Quando Deixamos Nossos Beijos na Esquina",
-        "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
-      },
-      "duration_ms": 259678,
-      "played_at": "2026-09-01T17:03:09.354Z"
-    },
-    {
-      "id": "0gbNLi9uvioDGatRBM8HHo",
-      "name": "Vídeo Sensual",
-      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
-      "artists": [
-        {
-          "id": "7rbQBgqL5HYC01Ox1C00oY",
-          "name": "DJ Patrick Original",
-          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
-        },
-        {
-          "id": "1SccqhX1lbpNKrJ7bVRDLh",
-          "name": "Game Records",
-          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "id": "5xKesKsXI1jv2TorLOnbbm",
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        }
-      ],
-      "album": {
-        "name": "Vídeo Sensual",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
-      },
-      "duration_ms": 148921,
-      "played_at": "2026-09-01T10:09:09.791Z"
-    },
-    {
-      "id": "0gbNLi9uvioDGatRBM8HHo",
-      "name": "Vídeo Sensual",
-      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
-      "artists": [
-        {
-          "id": "7rbQBgqL5HYC01Ox1C00oY",
-          "name": "DJ Patrick Original",
-          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
-        },
-        {
-          "id": "1SccqhX1lbpNKrJ7bVRDLh",
-          "name": "Game Records",
-          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "id": "5xKesKsXI1jv2TorLOnbbm",
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        }
-      ],
-      "album": {
-        "name": "Vídeo Sensual",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
-      },
-      "duration_ms": 148921,
-      "played_at": "2026-09-01T10:06:20.118Z"
-    },
-    {
-      "id": "4qvUtYRNwmFzfJ2loWkQCH",
-      "name": "Vilarejo",
-      "url": "https://open.spotify.com/track/4qvUtYRNwmFzfJ2loWkQCH",
-      "artists": [
-        {
-          "id": "0rSTXALHu0EKAawPLBdODH",
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "album": {
-        "name": "Infinito Particular",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b944f430d0489ae7c6a1fd02"
-      },
-      "duration_ms": 209546,
-      "played_at": "2026-09-01T00:17:05.770Z"
-    },
-    {
-      "id": "3DL16fQz0klrNlYxpriqxm",
-      "name": "teu beijo",
-      "url": "https://open.spotify.com/track/3DL16fQz0klrNlYxpriqxm",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 145337,
-      "played_at": "2026-08-31T23:13:16.759Z"
-    },
-    {
-      "id": "0W6aXi2B0UlwY0sPckvrmT",
-      "name": "Foguinho",
-      "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT",
-      "artists": [
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
-      },
-      "duration_ms": 82971,
-      "played_at": "2026-08-31T23:07:01.062Z"
-    },
-    {
-      "id": "2h4EUH2kBqjkGvv2sJ5MyP",
-      "name": "Mande um Sinal",
-      "url": "https://open.spotify.com/track/2h4EUH2kBqjkGvv2sJ5MyP",
-      "artists": [
-        {
-          "id": "0nFdWpwl7h6fp3ADRyG14L",
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "album": {
-        "name": "Vício Inerente",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
-      },
-      "duration_ms": 279849,
-      "played_at": "2026-08-31T23:05:34.812Z"
-    },
-    {
-      "id": "54MW0MeBLyJeswM8w0LtR0",
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/54MW0MeBLyJeswM8w0LtR0",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 177650,
-      "played_at": "2026-08-31T23:00:25.767Z"
-    },
-    {
-      "id": "1qk26emY1Ze0HbsXeF07d2",
-      "name": "Eu Tô Solteira",
-      "url": "https://open.spotify.com/track/1qk26emY1Ze0HbsXeF07d2",
-      "artists": [
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
-      },
-      "duration_ms": 68666,
-      "played_at": "2026-08-31T22:56:34.467Z"
-    },
-    {
-      "id": "4j6rGhtzKsL2DHpYHEko0I",
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4j6rGhtzKsL2DHpYHEko0I",
-      "artists": [
-        {
-          "id": "0nFdWpwl7h6fp3ADRyG14L",
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "album": {
-        "name": "De Primeira",
-        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
-      },
-      "duration_ms": 191395,
-      "played_at": "2026-08-31T22:55:13.069Z"
-    },
-    {
-      "id": "4j6rGhtzKsL2DHpYHEko0I",
-      "name": "Temporal",
-      "url": "https://open.spotify.com/track/4j6rGhtzKsL2DHpYHEko0I",
-      "artists": [
-        {
-          "id": "0nFdWpwl7h6fp3ADRyG14L",
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "album": {
-        "name": "De Primeira",
-        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
-      },
-      "duration_ms": 191395,
-      "played_at": "2026-08-31T22:51:52.038Z"
-    },
-    {
-      "id": "2rC41weP3q2jhM0PDYOZGo",
-      "name": "Sem querer",
-      "url": "https://open.spotify.com/track/2rC41weP3q2jhM0PDYOZGo",
-      "artists": [
-        {
-          "id": "3CDoRporvSjdzTrm99a3gi",
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "album": {
-        "name": "Hoje",
-        "image": "https://i.scdn.co/image/ab67616d0000b273852ba896e3854666bf636443"
-      },
-      "duration_ms": 169114,
-      "played_at": "2026-08-31T16:10:12.226Z"
     }
   ]
 }
