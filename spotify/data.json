@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T19:50:06.056914+00:00",
+  "updated_at": "2026-09-06T02:33:50.948376+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -455,23 +455,6 @@
       "duration_ms": 294065
     },
     {
-      "id": "0WiMJIxYYEex2AqhRqzV3u",
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "This Old Dog",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
-      },
-      "duration_ms": 182306
-    },
-    {
       "id": "1V0G7UNW4SPThnc3o8RemS",
       "name": "Nossa Geração",
       "url": "https://open.spotify.com/track/1V0G7UNW4SPThnc3o8RemS",
@@ -487,6 +470,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273544d92eb6e6f4c414a07937c"
       },
       "duration_ms": 259678
+    },
+    {
+      "id": "0WiMJIxYYEex2AqhRqzV3u",
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "This Old Dog",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
+      },
+      "duration_ms": 182306
     }
   ],
   "recently_played": [
