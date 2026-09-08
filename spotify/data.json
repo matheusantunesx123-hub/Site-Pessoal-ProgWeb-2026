@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T02:44:56.093877+00:00",
+  "updated_at": "2026-09-08T10:28:20.440093+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -490,6 +490,39 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-09-08T10:08:40.037Z"
+    },
     {
       "id": "6BKqgd3IENQeVuIpNSJEDc",
       "name": "doidinha",
@@ -1566,24 +1599,6 @@
       },
       "duration_ms": 182340,
       "played_at": "2026-09-04T23:18:50.821Z"
-    },
-    {
-      "id": "598ubU6RFZCKFIuqYM81s9",
-      "name": "Aquela Pessoa - Ao Vivo",
-      "url": "https://open.spotify.com/track/598ubU6RFZCKFIuqYM81s9",
-      "artists": [
-        {
-          "id": "3p7PcrEHaaKLJnPUGOtRlT",
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "album": {
-        "name": "O Céu Explica Tudo (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381ad6c15a42b65e5d7c9ae65"
-      },
-      "duration_ms": 166838,
-      "played_at": "2026-09-04T23:15:48.010Z"
     }
   ]
 }
