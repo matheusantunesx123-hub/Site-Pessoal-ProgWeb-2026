@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T21:02:11.852975+00:00",
+  "updated_at": "2026-09-08T02:44:56.093877+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -490,6 +490,83 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "6BKqgd3IENQeVuIpNSJEDc",
+      "name": "doidinha",
+      "url": "https://open.spotify.com/track/6BKqgd3IENQeVuIpNSJEDc",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 200238,
+      "played_at": "2026-09-07T23:36:22.175Z"
+    },
+    {
+      "id": "2R5smAQVZCdyulSwDPYFeZ",
+      "name": "50 Meninas",
+      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 212693,
+      "played_at": "2026-09-07T23:03:10.577Z"
+    },
+    {
+      "id": "2ECKaCwZCqrlDWqJ07IZYW",
+      "name": "GAME",
+      "url": "https://open.spotify.com/track/2ECKaCwZCqrlDWqJ07IZYW",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 203573,
+      "played_at": "2026-09-07T22:59:25.736Z"
+    },
+    {
+      "id": "4NONYT8T6OK8hjO46EnajI",
+      "name": "você vai gostar",
+      "url": "https://open.spotify.com/track/4NONYT8T6OK8hjO46EnajI",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        },
+        {
+          "id": "0eHkGhhUyp3LZdtZjaA8gd",
+          "name": "AJULLIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        }
+      ],
+      "album": {
+        "name": "esse delírio vol.1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735e60af877ad9cf1adb6aa757"
+      },
+      "duration_ms": 204767,
+      "played_at": "2026-09-07T22:55:37.575Z"
+    },
     {
       "id": "2qnP80eqDwpQHdFnYA1dQN",
       "name": "q prazer",
@@ -1507,88 +1584,6 @@
       },
       "duration_ms": 166838,
       "played_at": "2026-09-04T23:15:48.010Z"
-    },
-    {
-      "id": "3tc8Z4lGzOIwmIVftsxO6o",
-      "name": "Graveto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o",
-      "artists": [
-        {
-          "id": "1yR65psqiazQpeM79CcGh8",
-          "name": "Marília Mendonça",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        }
-      ],
-      "album": {
-        "name": "Graveto (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737b398842d516b65eb6f77fcb"
-      },
-      "duration_ms": 170877,
-      "played_at": "2026-09-04T23:13:00.681Z"
-    },
-    {
-      "id": "4v6BjDJPLLdqGhuI9CMoov",
-      "name": "Tudo Acabou - Ao Vivo",
-      "url": "https://open.spotify.com/track/4v6BjDJPLLdqGhuI9CMoov",
-      "artists": [
-        {
-          "id": "0oV3e0s6fk8CsTP1txxPMs",
-          "name": "Vini & Lucas",
-          "url": "https://open.spotify.com/artist/0oV3e0s6fk8CsTP1txxPMs"
-        }
-      ],
-      "album": {
-        "name": "Bar do Vini & Lucas (São Paulo) [Ao Vivo]",
-        "image": "https://i.scdn.co/image/ab67616d0000b27327729951f238e10fffdc271a"
-      },
-      "duration_ms": 189269,
-      "played_at": "2026-09-04T23:07:49.451Z"
-    },
-    {
-      "id": "3ZzeHsbl7IWWpJqBrItJt2",
-      "name": "200 Reais - Ao Vivo",
-      "url": "https://open.spotify.com/track/3ZzeHsbl7IWWpJqBrItJt2",
-      "artists": [
-        {
-          "id": "5qIpstBGrGteJZg1xIvbiz",
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "id": "2FrLTuXGuFDzQsjKidB03W",
-          "name": "João Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        },
-        {
-          "id": "0oAZhL6hFrM3YRr6QzjlOf",
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "album": {
-        "name": "Fora do Padrão Vol. 03 (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dd57dde2ebea1d4d96c896ea"
-      },
-      "duration_ms": 142330,
-      "played_at": "2026-09-04T23:04:39.667Z"
-    },
-    {
-      "id": "36OBPVuz58hAsKxgLCKer6",
-      "name": "Pergunta Boba - Ao Vivo",
-      "url": "https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6",
-      "artists": [
-        {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "album": {
-        "name": "10 Anos (Ao Vivo | Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a5428f68932afbdc42894461"
-      },
-      "duration_ms": 228350,
-      "played_at": "2026-09-04T23:02:16.749Z"
     }
   ]
 }
