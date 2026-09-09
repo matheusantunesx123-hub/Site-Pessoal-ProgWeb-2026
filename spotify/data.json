@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T20:36:43.129028+00:00",
+  "updated_at": "2026-09-09T02:44:25.458262+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -23,7 +23,7 @@
       "id": "0nFdWpwl7h6fp3ADRyG14L",
       "name": "Marina Sena",
       "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb7e3285f3148b331b0f3b8040"
+      "image": "https://i.scdn.co/image/ab6761610000e5eba1f1da49af37bc62284c9cc9"
     },
     {
       "id": "00FQb4jTyendYWaN8pK0wa",
@@ -394,7 +394,7 @@
       ],
       "album": {
         "name": "White Trails (Expanded)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5"
+        "image": "https://i.scdn.co/image/ab67616d0000b273b01318919e207e569f69c1a2"
       },
       "duration_ms": 255946
     },
@@ -490,6 +490,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "7w8IIeqtYJBodS0P9zB0El",
+      "name": "Vontade De Voar",
+      "url": "https://open.spotify.com/track/7w8IIeqtYJBodS0P9zB0El",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 253914,
+      "played_at": "2026-09-08T20:55:35.844Z"
+    },
     {
       "id": "4j6rGhtzKsL2DHpYHEko0I",
       "name": "Temporal",
@@ -1676,24 +1694,6 @@
       },
       "duration_ms": 154137,
       "played_at": "2026-09-05T00:41:33.656Z"
-    },
-    {
-      "id": "2655xYZ347fG2N6OjkoMQ8",
-      "name": "Logo Eu",
-      "url": "https://open.spotify.com/track/2655xYZ347fG2N6OjkoMQ8",
-      "artists": [
-        {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "album": {
-        "name": "Os Anjos Cantam",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737ea581f6963d14d477207234"
-      },
-      "duration_ms": 155720,
-      "played_at": "2026-09-05T00:11:55.934Z"
     }
   ]
 }
