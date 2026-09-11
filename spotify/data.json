@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:29:36.223880+00:00",
+  "updated_at": "2026-09-11T15:44:36.545705+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -38,16 +38,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
     },
     {
-      "id": "2uYWxilOVlUdk4oV9DvwqK",
-      "name": "Mitski",
-      "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebaf731fe1a006c29152075c89"
-    },
-    {
       "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
       "name": "Mac DeMarco",
       "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d"
+    },
+    {
+      "id": "2uYWxilOVlUdk4oV9DvwqK",
+      "name": "Mitski",
+      "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebaf731fe1a006c29152075c89"
     },
     {
       "id": "2dmQ0vMD3THLMcz7DsvfaT",
@@ -92,16 +92,22 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816"
     },
     {
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "name": "The Smiths",
+      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
+    },
+    {
       "id": "7IAXZaLTb6nkJr8RmVPn5y",
       "name": "ANGRA",
       "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y",
       "image": "https://i.scdn.co/image/ab6761610000e5eb07a22f1e40e3aaf072fa302a"
     },
     {
-      "id": "3yY2gUcIsjMr8hjo51PoJ8",
-      "name": "The Smiths",
-      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
-      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
+      "id": "4rF7c8zpCKzuSXohs2HIpA",
+      "name": "Steven Universe",
+      "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf"
     },
     {
       "id": "7gW0r5CkdEUMm42w9XpyZO",
@@ -114,12 +120,6 @@
       "name": "Mon Laferte",
       "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr",
       "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
-    },
-    {
-      "id": "4rF7c8zpCKzuSXohs2HIpA",
-      "name": "Steven Universe",
-      "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf"
     }
   ],
   "top_tracks": [
@@ -331,6 +331,23 @@
       "duration_ms": 184659
     },
     {
+      "id": "2R5smAQVZCdyulSwDPYFeZ",
+      "name": "50 Meninas",
+      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 212693
+    },
+    {
       "id": "3gojFWZfp7TXkLZyKFHmSA",
       "name": "Motor - Ao Vivo",
       "url": "https://open.spotify.com/track/3gojFWZfp7TXkLZyKFHmSA",
@@ -348,21 +365,21 @@
       "duration_ms": 262424
     },
     {
-      "id": "2R5smAQVZCdyulSwDPYFeZ",
-      "name": "50 Meninas",
-      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
       "artists": [
         {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
       "album": {
-        "name": "Te Amo Lá Fora",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
       },
-      "duration_ms": 212693
+      "duration_ms": 297090
     },
     {
       "id": "7nGGKB0KX7FojvyJ5DNrK3",
@@ -414,23 +431,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
       },
       "duration_ms": 212720
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090
     },
     {
       "id": "1V0G7UNW4SPThnc3o8RemS",
@@ -510,6 +510,78 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "5bEPffNapJrNGtdXzsqvXQ",
+      "name": "Quando A Fonte Secar",
+      "url": "https://open.spotify.com/track/5bEPffNapJrNGtdXzsqvXQ",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 202656,
+      "played_at": "2026-09-11T11:00:51.796Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-09-11T10:57:22.639Z"
+    },
+    {
+      "id": "4dqimUG6Fdi9JZPIYLt16K",
+      "name": "Ninguem Dança",
+      "url": "https://open.spotify.com/track/4dqimUG6Fdi9JZPIYLt16K",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Sinto Muito",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739f37b014317a3a62d298a6c7"
+      },
+      "duration_ms": 231086,
+      "played_at": "2026-09-11T10:45:07.471Z"
+    },
+    {
+      "id": "07OV5r8igYbo26O5WWdICV",
+      "name": "Dar Uma Deitchada",
+      "url": "https://open.spotify.com/track/07OV5r8igYbo26O5WWdICV",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Dar Uma Deitchada",
+        "image": "https://i.scdn.co/image/ab67616d0000b273924e9e4f6381e5b323275acc"
+      },
+      "duration_ms": 192614,
+      "played_at": "2026-09-11T09:37:46.274Z"
+    },
     {
       "id": "2R5smAQVZCdyulSwDPYFeZ",
       "name": "50 Meninas",
@@ -1367,83 +1439,6 @@
       },
       "duration_ms": 227760,
       "played_at": "2026-09-11T05:38:42.584Z"
-    },
-    {
-      "id": "0WiMJIxYYEex2AqhRqzV3u",
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "This Old Dog",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
-      },
-      "duration_ms": 182306,
-      "played_at": "2026-09-11T05:35:03.775Z"
-    },
-    {
-      "id": "3YUMWmx8EJq0DurfuIwoGh",
-      "name": "my future",
-      "url": "https://open.spotify.com/track/3YUMWmx8EJq0DurfuIwoGh",
-      "artists": [
-        {
-          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "album": {
-        "name": "Happier Than Ever",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
-      },
-      "duration_ms": 210005,
-      "played_at": "2026-09-11T05:32:10.467Z"
-    },
-    {
-      "id": "1o82DwNisONAd2mu1RcGE6",
-      "name": "Margaret (feat. Bleachers)",
-      "url": "https://open.spotify.com/track/1o82DwNisONAd2mu1RcGE6",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "id": "2eam0iDomRHGBypaDQLwWI",
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "album": {
-        "name": "Did you know that there's a tunnel under Ocean Blvd",
-        "image": "https://i.scdn.co/image/ab67616d0000b27359ae8cf65d498afdd5585634"
-      },
-      "duration_ms": 339890,
-      "played_at": "2026-09-11T05:28:49.483Z"
-    },
-    {
-      "id": "3vkCueOmm7xQDoJ17W1Pm3",
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3",
-      "artists": [
-        {
-          "id": "2uYWxilOVlUdk4oV9DvwqK",
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10"
-      },
-      "duration_ms": 137773,
-      "played_at": "2026-09-11T05:23:18.744Z"
     }
   ]
 }
