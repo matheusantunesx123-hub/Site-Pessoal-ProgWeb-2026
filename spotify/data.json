@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15T16:06:22.017546+00:00",
+  "updated_at": "2026-09-15T20:47:18.053067+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -510,6 +510,205 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-15T20:36:20.587Z"
+    },
+    {
+      "id": "4ORdSaMMnk2jMbIrtq6wV9",
+      "name": "QUE LOUCURA - Sped Up",
+      "url": "https://open.spotify.com/track/4ORdSaMMnk2jMbIrtq6wV9",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "QUE LOUCURA",
+        "image": "https://i.scdn.co/image/ab67616d0000b27349248c0bd4b98457fce00a1a"
+      },
+      "duration_ms": 83638,
+      "played_at": "2026-09-15T20:31:52.422Z"
+    },
+    {
+      "id": "7gOxjWxnJRfgPhLgHIsvmU",
+      "name": "Kid Cudi - Brazilian Funk",
+      "url": "https://open.spotify.com/track/7gOxjWxnJRfgPhLgHIsvmU",
+      "artists": [
+        {
+          "id": "7uhYm3jkkGokLHaxi3PceF",
+          "name": "MLQ 2N",
+          "url": "https://open.spotify.com/artist/7uhYm3jkkGokLHaxi3PceF"
+        }
+      ],
+      "album": {
+        "name": "Kid Cudi (Brazilian Funk)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f069342e8f05f242cb8f79ce"
+      },
+      "duration_ms": 140000,
+      "played_at": "2026-09-15T20:26:55.698Z"
+    },
+    {
+      "id": "1ZP3EOQjnFCGFMqrshLDlV",
+      "name": "deja vu",
+      "url": "https://open.spotify.com/track/1ZP3EOQjnFCGFMqrshLDlV",
+      "artists": [
+        {
+          "id": "45gaCloXnZzVtyFecwPJ1H",
+          "name": "33nimb",
+          "url": "https://open.spotify.com/artist/45gaCloXnZzVtyFecwPJ1H"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "deja vu",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b700e2c716abb56e950fdce7"
+      },
+      "duration_ms": 102000,
+      "played_at": "2026-09-15T20:13:22.677Z"
+    },
+    {
+      "id": "6xi41eSOTp4o5N84iIyUs8",
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "TOMA NO CU (Maria Gasolina)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
+      },
+      "duration_ms": 91321,
+      "played_at": "2026-09-15T20:11:29.646Z"
+    },
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-15T20:00:20.527Z"
+    },
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-15T19:53:22.787Z"
+    },
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-15T14:40:49.526Z"
+    },
     {
       "id": "1ZLroqJA8qoS5QEeCo0fA7",
       "name": "Breezeblocks",
@@ -1285,150 +1484,6 @@
       },
       "duration_ms": 284466,
       "played_at": "2026-09-15T05:56:48.154Z"
-    },
-    {
-      "id": "0WQiDwKJclirSYG9v5tayI",
-      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
-      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
-      "artists": [
-        {
-          "id": "3yY2gUcIsjMr8hjo51PoJ8",
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "album": {
-        "name": "The Queen Is Dead",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736236778a208a15eb71079601"
-      },
-      "duration_ms": 244586,
-      "played_at": "2026-09-15T05:52:12.669Z"
-    },
-    {
-      "id": "0TZejo18HlJ86OrWNsXKnw",
-      "name": "Mrs Magic",
-      "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw",
-      "artists": [
-        {
-          "id": "1AbJ2cmwK400LSvdvBL5Jc",
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "album": {
-        "name": "Mrs Magic",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734695126ef47156001851e95c"
-      },
-      "duration_ms": 208500,
-      "played_at": "2026-09-15T05:48:17.062Z"
-    },
-    {
-      "id": "1Bv3h7Vc4AaYA2BcSM3rVd",
-      "name": "All I Wanted",
-      "url": "https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd",
-      "artists": [
-        {
-          "id": "74XFHRwlV6OrjEM0A2NCMF",
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "album": {
-        "name": "Brand New Eyes",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e01d7d558032457b0e4883f6"
-      },
-      "duration_ms": 225786,
-      "played_at": "2026-09-15T05:44:57.667Z"
-    },
-    {
-      "id": "5ZpAU5f4jxj6i9XoKK0RaI",
-      "name": "Burning Pile",
-      "url": "https://open.spotify.com/track/5ZpAU5f4jxj6i9XoKK0RaI",
-      "artists": [
-        {
-          "id": "0e86yPdC41PGRkLp2Q1Bph",
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "album": {
-        "name": "O My Heart",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767"
-      },
-      "duration_ms": 262173,
-      "played_at": "2026-09-15T05:41:20.827Z"
-    },
-    {
-      "id": "086myS9r57YsLbJpU0TgK9",
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9",
-      "artists": [
-        {
-          "id": "7Ln80lUS6He07XvHI8qqHH",
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "album": {
-        "name": "AM",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163"
-      },
-      "duration_ms": 161123,
-      "played_at": "2026-09-15T05:37:07.666Z"
-    },
-    {
-      "id": "6ZaiqbV2GfUtrUlhsu58fN",
-      "name": "Step On Me",
-      "url": "https://open.spotify.com/track/6ZaiqbV2GfUtrUlhsu58fN",
-      "artists": [
-        {
-          "id": "1tqZaCwM57UFKjWoYwMLrw",
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
-        }
-      ],
-      "album": {
-        "name": "First Band On The Moon (Remastered)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af"
-      },
-      "duration_ms": 230185,
-      "played_at": "2026-09-15T05:34:35.541Z"
-    },
-    {
-      "id": "3EaJDYHA0KnX88JvDhL9oa",
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa",
-      "artists": [
-        {
-          "id": "57vWImR43h4CaDao012Ofp",
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "album": {
-        "name": "Dark Red",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733d2dfa42f771cd458b194979"
-      },
-      "duration_ms": 173104,
-      "played_at": "2026-09-15T05:30:54.366Z"
-    },
-    {
-      "id": "6dBUzqjtbnIa1TwYbyw5CM",
-      "name": "Lovers Rock",
-      "url": "https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM",
-      "artists": [
-        {
-          "id": "0Y6dVaC9DZtPNH4591M42W",
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "album": {
-        "name": "French Exit",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84"
-      },
-      "duration_ms": 213920,
-      "played_at": "2026-09-15T05:28:10.238Z"
     }
   ]
 }
