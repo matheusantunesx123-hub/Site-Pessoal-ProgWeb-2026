@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-16T15:59:13.191443+00:00",
+  "updated_at": "2026-09-16T20:47:11.163372+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -495,6 +495,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "played_at": "2026-09-16T17:03:41.283Z"
+    },
     {
       "id": "4B3lcxYv3fb2yAw9hkKR0M",
       "name": "Cool for the Summer - Rock Version",
@@ -1431,24 +1449,6 @@
       },
       "duration_ms": 309053,
       "played_at": "2026-09-16T07:22:12.340Z"
-    },
-    {
-      "id": "6VhuP99TE6gYNQRJIlAWFD",
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD",
-      "artists": [
-        {
-          "id": "5XKFrudbV4IiuE5WuTPRmT",
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "album": {
-        "name": "Easy On My Eyes",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739522042f86d0bb0d4e9e3783"
-      },
-      "duration_ms": 176666,
-      "played_at": "2026-09-16T07:17:12.310Z"
     }
   ]
 }
