@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-17T16:05:46.456649+00:00",
+  "updated_at": "2026-09-17T20:52:58.475961+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -505,6 +505,317 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "4Ouhoi2lAhrLJKFzUqEzwl",
+      "name": "Born To Die",
+      "url": "https://open.spotify.com/track/4Ouhoi2lAhrLJKFzUqEzwl",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 285400,
+      "played_at": "2026-09-17T18:06:44.761Z"
+    },
+    {
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "played_at": "2026-09-17T17:05:34.474Z"
+    },
+    {
+      "id": "6VzcQuzTNTMFnJ6rBSaLH9",
+      "name": "Fine Line",
+      "url": "https://open.spotify.com/track/6VzcQuzTNTMFnJ6rBSaLH9",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "name": "Fine Line",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325180571abce9472f61bd722"
+      },
+      "duration_ms": 377909,
+      "played_at": "2026-09-17T17:01:31.556Z"
+    },
+    {
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "artists": [
+        {
+          "id": "3MZsBdqDrRTJihTHQrO6Dq",
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "album": {
+        "name": "BALLADS 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2"
+      },
+      "duration_ms": 209273,
+      "played_at": "2026-09-17T17:00:27.428Z"
+    },
+    {
+      "id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "name": "Self Aware",
+      "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+      "artists": [
+        {
+          "id": "5mHUmlJWkcoOk1NbjfrXWz",
+          "name": "Temper City",
+          "url": "https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz"
+        }
+      ],
+      "album": {
+        "name": "Self Aware",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d6c26d2ae723f7ab553d64cc"
+      },
+      "duration_ms": 180740,
+      "played_at": "2026-09-17T16:56:40.869Z"
+    },
+    {
+      "id": "2NttzQ2kuVFFmEa8q4rsbu",
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu",
+      "artists": [
+        {
+          "id": "0J7U24vlOOIeMpuaO6Q85A",
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "album": {
+        "name": "Lost On You",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea8f90e6f4992a3b43528f90"
+      },
+      "duration_ms": 267461,
+      "played_at": "2026-09-17T16:55:12.002Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-09-17T16:53:40.043Z"
+    },
+    {
+      "id": "1uvyZBs4IZYRebHIB1747m",
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+      "artists": [
+        {
+          "id": "5a2EaR3hamoenG9rDuVn8j",
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "album": {
+        "name": "Purple Rain",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
+      },
+      "duration_ms": 521866,
+      "played_at": "2026-09-17T16:47:44.092Z"
+    },
+    {
+      "id": "5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b"
+      },
+      "duration_ms": 340706,
+      "played_at": "2026-09-17T16:39:02.179Z"
+    },
+    {
+      "id": "5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b"
+      },
+      "duration_ms": 340706,
+      "played_at": "2026-09-17T16:37:57.203Z"
+    },
+    {
+      "id": "5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b"
+      },
+      "duration_ms": 340706,
+      "played_at": "2026-09-17T16:33:18.608Z"
+    },
+    {
+      "id": "5B5eTk7DF8KVp1zpQoY1XY",
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY",
+      "artists": [
+        {
+          "id": "2MqhkhX4npxDZ62ObR5ELO",
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "album": {
+        "name": "The Reason (20th Anniversary)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27394f8b5f85bad2c8affe6cc7d"
+      },
+      "duration_ms": 232800,
+      "played_at": "2026-09-17T16:32:44.447Z"
+    },
+    {
+      "id": "7MlDNspYwfqnHxORufupwq",
+      "name": "Sex, Drugs, Etc.",
+      "url": "https://open.spotify.com/track/7MlDNspYwfqnHxORufupwq",
+      "artists": [
+        {
+          "id": "7I3bkknknQkIiatWiupQgD",
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "album": {
+        "name": "Pineapple Sunrise",
+        "image": "https://i.scdn.co/image/ab67616d0000b273511b07369101734098b14b0d"
+      },
+      "duration_ms": 196784,
+      "played_at": "2026-09-17T16:28:51.585Z"
+    },
+    {
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "played_at": "2026-09-17T16:24:06.976Z"
+    },
+    {
+      "id": "4bJygwUKrRgq1stlNXcgMg",
+      "name": "All The Things She Said",
+      "url": "https://open.spotify.com/track/4bJygwUKrRgq1stlNXcgMg",
+      "artists": [
+        {
+          "id": "2Q3eZMfDQgT8MhPowKFXYO",
+          "name": "t.A.T.u.",
+          "url": "https://open.spotify.com/artist/2Q3eZMfDQgT8MhPowKFXYO"
+        }
+      ],
+      "album": {
+        "name": "200 KM/H In The Wrong Lane (10th Anniversary Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733b27e1cd8a6bc6804c2e5fd2"
+      },
+      "duration_ms": 214440,
+      "played_at": "2026-09-17T16:20:03.873Z"
+    },
+    {
+      "id": "02dRkCEc8Q5ch4TTcnLxOn",
+      "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
+      "url": "https://open.spotify.com/track/02dRkCEc8Q5ch4TTcnLxOn",
+      "artists": [
+        {
+          "id": "3hv9jJF3adDNsBSIQDqcjp",
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "id": "5YGY8feqx7naU7z4HrwZM6",
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "album": {
+        "name": "Late Night Feelings",
+        "image": "https://i.scdn.co/image/ab67616d0000b273de087ae2924d2c1654f60d74"
+      },
+      "duration_ms": 217099,
+      "played_at": "2026-09-17T16:13:28.664Z"
+    },
+    {
+      "id": "0RdUX4WE0fO30VnlUbDVL6",
+      "name": "Still Loving You",
+      "url": "https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6",
+      "artists": [
+        {
+          "id": "27T030eWyCQRmDyuvr1kxY",
+          "name": "Scorpions",
+          "url": "https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY"
+        }
+      ],
+      "album": {
+        "name": "Comeblack",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739f2023d391c3bd4acf4d51c6"
+      },
+      "duration_ms": 403453,
+      "played_at": "2026-09-17T16:09:32.422Z"
+    },
     {
       "id": "0COqiPhxzoWICwFCS4eZcp",
       "name": "Bring Me To Life",
@@ -1118,357 +1429,6 @@
       },
       "duration_ms": 153312,
       "played_at": "2026-09-17T05:04:27.783Z"
-    },
-    {
-      "id": "6rY5FAWxCdAGllYEOZMbjW",
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
-      "artists": [
-        {
-          "id": "3MZsBdqDrRTJihTHQrO6Dq",
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "album": {
-        "name": "BALLADS 1",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2"
-      },
-      "duration_ms": 209273,
-      "played_at": "2026-09-17T05:02:03.406Z"
-    },
-    {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "artists": [
-        {
-          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "album": {
-        "name": "DECIDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
-      },
-      "duration_ms": 159245,
-      "played_at": "2026-09-17T00:47:44.600Z"
-    },
-    {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "artists": [
-        {
-          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "album": {
-        "name": "DECIDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
-      },
-      "duration_ms": 159245,
-      "played_at": "2026-09-17T00:47:39.200Z"
-    },
-    {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "artists": [
-        {
-          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "album": {
-        "name": "DECIDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
-      },
-      "duration_ms": 159245,
-      "played_at": "2026-09-17T00:45:08.757Z"
-    },
-    {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "artists": [
-        {
-          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "album": {
-        "name": "DECIDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
-      },
-      "duration_ms": 159245,
-      "played_at": "2026-09-17T00:42:39.185Z"
-    },
-    {
-      "id": "3qhlB30KknSejmIvZZLjOD",
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "artists": [
-        {
-          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "album": {
-        "name": "DECIDE",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
-      },
-      "duration_ms": 159245,
-      "played_at": "2026-09-17T00:40:08.339Z"
-    },
-    {
-      "id": "3fuyYaLhZ2RoP9eWpvfP1H",
-      "name": "A New Kind Of Love - Demo",
-      "url": "https://open.spotify.com/track/3fuyYaLhZ2RoP9eWpvfP1H",
-      "artists": [
-        {
-          "id": "6MUyqmIQ35inLjch0YzIEG",
-          "name": "Frou Frou",
-          "url": "https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG"
-        },
-        {
-          "id": "6Xb4ezwoAQC4516kI89nWz",
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        },
-        {
-          "id": "0uQWT7X0I9Y7zM7WWexpAj",
-          "name": "Guy Sigsworth",
-          "url": "https://open.spotify.com/artist/0uQWT7X0I9Y7zM7WWexpAj"
-        }
-      ],
-      "album": {
-        "name": "A New Kind Of Love (Demo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d5f3de2d6bacdfe22f1f0d52"
-      },
-      "duration_ms": 259071,
-      "played_at": "2026-09-16T22:54:17.400Z"
-    },
-    {
-      "id": "2uP6t2J5MEwhr9rDkAAzwh",
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/2uP6t2J5MEwhr9rDkAAzwh",
-      "artists": [
-        {
-          "id": "20wkVLutqVOYrc0kxFs7rA",
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "id": "1U1el3k54VvEUzo3ybLPlM",
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "album": {
-        "name": "Freudian",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737aa8783ad8def37cc548a9cf"
-      },
-      "duration_ms": 278179,
-      "played_at": "2026-09-16T22:43:25.433Z"
-    },
-    {
-      "id": "6LOZws7T3jqZz78unPgFF9",
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9",
-      "artists": [
-        {
-          "id": "1U1el3k54VvEUzo3ybLPlM",
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "album": {
-        "name": "Isolation",
-        "image": "https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053"
-      },
-      "duration_ms": 199505,
-      "played_at": "2026-09-16T22:38:47.313Z"
-    },
-    {
-      "id": "0y60itmpH0aPKsFiGxmtnh",
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh",
-      "artists": [
-        {
-          "id": "3rWZHrfrsPBxVy692yAIxF",
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "album": {
-        "name": "ARDIPITHECUS",
-        "image": "https://i.scdn.co/image/ab67616d0000b27353b17b025865ae89bcb68062"
-      },
-      "duration_ms": 196520,
-      "played_at": "2026-09-16T22:35:27.813Z"
-    },
-    {
-      "id": "4nwjvcUjV7cexhwA40Bh5i",
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i",
-      "artists": [
-        {
-          "id": "7gW0r5CkdEUMm42w9XpyZO",
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "album": {
-        "name": "A Matter of Time",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
-      },
-      "duration_ms": 164400,
-      "played_at": "2026-09-16T22:30:00.761Z"
-    },
-    {
-      "id": "4nwjvcUjV7cexhwA40Bh5i",
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i",
-      "artists": [
-        {
-          "id": "7gW0r5CkdEUMm42w9XpyZO",
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "album": {
-        "name": "A Matter of Time",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
-      },
-      "duration_ms": 164400,
-      "played_at": "2026-09-16T22:27:53.449Z"
-    },
-    {
-      "id": "5lrG8pjDvOJA8MdZB4YcfY",
-      "name": "Moral Conscience",
-      "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY",
-      "artists": [
-        {
-          "id": "1U1el3k54VvEUzo3ybLPlM",
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "album": {
-        "name": "Red Moon In Venus",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
-      },
-      "duration_ms": 212967,
-      "played_at": "2026-09-16T22:26:31.892Z"
-    },
-    {
-      "id": "5tnoSxSK8A0i7mGk0Ttq9x",
-      "name": "Pego Assim Mesmo",
-      "url": "https://open.spotify.com/track/5tnoSxSK8A0i7mGk0Ttq9x",
-      "artists": [
-        {
-          "id": "7ufHJna3thtyJ5b2X7zY3W",
-          "name": "MC Donzela",
-          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
-        },
-        {
-          "id": "5a3wQ8V9uvaqEhjwERktHy",
-          "name": "Deejhay W.I",
-          "url": "https://open.spotify.com/artist/5a3wQ8V9uvaqEhjwERktHy"
-        },
-        {
-          "id": "60DovrzFkBPRvc6BorssOq",
-          "name": "Dj luan pj",
-          "url": "https://open.spotify.com/artist/60DovrzFkBPRvc6BorssOq"
-        }
-      ],
-      "album": {
-        "name": "Pego Assim Mesmo",
-        "image": "https://i.scdn.co/image/ab67616d0000b27368b19e1ce449728ea71a10c2"
-      },
-      "duration_ms": 109992,
-      "played_at": "2026-09-16T22:21:32.603Z"
-    },
-    {
-      "id": "4rlTjiBrHZ2h7XAltyXhRm",
-      "name": "AI AI QUE LOUCURA",
-      "url": "https://open.spotify.com/track/4rlTjiBrHZ2h7XAltyXhRm",
-      "artists": [
-        {
-          "id": "1alECyjqD7IY6HU21vSSs6",
-          "name": "DJ J7 DO LZ",
-          "url": "https://open.spotify.com/artist/1alECyjqD7IY6HU21vSSs6"
-        },
-        {
-          "id": "2pdregtTGt1CuXZkXzEd1r",
-          "name": "DJ MTN",
-          "url": "https://open.spotify.com/artist/2pdregtTGt1CuXZkXzEd1r"
-        },
-        {
-          "id": "4m8sn4hTvGG1pqoqdPrevS",
-          "name": "Iraqui ZL",
-          "url": "https://open.spotify.com/artist/4m8sn4hTvGG1pqoqdPrevS"
-        }
-      ],
-      "album": {
-        "name": "AI AI QUE LOUCURA",
-        "image": "https://i.scdn.co/image/ab67616d0000b27383aaed1ab5c98293bf777f06"
-      },
-      "duration_ms": 86621,
-      "played_at": "2026-09-16T22:19:42.508Z"
-    },
-    {
-      "id": "1YHS582toNZwQuFqgmXDxr",
-      "name": "O Tbt Que Ele Quer",
-      "url": "https://open.spotify.com/track/1YHS582toNZwQuFqgmXDxr",
-      "artists": [
-        {
-          "id": "1xmIVtkS9LEchsnnrKzhIR",
-          "name": "DJ HM ZL",
-          "url": "https://open.spotify.com/artist/1xmIVtkS9LEchsnnrKzhIR"
-        },
-        {
-          "id": "10mKIVPFtg42JIvttHQrzr",
-          "name": "MC MAYAH",
-          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
-        }
-      ],
-      "album": {
-        "name": "O Tbt Que Ele Quer",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e949dac49a739008363cb557"
-      },
-      "duration_ms": 172392,
-      "played_at": "2026-09-16T22:18:15.931Z"
-    },
-    {
-      "id": "586rzKlKumOzWf5bMwkHha",
-      "name": "Automotivo Ajoelha Cai de Boca",
-      "url": "https://open.spotify.com/track/586rzKlKumOzWf5bMwkHha",
-      "artists": [
-        {
-          "id": "5qEA2q2HBjN78pLJMnkPY1",
-          "name": "Dj Chipoka",
-          "url": "https://open.spotify.com/artist/5qEA2q2HBjN78pLJMnkPY1"
-        },
-        {
-          "id": "1Of861LgztNDqP7dgj9Bf8",
-          "name": "Mc Otávio da 9",
-          "url": "https://open.spotify.com/artist/1Of861LgztNDqP7dgj9Bf8"
-        }
-      ],
-      "album": {
-        "name": "Automotivo Ajoelha Cai de Boca",
-        "image": "https://i.scdn.co/image/ab67616d0000b273af2dc3ab42f9edfe05006803"
-      },
-      "duration_ms": 165230,
-      "played_at": "2026-09-16T22:15:23.515Z"
     }
   ]
 }
