@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T10:26:43.281682+00:00",
+  "updated_at": "2026-09-18T15:42:02.229536+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -92,6 +92,12 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a"
     },
     {
+      "id": "1McMsnEElThX1knmY4oliG",
+      "name": "Olivia Rodrigo",
+      "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44"
+    },
+    {
       "id": "7IAXZaLTb6nkJr8RmVPn5y",
       "name": "ANGRA",
       "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y",
@@ -114,12 +120,6 @@
       "name": "Steven Universe",
       "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
       "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf"
-    },
-    {
-      "id": "4boI7bJtmB1L3b1cuL75Zr",
-      "name": "Mon Laferte",
-      "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
     }
   ],
   "top_tracks": [
@@ -505,6 +505,60 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "played_at": "2026-09-18T10:15:43.956Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-09-18T10:10:29.123Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-09-18T10:06:52.401Z"
+    },
     {
       "id": "0wlsgzAk1LaO8MMoXxpz7W",
       "name": "Duvet - Acoustic",
@@ -1380,60 +1434,6 @@
       },
       "duration_ms": 216013,
       "played_at": "2026-09-18T05:49:02.876Z"
-    },
-    {
-      "id": "6oUUmBcUbZa5O48V5pjgAD",
-      "name": "Hootie Frutti",
-      "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD",
-      "artists": [
-        {
-          "id": "3c0gDdb9lhnHGFtP4prQpn",
-          "name": "KATSEYE",
-          "url": "https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn"
-        }
-      ],
-      "album": {
-        "name": "WILD",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735631546bdc010851494d88ba"
-      },
-      "duration_ms": 140720,
-      "played_at": "2026-09-18T05:45:58.375Z"
-    },
-    {
-      "id": "2Pspo5BWPcTnMHMstLFRHV",
-      "name": "Picture You",
-      "url": "https://open.spotify.com/track/2Pspo5BWPcTnMHMstLFRHV",
-      "artists": [
-        {
-          "id": "7GlBOeep6PqTfFi59PTUUN",
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "album": {
-        "name": "The Rise and Fall of a Midwest Princess",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a21d22ecf823e1c90aa22d1f"
-      },
-      "duration_ms": 187130,
-      "played_at": "2026-09-18T05:43:38.973Z"
-    },
-    {
-      "id": "11hEwcy9LMEvzAlOYAFhkK",
-      "name": "not a lot, just forever",
-      "url": "https://open.spotify.com/track/11hEwcy9LMEvzAlOYAFhkK",
-      "artists": [
-        {
-          "id": "4aKWmkWAKviFlyvHYPTNQY",
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "album": {
-        "name": "songs",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738ebe185fc4824bc6e568b511"
-      },
-      "duration_ms": 250198,
-      "played_at": "2026-09-18T05:40:49.421Z"
     }
   ]
 }
