@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T19:56:58.793435+00:00",
+  "updated_at": "2026-09-20T03:01:57.194902+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -505,6 +505,160 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "4j6rGhtzKsL2DHpYHEko0I",
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4j6rGhtzKsL2DHpYHEko0I",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "De Primeira",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df9061e88d3137f7970bb117"
+      },
+      "duration_ms": 191395,
+      "played_at": "2026-09-19T23:30:54.463Z"
+    },
+    {
+      "id": "1RmXibCbfLIVrN8ZRdoYbW",
+      "name": "Foi Mal",
+      "url": "https://open.spotify.com/track/1RmXibCbfLIVrN8ZRdoYbW",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165208,
+      "played_at": "2026-09-19T22:33:56.243Z"
+    },
+    {
+      "id": "1pBaOciKhiw5ByzwrjwwfO",
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/1pBaOciKhiw5ByzwrjwwfO",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "#1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738e4ea37a937640d9cd773f4e"
+      },
+      "duration_ms": 267893,
+      "played_at": "2026-09-19T22:31:20.045Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-09-19T22:25:22.942Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-09-19T22:10:15.736Z"
+    },
+    {
+      "id": "2VT56hhAcF0D3lGx9PUthf",
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/2VT56hhAcF0D3lGx9PUthf",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Planet Her (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f"
+      },
+      "duration_ms": 174253,
+      "played_at": "2026-09-19T21:19:21.069Z"
+    },
+    {
+      "id": "0Dc5RPJbp5c6tFPLpzh56H",
+      "name": "Ela Ké Cavucadinha",
+      "url": "https://open.spotify.com/track/0Dc5RPJbp5c6tFPLpzh56H",
+      "artists": [
+        {
+          "id": "6yiZkjeldEjFFhIaXj3w77",
+          "name": "Gordinho Bolado",
+          "url": "https://open.spotify.com/artist/6yiZkjeldEjFFhIaXj3w77"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "Ela Ké Cavucadinha",
+        "image": "https://i.scdn.co/image/ab67616d0000b27364cc2d0df3b4bfe86688c138"
+      },
+      "duration_ms": 138996,
+      "played_at": "2026-09-19T21:15:56.659Z"
+    },
+    {
+      "id": "4sNTXu96frvV2padGOSbSR",
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4sNTXu96frvV2padGOSbSR",
+      "artists": [
+        {
+          "id": "2OteRXiAleVQTZbUMWeoOo",
+          "name": "Barrie-James",
+          "url": "https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo"
+        },
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Strange Desire",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bda0e43310f3c9d982883aaa"
+      },
+      "duration_ms": 207746,
+      "played_at": "2026-09-19T21:12:26.674Z"
+    },
     {
       "id": "46aZJc0z1HHHSFxaIRxYSP",
       "name": "Breakin' Dishes",
@@ -1300,155 +1454,6 @@
       },
       "duration_ms": 264840,
       "played_at": "2026-09-18T07:32:53.932Z"
-    },
-    {
-      "id": "5vTSnZTmS1gMiWuA9kDE19",
-      "name": "Futile Devices (Doveman Remix)",
-      "url": "https://open.spotify.com/track/5vTSnZTmS1gMiWuA9kDE19",
-      "artists": [
-        {
-          "id": "4MXUO7sVCaFgFjoTI5ox5c",
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "album": {
-        "name": "Call Me By Your Name (Original Motion Picture Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730db3901606954f424070ff01"
-      },
-      "duration_ms": 135443,
-      "played_at": "2026-09-18T07:28:38.075Z"
-    },
-    {
-      "id": "3zEN0ii6s4DHHBpnTp3RP7",
-      "name": "We Are The People",
-      "url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7",
-      "artists": [
-        {
-          "id": "67hb7towEyKvt5Z8Bx306c",
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
-        }
-      ],
-      "album": {
-        "name": "Walking On A Dream (10th Anniversary Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f3aa0e6ca22a382007f61e4d"
-      },
-      "duration_ms": 267373,
-      "played_at": "2026-09-18T07:26:31.615Z"
-    },
-    {
-      "id": "4PEGwWH4tL6H7dGl4uVSPg",
-      "name": "Like a Tattoo",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
-      "artists": [
-        {
-          "id": "47zz7sob9NUcODy0BTDvKx",
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "album": {
-        "name": "Love Deluxe",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511"
-      },
-      "duration_ms": 218000,
-      "played_at": "2026-09-18T07:22:13.251Z"
-    },
-    {
-      "id": "769vrAYHcuLwOV0at2hiOf",
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/769vrAYHcuLwOV0at2hiOf",
-      "artists": [
-        {
-          "id": "1QAJqy2dA3ihHBFIHRphZj",
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "album": {
-        "name": "Affection",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735fb77915b586180b3b41ccbb"
-      },
-      "duration_ms": 311000,
-      "played_at": "2026-09-18T07:18:44.240Z"
-    },
-    {
-      "id": "7uv632EkfwYhXoqf8rhYrg",
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/7uv632EkfwYhXoqf8rhYrg",
-      "artists": [
-        {
-          "id": "6FXMGgJwohJLUSr5nVlf9X",
-          "name": "Massive Attack",
-          "url": "https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X"
-        },
-        {
-          "id": "2ieAXAuLe6qQ3RJsqCxpoC",
-          "name": "Horace Andy",
-          "url": "https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC"
-        }
-      ],
-      "album": {
-        "name": "Mezzanine",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732fcb0a3c7a66e516b11cd26e"
-      },
-      "duration_ms": 379533,
-      "played_at": "2026-09-18T07:13:42.244Z"
-    },
-    {
-      "id": "3stWWPN41byqp8loPdy92u",
-      "name": "Master of None",
-      "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u",
-      "artists": [
-        {
-          "id": "56ZTgzPBDge0OvCGgMO3OY",
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "album": {
-        "name": "Beach House",
-        "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da"
-      },
-      "duration_ms": 199413,
-      "played_at": "2026-09-18T07:07:31.732Z"
-    },
-    {
-      "id": "3Ty7OTBNSigGEpeW2PqcsC",
-      "name": "Glory Box",
-      "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC",
-      "artists": [
-        {
-          "id": "6liAMWkVf5LH7YR9yfFy1Y",
-          "name": "Portishead",
-          "url": "https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y"
-        }
-      ],
-      "album": {
-        "name": "Dummy",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dc20397b139223620af148f6"
-      },
-      "duration_ms": 308626,
-      "played_at": "2026-09-18T07:04:21.348Z"
-    },
-    {
-      "id": "4B6TGkxeqBvmD9vwOyfafl",
-      "name": "Ghosts and Creatures",
-      "url": "https://open.spotify.com/track/4B6TGkxeqBvmD9vwOyfafl",
-      "artists": [
-        {
-          "id": "3faZppLa0MVUYBlyp7zDAo",
-          "name": "Telekinesis",
-          "url": "https://open.spotify.com/artist/3faZppLa0MVUYBlyp7zDAo"
-        }
-      ],
-      "album": {
-        "name": "Dormarion",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c6bc5af42206e89dc468695"
-      },
-      "duration_ms": 245400,
-      "played_at": "2026-09-18T06:59:21.689Z"
     }
   ]
 }
