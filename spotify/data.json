@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T11:48:15.847433+00:00",
+  "updated_at": "2026-09-21T17:43:47.551181+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -505,6 +505,150 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3TVDFQ5OLNsfmGq4X6KQc5",
+      "name": "Amor Ardente",
+      "url": "https://open.spotify.com/track/3TVDFQ5OLNsfmGq4X6KQc5",
+      "artists": [
+        {
+          "id": "6yZ6mJQm19Bryw4tQjn2Y2",
+          "name": "Banda Mega Pop Show",
+          "url": "https://open.spotify.com/artist/6yZ6mJQm19Bryw4tQjn2Y2"
+        }
+      ],
+      "album": {
+        "name": "Amor Ardente",
+        "image": "https://i.scdn.co/image/ab67616d0000b273185811e3ab4891b473fa1414"
+      },
+      "duration_ms": 215405,
+      "played_at": "2026-09-21T17:13:09.946Z"
+    },
+    {
+      "id": "5h7J58ByKMNy9uYGPbxcrf",
+      "name": "Não Deligue o Telefone",
+      "url": "https://open.spotify.com/track/5h7J58ByKMNy9uYGPbxcrf",
+      "artists": [
+        {
+          "id": "4adpoL1QBRZW6jWjRVMB04",
+          "name": "Banda Djavú",
+          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
+        }
+      ],
+      "album": {
+        "name": "O Furacão É Show",
+        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
+      },
+      "duration_ms": 250200,
+      "played_at": "2026-09-21T17:02:20.050Z"
+    },
+    {
+      "id": "3lsl4nVHAsSm6oag0qKCko",
+      "name": "Rubi",
+      "url": "https://open.spotify.com/track/3lsl4nVHAsSm6oag0qKCko",
+      "artists": [
+        {
+          "id": "4adpoL1QBRZW6jWjRVMB04",
+          "name": "Banda Djavú",
+          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
+        }
+      ],
+      "album": {
+        "name": "O Furacão É Show",
+        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
+      },
+      "duration_ms": 208200,
+      "played_at": "2026-09-21T16:56:31.033Z"
+    },
+    {
+      "id": "48PzkSfXRDSGgPYAHn2HkK",
+      "name": "Meteoro",
+      "url": "https://open.spotify.com/track/48PzkSfXRDSGgPYAHn2HkK",
+      "artists": [
+        {
+          "id": "4adpoL1QBRZW6jWjRVMB04",
+          "name": "Banda Djavú",
+          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
+        }
+      ],
+      "album": {
+        "name": "O Furacão É Show",
+        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
+      },
+      "duration_ms": 234400,
+      "played_at": "2026-09-21T16:52:24.087Z"
+    },
+    {
+      "id": "2Mu8Y7FBKm1pExucSO16Vf",
+      "name": "Me Libera",
+      "url": "https://open.spotify.com/track/2Mu8Y7FBKm1pExucSO16Vf",
+      "artists": [
+        {
+          "id": "4adpoL1QBRZW6jWjRVMB04",
+          "name": "Banda Djavú",
+          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
+        }
+      ],
+      "album": {
+        "name": "O Furacão É Show",
+        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
+      },
+      "duration_ms": 232560,
+      "played_at": "2026-09-21T16:48:29.707Z"
+    },
+    {
+      "id": "2SVdGKh334TT8qQzXifdE5",
+      "name": "Other People",
+      "url": "https://open.spotify.com/track/2SVdGKh334TT8qQzXifdE5",
+      "artists": [
+        {
+          "id": "0J7U24vlOOIeMpuaO6Q85A",
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "album": {
+        "name": "Lost On You",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea8f90e6f4992a3b43528f90"
+      },
+      "duration_ms": 245382,
+      "played_at": "2026-09-21T16:42:04.928Z"
+    },
+    {
+      "id": "0n3sHHfdOq6Awix3JPe3xl",
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl",
+      "artists": [
+        {
+          "id": "6om12Ev5ppgoMy3OYSoech",
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "album": {
+        "name": "ReAniMate: The CoVeRs eP",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732230ea0226f28c710728c840"
+      },
+      "duration_ms": 248400,
+      "played_at": "2026-09-21T16:41:13.313Z"
+    },
+    {
+      "id": "0n3sHHfdOq6Awix3JPe3xl",
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl",
+      "artists": [
+        {
+          "id": "6om12Ev5ppgoMy3OYSoech",
+          "name": "Halestorm",
+          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
+        }
+      ],
+      "album": {
+        "name": "ReAniMate: The CoVeRs eP",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732230ea0226f28c710728c840"
+      },
+      "duration_ms": 248400,
+      "played_at": "2026-09-21T16:36:59.809Z"
+    },
     {
       "id": "0n3sHHfdOq6Awix3JPe3xl",
       "name": "Bad Romance",
@@ -1270,150 +1414,6 @@
       },
       "duration_ms": 364680,
       "played_at": "2026-09-21T06:22:26.302Z"
-    },
-    {
-      "id": "4iVj0UxqLlgrFWNdOnCwFS",
-      "name": "Mrs Magic (Strings Version)",
-      "url": "https://open.spotify.com/track/4iVj0UxqLlgrFWNdOnCwFS",
-      "artists": [
-        {
-          "id": "1AbJ2cmwK400LSvdvBL5Jc",
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "album": {
-        "name": "F Song & Mrs Magic (Strings Versions)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273534aa32cffc253c433d99e7c"
-      },
-      "duration_ms": 221929,
-      "played_at": "2026-09-21T06:16:30.570Z"
-    },
-    {
-      "id": "0So2sgVa8aJiARPl2P29u2",
-      "name": "Pope Is a Rockstar",
-      "url": "https://open.spotify.com/track/0So2sgVa8aJiARPl2P29u2",
-      "artists": [
-        {
-          "id": "6vVztIuqdDHvYWxOEXCzjN",
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "album": {
-        "name": "SALES LP",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731138eea74b6d7e06289bedaa"
-      },
-      "duration_ms": 187333,
-      "played_at": "2026-09-21T06:12:57.695Z"
-    },
-    {
-      "id": "0tMSssfxAL2oV8Vri0mFHE",
-      "name": "listen before i go",
-      "url": "https://open.spotify.com/track/0tMSssfxAL2oV8Vri0mFHE",
-      "artists": [
-        {
-          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "image": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce"
-      },
-      "duration_ms": 242652,
-      "played_at": "2026-09-21T06:09:59.298Z"
-    },
-    {
-      "id": "0jx2hPIzs7bNveWHU2Ohzu",
-      "name": "Eleven Weeks",
-      "url": "https://open.spotify.com/track/0jx2hPIzs7bNveWHU2Ohzu",
-      "artists": [
-        {
-          "id": "6ft7JnxMyZhp7N52qzHymY",
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "album": {
-        "name": "The Rolling, Driftless North",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bc4439fefba91f86724ff41e"
-      },
-      "duration_ms": 185682,
-      "played_at": "2026-09-21T06:06:05.705Z"
-    },
-    {
-      "id": "4vgU9MGJwhgBEtlO8mMN49",
-      "name": "Like You Do",
-      "url": "https://open.spotify.com/track/4vgU9MGJwhgBEtlO8mMN49",
-      "artists": [
-        {
-          "id": "3MZsBdqDrRTJihTHQrO6Dq",
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "album": {
-        "name": "Nectar",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f733e50079838090eebc3fe4"
-      },
-      "duration_ms": 240294,
-      "played_at": "2026-09-21T06:03:09Z"
-    },
-    {
-      "id": "2cTvZSCqzjkTMkIypLxUFH",
-      "name": "You're All I Want",
-      "url": "https://open.spotify.com/track/2cTvZSCqzjkTMkIypLxUFH",
-      "artists": [
-        {
-          "id": "1QAJqy2dA3ihHBFIHRphZj",
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "album": {
-        "name": "You're All I Want",
-        "image": "https://i.scdn.co/image/ab67616d0000b273963454e08e5e9def7e8cd204"
-      },
-      "duration_ms": 264453,
-      "played_at": "2026-09-21T05:59:17.702Z"
-    },
-    {
-      "id": "2hIrHUgeI2cKYwM18MkGPK",
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/2hIrHUgeI2cKYwM18MkGPK",
-      "artists": [
-        {
-          "id": "1AbJ2cmwK400LSvdvBL5Jc",
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "album": {
-        "name": "Without You",
-        "image": "https://i.scdn.co/image/ab67616d0000b27303898b6c79b6b8d0be74d76a"
-      },
-      "duration_ms": 228080,
-      "played_at": "2026-09-21T05:55:02.304Z"
-    },
-    {
-      "id": "4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2",
-      "artists": [
-        {
-          "id": "7tYKF4w9nC0nq9CsPZTHyP",
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "album": {
-        "name": "SOS",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bc18bdade69ec5ef0bb25b17"
-      },
-      "duration_ms": 201800,
-      "played_at": "2026-09-21T05:51:23.180Z"
     }
   ]
 }
