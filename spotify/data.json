@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-21T21:36:44.355118+00:00",
+  "updated_at": "2026-09-22T02:59:15.344218+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -163,6 +163,23 @@
       "duration_ms": 227586
     },
     {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289
+    },
+    {
       "id": "0gjTMdOgwPcTvDpcCMjK5o",
       "name": "Late Redemption",
       "url": "https://open.spotify.com/track/0gjTMdOgwPcTvDpcCMjK5o",
@@ -195,23 +212,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
       },
       "duration_ms": 105442
-    },
-    {
-      "id": "4B3lcxYv3fb2yAw9hkKR0M",
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
-      "artists": [
-        {
-          "id": "6S2OmqARrzebs0tKUEyXyp",
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "album": {
-        "name": "REVAMPED",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
-      },
-      "duration_ms": 212289
     },
     {
       "id": "0lWfavNNZv6eYAvNlJjIfz",
@@ -506,6 +506,689 @@
   ],
   "recently_played": [
     {
+      "id": "0jYfN0oxUjdYmAifDBORz9",
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0jYfN0oxUjdYmAifDBORz9",
+      "artists": [
+        {
+          "id": "0U7iI0Dk4Ojvi17nZboNO4",
+          "name": "Vacations",
+          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+        }
+      ],
+      "album": {
+        "name": "Vibes",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733fe10c957fc57e5dd7c1db24"
+      },
+      "duration_ms": 152360,
+      "played_at": "2026-09-22T02:58:14.851Z"
+    },
+    {
+      "id": "0qOCy2LqvdkMora7eZsJhQ",
+      "name": "From the Subway Train",
+      "url": "https://open.spotify.com/track/0qOCy2LqvdkMora7eZsJhQ",
+      "artists": [
+        {
+          "id": "6ft7JnxMyZhp7N52qzHymY",
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "album": {
+        "name": "Angel Youth",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a788765bdda04106bd7b0d29"
+      },
+      "duration_ms": 57370,
+      "played_at": "2026-09-22T02:55:51.499Z"
+    },
+    {
+      "id": "263KsGZODTZouh3RFGNaLX",
+      "name": "Louise",
+      "url": "https://open.spotify.com/track/263KsGZODTZouh3RFGNaLX",
+      "artists": [
+        {
+          "id": "0Y6dVaC9DZtPNH4591M42W",
+          "name": "TV Girl",
+          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+        }
+      ],
+      "album": {
+        "name": "French Exit",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e1bc1af856b42dd7fdba9f84"
+      },
+      "duration_ms": 194453,
+      "played_at": "2026-09-22T02:55:03.095Z"
+    },
+    {
+      "id": "3stWWPN41byqp8loPdy92u",
+      "name": "Master of None",
+      "url": "https://open.spotify.com/track/3stWWPN41byqp8loPdy92u",
+      "artists": [
+        {
+          "id": "56ZTgzPBDge0OvCGgMO3OY",
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "album": {
+        "name": "Beach House",
+        "image": "https://i.scdn.co/image/ab67616d0000b27369d8e3478a4964cf7219f3da"
+      },
+      "duration_ms": 199413,
+      "played_at": "2026-09-22T02:51:57.673Z"
+    },
+    {
+      "id": "1Snko28yJOihcRVXs9dAo9",
+      "name": "Chamber Of Reflection",
+      "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "Salad Days",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50"
+      },
+      "duration_ms": 231723,
+      "played_at": "2026-09-22T02:48:47.245Z"
+    },
+    {
+      "id": "5Ctzx0mMiUPAu9JqbAOY9n",
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n",
+      "artists": [
+        {
+          "id": "0CnHF3fzueVi59nz8fdwcl",
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "album": {
+        "name": "White Trails (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b01318919e207e569f69c1a2"
+      },
+      "duration_ms": 255946,
+      "played_at": "2026-09-22T02:45:04.496Z"
+    },
+    {
+      "id": "0WiMJIxYYEex2AqhRqzV3u",
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "This Old Dog",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
+      },
+      "duration_ms": 182306,
+      "played_at": "2026-09-22T02:40:57.608Z"
+    },
+    {
+      "id": "4RVwu0g32PAqgUiJoXsdF8",
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "name": "Happier Than Ever",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
+      },
+      "duration_ms": 298899,
+      "played_at": "2026-09-22T02:37:29.603Z"
+    },
+    {
+      "id": "1SJhYNxOZSItqrB6upWyE6",
+      "name": "Here Comes a Thought (feat. Estelle & AJ Michalka)",
+      "url": "https://open.spotify.com/track/1SJhYNxOZSItqrB6upWyE6",
+      "artists": [
+        {
+          "id": "4rF7c8zpCKzuSXohs2HIpA",
+          "name": "Steven Universe",
+          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
+        },
+        {
+          "id": "5T0MSzX9RC5NA6gAI6irSn",
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "id": "30HtguQmog7sTEvDJowVEC",
+          "name": "AJ Michalka",
+          "url": "https://open.spotify.com/artist/30HtguQmog7sTEvDJowVEC"
+        }
+      ],
+      "album": {
+        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
+      },
+      "duration_ms": 202340,
+      "played_at": "2026-09-22T02:31:05.399Z"
+    },
+    {
+      "id": "08PdFBcXzpkn1cWNgmKqhn",
+      "name": "Promise",
+      "url": "https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn",
+      "artists": [
+        {
+          "id": "7gW0r5CkdEUMm42w9XpyZO",
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "album": {
+        "name": "Bewitched",
+        "image": "https://i.scdn.co/image/ab67616d0000b27374c732f8aa0e0ccbb3d17d96"
+      },
+      "duration_ms": 234266,
+      "played_at": "2026-09-22T02:27:55.675Z"
+    },
+    {
+      "id": "3e4iMLD1QVefLYMtlSF63F",
+      "name": "hold me in your arms",
+      "url": "https://open.spotify.com/track/3e4iMLD1QVefLYMtlSF63F",
+      "artists": [
+        {
+          "id": "6fPWD6aplRohXMpRRAF6Wa",
+          "name": "Blood Nose",
+          "url": "https://open.spotify.com/artist/6fPWD6aplRohXMpRRAF6Wa"
+        }
+      ],
+      "album": {
+        "name": "hold me in your arms",
+        "image": "https://i.scdn.co/image/ab67616d0000b27380fc434719789f5637e62423"
+      },
+      "duration_ms": 80097,
+      "played_at": "2026-09-22T02:17:18.416Z"
+    },
+    {
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "artists": [
+        {
+          "id": "3MZsBdqDrRTJihTHQrO6Dq",
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "album": {
+        "name": "BALLADS 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2"
+      },
+      "duration_ms": 209273,
+      "played_at": "2026-09-22T02:16:07.307Z"
+    },
+    {
+      "id": "4sNTXu96frvV2padGOSbSR",
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4sNTXu96frvV2padGOSbSR",
+      "artists": [
+        {
+          "id": "2OteRXiAleVQTZbUMWeoOo",
+          "name": "Barrie-James",
+          "url": "https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo"
+        },
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Strange Desire",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bda0e43310f3c9d982883aaa"
+      },
+      "duration_ms": 207746,
+      "played_at": "2026-09-22T02:07:16.275Z"
+    },
+    {
+      "id": "63hHlajVLQnlFMAqSyePxO",
+      "name": "Black Beauty",
+      "url": "https://open.spotify.com/track/63hHlajVLQnlFMAqSyePxO",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Ultraviolence (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f"
+      },
+      "duration_ms": 314533,
+      "played_at": "2026-09-22T00:53:03.797Z"
+    },
+    {
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "played_at": "2026-09-22T00:37:16.851Z"
+    },
+    {
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "played_at": "2026-09-22T00:33:42.360Z"
+    },
+    {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "played_at": "2026-09-22T00:29:58.338Z"
+    },
+    {
+      "id": "4sNTXu96frvV2padGOSbSR",
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4sNTXu96frvV2padGOSbSR",
+      "artists": [
+        {
+          "id": "2OteRXiAleVQTZbUMWeoOo",
+          "name": "Barrie-James",
+          "url": "https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo"
+        },
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Strange Desire",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bda0e43310f3c9d982883aaa"
+      },
+      "duration_ms": 207746,
+      "played_at": "2026-09-22T00:26:26.225Z"
+    },
+    {
+      "id": "4sNTXu96frvV2padGOSbSR",
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4sNTXu96frvV2padGOSbSR",
+      "artists": [
+        {
+          "id": "2OteRXiAleVQTZbUMWeoOo",
+          "name": "Barrie-James",
+          "url": "https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo"
+        },
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Strange Desire",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bda0e43310f3c9d982883aaa"
+      },
+      "duration_ms": 207746,
+      "played_at": "2026-09-22T00:23:24.923Z"
+    },
+    {
+      "id": "2TktkzfozZifbQhXjT6I33",
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
+      "artists": [
+        {
+          "id": "5FxD8fkQZ6KcsSYupDVoSO",
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "album": {
+        "name": "Ivory",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a4b3a51e2b3941f5275f052f"
+      },
+      "duration_ms": 216680,
+      "played_at": "2026-09-22T00:21:19.807Z"
+    },
+    {
+      "id": "2TktkzfozZifbQhXjT6I33",
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
+      "artists": [
+        {
+          "id": "5FxD8fkQZ6KcsSYupDVoSO",
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "album": {
+        "name": "Ivory",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a4b3a51e2b3941f5275f052f"
+      },
+      "duration_ms": 216680,
+      "played_at": "2026-09-22T00:17:44.392Z"
+    },
+    {
+      "id": "2NttzQ2kuVFFmEa8q4rsbu",
+      "name": "Lost on You",
+      "url": "https://open.spotify.com/track/2NttzQ2kuVFFmEa8q4rsbu",
+      "artists": [
+        {
+          "id": "0J7U24vlOOIeMpuaO6Q85A",
+          "name": "LP",
+          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
+        }
+      ],
+      "album": {
+        "name": "Lost On You",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ea8f90e6f4992a3b43528f90"
+      },
+      "duration_ms": 267461,
+      "played_at": "2026-09-22T00:17:41.206Z"
+    },
+    {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "played_at": "2026-09-21T23:20:14.411Z"
+    },
+    {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "played_at": "2026-09-21T23:12:26.718Z"
+    },
+    {
+      "id": "4sNTXu96frvV2padGOSbSR",
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4sNTXu96frvV2padGOSbSR",
+      "artists": [
+        {
+          "id": "2OteRXiAleVQTZbUMWeoOo",
+          "name": "Barrie-James",
+          "url": "https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo"
+        },
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Strange Desire",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bda0e43310f3c9d982883aaa"
+      },
+      "duration_ms": 207746,
+      "played_at": "2026-09-21T23:08:54.308Z"
+    },
+    {
+      "id": "2TktkzfozZifbQhXjT6I33",
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
+      "artists": [
+        {
+          "id": "5FxD8fkQZ6KcsSYupDVoSO",
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "album": {
+        "name": "Ivory",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a4b3a51e2b3941f5275f052f"
+      },
+      "duration_ms": 216680,
+      "played_at": "2026-09-21T23:05:27.295Z"
+    },
+    {
+      "id": "7rWIbyMj7DVtvMMshUWHaI",
+      "name": "Liguei pra Dizer Que Te Amo",
+      "url": "https://open.spotify.com/track/7rWIbyMj7DVtvMMshUWHaI",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Na Hora do Buteco",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fa6bf18403cfd51e9fd7ed35"
+      },
+      "duration_ms": 203880,
+      "played_at": "2026-09-21T21:59:35.372Z"
+    },
+    {
+      "id": "2Hw0LzrD6ic8AckKBxJhiO",
+      "name": "Deixa Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Hw0LzrD6ic8AckKBxJhiO",
+      "artists": [
+        {
+          "id": "3hq7WoPJsrRP0KMSLhUgRz",
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "album": {
+        "name": "Acústico (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f678dfce3405c8d2f786b73f"
+      },
+      "duration_ms": 158470,
+      "played_at": "2026-09-21T21:54:04.583Z"
+    },
+    {
+      "id": "4kQu6FntV0QWjc7xHKKjAk",
+      "name": "Fala - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kQu6FntV0QWjc7xHKKjAk",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Eu E Você De Novo (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273091536df3c0f29f08ef7be88"
+      },
+      "duration_ms": 196885,
+      "played_at": "2026-09-21T21:51:07.251Z"
+    },
+    {
+      "id": "5rdn8seFII75uSUMtUzKYB",
+      "name": "Estradas Noturnas - Acústico",
+      "url": "https://open.spotify.com/track/5rdn8seFII75uSUMtUzKYB",
+      "artists": [
+        {
+          "id": "4bHZlww2l5aeAg3H0Q1b6Z",
+          "name": "Dennis Rogers",
+          "url": "https://open.spotify.com/artist/4bHZlww2l5aeAg3H0Q1b6Z"
+        }
+      ],
+      "album": {
+        "name": "Estradas Noturnas (Acústico)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273981b5bde329a186d678ef0e4"
+      },
+      "duration_ms": 158348,
+      "played_at": "2026-09-21T21:47:49.830Z"
+    },
+    {
+      "id": "1eZR4sLLNSYWg303KkiTh0",
+      "name": "Duas Camisas (Agora Você Vai Decidir)",
+      "url": "https://open.spotify.com/track/1eZR4sLLNSYWg303KkiTh0",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Modão É Sempre Modão",
+        "image": "https://i.scdn.co/image/ab67616d0000b27300443a4455bed499b331a830"
+      },
+      "duration_ms": 223732,
+      "played_at": "2026-09-21T21:45:10.958Z"
+    },
+    {
+      "id": "10a26720hpdHY8JVsHrrdQ",
+      "name": "Me Fala Qual Necessidade - Ao Vivo",
+      "url": "https://open.spotify.com/track/10a26720hpdHY8JVsHrrdQ",
+      "artists": [
+        {
+          "id": "6wduHvHCH5QZtWs6ULilDM",
+          "name": "Henry Freitas",
+          "url": "https://open.spotify.com/artist/6wduHvHCH5QZtWs6ULilDM"
+        }
+      ],
+      "album": {
+        "name": "Paralelos (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733827f71bd45d25aebd22d335"
+      },
+      "duration_ms": 148195,
+      "played_at": "2026-09-21T21:41:26.697Z"
+    },
+    {
+      "id": "77nd5oBIrCBOpN4C8L9Jtl",
+      "name": "Somos Assim",
+      "url": "https://open.spotify.com/track/77nd5oBIrCBOpN4C8L9Jtl",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "O Chão Vai Tremer",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ad41e834e69873aae091ae45"
+      },
+      "duration_ms": 197013,
+      "played_at": "2026-09-21T21:37:58.146Z"
+    },
+    {
+      "id": "7bAbvuoHHcCOOzPx77j4uM",
+      "name": "Falando Às Paredes - Ao Vivo",
+      "url": "https://open.spotify.com/track/7bAbvuoHHcCOOzPx77j4uM",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Amor + Boteco (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e33acc61ceb947f7aab3f019"
+      },
+      "duration_ms": 249666,
+      "played_at": "2026-09-21T21:33:21.141Z"
+    },
+    {
+      "id": "3GjOJR9lOSBQFJSnLRQw8W",
+      "name": "Mulher, Cerveja e Viola",
+      "url": "https://open.spotify.com/track/3GjOJR9lOSBQFJSnLRQw8W",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Acústico - Ao Vivo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732153de609dd9bed588202cea"
+      },
+      "duration_ms": 161826,
+      "played_at": "2026-09-21T21:25:55.773Z"
+    },
+    {
+      "id": "3GVKkbjWvqF8xmJqrdYSMO",
+      "name": "Razões e Emoções",
+      "url": "https://open.spotify.com/track/3GVKkbjWvqF8xmJqrdYSMO",
+      "artists": [
+        {
+          "id": "01WrcqajqftNjrRuSqgyQA",
+          "name": "Gabriel Gava",
+          "url": "https://open.spotify.com/artist/01WrcqajqftNjrRuSqgyQA"
+        },
+        {
+          "id": "1hPyw2RZHJ5jhcG2Y0ldRU",
+          "name": "Zé Leandro",
+          "url": "https://open.spotify.com/artist/1hPyw2RZHJ5jhcG2Y0ldRU"
+        }
+      ],
+      "album": {
+        "name": "Collab",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325c3260b403fec18057520e5"
+      },
+      "duration_ms": 179722,
+      "played_at": "2026-09-21T21:23:13.421Z"
+    },
+    {
       "id": "1KF6uW84ksAUlTMy08gP1R",
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/1KF6uW84ksAUlTMy08gP1R",
@@ -545,6 +1228,42 @@
       },
       "duration_ms": 93883,
       "played_at": "2026-09-21T21:03:48.704Z"
+    },
+    {
+      "id": "1h5ptciK0oZANIQMRLlWbA",
+      "name": "Blusa Vermelha - Ao Vivo",
+      "url": "https://open.spotify.com/track/1h5ptciK0oZANIQMRLlWbA",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Na Moda Do Brasil Ao Vivo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273be483b05495b3f9cc530b7ad"
+      },
+      "duration_ms": 205821,
+      "played_at": "2026-09-21T21:01:39.050Z"
+    },
+    {
+      "id": "5lTPQ36gd3i92wMMqqidrZ",
+      "name": "Não Vai Ter Fim",
+      "url": "https://open.spotify.com/track/5lTPQ36gd3i92wMMqqidrZ",
+      "artists": [
+        {
+          "id": "4bHZlww2l5aeAg3H0Q1b6Z",
+          "name": "Dennis Rogers",
+          "url": "https://open.spotify.com/artist/4bHZlww2l5aeAg3H0Q1b6Z"
+        }
+      ],
+      "album": {
+        "name": "Não Vai Ter Fim",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f84607524098a941742a03c9"
+      },
+      "duration_ms": 179872,
+      "played_at": "2026-09-21T20:58:12.696Z"
     },
     {
       "id": "2sEk5R8ErGIFxbZ7rX6S2S",
@@ -760,710 +1479,6 @@
       },
       "duration_ms": 227026,
       "played_at": "2026-09-21T19:46:17.072Z"
-    },
-    {
-      "id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "artists": [
-        {
-          "id": "6USv9qhCn6zfxlBQIYJ9qs",
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
-      },
-      "duration_ms": 97960,
-      "played_at": "2026-09-21T19:37:47.423Z"
-    },
-    {
-      "id": "4dtP86vkhzwNXCFpCtizce",
-      "name": "Secret Door",
-      "url": "https://open.spotify.com/track/4dtP86vkhzwNXCFpCtizce",
-      "artists": [
-        {
-          "id": "7Ln80lUS6He07XvHI8qqHH",
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "album": {
-        "name": "Humbug",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f65d720a5d70dbb93e96d528"
-      },
-      "duration_ms": 223066,
-      "played_at": "2026-09-21T19:36:18.502Z"
-    },
-    {
-      "id": "0BxE4FqsDD1Ot4YuBXwAPp",
-      "name": "505",
-      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp",
-      "artists": [
-        {
-          "id": "7Ln80lUS6He07XvHI8qqHH",
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "album": {
-        "name": "Favourite Worst Nightmare",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface"
-      },
-      "duration_ms": 253586,
-      "played_at": "2026-09-21T19:29:21.328Z"
-    },
-    {
-      "id": "3uwnnTQcHM1rDqSfA4gQNz",
-      "name": "Cool for the Summer",
-      "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz",
-      "artists": [
-        {
-          "id": "6S2OmqARrzebs0tKUEyXyp",
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "album": {
-        "name": "Confident",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ed164cf1c10f028e8f528784"
-      },
-      "duration_ms": 214739,
-      "played_at": "2026-09-21T19:22:07.834Z"
-    },
-    {
-      "id": "3Vi5XqYrmQgOYBajMWSvCi",
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 210560,
-      "played_at": "2026-09-21T19:18:42.042Z"
-    },
-    {
-      "id": "2VT56hhAcF0D3lGx9PUthf",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/2VT56hhAcF0D3lGx9PUthf",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f"
-      },
-      "duration_ms": 174253,
-      "played_at": "2026-09-21T19:15:20.547Z"
-    },
-    {
-      "id": "1pBaOciKhiw5ByzwrjwwfO",
-      "name": "Last Dance",
-      "url": "https://open.spotify.com/track/1pBaOciKhiw5ByzwrjwwfO",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "#1",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738e4ea37a937640d9cd773f4e"
-      },
-      "duration_ms": 267893,
-      "played_at": "2026-09-21T19:08:55.098Z"
-    },
-    {
-      "id": "6xi41eSOTp4o5N84iIyUs8",
-      "name": "TOMA NO CU (Maria Gasolina)",
-      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
-      "artists": [
-        {
-          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
-          "name": "DJ EXE",
-          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        }
-      ],
-      "album": {
-        "name": "TOMA NO CU (Maria Gasolina)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
-      },
-      "duration_ms": 91321,
-      "played_at": "2026-09-21T19:02:06.773Z"
-    },
-    {
-      "id": "4B3lcxYv3fb2yAw9hkKR0M",
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
-      "artists": [
-        {
-          "id": "6S2OmqARrzebs0tKUEyXyp",
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "album": {
-        "name": "REVAMPED",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
-      },
-      "duration_ms": 212289,
-      "played_at": "2026-09-21T19:00:16.396Z"
-    },
-    {
-      "id": "6xi41eSOTp4o5N84iIyUs8",
-      "name": "TOMA NO CU (Maria Gasolina)",
-      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
-      "artists": [
-        {
-          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
-          "name": "DJ EXE",
-          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        }
-      ],
-      "album": {
-        "name": "TOMA NO CU (Maria Gasolina)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
-      },
-      "duration_ms": 91321,
-      "played_at": "2026-09-21T18:56:53.093Z"
-    },
-    {
-      "id": "3TVDFQ5OLNsfmGq4X6KQc5",
-      "name": "Amor Ardente",
-      "url": "https://open.spotify.com/track/3TVDFQ5OLNsfmGq4X6KQc5",
-      "artists": [
-        {
-          "id": "6yZ6mJQm19Bryw4tQjn2Y2",
-          "name": "Banda Mega Pop Show",
-          "url": "https://open.spotify.com/artist/6yZ6mJQm19Bryw4tQjn2Y2"
-        }
-      ],
-      "album": {
-        "name": "Amor Ardente",
-        "image": "https://i.scdn.co/image/ab67616d0000b273185811e3ab4891b473fa1414"
-      },
-      "duration_ms": 215405,
-      "played_at": "2026-09-21T17:13:09.946Z"
-    },
-    {
-      "id": "5h7J58ByKMNy9uYGPbxcrf",
-      "name": "Não Deligue o Telefone",
-      "url": "https://open.spotify.com/track/5h7J58ByKMNy9uYGPbxcrf",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
-      },
-      "duration_ms": 250200,
-      "played_at": "2026-09-21T17:02:20.050Z"
-    },
-    {
-      "id": "3lsl4nVHAsSm6oag0qKCko",
-      "name": "Rubi",
-      "url": "https://open.spotify.com/track/3lsl4nVHAsSm6oag0qKCko",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
-      },
-      "duration_ms": 208200,
-      "played_at": "2026-09-21T16:56:31.033Z"
-    },
-    {
-      "id": "48PzkSfXRDSGgPYAHn2HkK",
-      "name": "Meteoro",
-      "url": "https://open.spotify.com/track/48PzkSfXRDSGgPYAHn2HkK",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
-      },
-      "duration_ms": 234400,
-      "played_at": "2026-09-21T16:52:24.087Z"
-    },
-    {
-      "id": "2Mu8Y7FBKm1pExucSO16Vf",
-      "name": "Me Libera",
-      "url": "https://open.spotify.com/track/2Mu8Y7FBKm1pExucSO16Vf",
-      "artists": [
-        {
-          "id": "4adpoL1QBRZW6jWjRVMB04",
-          "name": "Banda Djavú",
-          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
-        }
-      ],
-      "album": {
-        "name": "O Furacão É Show",
-        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
-      },
-      "duration_ms": 232560,
-      "played_at": "2026-09-21T16:48:29.707Z"
-    },
-    {
-      "id": "2SVdGKh334TT8qQzXifdE5",
-      "name": "Other People",
-      "url": "https://open.spotify.com/track/2SVdGKh334TT8qQzXifdE5",
-      "artists": [
-        {
-          "id": "0J7U24vlOOIeMpuaO6Q85A",
-          "name": "LP",
-          "url": "https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A"
-        }
-      ],
-      "album": {
-        "name": "Lost On You",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea8f90e6f4992a3b43528f90"
-      },
-      "duration_ms": 245382,
-      "played_at": "2026-09-21T16:42:04.928Z"
-    },
-    {
-      "id": "0n3sHHfdOq6Awix3JPe3xl",
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl",
-      "artists": [
-        {
-          "id": "6om12Ev5ppgoMy3OYSoech",
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "album": {
-        "name": "ReAniMate: The CoVeRs eP",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732230ea0226f28c710728c840"
-      },
-      "duration_ms": 248400,
-      "played_at": "2026-09-21T16:41:13.313Z"
-    },
-    {
-      "id": "0n3sHHfdOq6Awix3JPe3xl",
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl",
-      "artists": [
-        {
-          "id": "6om12Ev5ppgoMy3OYSoech",
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "album": {
-        "name": "ReAniMate: The CoVeRs eP",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732230ea0226f28c710728c840"
-      },
-      "duration_ms": 248400,
-      "played_at": "2026-09-21T16:36:59.809Z"
-    },
-    {
-      "id": "0n3sHHfdOq6Awix3JPe3xl",
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0n3sHHfdOq6Awix3JPe3xl",
-      "artists": [
-        {
-          "id": "6om12Ev5ppgoMy3OYSoech",
-          "name": "Halestorm",
-          "url": "https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech"
-        }
-      ],
-      "album": {
-        "name": "ReAniMate: The CoVeRs eP",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732230ea0226f28c710728c840"
-      },
-      "duration_ms": 248400,
-      "played_at": "2026-09-21T10:03:43.567Z"
-    },
-    {
-      "id": "4B3lcxYv3fb2yAw9hkKR0M",
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
-      "artists": [
-        {
-          "id": "6S2OmqARrzebs0tKUEyXyp",
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "album": {
-        "name": "REVAMPED",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
-      },
-      "duration_ms": 212289,
-      "played_at": "2026-09-21T09:42:50.138Z"
-    },
-    {
-      "id": "57wrj5gmY8aZA4YBmqfitc",
-      "name": "Teto de Vidro",
-      "url": "https://open.spotify.com/track/57wrj5gmY8aZA4YBmqfitc",
-      "artists": [
-        {
-          "id": "2dmQ0vMD3THLMcz7DsvfaT",
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "album": {
-        "name": "Admirável Chip Novo",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
-      },
-      "duration_ms": 212720,
-      "played_at": "2026-09-21T09:38:19.770Z"
-    },
-    {
-      "id": "4B3lcxYv3fb2yAw9hkKR0M",
-      "name": "Cool for the Summer - Rock Version",
-      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
-      "artists": [
-        {
-          "id": "6S2OmqARrzebs0tKUEyXyp",
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "album": {
-        "name": "REVAMPED",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
-      },
-      "duration_ms": 212289,
-      "played_at": "2026-09-21T09:34:32.942Z"
-    },
-    {
-      "id": "6qqdFWe7C4LsBjWbXQdsHA",
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
-      },
-      "duration_ms": 243187,
-      "played_at": "2026-09-21T09:19:03.249Z"
-    },
-    {
-      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
-      "name": "Profano",
-      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
-      },
-      "duration_ms": 165333,
-      "played_at": "2026-09-21T09:14:24.279Z"
-    },
-    {
-      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
-      "name": "Profano",
-      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
-      },
-      "duration_ms": 165333,
-      "played_at": "2026-09-21T09:01:42.860Z"
-    },
-    {
-      "id": "6vhveFPqeygbSIVpaAgWik",
-      "name": "Loveisheroin",
-      "url": "https://open.spotify.com/track/6vhveFPqeygbSIVpaAgWik",
-      "artists": [
-        {
-          "id": "1EmdfupUQDpXOcb4Nj2mBH",
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "album": {
-        "name": "47",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e9387414fb13819654912c8e"
-      },
-      "duration_ms": 118812,
-      "played_at": "2026-09-21T08:57:49.096Z"
-    },
-    {
-      "id": "1Q7EgiMOuwDcB0PJC6AzON",
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1Q7EgiMOuwDcB0PJC6AzON",
-      "artists": [
-        {
-          "id": "20wkVLutqVOYrc0kxFs7rA",
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "id": "3Y7RZ31TRPVadSFVy1o8os",
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "album": {
-        "name": "Freudian",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737aa8783ad8def37cc548a9cf"
-      },
-      "duration_ms": 209831,
-      "played_at": "2026-09-21T08:19:33.915Z"
-    },
-    {
-      "id": "47rCs1JJXC6AG20WKbyOUR",
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/47rCs1JJXC6AG20WKbyOUR",
-      "artists": [
-        {
-          "id": "0oXhGlRUQ8aVTx8eO4MoMT",
-          "name": "Not For Radio",
-          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
-        }
-      ],
-      "album": {
-        "name": "Melt",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b031f864e75e48cf3ee1c949"
-      },
-      "duration_ms": 275842,
-      "played_at": "2026-09-21T08:16:13.056Z"
-    },
-    {
-      "id": "2YOGCTiPJWMhZRdeadFj8G",
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G",
-      "artists": [
-        {
-          "id": "164Uj4eKjl6zTBKfJLFKKK",
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "album": {
-        "name": "this is what autumn feels like",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c1cde30db7c765496c8c0e0e"
-      },
-      "duration_ms": 219909,
-      "played_at": "2026-09-21T08:11:46.217Z"
-    },
-    {
-      "id": "4S8ClIfm6X0ddX7YaDjx1o",
-      "name": "Delay",
-      "url": "https://open.spotify.com/track/4S8ClIfm6X0ddX7YaDjx1o",
-      "artists": [
-        {
-          "id": "1EmdfupUQDpXOcb4Nj2mBH",
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "album": {
-        "name": "Delay",
-        "image": "https://i.scdn.co/image/ab67616d0000b273db28358a31a6e7e4a77f53cb"
-      },
-      "duration_ms": 163226,
-      "played_at": "2026-09-21T08:08:15.360Z"
-    },
-    {
-      "id": "6K4t31amVTZDgR3sKmwUJJ",
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
-      "artists": [
-        {
-          "id": "5INjqkS1o8h1imAzPqGZBb",
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "album": {
-        "name": "Currents",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739e1cfc756886ac782e363d79"
-      },
-      "duration_ms": 216320,
-      "played_at": "2026-09-21T08:05:41.161Z"
-    },
-    {
-      "id": "0aVd7QiY8BstysHb62c5Fi",
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/0aVd7QiY8BstysHb62c5Fi",
-      "artists": [
-        {
-          "id": "5069JTmv5ZDyPeZaCCXiCg",
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "album": {
-        "name": "summer flows 0.02",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf"
-      },
-      "duration_ms": 256000,
-      "played_at": "2026-09-21T08:02:13.766Z"
-    },
-    {
-      "id": "3SeDS5sSoWnwAZvVgkdKzf",
-      "name": "Better in the Dark",
-      "url": "https://open.spotify.com/track/3SeDS5sSoWnwAZvVgkdKzf",
-      "artists": [
-        {
-          "id": "5Bw9kFNhy019e4IBCJZlzw",
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        },
-        {
-          "id": "0Y6dVaC9DZtPNH4591M42W",
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "album": {
-        "name": "Summer's Over",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ebf1802f3aedc62b8f6339d3"
-      },
-      "duration_ms": 155500,
-      "played_at": "2026-09-21T07:58:06.773Z"
-    },
-    {
-      "id": "7yNf9YjeO5JXUE3JEBgnYc",
-      "name": "Babydoll",
-      "url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
-      "artists": [
-        {
-          "id": "6USv9qhCn6zfxlBQIYJ9qs",
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "album": {
-        "name": "Don't Forget About Me, Demos",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737b1b6f41c1645af9757d5616"
-      },
-      "duration_ms": 97960,
-      "played_at": "2026-09-21T07:55:40.275Z"
-    },
-    {
-      "id": "4eFV1LfWlYCVJnPTuSo3db",
-      "name": "LOVE YOU LESS",
-      "url": "https://open.spotify.com/track/4eFV1LfWlYCVJnPTuSo3db",
-      "artists": [
-        {
-          "id": "3MZsBdqDrRTJihTHQrO6Dq",
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "album": {
-        "name": "Piss In The Wind",
-        "image": "https://i.scdn.co/image/ab67616d0000b27304316985c2c333c86874dad3"
-      },
-      "duration_ms": 201186,
-      "played_at": "2026-09-21T07:54:11.326Z"
-    },
-    {
-      "id": "0y60itmpH0aPKsFiGxmtnh",
-      "name": "Wait a Minute!",
-      "url": "https://open.spotify.com/track/0y60itmpH0aPKsFiGxmtnh",
-      "artists": [
-        {
-          "id": "3rWZHrfrsPBxVy692yAIxF",
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "album": {
-        "name": "ARDIPITHECUS",
-        "image": "https://i.scdn.co/image/ab67616d0000b27353b17b025865ae89bcb68062"
-      },
-      "duration_ms": 196520,
-      "played_at": "2026-09-21T07:50:59.164Z"
-    },
-    {
-      "id": "37l31PrCNsg8baUjarNAi9",
-      "name": "I Can't Handle Change",
-      "url": "https://open.spotify.com/track/37l31PrCNsg8baUjarNAi9",
-      "artists": [
-        {
-          "id": "7dIpKWlEeAljA20vFJ82RD",
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
-        }
-      ],
-      "album": {
-        "name": "I Can't Handle Change",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737ffa4709d9debeacb9723a56"
-      },
-      "duration_ms": 198213,
-      "played_at": "2026-09-21T07:47:51.624Z"
-    },
-    {
-      "id": "3jHdKaLCkuNEkWcLVmQPCX",
-      "name": "BEST INTEREST",
-      "url": "https://open.spotify.com/track/3jHdKaLCkuNEkWcLVmQPCX",
-      "artists": [
-        {
-          "id": "4V8LLVI7PbaPR0K2TGSxFF",
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "album": {
-        "name": "BEST INTEREST",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ab8995f18dc3dd9f34a6acd4"
-      },
-      "duration_ms": 127921,
-      "played_at": "2026-09-21T07:44:42.456Z"
     }
   ]
 }
