@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T10:50:10.171561+00:00",
+  "updated_at": "2026-09-22T16:08:29.799715+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -26,16 +26,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
     },
     {
-      "id": "6Kps94g1Npexh3LrinIOvC",
-      "name": "Calcinha Preta",
-      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
-    },
-    {
       "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
       "name": "Mac DeMarco",
       "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d"
+    },
+    {
+      "id": "6Kps94g1Npexh3LrinIOvC",
+      "name": "Calcinha Preta",
+      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
     },
     {
       "id": "1U1el3k54VvEUzo3ybLPlM",
@@ -80,16 +80,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebaf731fe1a006c29152075c89"
     },
     {
-      "id": "7Brxri4l1ATShikyHXsEr6",
-      "name": "Los Hermanos",
-      "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebc7fe84d060ca15142db4f115"
-    },
-    {
       "id": "1QAJqy2dA3ihHBFIHRphZj",
       "name": "Cigarettes After Sex",
       "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj",
       "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9"
+    },
+    {
+      "id": "7Brxri4l1ATShikyHXsEr6",
+      "name": "Los Hermanos",
+      "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc7fe84d060ca15142db4f115"
     },
     {
       "id": "7gW0r5CkdEUMm42w9XpyZO",
@@ -433,6 +433,23 @@
       "duration_ms": 217916
     },
     {
+      "id": "0WiMJIxYYEex2AqhRqzV3u",
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "This Old Dog",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
+      },
+      "duration_ms": 182306
+    },
+    {
       "id": "5Ctzx0mMiUPAu9JqbAOY9n",
       "name": "Be Like a Woman",
       "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n",
@@ -485,23 +502,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
       },
       "duration_ms": 133138
-    },
-    {
-      "id": "0WiMJIxYYEex2AqhRqzV3u",
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "This Old Dog",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
-      },
-      "duration_ms": 182306
     }
   ],
   "recently_played": [
