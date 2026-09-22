@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T16:08:29.799715+00:00",
+  "updated_at": "2026-09-22T20:47:39.376988+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -505,6 +505,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "2Dmy2DILvS9cz1OUxrg2dS",
+      "name": "Zoião",
+      "url": "https://open.spotify.com/track/2Dmy2DILvS9cz1OUxrg2dS",
+      "artists": [
+        {
+          "id": "6zpNfYJcPavd1pqLXKiSvl",
+          "name": "Edson & Hudson",
+          "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+        }
+      ],
+      "album": {
+        "name": "Acústico - Ao Vivo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732153de609dd9bed588202cea"
+      },
+      "duration_ms": 156373,
+      "played_at": "2026-09-22T20:00:46.279Z"
+    },
     {
       "id": "0vKdIvvXWdvaQ2qPVchDWB",
       "name": "Assunto Que Dói",
@@ -1391,24 +1409,6 @@
       },
       "duration_ms": 432560,
       "played_at": "2026-09-22T05:57:33.141Z"
-    },
-    {
-      "id": "3TafXdrCuhleb8sTg8R3Rk",
-      "name": "Never Have Enough",
-      "url": "https://open.spotify.com/track/3TafXdrCuhleb8sTg8R3Rk",
-      "artists": [
-        {
-          "id": "0qraFJK6boYSp4ZMMX4PzG",
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "album": {
-        "name": "Never Have Enough",
-        "image": "https://i.scdn.co/image/ab67616d0000b27321487b6ac22311bb7fdcc77d"
-      },
-      "duration_ms": 319826,
-      "played_at": "2026-09-22T05:50:29.624Z"
     }
   ]
 }
