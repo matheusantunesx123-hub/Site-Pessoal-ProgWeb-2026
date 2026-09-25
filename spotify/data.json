@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-25T10:59:40.165208+00:00",
+  "updated_at": "2026-09-25T16:22:08.212540+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -485,6 +485,280 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "played_at": "2026-09-25T16:18:20.942Z"
+    },
+    {
+      "id": "0J04fTkB0VXZXWzsIK8gKn",
+      "name": "Somos Amigas",
+      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Edição Completa)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+      },
+      "duration_ms": 152389,
+      "played_at": "2026-09-25T16:08:36.683Z"
+    },
+    {
+      "id": "2J0Nuqw3GbSPRRrTO7P6V8",
+      "name": "QUE LOUCURA",
+      "url": "https://open.spotify.com/track/2J0Nuqw3GbSPRRrTO7P6V8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "QUE LOUCURA",
+        "image": "https://i.scdn.co/image/ab67616d0000b27349248c0bd4b98457fce00a1a"
+      },
+      "duration_ms": 93883,
+      "played_at": "2026-09-25T15:58:25.165Z"
+    },
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-25T15:56:45.679Z"
+    },
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-25T15:53:59.492Z"
+    },
+    {
+      "id": "70eDxAyAraNTiD6lx2ZEnH",
+      "name": "Ex's & Oh's",
+      "url": "https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH",
+      "artists": [
+        {
+          "id": "3bhu7P5PfngueRHiB9hjcx",
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "album": {
+        "name": "Love Stuff",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734e856a2522e6972ca0be66cb"
+      },
+      "duration_ms": 202177,
+      "played_at": "2026-09-25T13:37:53.982Z"
+    },
+    {
+      "id": "1GCljGxAPoOyPW0Q7xbiny",
+      "name": "I'm a Ruin",
+      "url": "https://open.spotify.com/track/1GCljGxAPoOyPW0Q7xbiny",
+      "artists": [
+        {
+          "id": "6CwfuxIqcltXDGjfZsMd9A",
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "album": {
+        "name": "Froot",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b7543449a60bb805adea4f48"
+      },
+      "duration_ms": 272047,
+      "played_at": "2026-09-25T13:34:40.786Z"
+    },
+    {
+      "id": "45hOioMDJktr86iKDHC8gr",
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/45hOioMDJktr86iKDHC8gr",
+      "artists": [
+        {
+          "id": "0p4nmQO2msCgU4IF37Wi3j",
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "album": {
+        "name": "The Best Damn Thing (Expanded Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273476cdf5837ae39eee951cc15"
+      },
+      "duration_ms": 216600,
+      "played_at": "2026-09-25T13:30:17.773Z"
+    },
+    {
+      "id": "7o1Pm9jpH0wFpN5g793Lnq",
+      "name": "Can't Remember to Forget You (feat. Rihanna)",
+      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq",
+      "artists": [
+        {
+          "id": "0EmeFodog0BfCgMzAIvKQp",
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "album": {
+        "name": "Shakira. (Expanded Edition) [Spanish Version]",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf"
+      },
+      "duration_ms": 206866,
+      "played_at": "2026-09-25T13:24:41.597Z"
+    },
+    {
+      "id": "4JLBDUYSaOMPYND0iWeSWQ",
+      "name": "Jenny (I Wanna Ruin Our Friendship)",
+      "url": "https://open.spotify.com/track/4JLBDUYSaOMPYND0iWeSWQ",
+      "artists": [
+        {
+          "id": "7avo0PmlW8O1YLEt9DnWQT",
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "album": {
+        "name": "Jenny (I Wanna Ruin Our Friendship)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f8c22e6412de45872bd66286"
+      },
+      "duration_ms": 215280,
+      "played_at": "2026-09-25T13:21:23.780Z"
+    },
+    {
+      "id": "7zIIyVBJvbOrJlCuj7t24z",
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/7zIIyVBJvbOrJlCuj7t24z",
+      "artists": [
+        {
+          "id": "6jJ0s89eD6GaHleKKya26X",
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "album": {
+        "name": "Teenage Dream",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731d955011a3ed477dc77865ad"
+      },
+      "duration_ms": 206373,
+      "played_at": "2026-09-25T13:17:57.467Z"
+    },
+    {
+      "id": "4sOX1nhpKwFWPvoMMExi3q",
+      "name": "Primadonna",
+      "url": "https://open.spotify.com/track/4sOX1nhpKwFWPvoMMExi3q",
+      "artists": [
+        {
+          "id": "6CwfuxIqcltXDGjfZsMd9A",
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273203e4c6a048df02a21cdd813"
+      },
+      "duration_ms": 221075,
+      "played_at": "2026-09-25T13:10:27.661Z"
+    },
+    {
+      "id": "2sEk5R8ErGIFxbZ7rX6S2S",
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2sEk5R8ErGIFxbZ7rX6S2S",
+      "artists": [
+        {
+          "id": "6CwfuxIqcltXDGjfZsMd9A",
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273203e4c6a048df02a21cdd813"
+      },
+      "duration_ms": 221493,
+      "played_at": "2026-09-25T13:06:55.603Z"
+    },
     {
       "id": "69Kzq3FMkDwiSFBQzRckFD",
       "name": "This Night Has Opened My Eyes - 2011 Remaster",
@@ -1170,245 +1444,6 @@
       },
       "duration_ms": 273864,
       "played_at": "2026-09-25T04:05:12.347Z"
-    },
-    {
-      "id": "7EAMXbLcL0qXmciM5SwMh2",
-      "name": "Heart To Heart",
-      "url": "https://open.spotify.com/track/7EAMXbLcL0qXmciM5SwMh2",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "Here Comes The Cowboy",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fa1323bb50728c7489980672"
-      },
-      "duration_ms": 211140,
-      "played_at": "2026-09-25T04:00:47.541Z"
-    },
-    {
-      "id": "1zFbBrZmJr1Z49HYe84dBg",
-      "name": "Harvey",
-      "url": "https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg",
-      "artists": [
-        {
-          "id": "77mJc3M7ZT5oOVM7gNdXim",
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "album": {
-        "name": "Invitation to Her's",
-        "image": "https://i.scdn.co/image/ab67616d0000b273280a001e43c93792dd1e27c7"
-      },
-      "duration_ms": 211165,
-      "played_at": "2026-09-25T03:57:25.341Z"
-    },
-    {
-      "id": "3wUMcPzXcmaeW8QxTdyXQO",
-      "name": "Pretty Girls Make Graves - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO",
-      "artists": [
-        {
-          "id": "3yY2gUcIsjMr8hjo51PoJ8",
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "album": {
-        "name": "The Smiths",
-        "image": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085"
-      },
-      "duration_ms": 223253,
-      "played_at": "2026-09-25T03:54:03.225Z"
-    },
-    {
-      "id": "5hVghJ4KaYES3BFUATCYn0",
-      "name": "EARFQUAKE",
-      "url": "https://open.spotify.com/track/5hVghJ4KaYES3BFUATCYn0",
-      "artists": [
-        {
-          "id": "4V8LLVI7PbaPR0K2TGSxFF",
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "album": {
-        "name": "IGOR",
-        "image": "https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb"
-      },
-      "duration_ms": 190072,
-      "played_at": "2026-09-25T03:50:28.947Z"
-    },
-    {
-      "id": "5JTAeghLxVhiv83eu6Ef9w",
-      "name": "Under the Influence",
-      "url": "https://open.spotify.com/track/5JTAeghLxVhiv83eu6Ef9w",
-      "artists": [
-        {
-          "id": "0m5FakHKCQdA7UN0PIzMcL",
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "album": {
-        "name": "2013",
-        "image": "https://i.scdn.co/image/ab67616d0000b27327d28a8ae9037bfae6d21b8d"
-      },
-      "duration_ms": 148636,
-      "played_at": "2026-09-25T03:47:27.916Z"
-    },
-    {
-      "id": "1xxKHsbfPc2xzGLpEXpt55",
-      "name": "20201203",
-      "url": "https://open.spotify.com/track/1xxKHsbfPc2xzGLpEXpt55",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "One Wayne G",
-        "image": "https://i.scdn.co/image/ab67616d0000b27340461e96808378ae2787a7e4"
-      },
-      "duration_ms": 258522,
-      "played_at": "2026-09-25T03:45:08.244Z"
-    },
-    {
-      "id": "0hta2Lb2zKJ7kEnAEZEE3G",
-      "name": "Nope your too late i already died",
-      "url": "https://open.spotify.com/track/0hta2Lb2zKJ7kEnAEZEE3G",
-      "artists": [
-        {
-          "id": "0TvvDswOgvPbgSPK2RDf62",
-          "name": "wifiskeleton",
-          "url": "https://open.spotify.com/artist/0TvvDswOgvPbgSPK2RDf62"
-        },
-        {
-          "id": "2kU94AZG0xEVKnOUKDbEfg",
-          "name": "i wanna be a jack-o-lantern",
-          "url": "https://open.spotify.com/artist/2kU94AZG0xEVKnOUKDbEfg"
-        }
-      ],
-      "album": {
-        "name": "suburban daredevil",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730713102d7bb855a4796f7cdc"
-      },
-      "duration_ms": 90067,
-      "played_at": "2026-09-25T03:40:58.745Z"
-    },
-    {
-      "id": "1OWBh1eVxUdA1Z6UA8r4nh",
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/1OWBh1eVxUdA1Z6UA8r4nh",
-      "artists": [
-        {
-          "id": "57vWImR43h4CaDao012Ofp",
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "album": {
-        "name": "Oh yeah?",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734ea9ba86cd9506a004bab042"
-      },
-      "duration_ms": 275936,
-      "played_at": "2026-09-25T03:39:37.643Z"
-    },
-    {
-      "id": "7wAJfa8XOZmtCWrsxzE88T",
-      "name": "Romantic Lover",
-      "url": "https://open.spotify.com/track/7wAJfa8XOZmtCWrsxzE88T",
-      "artists": [
-        {
-          "id": "3XxNRirzbjfLdDli06zMaB",
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "album": {
-        "name": "Let's Skip to the Wedding",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f0b891f3cfa782615daf914f"
-      },
-      "duration_ms": 86739,
-      "played_at": "2026-09-25T03:35:10.745Z"
-    },
-    {
-      "id": "4wVHiVBihG4Monwroz7Ptm",
-      "name": "In My Head Till I'm Dead",
-      "url": "https://open.spotify.com/track/4wVHiVBihG4Monwroz7Ptm",
-      "artists": [
-        {
-          "id": "1gl0S9pS0Zw0qfa14rDD3D",
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "album": {
-        "name": "Buds",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e7289c3e83beb4d0c1084c97"
-      },
-      "duration_ms": 208741,
-      "played_at": "2026-09-25T03:33:52.975Z"
-    },
-    {
-      "id": "2TW37GtISke3eb6MkCH8br",
-      "name": "Become the Warm Jets",
-      "url": "https://open.spotify.com/track/2TW37GtISke3eb6MkCH8br",
-      "artists": [
-        {
-          "id": "0m5FakHKCQdA7UN0PIzMcL",
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "album": {
-        "name": "A Different Age",
-        "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a"
-      },
-      "duration_ms": 334901,
-      "played_at": "2026-09-25T03:30:33.251Z"
-    },
-    {
-      "id": "0J52jV8skPWcKhZmK7aK6Q",
-      "name": "Tek It - Slowed",
-      "url": "https://open.spotify.com/track/0J52jV8skPWcKhZmK7aK6Q",
-      "artists": [
-        {
-          "id": "581C5Qwl87TskfBEzuoisu",
-          "name": "Cafuné",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "album": {
-        "name": "Tek It (I Watch the Moon)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27376a3f63eed99d8f4b99f931f"
-      },
-      "duration_ms": 239480,
-      "played_at": "2026-09-25T03:25:07.342Z"
-    },
-    {
-      "id": "3L0JDlycMhSA7R0M0OfNIY",
-      "name": "Ay No Puedo",
-      "url": "https://open.spotify.com/track/3L0JDlycMhSA7R0M0OfNIY",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "Submarine",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
-      },
-      "duration_ms": 181546,
-      "played_at": "2026-09-25T03:21:16.857Z"
     }
   ]
 }
