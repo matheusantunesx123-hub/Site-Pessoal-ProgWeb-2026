@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-26T20:34:17.500293+00:00",
+  "updated_at": "2026-09-27T03:17:41.746730+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -348,23 +348,6 @@
       "duration_ms": 184659
     },
     {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090
-    },
-    {
       "id": "2R5smAQVZCdyulSwDPYFeZ",
       "name": "50 Meninas",
       "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
@@ -397,6 +380,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
       },
       "duration_ms": 262424
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090
     },
     {
       "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
@@ -485,6 +485,481 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "7lm2mLylLoEjPiqGgcnhSY",
+      "name": "de nadie",
+      "url": "https://open.spotify.com/track/7lm2mLylLoEjPiqGgcnhSY",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) ∞",
+        "image": "https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99"
+      },
+      "duration_ms": 179902,
+      "played_at": "2026-09-27T01:34:13.602Z"
+    },
+    {
+      "id": "4AIiCP2scA6jt6jAKfkvTX",
+      "name": "fue mejor (feat. SZA)",
+      "url": "https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "id": "7tYKF4w9nC0nq9CsPZTHyP",
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) ∞ [Deluxe Version]",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b9b1d038d8e44ccc5ccfd0e5"
+      },
+      "duration_ms": 230964,
+      "played_at": "2026-09-27T01:31:22.703Z"
+    },
+    {
+      "id": "6L1xZIyw9U8kICunpmDvq4",
+      "name": "For: You",
+      "url": "https://open.spotify.com/track/6L1xZIyw9U8kICunpmDvq4",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Sincerely,",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2"
+      },
+      "duration_ms": 193288,
+      "played_at": "2026-09-27T01:26:40.569Z"
+    },
+    {
+      "id": "4ipzXe2jmoeN7zm2VMb4eX",
+      "name": "Hasta Cuando",
+      "url": "https://open.spotify.com/track/4ipzXe2jmoeN7zm2VMb4eX",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Red Moon In Venus",
+        "image": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+      },
+      "duration_ms": 129448,
+      "played_at": "2026-09-27T01:21:36.436Z"
+    },
+    {
+      "id": "7lj0vXLgWbyB0BvCsk22hn",
+      "name": "Sunshine & Rain...",
+      "url": "https://open.spotify.com/track/7lj0vXLgWbyB0BvCsk22hn",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Sincerely,",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a7493f1985f820a9add223d2"
+      },
+      "duration_ms": 197796,
+      "played_at": "2026-09-27T01:16:10.281Z"
+    },
+    {
+      "id": "4riDfclV7kPDT9D58FpmHd",
+      "name": "Some",
+      "url": "https://open.spotify.com/track/4riDfclV7kPDT9D58FpmHd",
+      "artists": [
+        {
+          "id": "57vWImR43h4CaDao012Ofp",
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "album": {
+        "name": "Some",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737c0c6c1cfac7464b6211587d"
+      },
+      "duration_ms": 118393,
+      "played_at": "2026-09-27T01:09:34.374Z"
+    },
+    {
+      "id": "128I36bDgYHU9l2QcgEGcd",
+      "name": "Love Between...",
+      "url": "https://open.spotify.com/track/128I36bDgYHU9l2QcgEGcd",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Red Moon In Venus",
+        "image": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+      },
+      "duration_ms": 155083,
+      "played_at": "2026-09-27T01:07:35.485Z"
+    },
+    {
+      "id": "0PjgmRsexiNpf3lgFVzdOO",
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0PjgmRsexiNpf3lgFVzdOO",
+      "artists": [
+        {
+          "id": "0oXhGlRUQ8aVTx8eO4MoMT",
+          "name": "Not For Radio",
+          "url": "https://open.spotify.com/artist/0oXhGlRUQ8aVTx8eO4MoMT"
+        }
+      ],
+      "album": {
+        "name": "Bloom",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b32f5b37097d554afdc2c0b6"
+      },
+      "duration_ms": 265606,
+      "played_at": "2026-09-27T01:04:09.268Z"
+    },
+    {
+      "id": "5exEU6LbxN4T4sY1nV5NfV",
+      "name": "angel",
+      "url": "https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "TO FEEL ALIVE EP",
+        "image": "https://i.scdn.co/image/ab67616d0000b27342480269d0ca62d5d6a99fe6"
+      },
+      "duration_ms": 143225,
+      "played_at": "2026-09-27T00:59:52.611Z"
+    },
+    {
+      "id": "3cKnHNL40tqnmjXiv4FOlk",
+      "name": "Never Be Yours",
+      "url": "https://open.spotify.com/track/3cKnHNL40tqnmjXiv4FOlk",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Never Be Yours",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b11979739c87f09a74973e91"
+      },
+      "duration_ms": 196025,
+      "played_at": "2026-09-27T00:56:01.878Z"
+    },
+    {
+      "id": "1xP2jdihnPfoqPNVHHhKnm",
+      "name": "quiero sentirme bien",
+      "url": "https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) ∞",
+        "image": "https://i.scdn.co/image/ab67616d0000b273044a5466dac00f7b3c570b99"
+      },
+      "duration_ms": 222383,
+      "played_at": "2026-09-27T00:52:23.279Z"
+    },
+    {
+      "id": "6LOZws7T3jqZz78unPgFF9",
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/6LOZws7T3jqZz78unPgFF9",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Isolation",
+        "image": "https://i.scdn.co/image/ab67616d0000b27390b4e1905b1fc48c537ec053"
+      },
+      "duration_ms": 199505,
+      "played_at": "2026-09-27T00:48:22.885Z"
+    },
+    {
+      "id": "0IX5OFffosy8wk16m1IFCa",
+      "name": "Drugs N Hella Melodies (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa",
+      "artists": [
+        {
+          "id": "4Gso3d4CscCijv0lmajZWs",
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Life of a DON",
+        "image": "https://i.scdn.co/image/ab67616d0000b27372951fef63d89bee5e8224c7"
+      },
+      "duration_ms": 198057,
+      "played_at": "2026-09-27T00:42:06.353Z"
+    },
+    {
+      "id": "35SbrfbaSpGUBX7e5BPega",
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/35SbrfbaSpGUBX7e5BPega",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Red Moon In Venus",
+        "image": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+      },
+      "duration_ms": 219954,
+      "played_at": "2026-09-27T00:38:37.375Z"
+    },
+    {
+      "id": "5lrG8pjDvOJA8MdZB4YcfY",
+      "name": "Moral Conscience",
+      "url": "https://open.spotify.com/track/5lrG8pjDvOJA8MdZB4YcfY",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "Red Moon In Venus",
+        "image": "https://i.scdn.co/image/ab67616d0000b27381fccd758776d16b87721b17"
+      },
+      "duration_ms": 212967,
+      "played_at": "2026-09-27T00:35:06.474Z"
+    },
+    {
+      "id": "5A1xlxgPzHoq4G03uc7kCS",
+      "name": "So Dumb",
+      "url": "https://open.spotify.com/track/5A1xlxgPzHoq4G03uc7kCS",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 185167,
+      "played_at": "2026-09-27T00:04:48.414Z"
+    },
+    {
+      "id": "45HrnWjiqGgxg1woOUtt2d",
+      "name": "Etiópia",
+      "url": "https://open.spotify.com/track/45HrnWjiqGgxg1woOUtt2d",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 214730,
+      "played_at": "2026-09-26T23:04:19.132Z"
+    },
+    {
+      "id": "1RmXibCbfLIVrN8ZRdoYbW",
+      "name": "Foi Mal",
+      "url": "https://open.spotify.com/track/1RmXibCbfLIVrN8ZRdoYbW",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165208,
+      "played_at": "2026-09-26T23:00:44.323Z"
+    },
+    {
+      "id": "1qk26emY1Ze0HbsXeF07d2",
+      "name": "Eu Tô Solteira",
+      "url": "https://open.spotify.com/track/1qk26emY1Ze0HbsXeF07d2",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 68666,
+      "played_at": "2026-09-26T22:57:59.065Z"
+    },
+    {
+      "id": "2BdJ63hkTPQPJcSdBMPouv",
+      "name": "Vaya Con Dios - Live",
+      "url": "https://open.spotify.com/track/2BdJ63hkTPQPJcSdBMPouv",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (LIVE)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27343adb54ffebc7f4394beb899"
+      },
+      "duration_ms": 145624,
+      "played_at": "2026-09-26T22:56:50.500Z"
+    },
+    {
+      "id": "4Zhxtm6x56wEiRtSMAl28n",
+      "name": "Diaba",
+      "url": "https://open.spotify.com/track/4Zhxtm6x56wEiRtSMAl28n",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Diaba",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c710ecd9391aaddd07fd3069"
+      },
+      "duration_ms": 165890,
+      "played_at": "2026-09-26T22:54:12.764Z"
+    },
+    {
+      "id": "3Xj55DkJLJV52GJsxTNHKp",
+      "name": "Explícito",
+      "url": "https://open.spotify.com/track/3Xj55DkJLJV52GJsxTNHKp",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 173000,
+      "played_at": "2026-09-26T22:51:26.856Z"
+    },
+    {
+      "id": "0FRiKJad36zm8EY9RV5sfL",
+      "name": "Tanto Faz - Live",
+      "url": "https://open.spotify.com/track/0FRiKJad36zm8EY9RV5sfL",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (LIVE)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27343adb54ffebc7f4394beb899"
+      },
+      "duration_ms": 205536,
+      "played_at": "2026-09-26T22:42:53.288Z"
+    },
+    {
+      "id": "1nSF7mrf2Wt4VKsN3cemM2",
+      "name": "Voz Do Brasil",
+      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "76hYPcWML9NGEh8LashwT5",
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 193920,
+      "played_at": "2026-09-26T22:38:47.126Z"
+    },
+    {
+      "id": "1nSF7mrf2Wt4VKsN3cemM2",
+      "name": "Voz Do Brasil",
+      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "76hYPcWML9NGEh8LashwT5",
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 193920,
+      "played_at": "2026-09-26T22:35:34.749Z"
+    },
     {
       "id": "3nY8AqaMNNHHLYV4380ol0",
       "name": "Dick (feat. Doja Cat)",
@@ -969,511 +1444,6 @@
       },
       "duration_ms": 174253,
       "played_at": "2026-09-26T16:25:01.245Z"
-    },
-    {
-      "id": "5lAnYvAIkSDNXqfo7DyFUm",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 174253,
-      "played_at": "2026-09-26T16:22:06.268Z"
-    },
-    {
-      "id": "5aIVCx5tnk0ntmdiinnYvw",
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw",
-      "artists": [
-        {
-          "id": "3SozjO3Lat463tQICI9LcE",
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "album": {
-        "name": "Water",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d20231861e86a6f74ef2393e"
-      },
-      "duration_ms": 200255,
-      "played_at": "2026-09-26T00:32:39.229Z"
-    },
-    {
-      "id": "1VJwtWR6z7SpZRwipI12be",
-      "name": "Candy",
-      "url": "https://open.spotify.com/track/1VJwtWR6z7SpZRwipI12be",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Amala",
-        "image": "https://i.scdn.co/image/ab67616d0000b273da95885ff9adff70c000cd2c"
-      },
-      "duration_ms": 190926,
-      "played_at": "2026-09-26T00:21:02.127Z"
-    },
-    {
-      "id": "3bAL1EyZgd4f4IvmbDfhLt",
-      "name": "Vegas",
-      "url": "https://open.spotify.com/track/3bAL1EyZgd4f4IvmbDfhLt",
-      "artists": [
-        {
-          "id": "2PRMdXcZ3cQu57agSO2zDn",
-          "name": "Joseline Hernandez",
-          "url": "https://open.spotify.com/artist/2PRMdXcZ3cQu57agSO2zDn"
-        }
-      ],
-      "album": {
-        "name": "DunChaCha Tour SetList",
-        "image": "https://i.scdn.co/image/ab67616d0000b273042f3821a740ffac0aa56ffa"
-      },
-      "duration_ms": 220551,
-      "played_at": "2026-09-26T00:17:51.195Z"
-    },
-    {
-      "id": "0W6I02J9xcqK8MtSeosEXb",
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 138293,
-      "played_at": "2026-09-26T00:13:44.870Z"
-    },
-    {
-      "id": "6j23yxl5Sktj2uvf9Yb3gK",
-      "name": "WAP (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
-      "artists": [
-        {
-          "id": "4kYSro6naA4h99UJvo89HB",
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "id": "181bsRPaVXVlUKXrxwZfHK",
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "album": {
-        "name": "AM I THE DRAMA? (Beat Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273762cb4007f96ee44852f263e"
-      },
-      "duration_ms": 187546,
-      "played_at": "2026-09-26T00:09:45.095Z"
-    },
-    {
-      "id": "6HU7h9RYOaPRFeh0R3UeAr",
-      "name": "deja vu",
-      "url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "SOUR",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-      },
-      "duration_ms": 215506,
-      "played_at": "2026-09-26T00:06:21.897Z"
-    },
-    {
-      "id": "7o1Pm9jpH0wFpN5g793Lnq",
-      "name": "Can't Remember to Forget You (feat. Rihanna)",
-      "url": "https://open.spotify.com/track/7o1Pm9jpH0wFpN5g793Lnq",
-      "artists": [
-        {
-          "id": "0EmeFodog0BfCgMzAIvKQp",
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "id": "5pKCCKE2ajJHZ9KAiaK11H",
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "album": {
-        "name": "Shakira. (Expanded Edition) [Spanish Version]",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730da1a7e7f3e9ef163e1c1dbf"
-      },
-      "duration_ms": 206866,
-      "played_at": "2026-09-26T00:02:46.381Z"
-    },
-    {
-      "id": "3tNTSlc98zRMRAV4ooy6fT",
-      "name": "Up",
-      "url": "https://open.spotify.com/track/3tNTSlc98zRMRAV4ooy6fT",
-      "artists": [
-        {
-          "id": "4kYSro6naA4h99UJvo89HB",
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "album": {
-        "name": "AM I THE DRAMA? (Beat Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273762cb4007f96ee44852f263e"
-      },
-      "duration_ms": 156946,
-      "played_at": "2026-09-25T23:54:11.395Z"
-    },
-    {
-      "id": "6ic8OlLUNEATToEFU3xmaH",
-      "name": "Gimme More",
-      "url": "https://open.spotify.com/track/6ic8OlLUNEATToEFU3xmaH",
-      "artists": [
-        {
-          "id": "26dSoYclwsYLMAKD3tpOr4",
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "album": {
-        "name": "Blackout",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d0a8bfe18f25429d76886b1e"
-      },
-      "duration_ms": 251244,
-      "played_at": "2026-09-25T23:51:05.336Z"
-    },
-    {
-      "id": "3Dv1eDb0MEgF93GpLXlucZ",
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Hot Pink",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d0bbfea6226b5c3707de92ed"
-      },
-      "duration_ms": 237894,
-      "played_at": "2026-09-25T23:46:54.045Z"
-    },
-    {
-      "id": "7AzlLxHn24DxjgQX73F9fU",
-      "name": "No Idea",
-      "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU",
-      "artists": [
-        {
-          "id": "4Gso3d4CscCijv0lmajZWs",
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "album": {
-        "name": "Heaven Or Hell",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739d04d25e732c593fb94e7193"
-      },
-      "duration_ms": 154424,
-      "played_at": "2026-09-25T23:42:56.242Z"
-    },
-    {
-      "id": "58q2HKrzhC3ozto2nDdN4z",
-      "name": "I Like It",
-      "url": "https://open.spotify.com/track/58q2HKrzhC3ozto2nDdN4z",
-      "artists": [
-        {
-          "id": "4kYSro6naA4h99UJvo89HB",
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "id": "4q3ewBCX7sLwd24euuV69X",
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "album": {
-        "name": "Invasion of Privacy",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a0caffda54afd0a65995bbab"
-      },
-      "duration_ms": 253390,
-      "played_at": "2026-09-25T23:40:21.740Z"
-    },
-    {
-      "id": "56y1jOTK0XSvJzVv9vHQBK",
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Scarlet",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a54499d7ba4e9afeea91df86"
-      },
-      "duration_ms": 230466,
-      "played_at": "2026-09-25T23:35:25.390Z"
-    },
-    {
-      "id": "5Z9KJZvQzH6PFmb8SNkxuk",
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk",
-      "artists": [
-        {
-          "id": "7jVv8c5Fj3E9VhNjxT4snq",
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "id": "2LIk90788K0zvyj2JJVwkJ",
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "album": {
-        "name": "MONTERO",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f27e4bdc58ebe249a6b90da0"
-      },
-      "duration_ms": 212352,
-      "played_at": "2026-09-25T23:30:26.912Z"
-    },
-    {
-      "id": "4ZtFanR9U6ndgddUvNcjcG",
-      "name": "good 4 u",
-      "url": "https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "SOUR",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-      },
-      "duration_ms": 178146,
-      "played_at": "2026-09-25T23:26:24.884Z"
-    },
-    {
-      "id": "0k4d5YPDr1r7FX77VdqWez",
-      "name": "You Right",
-      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 186173,
-      "played_at": "2026-09-25T23:23:19.765Z"
-    },
-    {
-      "id": "2VT56hhAcF0D3lGx9PUthf",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/2VT56hhAcF0D3lGx9PUthf",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f"
-      },
-      "duration_ms": 174253,
-      "played_at": "2026-09-25T23:20:13.655Z"
-    },
-    {
-      "id": "2VT56hhAcF0D3lGx9PUthf",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/2VT56hhAcF0D3lGx9PUthf",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f"
-      },
-      "duration_ms": 174253,
-      "played_at": "2026-09-25T23:17:22.469Z"
-    },
-    {
-      "id": "1NZs6n6hl8UuMaX0UC0YTz",
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f"
-      },
-      "duration_ms": 351640,
-      "played_at": "2026-09-25T23:17:18.581Z"
-    },
-    {
-      "id": "3DarAbFujv6eYNliUTyqtz",
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "id": "7tYKF4w9nC0nq9CsPZTHyP",
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 208666,
-      "played_at": "2026-09-25T22:59:41.257Z"
-    },
-    {
-      "id": "4lnAN2S1fcI0SjxEbksZVr",
-      "name": "Fetish (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr",
-      "artists": [
-        {
-          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "id": "13y7CgLHjMVRMDqxdx0Xdo",
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "album": {
-        "name": "Fetish (feat. Gucci Mane)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736a958ff9ae0c40b9771c19c4"
-      },
-      "duration_ms": 186112,
-      "played_at": "2026-09-25T22:56:12.611Z"
-    },
-    {
-      "id": "4lnAN2S1fcI0SjxEbksZVr",
-      "name": "Fetish (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr",
-      "artists": [
-        {
-          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "id": "13y7CgLHjMVRMDqxdx0Xdo",
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "album": {
-        "name": "Fetish (feat. Gucci Mane)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736a958ff9ae0c40b9771c19c4"
-      },
-      "duration_ms": 186112,
-      "played_at": "2026-09-25T22:53:21.622Z"
-    },
-    {
-      "id": "4lnAN2S1fcI0SjxEbksZVr",
-      "name": "Fetish (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr",
-      "artists": [
-        {
-          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "id": "13y7CgLHjMVRMDqxdx0Xdo",
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "album": {
-        "name": "Fetish (feat. Gucci Mane)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736a958ff9ae0c40b9771c19c4"
-      },
-      "duration_ms": 186112,
-      "played_at": "2026-09-25T22:53:11.181Z"
-    },
-    {
-      "id": "4lnAN2S1fcI0SjxEbksZVr",
-      "name": "Fetish (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4lnAN2S1fcI0SjxEbksZVr",
-      "artists": [
-        {
-          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "id": "13y7CgLHjMVRMDqxdx0Xdo",
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        }
-      ],
-      "album": {
-        "name": "Fetish (feat. Gucci Mane)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736a958ff9ae0c40b9771c19c4"
-      },
-      "duration_ms": 186112,
-      "played_at": "2026-09-25T22:51:05.552Z"
     }
   ]
 }
