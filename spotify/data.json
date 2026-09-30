@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-30T11:48:32.764792+00:00",
+  "updated_at": "2026-09-30T17:29:06.032655+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -8,16 +8,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebf35e1c3f88c658be155a2db2"
     },
     {
-      "id": "2QLSJqqGIstNbO6nYRR16o",
-      "name": "DUDA BEAT",
-      "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783"
-    },
-    {
       "id": "0nFdWpwl7h6fp3ADRyG14L",
       "name": "Marina Sena",
       "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L",
       "image": "https://i.scdn.co/image/ab6761610000e5eba1f1da49af37bc62284c9cc9"
+    },
+    {
+      "id": "2QLSJqqGIstNbO6nYRR16o",
+      "name": "DUDA BEAT",
+      "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783"
     },
     {
       "id": "00FQb4jTyendYWaN8pK0wa",
@@ -50,10 +50,10 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebdeac5367816c7ab1f607e89a"
     },
     {
-      "id": "3qm84nBOXUEQ2vnTfUTTFC",
-      "name": "Guns N' Roses",
-      "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c"
+      "id": "3f5VCwd57gZsqMad28jyLV",
+      "name": "Maria Bethânia",
+      "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6dd0de52c3b1a36a6400eb6d"
     },
     {
       "id": "1b8kpp4DUwt1hWaxTiWQhD",
@@ -66,12 +66,6 @@
       "name": "Los Hermanos",
       "url": "https://open.spotify.com/artist/7Brxri4l1ATShikyHXsEr6",
       "image": "https://i.scdn.co/image/ab6761610000e5ebc7fe84d060ca15142db4f115"
-    },
-    {
-      "id": "3yY2gUcIsjMr8hjo51PoJ8",
-      "name": "The Smiths",
-      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
-      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
     },
     {
       "id": "7IAXZaLTb6nkJr8RmVPn5y",
@@ -98,10 +92,10 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb0726b3a2a4db36495765f020"
     },
     {
-      "id": "3f5VCwd57gZsqMad28jyLV",
-      "name": "Maria Bethânia",
-      "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6dd0de52c3b1a36a6400eb6d"
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "name": "The Smiths",
+      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
     },
     {
       "id": "4boI7bJtmB1L3b1cuL75Zr",
@@ -110,10 +104,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
     },
     {
-      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-      "name": "Billie Eilish",
-      "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
+      "id": "3qm84nBOXUEQ2vnTfUTTFC",
+      "name": "Guns N' Roses",
+      "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb50defaf9fc059a1efc541f4c"
+    },
+    {
+      "id": "1QAJqy2dA3ihHBFIHRphZj",
+      "name": "Cigarettes After Sex",
+      "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9"
     },
     {
       "id": "6MK5Z7OjpkcN6OFe6nh8pi",
@@ -495,6 +495,62 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-30T16:21:10.541Z"
+    },
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-09-30T15:30:49.806Z"
+    },
     {
       "id": "5uuZOwU2DHOKOCreLuo6g6",
       "name": "De Tanto Amor",
@@ -1503,47 +1559,6 @@
       },
       "duration_ms": 271651,
       "played_at": "2026-09-30T05:05:22.847Z"
-    },
-    {
-      "id": "5SeOVylHAC6ie8BQ4CSVyu",
-      "name": "Eu Preciso De Você",
-      "url": "https://open.spotify.com/track/5SeOVylHAC6ie8BQ4CSVyu",
-      "artists": [
-        {
-          "id": "3f5VCwd57gZsqMad28jyLV",
-          "name": "Maria Bethânia",
-          "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV"
-        }
-      ],
-      "album": {
-        "name": "As Canções Que Você Fez Pra Mim",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738d2adca42edebb7b51c46032"
-      },
-      "duration_ms": 250826,
-      "played_at": "2026-09-30T05:01:00.136Z"
-    },
-    {
-      "id": "0zLs0xjw4MYcMiXHsOvSgk",
-      "name": "Preciso Dizer Que Te Amo",
-      "url": "https://open.spotify.com/track/0zLs0xjw4MYcMiXHsOvSgk",
-      "artists": [
-        {
-          "id": "1PwOU6fFbmaGkK3wkbb8fU",
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        },
-        {
-          "id": "6gk4ierjjSVPoZep27VfZz",
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "album": {
-        "name": "Red Hot & Rio",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733e06d4cab51653934ee6c664"
-      },
-      "duration_ms": 281533,
-      "played_at": "2026-09-30T04:56:58.349Z"
     }
   ]
 }
