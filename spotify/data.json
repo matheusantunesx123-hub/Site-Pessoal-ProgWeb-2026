@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T11:46:22.331348+00:00",
+  "updated_at": "2026-10-02T17:19:37.851501+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -495,6 +495,101 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1WmfMxiWVaKJULwMYI95op",
+      "name": "EU NÃO APRENDI A PERDOAR",
+      "url": "https://open.spotify.com/track/1WmfMxiWVaKJULwMYI95op",
+      "artists": [
+        {
+          "id": "2oyiy3RLv9ifDElGUBHqL3",
+          "name": "CATTO",
+          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
+        }
+      ],
+      "album": {
+        "name": "CAMINHOS SELVAGENS",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732f5b04e6b5a38ab8a293e17a"
+      },
+      "duration_ms": 264427,
+      "played_at": "2026-10-02T15:48:36.649Z"
+    },
+    {
+      "id": "3z7YYkTNEpG6FXIuZmfnPg",
+      "name": "É Tudo Meu",
+      "url": "https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 182625,
+      "played_at": "2026-10-02T15:37:37.012Z"
+    },
+    {
+      "id": "5JBCQMPZWOiPIKYnPIxMxv",
+      "name": "Vénus Noir",
+      "url": "https://open.spotify.com/track/5JBCQMPZWOiPIKYnPIxMxv",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 151520,
+      "played_at": "2026-10-02T15:33:40.025Z"
+    },
+    {
+      "id": "7Mu4XSS2eqoUUrWDkJjQJD",
+      "name": "NA TUA CABEÇA",
+      "url": "https://open.spotify.com/track/7Mu4XSS2eqoUUrWDkJjQJD",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 220381,
+      "played_at": "2026-10-02T15:30:36.714Z"
+    },
+    {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473,
+      "played_at": "2026-10-02T15:26:56.306Z"
+    },
     {
       "id": "08dA4l3OcDLn0g0trbLzSV",
       "name": "Sacramento da Comunhão (Ao Vivo)",
@@ -1309,96 +1404,6 @@
       },
       "duration_ms": 261306,
       "played_at": "2026-10-02T05:30:36.448Z"
-    },
-    {
-      "id": "3wUMcPzXcmaeW8QxTdyXQO",
-      "name": "Pretty Girls Make Graves - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO",
-      "artists": [
-        {
-          "id": "3yY2gUcIsjMr8hjo51PoJ8",
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "album": {
-        "name": "The Smiths",
-        "image": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085"
-      },
-      "duration_ms": 223253,
-      "played_at": "2026-10-02T05:26:24.144Z"
-    },
-    {
-      "id": "5doZqVE0PWb3tcHY5eB6B4",
-      "name": "Laputa",
-      "url": "https://open.spotify.com/track/5doZqVE0PWb3tcHY5eB6B4",
-      "artists": [
-        {
-          "id": "4KEHIUSoWCcqrk8AddTE1O",
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "album": {
-        "name": "D>E>A>T>H>M>E>T>A>L",
-        "image": "https://i.scdn.co/image/ab67616d0000b273275137c8860871ca2ef6b542"
-      },
-      "duration_ms": 163544,
-      "played_at": "2026-10-02T05:22:49.948Z"
-    },
-    {
-      "id": "6mSnSuOhgHHohqeBw76jRV",
-      "name": "i was all over her",
-      "url": "https://open.spotify.com/track/6mSnSuOhgHHohqeBw76jRV",
-      "artists": [
-        {
-          "id": "0pg0Zm8FsGAYy5kdHuBnSo",
-          "name": "salvia palth",
-          "url": "https://open.spotify.com/artist/0pg0Zm8FsGAYy5kdHuBnSo"
-        }
-      ],
-      "album": {
-        "name": "melanchole",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734a82bda3507d50ac3e039bb0"
-      },
-      "duration_ms": 161422,
-      "played_at": "2026-10-02T05:20:15.350Z"
-    },
-    {
-      "id": "3J31Ng3dKKJ6sEHDtV9hSp",
-      "name": "No Other Heart",
-      "url": "https://open.spotify.com/track/3J31Ng3dKKJ6sEHDtV9hSp",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "Another One",
-        "image": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2"
-      },
-      "duration_ms": 173117,
-      "played_at": "2026-10-02T05:17:42.953Z"
-    },
-    {
-      "id": "026wpXkLAjImiWOzzcJBHj",
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/026wpXkLAjImiWOzzcJBHj",
-      "artists": [
-        {
-          "id": "5GGJosGMs08YEmKTZJe1fL",
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
-        }
-      ],
-      "album": {
-        "name": "Good Looking",
-        "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3"
-      },
-      "duration_ms": 214800,
-      "played_at": "2026-10-02T05:14:58.836Z"
     }
   ]
 }
