@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T17:19:37.851501+00:00",
+  "updated_at": "2026-10-02T21:44:22.323609+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -495,6 +495,267 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "026wpXkLAjImiWOzzcJBHj",
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/026wpXkLAjImiWOzzcJBHj",
+      "artists": [
+        {
+          "id": "5GGJosGMs08YEmKTZJe1fL",
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "album": {
+        "name": "Good Looking",
+        "image": "https://i.scdn.co/image/ab67616d0000b27310542e1524cbfe41bdb82ad3"
+      },
+      "duration_ms": 214800,
+      "played_at": "2026-10-02T19:37:19.459Z"
+    },
+    {
+      "id": "3qhlB30KknSejmIvZZLjOD",
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+      "artists": [
+        {
+          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "album": {
+        "name": "DECIDE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fddfffec51b4580acae727c1"
+      },
+      "duration_ms": 159245,
+      "played_at": "2026-10-02T19:33:53.649Z"
+    },
+    {
+      "id": "0J04fTkB0VXZXWzsIK8gKn",
+      "name": "Somos Amigas",
+      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "album": {
+        "name": "Epica 2 (Edição Completa)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+      },
+      "duration_ms": 152389,
+      "played_at": "2026-10-02T19:31:23.344Z"
+    },
+    {
+      "id": "6xi41eSOTp4o5N84iIyUs8",
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "TOMA NO CU (Maria Gasolina)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
+      },
+      "duration_ms": 91321,
+      "played_at": "2026-10-02T19:28:59.945Z"
+    },
+    {
+      "id": "5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b"
+      },
+      "duration_ms": 340706,
+      "played_at": "2026-10-02T19:27:37.666Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-10-02T19:22:05.932Z"
+    },
+    {
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "played_at": "2026-10-02T19:17:12.969Z"
+    },
+    {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "played_at": "2026-10-02T19:15:36.508Z"
+    },
+    {
+      "id": "4jiOgEp2ZPjzoUF5DxaOjG",
+      "name": "Training Season (Live from the Royal Albert Hall)",
+      "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "album": {
+        "name": "Dua Lipa - Live from the Royal Albert Hall",
+        "image": "https://i.scdn.co/image/ab67616d0000b27387bcc972503c59ab023130b4"
+      },
+      "duration_ms": 220937,
+      "played_at": "2026-10-02T19:12:13.212Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-10-02T19:08:41.297Z"
+    },
+    {
+      "id": "58yGiA1glEPIeGMoCcRPoB",
+      "name": "Tatuagem do Teu Ex 2",
+      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
+      "artists": [
+        {
+          "id": "36MLP28p1UX0xIRdhZTeUc",
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "id": "7Esv5D6U1qtVOHbXihKgea",
+          "name": "DJ MAVI",
+          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+        },
+        {
+          "id": "2TGtBMeVz0MkIATkn2gHhe",
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        },
+        {
+          "id": "2sQHo73pQF1OTq3lDuQhlO",
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "album": {
+        "name": "Tatuagem do Teu Ex 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
+      },
+      "duration_ms": 133138,
+      "played_at": "2026-10-02T19:03:53.259Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-10-02T19:00:08.534Z"
+    },
     {
       "id": "1WmfMxiWVaKJULwMYI95op",
       "name": "EU NÃO APRENDI A PERDOAR",
@@ -1188,222 +1449,6 @@
       },
       "duration_ms": 176751,
       "played_at": "2026-10-02T06:10:50.971Z"
-    },
-    {
-      "id": "1Mrljv9jmh3LWqA04cLbcN",
-      "name": "Wasted Summers",
-      "url": "https://open.spotify.com/track/1Mrljv9jmh3LWqA04cLbcN",
-      "artists": [
-        {
-          "id": "496w0Fyed8J7IRzn5Ffb6x",
-          "name": "juju<3",
-          "url": "https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x"
-        }
-      ],
-      "album": {
-        "name": "Wasted Summers",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f802261ea80064091b05808b"
-      },
-      "duration_ms": 130384,
-      "played_at": "2026-10-02T06:08:03.238Z"
-    },
-    {
-      "id": "6LUGvXEAK8WxIBYK43uoTb",
-      "name": "Back to the Old House - 2011 Remaster",
-      "url": "https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb",
-      "artists": [
-        {
-          "id": "3yY2gUcIsjMr8hjo51PoJ8",
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "album": {
-        "name": "Louder Than Bombs",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c9b31b01e4d81f8289e49574"
-      },
-      "duration_ms": 186626,
-      "played_at": "2026-10-02T06:06:01.836Z"
-    },
-    {
-      "id": "7qgqB0ib6HqldSDG88abes",
-      "name": "All They Wanted",
-      "url": "https://open.spotify.com/track/7qgqB0ib6HqldSDG88abes",
-      "artists": [
-        {
-          "id": "4KEHIUSoWCcqrk8AddTE1O",
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        }
-      ],
-      "album": {
-        "name": "Ferric Oxide (Demos 1997 - 2001)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737bbb2b543fc640d472d205a8"
-      },
-      "duration_ms": 127875,
-      "played_at": "2026-10-02T06:03:04.242Z"
-    },
-    {
-      "id": "1aLIGsp8hsJSja7fjHcroT",
-      "name": "When Morning Comes",
-      "url": "https://open.spotify.com/track/1aLIGsp8hsJSja7fjHcroT",
-      "artists": [
-        {
-          "id": "1AbJ2cmwK400LSvdvBL5Jc",
-          "name": "Strawberry Guy",
-          "url": "https://open.spotify.com/artist/1AbJ2cmwK400LSvdvBL5Jc"
-        }
-      ],
-      "album": {
-        "name": "Sun Outside My Window",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c8ed155c56e641dad4fcce76"
-      },
-      "duration_ms": 230253,
-      "played_at": "2026-10-02T06:01:05.335Z"
-    },
-    {
-      "id": "4cV9zzKtPtW4i0FhnEwazU",
-      "name": "Each Time You Fall in Love",
-      "url": "https://open.spotify.com/track/4cV9zzKtPtW4i0FhnEwazU",
-      "artists": [
-        {
-          "id": "1QAJqy2dA3ihHBFIHRphZj",
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "album": {
-        "name": "Cigarettes After Sex",
-        "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc"
-      },
-      "duration_ms": 290160,
-      "played_at": "2026-10-02T05:57:24.153Z"
-    },
-    {
-      "id": "3hxIUxnT27p5WcmjGUXNwx",
-      "name": "Shut up My Moms Calling",
-      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx",
-      "artists": [
-        {
-          "id": "35WVTyRnKAoaGExqgktVyb",
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "album": {
-        "name": "Shut up My Moms Calling",
-        "image": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5"
-      },
-      "duration_ms": 164571,
-      "played_at": "2026-10-02T05:52:42.945Z"
-    },
-    {
-      "id": "6QeYSvYqYUsfBzsApbjDHO",
-      "name": "Cigarettes out the Window",
-      "url": "https://open.spotify.com/track/6QeYSvYqYUsfBzsApbjDHO",
-      "artists": [
-        {
-          "id": "0Y6dVaC9DZtPNH4591M42W",
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "album": {
-        "name": "Who Really Cares",
-        "image": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd"
-      },
-      "duration_ms": 198960,
-      "played_at": "2026-10-02T05:50:07.403Z"
-    },
-    {
-      "id": "1ShRHPAiiIrh0arZbSFmx1",
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/1ShRHPAiiIrh0arZbSFmx1",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "CINEMA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b"
-      },
-      "duration_ms": 253213,
-      "played_at": "2026-10-02T05:46:57.436Z"
-    },
-    {
-      "id": "751srcHf5tUqcEa9pRCQwP",
-      "name": "Tek It",
-      "url": "https://open.spotify.com/track/751srcHf5tUqcEa9pRCQwP",
-      "artists": [
-        {
-          "id": "581C5Qwl87TskfBEzuoisu",
-          "name": "Cafuné",
-          "url": "https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu"
-        }
-      ],
-      "album": {
-        "name": "Running",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ecaf001a812bb1ecc6cc482d"
-      },
-      "duration_ms": 191823,
-      "played_at": "2026-10-02T05:42:53.257Z"
-    },
-    {
-      "id": "51NRDcy5WEdfda6HC09QaD",
-      "name": "A Different Age",
-      "url": "https://open.spotify.com/track/51NRDcy5WEdfda6HC09QaD",
-      "artists": [
-        {
-          "id": "0m5FakHKCQdA7UN0PIzMcL",
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "album": {
-        "name": "A Different Age",
-        "image": "https://i.scdn.co/image/ab67616d0000b273df7a61e9fdf9fec7df7bd72a"
-      },
-      "duration_ms": 412418,
-      "played_at": "2026-10-02T05:39:50.458Z"
-    },
-    {
-      "id": "50efMyG2rMRQZ755G5iYMN",
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN",
-      "artists": [
-        {
-          "id": "0qraFJK6boYSp4ZMMX4PzG",
-          "name": "Los Retros",
-          "url": "https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG"
-        }
-      ],
-      "album": {
-        "name": "Friends",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731adec9d1327fa8dffa98cfc8"
-      },
-      "duration_ms": 159533,
-      "played_at": "2026-10-02T05:33:06.964Z"
-    },
-    {
-      "id": "3W4xqKFMKBauuU517t8NIb",
-      "name": "Weak for Your Love",
-      "url": "https://open.spotify.com/track/3W4xqKFMKBauuU517t8NIb",
-      "artists": [
-        {
-          "id": "0oK5D6uPhGu4Jk2dbZfodU",
-          "name": "Thee Sacred Souls",
-          "url": "https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU"
-        }
-      ],
-      "album": {
-        "name": "Thee Sacred Souls",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148"
-      },
-      "duration_ms": 261306,
-      "played_at": "2026-10-02T05:30:36.448Z"
     }
   ]
 }
