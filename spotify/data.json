@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-03T03:29:45.119769+00:00",
+  "updated_at": "2026-10-03T10:59:51.090210+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -280,40 +280,6 @@
       "duration_ms": 521866
     },
     {
-      "id": "7CNB3gJSRb4NEVRe3mwiur",
-      "name": "Sai Solidão",
-      "url": "https://open.spotify.com/track/7CNB3gJSRb4NEVRe3mwiur",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Mágica, Vol. 12",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
-      },
-      "duration_ms": 263026
-    },
-    {
-      "id": "1hL4Ez8As4A4VJBw8X2eVA",
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 149387
-    },
-    {
       "id": "17YVWP3yXLnplHHCOU7RGI",
       "name": "157 CAFAJESTE X 157 DE XXT",
       "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
@@ -339,6 +305,40 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
       },
       "duration_ms": 164571
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387
+    },
+    {
+      "id": "7CNB3gJSRb4NEVRe3mwiur",
+      "name": "Sai Solidão",
+      "url": "https://open.spotify.com/track/7CNB3gJSRb4NEVRe3mwiur",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Mágica, Vol. 12",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
+      },
+      "duration_ms": 263026
     },
     {
       "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
@@ -373,6 +373,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273e29a351729da4d29214e54e2"
       },
       "duration_ms": 334373
+    },
+    {
+      "id": "0WiMJIxYYEex2AqhRqzV3u",
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "This Old Dog",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
+      },
+      "duration_ms": 182306
     },
     {
       "id": "0YrH15XcTh2Kf3re3yubZ5",
@@ -441,23 +458,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273a7883ff2a8ebe2a205dc7e55"
       },
       "duration_ms": 262424
-    },
-    {
-      "id": "0WiMJIxYYEex2AqhRqzV3u",
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "This Old Dog",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
-      },
-      "duration_ms": 182306
     },
     {
       "id": "57wrj5gmY8aZA4YBmqfitc",
