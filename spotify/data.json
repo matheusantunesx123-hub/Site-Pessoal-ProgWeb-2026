@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T16:20:26.581562+00:00",
+  "updated_at": "2026-10-04T20:47:35.848117+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,34 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "played_at": "2026-10-04T18:12:46.095Z"
+    },
     {
       "id": "4qsOrxBv09HhNSpsgMRXdC",
       "name": "Esqueça-Me Se For Capaz",
@@ -1581,24 +1609,6 @@
       },
       "duration_ms": 264427,
       "played_at": "2026-10-02T15:48:36.649Z"
-    },
-    {
-      "id": "3z7YYkTNEpG6FXIuZmfnPg",
-      "name": "É Tudo Meu",
-      "url": "https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 182625,
-      "played_at": "2026-10-02T15:37:37.012Z"
     }
   ]
 }
