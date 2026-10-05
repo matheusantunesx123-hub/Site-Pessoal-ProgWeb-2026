@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T20:47:35.848117+00:00",
+  "updated_at": "2026-10-05T03:43:06.680794+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,136 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3GYlZ7tbxLOxe6ewMNVTkw",
+      "name": "TV",
+      "url": "https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "name": "Guitar Songs",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318"
+      },
+      "duration_ms": 281380,
+      "played_at": "2026-10-04T21:31:56.278Z"
+    },
+    {
+      "id": "37u5vAbbJID55cn5fUhs74",
+      "name": "Ela Mamou Versão Agressiva",
+      "url": "https://open.spotify.com/track/37u5vAbbJID55cn5fUhs74",
+      "artists": [
+        {
+          "id": "2lQhWQaSLJiJrhIcf7ncf0",
+          "name": "MC Gedai",
+          "url": "https://open.spotify.com/artist/2lQhWQaSLJiJrhIcf7ncf0"
+        },
+        {
+          "id": "22RXQj1gd5zEbcRjdxiJbu",
+          "name": "DJ Arana",
+          "url": "https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu"
+        }
+      ],
+      "album": {
+        "name": "Ela Mamou Versão Agressiva",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f226ae94a8475a655c823c89"
+      },
+      "duration_ms": 154896,
+      "played_at": "2026-10-04T21:18:53.556Z"
+    },
+    {
+      "id": "3IEH3fG1FsbzU5jWNaTPRS",
+      "name": "Sequência da Botação",
+      "url": "https://open.spotify.com/track/3IEH3fG1FsbzU5jWNaTPRS",
+      "artists": [
+        {
+          "id": "5YumCDj6lKjjgfUUz4Bm5K",
+          "name": "DJ Ryder",
+          "url": "https://open.spotify.com/artist/5YumCDj6lKjjgfUUz4Bm5K"
+        },
+        {
+          "id": "1KrZfBw5jysX8sRY1n48Az",
+          "name": "Dj Dudu Coupper",
+          "url": "https://open.spotify.com/artist/1KrZfBw5jysX8sRY1n48Az"
+        },
+        {
+          "id": "0f1IECbrVV952unZkzrsg2",
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "id": "7lpjzX5n0ka7cGEBi6xsKq",
+          "name": "DJ Victor Falcão",
+          "url": "https://open.spotify.com/artist/7lpjzX5n0ka7cGEBi6xsKq"
+        }
+      ],
+      "album": {
+        "name": "Sequência da Botação",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732671bdaa04acc836d7936019"
+      },
+      "duration_ms": 145777,
+      "played_at": "2026-10-04T21:15:54.441Z"
+    },
+    {
+      "id": "2pRfTAHIsEJTmOYQogZBic",
+      "name": "Vai deitar sem Sono",
+      "url": "https://open.spotify.com/track/2pRfTAHIsEJTmOYQogZBic",
+      "artists": [
+        {
+          "id": "1rXWQkRMKVJhZOsKI2Xcjq",
+          "name": "Mc Souza",
+          "url": "https://open.spotify.com/artist/1rXWQkRMKVJhZOsKI2Xcjq"
+        }
+      ],
+      "album": {
+        "name": "Vai deitar sem Sono",
+        "image": "https://i.scdn.co/image/ab67616d0000b273be95a50583721af46beaaed5"
+      },
+      "duration_ms": 129230,
+      "played_at": "2026-10-04T21:10:42.575Z"
+    },
+    {
+      "id": "3HiBLTcFTY58Csk7BCkIGO",
+      "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+      "url": "https://open.spotify.com/track/3HiBLTcFTY58Csk7BCkIGO",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        },
+        {
+          "id": "0J4DHkFbIhACgOkPFvWl9Y",
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "5W0yWqP7U3b2Y89gSgR9OD",
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI - KATY DA VOZ E AS ABUSADAS Remix",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f4becaa242c2600d970637e6"
+      },
+      "duration_ms": 209142,
+      "played_at": "2026-10-04T21:08:03.871Z"
+    },
     {
       "id": "17YVWP3yXLnplHHCOU7RGI",
       "name": "157 CAFAJESTE X 157 DE XXT",
@@ -1499,116 +1629,6 @@
       },
       "duration_ms": 212289,
       "played_at": "2026-10-02T19:15:36.508Z"
-    },
-    {
-      "id": "4jiOgEp2ZPjzoUF5DxaOjG",
-      "name": "Training Season (Live from the Royal Albert Hall)",
-      "url": "https://open.spotify.com/track/4jiOgEp2ZPjzoUF5DxaOjG",
-      "artists": [
-        {
-          "id": "6M2wZ9GZgrQXHCFfjv46we",
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "album": {
-        "name": "Dua Lipa - Live from the Royal Albert Hall",
-        "image": "https://i.scdn.co/image/ab67616d0000b27387bcc972503c59ab023130b4"
-      },
-      "duration_ms": 220937,
-      "played_at": "2026-10-02T19:12:13.212Z"
-    },
-    {
-      "id": "55pBIZO1cqoldeqpp5WR7H",
-      "name": "the cure",
-      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "you seem pretty sad for a girl so in love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
-      },
-      "duration_ms": 297090,
-      "played_at": "2026-10-02T19:08:41.297Z"
-    },
-    {
-      "id": "58yGiA1glEPIeGMoCcRPoB",
-      "name": "Tatuagem do Teu Ex 2",
-      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
-      "artists": [
-        {
-          "id": "36MLP28p1UX0xIRdhZTeUc",
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        },
-        {
-          "id": "7Esv5D6U1qtVOHbXihKgea",
-          "name": "DJ MAVI",
-          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
-        },
-        {
-          "id": "2TGtBMeVz0MkIATkn2gHhe",
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
-        },
-        {
-          "id": "2sQHo73pQF1OTq3lDuQhlO",
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "id": "18d98atAsxwOOhHGF9Mhxb",
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        }
-      ],
-      "album": {
-        "name": "Tatuagem do Teu Ex 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
-      },
-      "duration_ms": 133138,
-      "played_at": "2026-10-02T19:03:53.259Z"
-    },
-    {
-      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
-      "name": "Profano",
-      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
-      },
-      "duration_ms": 165333,
-      "played_at": "2026-10-02T19:00:08.534Z"
-    },
-    {
-      "id": "1WmfMxiWVaKJULwMYI95op",
-      "name": "EU NÃO APRENDI A PERDOAR",
-      "url": "https://open.spotify.com/track/1WmfMxiWVaKJULwMYI95op",
-      "artists": [
-        {
-          "id": "2oyiy3RLv9ifDElGUBHqL3",
-          "name": "CATTO",
-          "url": "https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3"
-        }
-      ],
-      "album": {
-        "name": "CAMINHOS SELVAGENS",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732f5b04e6b5a38ab8a293e17a"
-      },
-      "duration_ms": 264427,
-      "played_at": "2026-10-02T15:48:36.649Z"
     }
   ]
 }
