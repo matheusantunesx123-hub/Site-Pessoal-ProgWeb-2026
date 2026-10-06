@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T23:38:01.620999+00:00",
+  "updated_at": "2026-10-06T04:30:28.831130+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -392,6 +392,28 @@
       "duration_ms": 182306
     },
     {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473
+    },
+    {
       "id": "0YrH15XcTh2Kf3re3yubZ5",
       "name": "Metade Da Metade",
       "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
@@ -460,6 +482,25 @@
       "duration_ms": 262424
     },
     {
+      "id": "57wrj5gmY8aZA4YBmqfitc",
+      "name": "Teto de Vidro",
+      "url": "https://open.spotify.com/track/57wrj5gmY8aZA4YBmqfitc",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Admirável Chip Novo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
+      },
+      "duration_ms": 212720
+    }
+  ],
+  "recently_played": [
+    {
       "id": "1r5xSeHHrnnAPlZD8s03N1",
       "name": "Codinome Exagerado",
       "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
@@ -479,27 +520,9 @@
         "name": "Codinome Exagerado",
         "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
       },
-      "duration_ms": 189473
+      "duration_ms": 189473,
+      "played_at": "2026-10-05T22:59:44.530Z"
     },
-    {
-      "id": "57wrj5gmY8aZA4YBmqfitc",
-      "name": "Teto de Vidro",
-      "url": "https://open.spotify.com/track/57wrj5gmY8aZA4YBmqfitc",
-      "artists": [
-        {
-          "id": "2dmQ0vMD3THLMcz7DsvfaT",
-          "name": "Pitty",
-          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
-        }
-      ],
-      "album": {
-        "name": "Admirável Chip Novo",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
-      },
-      "duration_ms": 212720
-    }
-  ],
-  "recently_played": [
     {
       "id": "3fzWEhohdeEF6Z9aBrBCno",
       "name": "KAWASAKI",
@@ -1581,34 +1604,6 @@
       },
       "duration_ms": 155782,
       "played_at": "2026-10-02T23:03:45.227Z"
-    },
-    {
-      "id": "17YVWP3yXLnplHHCOU7RGI",
-      "name": "157 CAFAJESTE X 157 DE XXT",
-      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
-      "artists": [
-        {
-          "id": "4OsPs4eirSwu3F4jB1bL0B",
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        },
-        {
-          "id": "4GeitETxoipNor9MyEEbYz",
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        },
-        {
-          "id": "7dUNKhz7HdxExteqcREGLi",
-          "name": "Mc Denny",
-          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
-        }
-      ],
-      "album": {
-        "name": "157 CAFAJESTE X 157 DE XXT",
-        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
-      },
-      "duration_ms": 164571,
-      "played_at": "2026-10-02T23:01:18.409Z"
     }
   ]
 }
