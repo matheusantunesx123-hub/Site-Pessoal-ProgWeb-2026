@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-09T12:28:17.152400+00:00",
+  "updated_at": "2026-10-09T22:09:13.836051+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -86,22 +86,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
     },
     {
-      "id": "3yY2gUcIsjMr8hjo51PoJ8",
-      "name": "The Smiths",
-      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
-      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
-    },
-    {
       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
       "name": "Billie Eilish",
       "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
     },
     {
-      "id": "6MK5Z7OjpkcN6OFe6nh8pi",
-      "name": "DJ EXE",
-      "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb4b746a0246026f8402979ed3"
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "name": "The Smiths",
+      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
     },
     {
       "id": "7gW0r5CkdEUMm42w9XpyZO",
@@ -110,16 +104,22 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a"
     },
     {
+      "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+      "name": "DJ EXE",
+      "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4b746a0246026f8402979ed3"
+    },
+    {
+      "id": "2sSGPbdZJkaSE2AbcGOACx",
+      "name": "The Marías",
+      "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76"
+    },
+    {
       "id": "1QAJqy2dA3ihHBFIHRphZj",
       "name": "Cigarettes After Sex",
       "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj",
       "image": "https://i.scdn.co/image/ab6761610000e5eb2e08fd554de35c3ef1db7fd9"
-    },
-    {
-      "id": "0e86yPdC41PGRkLp2Q1Bph",
-      "name": "Mother Mother",
-      "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebb87f3a2808a2660deca9a3b7"
     }
   ],
   "top_tracks": [
@@ -501,6 +501,778 @@
   ],
   "recently_played": [
     {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f5c72a62143a51a3637425"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-10-09T22:04:31.683Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f5c72a62143a51a3637425"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-10-09T22:01:19.834Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-10-09T17:58:59.860Z"
+    },
+    {
+      "id": "0oKdsMglh1dTsX4nrkURMX",
+      "name": "Rua do Ouro",
+      "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX",
+      "artists": [
+        {
+          "id": "2Zs8oC4IDwNcanf2QU8jkM",
+          "name": "Dj Brenno Paixão",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+        },
+        {
+          "id": "0xXEI1dXDaCOmkIPNYtPWF",
+          "name": "Mac Júlia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "id": "60ArvoSDGNI2WPhezAqz6u",
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "id": "5O2vMwEiTxszw0kbhYKVAU",
+          "name": "SAM SAM",
+          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
+        }
+      ],
+      "album": {
+        "name": "Rua do Ouro",
+        "image": "https://i.scdn.co/image/ab67616d0000b27383c9c9bef3b376b176c575ba"
+      },
+      "duration_ms": 136615,
+      "played_at": "2026-10-09T17:56:20.874Z"
+    },
+    {
+      "id": "1SJhYNxOZSItqrB6upWyE6",
+      "name": "Here Comes a Thought (feat. Estelle & AJ Michalka)",
+      "url": "https://open.spotify.com/track/1SJhYNxOZSItqrB6upWyE6",
+      "artists": [
+        {
+          "id": "4rF7c8zpCKzuSXohs2HIpA",
+          "name": "Steven Universe",
+          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
+        },
+        {
+          "id": "5T0MSzX9RC5NA6gAI6irSn",
+          "name": "Estelle",
+          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
+        },
+        {
+          "id": "30HtguQmog7sTEvDJowVEC",
+          "name": "AJ Michalka",
+          "url": "https://open.spotify.com/artist/30HtguQmog7sTEvDJowVEC"
+        }
+      ],
+      "album": {
+        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
+      },
+      "duration_ms": 202340,
+      "played_at": "2026-10-09T17:52:56.450Z"
+    },
+    {
+      "id": "5EMdMjFDucmNsD80Y0mjEI",
+      "name": "Numa Ilha",
+      "url": "https://open.spotify.com/track/5EMdMjFDucmNsD80Y0mjEI",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "Coisas Naturais",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737ae4d78852e406eff2f4eef6"
+      },
+      "duration_ms": 249096,
+      "played_at": "2026-10-09T16:18:02.769Z"
+    },
+    {
+      "id": "2SsY5k7UWFqgye3PUMG3Oq",
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
+      "artists": [
+        {
+          "id": "7GlBOeep6PqTfFi59PTUUN",
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "album": {
+        "name": "The Subway",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442"
+      },
+      "duration_ms": 252276,
+      "played_at": "2026-10-09T16:14:02.221Z"
+    },
+    {
+      "id": "4LgBunVebt8GnDs84kyDFy",
+      "name": "A Ari Senta a Pipokinha Chupa",
+      "url": "https://open.spotify.com/track/4LgBunVebt8GnDs84kyDFy",
+      "artists": [
+        {
+          "id": "1tJcpyjn4f1vbRJW1E7P3b",
+          "name": "Ari Falcão",
+          "url": "https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        },
+        {
+          "id": "1JYiyu6QtmtwjdFz3TEFTe",
+          "name": "MC BN",
+          "url": "https://open.spotify.com/artist/1JYiyu6QtmtwjdFz3TEFTe"
+        },
+        {
+          "id": "4tG1eaMCLhPsjN5mmrd9LZ",
+          "name": "DJ Kley",
+          "url": "https://open.spotify.com/artist/4tG1eaMCLhPsjN5mmrd9LZ"
+        }
+      ],
+      "album": {
+        "name": "A Ari Senta a Pipokinha Chupa",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738034d02e78cc021284bd186b"
+      },
+      "duration_ms": 125538,
+      "played_at": "2026-10-09T16:09:43.508Z"
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "played_at": "2026-10-09T16:07:30.142Z"
+    },
+    {
+      "id": "40UYT6cpbiI3yVOhdaHknT",
+      "name": "Ela é Profissional",
+      "url": "https://open.spotify.com/track/40UYT6cpbiI3yVOhdaHknT",
+      "artists": [
+        {
+          "id": "6ln5KMY2ugao3BVvJgzhq3",
+          "name": "GP DA ZL",
+          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
+        },
+        {
+          "id": "34giN3qeTOdgDSJIdtIMdm",
+          "name": "Mc Jhey",
+          "url": "https://open.spotify.com/artist/34giN3qeTOdgDSJIdtIMdm"
+        }
+      ],
+      "album": {
+        "name": "Mixtape Underground",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e33fe395616d5b5a3c61cd44"
+      },
+      "duration_ms": 136624,
+      "played_at": "2026-10-09T16:03:48.260Z"
+    },
+    {
+      "id": "4T8ox558vnY7tCdWvdOhan",
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan",
+      "artists": [
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Batidão Tropical Vol. 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273eb3be2aa722f8170d5b8c80e"
+      },
+      "duration_ms": 144175,
+      "played_at": "2026-10-09T16:01:23.263Z"
+    },
+    {
+      "id": "2KP3zqq9MQarh2WwsuonoM",
+      "name": "Menino Bonito",
+      "url": "https://open.spotify.com/track/2KP3zqq9MQarh2WwsuonoM",
+      "artists": [
+        {
+          "id": "7dnT2FUXhjirperXaH22IJ",
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "album": {
+        "name": "Atrás Do Porto Tem Uma Cidade",
+        "image": "https://i.scdn.co/image/ab67616d0000b273eeeb28cac7fe7e8238679064"
+      },
+      "duration_ms": 166333,
+      "played_at": "2026-10-09T15:54:00.494Z"
+    },
+    {
+      "id": "5exEU6LbxN4T4sY1nV5NfV",
+      "name": "angel",
+      "url": "https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV",
+      "artists": [
+        {
+          "id": "1U1el3k54VvEUzo3ybLPlM",
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "album": {
+        "name": "TO FEEL ALIVE EP",
+        "image": "https://i.scdn.co/image/ab67616d0000b27342480269d0ca62d5d6a99fe6"
+      },
+      "duration_ms": 143225,
+      "played_at": "2026-10-09T15:51:14.016Z"
+    },
+    {
+      "id": "3vTQ939Tlk6CXYtQgMOFUR",
+      "name": "Amour plastique",
+      "url": "https://open.spotify.com/track/3vTQ939Tlk6CXYtQgMOFUR",
+      "artists": [
+        {
+          "id": "3rp4f58JlRHkk8hpdLCer1",
+          "name": "Videoclub",
+          "url": "https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1"
+        },
+        {
+          "id": "4ueh4hmRvt62k4BgP8dIS0",
+          "name": "Adèle Castillon",
+          "url": "https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0"
+        },
+        {
+          "id": "3bFokK6zCab3bPwSjktEVF",
+          "name": "Mattyeux",
+          "url": "https://open.spotify.com/artist/3bFokK6zCab3bPwSjktEVF"
+        }
+      ],
+      "album": {
+        "name": "Amour plastique",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c8e69e989be7f24de7f6e246"
+      },
+      "duration_ms": 227026,
+      "played_at": "2026-10-09T15:46:01.950Z"
+    },
+    {
+      "id": "55d7fAJmM0R2TDfuHWPwnc",
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/55d7fAJmM0R2TDfuHWPwnc",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 259519,
+      "played_at": "2026-10-09T15:41:45.033Z"
+    },
+    {
+      "id": "55d7fAJmM0R2TDfuHWPwnc",
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/55d7fAJmM0R2TDfuHWPwnc",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 259519,
+      "played_at": "2026-10-09T15:29:28.815Z"
+    },
+    {
+      "id": "1T9yLjCFIh5IcE2NXjNPjd",
+      "name": "Idiota Raiz (Deixa Ir)",
+      "url": "https://open.spotify.com/track/1T9yLjCFIh5IcE2NXjNPjd",
+      "artists": [
+        {
+          "id": "3oDfBqnWBkgMSag02YYXHG",
+          "name": "Joyce Alane",
+          "url": "https://open.spotify.com/artist/3oDfBqnWBkgMSag02YYXHG"
+        },
+        {
+          "id": "4JNo6Q5KdcRf1vtSX9mB0S",
+          "name": "João Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "album": {
+        "name": "Idiota Raiz (Deixa Ir)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273736ca1ef7935d87749d8f244"
+      },
+      "duration_ms": 154137,
+      "played_at": "2026-10-09T15:19:54.384Z"
+    },
+    {
+      "id": "77Q89ukOsI7eucDvkrldsa",
+      "name": "ligações de alma",
+      "url": "https://open.spotify.com/track/77Q89ukOsI7eucDvkrldsa",
+      "artists": [
+        {
+          "id": "5dYdZmGyv2UTIN1XMe1drN",
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        },
+        {
+          "id": "78nr1pVnDR7qZH6QbVMYZf",
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+        }
+      ],
+      "album": {
+        "name": "REVERSA [in]ato",
+        "image": "https://i.scdn.co/image/ab67616d0000b27354eea6c8e6ef5cfe7f96462d"
+      },
+      "duration_ms": 179725,
+      "played_at": "2026-10-09T15:13:00.466Z"
+    },
+    {
+      "id": "45HrnWjiqGgxg1woOUtt2d",
+      "name": "Etiópia",
+      "url": "https://open.spotify.com/track/45HrnWjiqGgxg1woOUtt2d",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 214730,
+      "played_at": "2026-10-09T15:08:05.018Z"
+    },
+    {
+      "id": "45HrnWjiqGgxg1woOUtt2d",
+      "name": "Etiópia",
+      "url": "https://open.spotify.com/track/45HrnWjiqGgxg1woOUtt2d",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 214730,
+      "played_at": "2026-10-09T15:07:45.123Z"
+    },
+    {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473,
+      "played_at": "2026-10-09T15:01:51.061Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-10-09T14:58:26.155Z"
+    },
+    {
+      "id": "1RmXibCbfLIVrN8ZRdoYbW",
+      "name": "Foi Mal",
+      "url": "https://open.spotify.com/track/1RmXibCbfLIVrN8ZRdoYbW",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165208,
+      "played_at": "2026-10-09T14:50:23.060Z"
+    },
+    {
+      "id": "1c6olJlcemdO9s3NZzFB8t",
+      "name": "INVENTEI O SEU JEITO DE AMAR",
+      "url": "https://open.spotify.com/track/1c6olJlcemdO9s3NZzFB8t",
+      "artists": [
+        {
+          "id": "5Znx4PG5UsUitigaJnmZX3",
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "album": {
+        "name": "INVENTEI O SEU JEITO DE AMAR",
+        "image": "https://i.scdn.co/image/ab67616d0000b27374726482ae1d12c25137dfb8"
+      },
+      "duration_ms": 155660,
+      "played_at": "2026-10-09T14:45:03.768Z"
+    },
+    {
+      "id": "2h4EUH2kBqjkGvv2sJ5MyP",
+      "name": "Mande um Sinal",
+      "url": "https://open.spotify.com/track/2h4EUH2kBqjkGvv2sJ5MyP",
+      "artists": [
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "Vício Inerente",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731ef5f68cf198dee35687007f"
+      },
+      "duration_ms": 279849,
+      "played_at": "2026-10-09T14:42:14.855Z"
+    },
+    {
+      "id": "7L1FuZqKXSKnpiBmyYt96B",
+      "name": "NiGHT MARé",
+      "url": "https://open.spotify.com/track/7L1FuZqKXSKnpiBmyYt96B",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 167774,
+      "played_at": "2026-10-09T14:36:41.618Z"
+    },
+    {
+      "id": "2J0Nuqw3GbSPRRrTO7P6V8",
+      "name": "QUE LOUCURA",
+      "url": "https://open.spotify.com/track/2J0Nuqw3GbSPRRrTO7P6V8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "QUE LOUCURA",
+        "image": "https://i.scdn.co/image/ab67616d0000b27349248c0bd4b98457fce00a1a"
+      },
+      "duration_ms": 93883,
+      "played_at": "2026-10-09T14:32:40.211Z"
+    },
+    {
+      "id": "58yGiA1glEPIeGMoCcRPoB",
+      "name": "Tatuagem do Teu Ex 2",
+      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
+      "artists": [
+        {
+          "id": "36MLP28p1UX0xIRdhZTeUc",
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "id": "7Esv5D6U1qtVOHbXihKgea",
+          "name": "DJ MAVI",
+          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+        },
+        {
+          "id": "2TGtBMeVz0MkIATkn2gHhe",
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        },
+        {
+          "id": "2sQHo73pQF1OTq3lDuQhlO",
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "album": {
+        "name": "Tatuagem do Teu Ex 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
+      },
+      "duration_ms": 133138,
+      "played_at": "2026-10-09T13:52:55.507Z"
+    },
+    {
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "played_at": "2026-10-09T13:50:51.395Z"
+    },
+    {
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "played_at": "2026-10-09T13:46:03.317Z"
+    },
+    {
+      "id": "3qhlB30KknSejmIvZZLjOD",
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+      "artists": [
+        {
+          "id": "5p9HO3XC5P3BLxJs5Mtrhm",
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "album": {
+        "name": "DECIDE",
+        "image": "https://i.scdn.co/image/ab67616d0000b273987466cc3363ea26094ca3c4"
+      },
+      "duration_ms": 159245,
+      "played_at": "2026-10-09T13:42:40.017Z"
+    },
+    {
+      "id": "6xi41eSOTp4o5N84iIyUs8",
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "TOMA NO CU (Maria Gasolina)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
+      },
+      "duration_ms": 91321,
+      "played_at": "2026-10-09T13:40:09.793Z"
+    },
+    {
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f5c72a62143a51a3637425"
+      },
+      "duration_ms": 148921,
+      "played_at": "2026-10-09T13:38:47.476Z"
+    },
+    {
+      "id": "6BjDS1tNSBjposp5j9a3g4",
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4",
+      "artists": [
+        {
+          "id": "56OjNTX2bkrdGcB0staUOV",
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+        }
+      ],
+      "album": {
+        "name": "Helios",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732c025e1e5585b4bdcd0b303f"
+      },
+      "duration_ms": 224520,
+      "played_at": "2026-10-09T13:29:35.967Z"
+    },
+    {
       "id": "40UYT6cpbiI3yVOhdaHknT",
       "name": "Ela é Profissional",
       "url": "https://open.spotify.com/track/40UYT6cpbiI3yVOhdaHknT",
@@ -817,628 +1589,6 @@
       },
       "duration_ms": 185522,
       "played_at": "2026-10-09T08:12:55.990Z"
-    },
-    {
-      "id": "7iqQz931tn59mK6IZ3knRx",
-      "name": "Dealer",
-      "url": "https://open.spotify.com/track/7iqQz931tn59mK6IZ3knRx",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Blue Banisters",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736946deb6f548e464b385ee0e"
-      },
-      "duration_ms": 274293,
-      "played_at": "2026-10-09T08:09:59.484Z"
-    },
-    {
-      "id": "4raL05JS5aNmXwClc2ATA8",
-      "name": "Fog as a Bullet",
-      "url": "https://open.spotify.com/track/4raL05JS5aNmXwClc2ATA8",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "CINEMA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273657d6776f64aa731c8d1748b"
-      },
-      "duration_ms": 177013,
-      "played_at": "2026-10-09T08:05:34.234Z"
-    },
-    {
-      "id": "5e0b9LgOfi3aJSKXFcOWRe",
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe",
-      "artists": [
-        {
-          "id": "1EmdfupUQDpXOcb4Nj2mBH",
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "album": {
-        "name": "Beanie",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739d181176cafa856a3c8b5537"
-      },
-      "duration_ms": 132160,
-      "played_at": "2026-10-09T08:02:46.225Z"
-    },
-    {
-      "id": "1myZ6GQewhAzMH2dKtKSWK",
-      "name": "Dance With Me",
-      "url": "https://open.spotify.com/track/1myZ6GQewhAzMH2dKtKSWK",
-      "artists": [
-        {
-          "id": "0du5cEVh5yTK9QJze8zA0C",
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "album": {
-        "name": "The Romantic",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395"
-      },
-      "duration_ms": 219287,
-      "played_at": "2026-10-09T08:00:43.033Z"
-    },
-    {
-      "id": "0NLm9bQG7ikL5k9x9TtYT7",
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/0NLm9bQG7ikL5k9x9TtYT7",
-      "artists": [
-        {
-          "id": "5y8tKLUfMvliMe8IKamR32",
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "album": {
-        "name": "Petals to Thorns",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e5ff1941799cd30cb2aa072b"
-      },
-      "duration_ms": 242484,
-      "played_at": "2026-10-09T07:57:12.777Z"
-    },
-    {
-      "id": "0JIMT9gzLIIz0esKLyjbKf",
-      "name": "Telephones",
-      "url": "https://open.spotify.com/track/0JIMT9gzLIIz0esKLyjbKf",
-      "artists": [
-        {
-          "id": "0U7iI0Dk4Ojvi17nZboNO4",
-          "name": "Vacations",
-          "url": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
-        }
-      ],
-      "album": {
-        "name": "Changes",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732eb4d117b70ea7ac2c24e316"
-      },
-      "duration_ms": 212432,
-      "played_at": "2026-10-09T07:53:19.270Z"
-    },
-    {
-      "id": "2mdEsXPu8ZmkHRRtAdC09e",
-      "name": "Cinnamon Girl",
-      "url": "https://open.spotify.com/track/2mdEsXPu8ZmkHRRtAdC09e",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Norman Fucking Rockwell!",
-        "image": "https://i.scdn.co/image/ab67616d0000b273879e9318cb9f4e05ee552ac9"
-      },
-      "duration_ms": 300683,
-      "played_at": "2026-10-09T07:49:55.829Z"
-    },
-    {
-      "id": "3vkCueOmm7xQDoJ17W1Pm3",
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3",
-      "artists": [
-        {
-          "id": "2uYWxilOVlUdk4oV9DvwqK",
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334f21d3047d85440dfa37f10"
-      },
-      "duration_ms": 137773,
-      "played_at": "2026-10-09T07:45:04.183Z"
-    },
-    {
-      "id": "4E0P1xs3JNmsNr5c5nFTZJ",
-      "name": "Back To Me",
-      "url": "https://open.spotify.com/track/4E0P1xs3JNmsNr5c5nFTZJ",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "Back To Me",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a66ab2cbaebcc84ddd45a078"
-      },
-      "duration_ms": 214800,
-      "played_at": "2026-10-09T07:42:55.418Z"
-    },
-    {
-      "id": "7wTqEW5nrMhvyEhEyTnOMd",
-      "name": "The Cut That Always Bleeds",
-      "url": "https://open.spotify.com/track/7wTqEW5nrMhvyEhEyTnOMd",
-      "artists": [
-        {
-          "id": "4Uc8Dsxct0oMqx0P6i60ea",
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "album": {
-        "name": "Kid Krow",
-        "image": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43"
-      },
-      "duration_ms": 231920,
-      "played_at": "2026-10-09T07:39:29.582Z"
-    },
-    {
-      "id": "0WbMK4wrZ1wFSty9F7FCgu",
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
-      "artists": [
-        {
-          "id": "7GlBOeep6PqTfFi59PTUUN",
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "album": {
-        "name": "Good Luck, Babe!",
-        "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7"
-      },
-      "duration_ms": 218423,
-      "played_at": "2026-10-09T07:35:46.732Z"
-    },
-    {
-      "id": "6JfcUgZqHbb20KTfHayS9j",
-      "name": "hold me, never let go",
-      "url": "https://open.spotify.com/track/6JfcUgZqHbb20KTfHayS9j",
-      "artists": [
-        {
-          "id": "30gZlVVUt3gwNXlLorZjuq",
-          "name": "Rocco",
-          "url": "https://open.spotify.com/artist/30gZlVVUt3gwNXlLorZjuq"
-        }
-      ],
-      "album": {
-        "name": "Her Favorite Flowers",
-        "image": "https://i.scdn.co/image/ab67616d0000b27392051f8cf0590c1b9814fc1e"
-      },
-      "duration_ms": 193242,
-      "played_at": "2026-10-09T07:32:17.331Z"
-    },
-    {
-      "id": "6GGtHZgBycCgGBUhZo81xe",
-      "name": "Say Yes To Heaven",
-      "url": "https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Say Yes To Heaven",
-        "image": "https://i.scdn.co/image/ab67616d0000b273aa27708d07f49c82ff0d0dae"
-      },
-      "duration_ms": 209156,
-      "played_at": "2026-10-09T07:29:13.041Z"
-    },
-    {
-      "id": "5CZ40GBx1sQ9agT82CLQCT",
-      "name": "traitor",
-      "url": "https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "SOUR",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-      },
-      "duration_ms": 229226,
-      "played_at": "2026-10-09T07:25:52.906Z"
-    },
-    {
-      "id": "0InIeZW4P6VO7dUGRM4AKH",
-      "name": "Sienna",
-      "url": "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "Submarine",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
-      },
-      "duration_ms": 224840,
-      "played_at": "2026-10-09T07:22:12.633Z"
-    },
-    {
-      "id": "3QaPy1KgI7nu9FJEQUgn6h",
-      "name": "WILDFLOWER",
-      "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
-      "artists": [
-        {
-          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "album": {
-        "name": "HIT ME HARD AND SOFT",
-        "image": "https://i.scdn.co/image/ab67616d0000b27371d62ea7ea8a5be92d3c1f62"
-      },
-      "duration_ms": 261466,
-      "played_at": "2026-10-09T07:18:36.834Z"
-    },
-    {
-      "id": "135ArLV1euyyeegU9D8HVR",
-      "name": "Army Dreamers - 2018 Remaster",
-      "url": "https://open.spotify.com/track/135ArLV1euyyeegU9D8HVR",
-      "artists": [
-        {
-          "id": "1aSxMhuvixZ8h9dK9jIDwL",
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273de03c19a5b918e22a0f275d8"
-      },
-      "duration_ms": 179160,
-      "played_at": "2026-10-09T07:14:24.339Z"
-    },
-    {
-      "id": "2PWTZV5znjLtZC5T1EVJvL",
-      "name": "this is what falling in love feels like",
-      "url": "https://open.spotify.com/track/2PWTZV5znjLtZC5T1EVJvL",
-      "artists": [
-        {
-          "id": "164Uj4eKjl6zTBKfJLFKKK",
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "album": {
-        "name": "this is what ____ feels like (Vol. 1-4)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c2504e80ba2f258697ab2954"
-      },
-      "duration_ms": 120308,
-      "played_at": "2026-10-09T07:11:34.202Z"
-    },
-    {
-      "id": "1NZs6n6hl8UuMaX0UC0YTz",
-      "name": "Brooklyn Baby",
-      "url": "https://open.spotify.com/track/1NZs6n6hl8UuMaX0UC0YTz",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f"
-      },
-      "duration_ms": 351640,
-      "played_at": "2026-10-09T07:09:42.910Z"
-    },
-    {
-      "id": "4gMAabgdlxMotsFIucQA0M",
-      "name": "Love Like You (feat. Rebecca Sugar) - Reprise",
-      "url": "https://open.spotify.com/track/4gMAabgdlxMotsFIucQA0M",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "6Pd7FRVtwNxFsQIkDMpLGz",
-          "name": "Rebecca Sugar",
-          "url": "https://open.spotify.com/artist/6Pd7FRVtwNxFsQIkDMpLGz"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe, Vol. 2 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734d74d3e00833d61d2455e448"
-      },
-      "duration_ms": 191334,
-      "played_at": "2026-10-09T07:04:00.245Z"
-    },
-    {
-      "id": "3siwsiaEoU4Kuuc9WKMUy5",
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "Submarine",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
-      },
-      "duration_ms": 236906,
-      "played_at": "2026-10-09T07:00:57.943Z"
-    },
-    {
-      "id": "2XUx8PCXGpP1XhZJMGiUol",
-      "name": "Chest Pain (I Love)",
-      "url": "https://open.spotify.com/track/2XUx8PCXGpP1XhZJMGiUol",
-      "artists": [
-        {
-          "id": "7eKkW1zo5uzW8kUntiiBvz",
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "album": {
-        "name": "Malcolm Todd",
-        "image": "https://i.scdn.co/image/ab67616d0000b27387607b2c8f5f52f1f057be0d"
-      },
-      "duration_ms": 200826,
-      "played_at": "2026-10-09T06:57:10.041Z"
-    },
-    {
-      "id": "21IYMdzTrzSe191Cy5eMap",
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
-      "artists": [
-        {
-          "id": "1iCnM8foFssWlPRLfAbIwo",
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "album": {
-        "name": "At The Beach, In Every Life",
-        "image": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1"
-      },
-      "duration_ms": 211978,
-      "played_at": "2026-10-09T06:53:58.195Z"
-    },
-    {
-      "id": "1Snko28yJOihcRVXs9dAo9",
-      "name": "Chamber Of Reflection",
-      "url": "https://open.spotify.com/track/1Snko28yJOihcRVXs9dAo9",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "Salad Days",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738b221f2ccf777ae0d4b0db50"
-      },
-      "duration_ms": 231723,
-      "played_at": "2026-10-09T06:50:35.256Z"
-    },
-    {
-      "id": "6TBJkXHPhu3EsMk1bshwuI",
-      "name": "ONLY",
-      "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI",
-      "artists": [
-        {
-          "id": "7cVZApDoQZpS447nHTsNqu",
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "album": {
-        "name": "4 ONLY",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d5d11b6ac4242aaa41c8be69"
-      },
-      "duration_ms": 240906,
-      "played_at": "2026-10-09T06:46:52.542Z"
-    },
-    {
-      "id": "2tGvwE8GcFKwNdAXMnlbfl",
-      "name": "happier",
-      "url": "https://open.spotify.com/track/2tGvwE8GcFKwNdAXMnlbfl",
-      "artists": [
-        {
-          "id": "1McMsnEElThX1knmY4oliG",
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "album": {
-        "name": "SOUR",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a"
-      },
-      "duration_ms": 175933,
-      "played_at": "2026-10-09T06:43:00.599Z"
-    },
-    {
-      "id": "1y3r6RXiJZNBV1EI0NggpS",
-      "name": "Ultraviolence",
-      "url": "https://open.spotify.com/track/1y3r6RXiJZNBV1EI0NggpS",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Ultraviolence (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731624590458126fc8b8c64c2f"
-      },
-      "duration_ms": 251480,
-      "played_at": "2026-10-09T06:40:13.647Z"
-    },
-    {
-      "id": "4nwjvcUjV7cexhwA40Bh5i",
-      "name": "Lover Girl",
-      "url": "https://open.spotify.com/track/4nwjvcUjV7cexhwA40Bh5i",
-      "artists": [
-        {
-          "id": "7gW0r5CkdEUMm42w9XpyZO",
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "album": {
-        "name": "A Matter of Time",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738f68f6e65c1cfd36bb21561c"
-      },
-      "duration_ms": 164400,
-      "played_at": "2026-10-09T06:36:11.245Z"
-    },
-    {
-      "id": "2ZQ6YMcGxwyvAfV6dl8hkB",
-      "name": "No One Knows (with Laufey)",
-      "url": "https://open.spotify.com/track/2ZQ6YMcGxwyvAfV6dl8hkB",
-      "artists": [
-        {
-          "id": "5XKFrudbV4IiuE5WuTPRmT",
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        },
-        {
-          "id": "7gW0r5CkdEUMm42w9XpyZO",
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "album": {
-        "name": "Angel Face",
-        "image": "https://i.scdn.co/image/ab67616d0000b273199b850d4877866cf7e318d1"
-      },
-      "duration_ms": 239308,
-      "played_at": "2026-10-09T06:33:35.828Z"
-    },
-    {
-      "id": "0aVd7QiY8BstysHb62c5Fi",
-      "name": "seasons",
-      "url": "https://open.spotify.com/track/0aVd7QiY8BstysHb62c5Fi",
-      "artists": [
-        {
-          "id": "5069JTmv5ZDyPeZaCCXiCg",
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
-        }
-      ],
-      "album": {
-        "name": "summer flows 0.02",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b975ed7ccd57f3a00d570cf"
-      },
-      "duration_ms": 256000,
-      "played_at": "2026-10-09T06:29:45.511Z"
-    },
-    {
-      "id": "5y2ijHECwFYWqcAHKTZgzD",
-      "name": "Risk It All",
-      "url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
-      "artists": [
-        {
-          "id": "0du5cEVh5yTK9QJze8zA0C",
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        }
-      ],
-      "album": {
-        "name": "The Romantic",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395"
-      },
-      "duration_ms": 204068,
-      "played_at": "2026-10-09T06:25:38.552Z"
-    },
-    {
-      "id": "429NtPmr12aypzFH3FkN9l",
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/429NtPmr12aypzFH3FkN9l",
-      "artists": [
-        {
-          "id": "35l9BRT7MXmM8bv2WDQiyB",
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "album": {
-        "name": "Coffee",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ad2c1e1bcbc8d7415636691b"
-      },
-      "duration_ms": 126824,
-      "played_at": "2026-10-09T06:22:23.407Z"
-    },
-    {
-      "id": "7bPWdJgx8vek7S5i5yAtvG",
-      "name": "Chemtrails Over The Country Club",
-      "url": "https://open.spotify.com/track/7bPWdJgx8vek7S5i5yAtvG",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Chemtrails Over The Country Club",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ca929c6e766cb8591a286e0d"
-      },
-      "duration_ms": 271176,
-      "played_at": "2026-10-09T06:20:25.655Z"
-    },
-    {
-      "id": "6DH13QYXK7lKkYHSU88N48",
-      "name": "Who Knows",
-      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
-      "artists": [
-        {
-          "id": "20wkVLutqVOYrc0kxFs7rA",
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        }
-      ],
-      "album": {
-        "name": "Son Of Spergy",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732bad6e56e77d5bef0aa3f2dc"
-      },
-      "duration_ms": 226283,
-      "played_at": "2026-10-09T06:16:03.447Z"
     }
   ]
 }
