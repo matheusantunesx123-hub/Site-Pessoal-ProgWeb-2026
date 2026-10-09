@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08T22:46:22.366042+00:00",
+  "updated_at": "2026-10-09T04:15:00.689577+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,206 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1WthhXQTgEO6sDixaKTyCf",
+      "name": "Dark Chocolate",
+      "url": "https://open.spotify.com/track/1WthhXQTgEO6sDixaKTyCf",
+      "artists": [
+        {
+          "id": "73aKnLT4O8G2pBEfdlQzrE",
+          "name": "Purrple Cat",
+          "url": "https://open.spotify.com/artist/73aKnLT4O8G2pBEfdlQzrE"
+        }
+      ],
+      "album": {
+        "name": "Sweet Dreams",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731cb8d16f6b4bfe4d539f1f0a"
+      },
+      "duration_ms": 177364,
+      "played_at": "2026-10-09T04:11:32.948Z"
+    },
+    {
+      "id": "0HSwIZSDeOQX8Cu9pCGkjS",
+      "name": "Affection",
+      "url": "https://open.spotify.com/track/0HSwIZSDeOQX8Cu9pCGkjS",
+      "artists": [
+        {
+          "id": "5FsfZj0Mp6YwEWytuJUcWt",
+          "name": "Jinsang",
+          "url": "https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt"
+        }
+      ],
+      "album": {
+        "name": "Life",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731440e78cc9b9e0f45596396e"
+      },
+      "duration_ms": 117495,
+      "played_at": "2026-10-09T04:08:44.635Z"
+    },
+    {
+      "id": "0ytvsZOerGzUWfHXVT2Sgy",
+      "name": "Eternal Youth",
+      "url": "https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy",
+      "artists": [
+        {
+          "id": "4CWpoyuE7e9NvBkUSTmJfq",
+          "name": "RŮDE",
+          "url": "https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq"
+        }
+      ],
+      "album": {
+        "name": "Eternal Youth",
+        "image": "https://i.scdn.co/image/ab67616d0000b273097f3d06dd8726a91f526e21"
+      },
+      "duration_ms": 205766,
+      "played_at": "2026-10-09T04:05:52.511Z"
+    },
+    {
+      "id": "01NiYjDrt8eGRNv3MnCmKG",
+      "name": "What If It All Turned out Fine",
+      "url": "https://open.spotify.com/track/01NiYjDrt8eGRNv3MnCmKG",
+      "artists": [
+        {
+          "id": "1R9fj5Tiy9XMFp5ANzS7FA",
+          "name": "Jhove",
+          "url": "https://open.spotify.com/artist/1R9fj5Tiy9XMFp5ANzS7FA"
+        }
+      ],
+      "album": {
+        "name": "Before You Go",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731a00bcacf70137065a9d7552"
+      },
+      "duration_ms": 161883,
+      "played_at": "2026-10-09T04:02:35.670Z"
+    },
+    {
+      "id": "4RVwu0g32PAqgUiJoXsdF8",
+      "name": "Happier Than Ever",
+      "url": "https://open.spotify.com/track/4RVwu0g32PAqgUiJoXsdF8",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "name": "Happier Than Ever",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a038d3bf875d23e4aeaa84e"
+      },
+      "duration_ms": 298899,
+      "played_at": "2026-10-09T03:59:22.689Z"
+    },
+    {
+      "id": "5UWwZ5lm5PKu6eKsHAGxOk",
+      "name": "Everlong",
+      "url": "https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk",
+      "artists": [
+        {
+          "id": "7jy3rLJdDQY21OgRLCZ9sD",
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "album": {
+        "name": "The Colour And The Shape",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734bc9bcdbdc9ac34e37d8b6bb"
+      },
+      "duration_ms": 250546,
+      "played_at": "2026-10-09T01:27:32.924Z"
+    },
+    {
+      "id": "0dUbrcYI7YE6Nmlp8x4GQj",
+      "name": "Quente e Colorido",
+      "url": "https://open.spotify.com/track/0dUbrcYI7YE6Nmlp8x4GQj",
+      "artists": [
+        {
+          "id": "5gWFbdcQOMRYz1cdCuBxWO",
+          "name": "Illy",
+          "url": "https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO"
+        },
+        {
+          "id": "0nFdWpwl7h6fp3ADRyG14L",
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        }
+      ],
+      "album": {
+        "name": "O Que Me Cabe",
+        "image": "https://i.scdn.co/image/ab67616d0000b273715041be0b9e6745275aaa60"
+      },
+      "duration_ms": 227973,
+      "played_at": "2026-10-09T01:21:13.518Z"
+    },
+    {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473,
+      "played_at": "2026-10-08T23:42:47.605Z"
+    },
+    {
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "played_at": "2026-10-08T21:10:26.818Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-10-08T19:13:10.080Z"
+    },
     {
       "id": "6xi41eSOTp4o5N84iIyUs8",
       "name": "TOMA NO CU (Maria Gasolina)",
@@ -1404,216 +1604,6 @@
       },
       "duration_ms": 172802,
       "played_at": "2026-10-08T05:52:03.708Z"
-    },
-    {
-      "id": "1HOhw9h6IpSVpFPS6OzUu4",
-      "name": "Oh Ana",
-      "url": "https://open.spotify.com/track/1HOhw9h6IpSVpFPS6OzUu4",
-      "artists": [
-        {
-          "id": "0e86yPdC41PGRkLp2Q1Bph",
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "album": {
-        "name": "Touch Up",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739334fc21964be25ec3179f0f"
-      },
-      "duration_ms": 197080,
-      "played_at": "2026-10-08T05:49:19.919Z"
-    },
-    {
-      "id": "4EBQ9JamSD7TPpNAtfBhwi",
-      "name": "Mystery Girl",
-      "url": "https://open.spotify.com/track/4EBQ9JamSD7TPpNAtfBhwi",
-      "artists": [
-        {
-          "id": "7LvIRMqxj6R39lRFfugeUS",
-          "name": "Housecall",
-          "url": "https://open.spotify.com/artist/7LvIRMqxj6R39lRFfugeUS"
-        }
-      ],
-      "album": {
-        "name": "Mystery Girl",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731214922fffcba45f61e25e83"
-      },
-      "duration_ms": 176500,
-      "played_at": "2026-10-08T05:46:11.794Z"
-    },
-    {
-      "id": "4qmT806nB5E33pZSYYqWcU",
-      "name": "Stronger Than You (feat. Estelle)",
-      "url": "https://open.spotify.com/track/4qmT806nB5E33pZSYYqWcU",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "5T0MSzX9RC5NA6gAI6irSn",
-          "name": "Estelle",
-          "url": "https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe, Vol. 1 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27334f2d9844b4114bd781d5bc4"
-      },
-      "duration_ms": 172636,
-      "played_at": "2026-10-08T05:43:24.315Z"
-    },
-    {
-      "id": "3oNQ6NkihVzQkV5qhk2Pbe",
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/3oNQ6NkihVzQkV5qhk2Pbe",
-      "artists": [
-        {
-          "id": "3XxNRirzbjfLdDli06zMaB",
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "id": "34me8hAxavRmcDIwhxa3b7",
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
-        }
-      ],
-      "album": {
-        "name": "Mulholland Drive",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734641ca89cd79b552d77145dd"
-      },
-      "duration_ms": 153312,
-      "played_at": "2026-10-08T05:40:40.723Z"
-    },
-    {
-      "id": "2vWBUC9djv6BtiGlmKiQaH",
-      "name": "YKWIM?",
-      "url": "https://open.spotify.com/track/2vWBUC9djv6BtiGlmKiQaH",
-      "artists": [
-        {
-          "id": "6FugQjLquBF4JzATRN70bR",
-          "name": "Yot Club",
-          "url": "https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR"
-        }
-      ],
-      "album": {
-        "name": "Bipolar",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731a72818330a056c9d3556a68"
-      },
-      "duration_ms": 212750,
-      "played_at": "2026-10-08T05:38:16.424Z"
-    },
-    {
-      "id": "2vJXkBYTfhmszE7ggfDc9E",
-      "name": "I'm Just Your Problem (feat. Olivia Olson)",
-      "url": "https://open.spotify.com/track/2vJXkBYTfhmszE7ggfDc9E",
-      "artists": [
-        {
-          "id": "3Op7D6tFVJCOHW6EAV0ck1",
-          "name": "Adventure Time",
-          "url": "https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1"
-        },
-        {
-          "id": "6md7K2UM0UBU0fzI5erQCb",
-          "name": "Olivia Olson",
-          "url": "https://open.spotify.com/artist/6md7K2UM0UBU0fzI5erQCb"
-        }
-      ],
-      "album": {
-        "name": "Adventure Time, Vol.1 (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739683778f52da9fe8c0c9cd6f"
-      },
-      "duration_ms": 116811,
-      "played_at": "2026-10-08T05:34:52.619Z"
-    },
-    {
-      "id": "2zXbLJiS5099aDVyTHIDU4",
-      "name": "Body",
-      "url": "https://open.spotify.com/track/2zXbLJiS5099aDVyTHIDU4",
-      "artists": [
-        {
-          "id": "0e86yPdC41PGRkLp2Q1Bph",
-          "name": "Mother Mother",
-          "url": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
-        }
-      ],
-      "album": {
-        "name": "O My Heart",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bf77ec4fe60aa3163d91e767"
-      },
-      "duration_ms": 213573,
-      "played_at": "2026-10-08T05:33:04.817Z"
-    },
-    {
-      "id": "31vStxnLQWYmO9USLgSduA",
-      "name": "Found (feat. Sarah Stiles & Zach Callison)",
-      "url": "https://open.spotify.com/track/31vStxnLQWYmO9USLgSduA",
-      "artists": [
-        {
-          "id": "4rF7c8zpCKzuSXohs2HIpA",
-          "name": "Steven Universe",
-          "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA"
-        },
-        {
-          "id": "7AdaaN0SN1NF24cTg9RPga",
-          "name": "Sarah Stiles",
-          "url": "https://open.spotify.com/artist/7AdaaN0SN1NF24cTg9RPga"
-        },
-        {
-          "id": "57YFNq46Xx86nl7ETkd1Ei",
-          "name": "Zach Callison",
-          "url": "https://open.spotify.com/artist/57YFNq46Xx86nl7ETkd1Ei"
-        }
-      ],
-      "album": {
-        "name": "Steven Universe The Movie (Original Soundtrack)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27304382e3ca53d25acbef29d0b"
-      },
-      "duration_ms": 86620,
-      "played_at": "2026-10-08T05:29:40.222Z"
-    },
-    {
-      "id": "1QKvzuA8wwCMfFuhEo6JN5",
-      "name": "Forget",
-      "url": "https://open.spotify.com/track/1QKvzuA8wwCMfFuhEo6JN5",
-      "artists": [
-        {
-          "id": "1ng3xz2dyz57Z1WpnzM2G7",
-          "name": "Pogo",
-          "url": "https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7"
-        }
-      ],
-      "album": {
-        "name": "Kindred Shadow",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732cb5fef1fe858a6609e703ad"
-      },
-      "duration_ms": 164729,
-      "played_at": "2026-10-08T05:28:22.630Z"
-    },
-    {
-      "id": "7co88DKACpUeOxfQxrkliN",
-      "name": "Tangled Up - Lokee Remix",
-      "url": "https://open.spotify.com/track/7co88DKACpUeOxfQxrkliN",
-      "artists": [
-        {
-          "id": "492hDmhPyuIjP3MgTcIqgm",
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        },
-        {
-          "id": "4HQLlWRR6LgYbshonGKKam",
-          "name": "Lokee",
-          "url": "https://open.spotify.com/artist/4HQLlWRR6LgYbshonGKKam"
-        }
-      ],
-      "album": {
-        "name": "The Shocking Miss Emerald (The Remixes)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f161e0d2bdbbbb543237272b"
-      },
-      "duration_ms": 205714,
-      "played_at": "2026-10-08T05:25:46.924Z"
     }
   ]
 }
