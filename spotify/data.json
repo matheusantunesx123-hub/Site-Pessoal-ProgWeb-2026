@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-10T11:47:10.045547+00:00",
+  "updated_at": "2026-10-10T16:50:34.202973+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,42 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3J31Ng3dKKJ6sEHDtV9hSp",
+      "name": "No Other Heart",
+      "url": "https://open.spotify.com/track/3J31Ng3dKKJ6sEHDtV9hSp",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "Another One",
+        "image": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2"
+      },
+      "duration_ms": 173117,
+      "played_at": "2026-10-10T02:42:28.020Z"
+    },
+    {
+      "id": "3wUMcPzXcmaeW8QxTdyXQO",
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO",
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "album": {
+        "name": "The Smiths",
+        "image": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085"
+      },
+      "duration_ms": 223253,
+      "played_at": "2026-10-10T02:42:27.822Z"
+    },
     {
       "id": "1Roq03sTKb6TPKBY89YJ4v",
       "name": "I Think I Like When It Rains",
@@ -1538,57 +1574,6 @@
       },
       "duration_ms": 91321,
       "played_at": "2026-10-09T13:40:09.793Z"
-    },
-    {
-      "id": "0gbNLi9uvioDGatRBM8HHo",
-      "name": "Vídeo Sensual",
-      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
-      "artists": [
-        {
-          "id": "7rbQBgqL5HYC01Ox1C00oY",
-          "name": "DJ Patrick Original",
-          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
-        },
-        {
-          "id": "1SccqhX1lbpNKrJ7bVRDLh",
-          "name": "Game Records",
-          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "id": "5xKesKsXI1jv2TorLOnbbm",
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        }
-      ],
-      "album": {
-        "name": "Vídeo Sensual",
-        "image": "https://i.scdn.co/image/ab67616d0000b27316f5c72a62143a51a3637425"
-      },
-      "duration_ms": 148921,
-      "played_at": "2026-10-09T13:38:47.476Z"
-    },
-    {
-      "id": "6BjDS1tNSBjposp5j9a3g4",
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/6BjDS1tNSBjposp5j9a3g4",
-      "artists": [
-        {
-          "id": "56OjNTX2bkrdGcB0staUOV",
-          "name": "A-Wall",
-          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
-        }
-      ],
-      "album": {
-        "name": "Helios",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732c025e1e5585b4bdcd0b303f"
-      },
-      "duration_ms": 224520,
-      "played_at": "2026-10-09T13:29:35.967Z"
     }
   ]
 }
