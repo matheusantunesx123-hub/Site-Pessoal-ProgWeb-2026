@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T11:59:28.204070+00:00",
+  "updated_at": "2026-10-11T17:36:52.409326+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,78 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1oAwsWBovWRIp7qLMGPIet",
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet",
+      "artists": [
+        {
+          "id": "1QAJqy2dA3ihHBFIHRphZj",
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "album": {
+        "name": "Cigarettes After Sex",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dfed999f959177dfc4f33cdc"
+      },
+      "duration_ms": 290146,
+      "played_at": "2026-10-11T16:04:44.327Z"
+    },
+    {
+      "id": "1UvETPWsQb0qbJboAzAKUl",
+      "name": "Tá Se Achando - Ao Vivo",
+      "url": "https://open.spotify.com/track/1UvETPWsQb0qbJboAzAKUl",
+      "artists": [
+        {
+          "id": "61rqgwKmF0QwycnC8O82rn",
+          "name": "Guilherme & Santiago",
+          "url": "https://open.spotify.com/artist/61rqgwKmF0QwycnC8O82rn"
+        }
+      ],
+      "album": {
+        "name": "Acústico 20 Anos (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736d55cd43b442ee3712eaf218"
+      },
+      "duration_ms": 161753,
+      "played_at": "2026-10-11T12:10:09.914Z"
+    },
+    {
+      "id": "5CkCOlVxiYPzREq0PeCKAN",
+      "name": "Voa Beija-Flor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5CkCOlVxiYPzREq0PeCKAN",
+      "artists": [
+        {
+          "id": "1elUiq4X7pxej6FRlrEzjM",
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "album": {
+        "name": "O Mundo É Tão Pequeno",
+        "image": "https://i.scdn.co/image/ab67616d0000b27304a5031fd5fa6fb81cad9ad6"
+      },
+      "duration_ms": 206253,
+      "played_at": "2026-10-11T12:07:37.104Z"
+    },
+    {
+      "id": "3BDnZJC9yaj01jtqpyDYzG",
+      "name": "Convite de Casamento",
+      "url": "https://open.spotify.com/track/3BDnZJC9yaj01jtqpyDYzG",
+      "artists": [
+        {
+          "id": "3qvcCP2J0fWi0m0uQDUf6r",
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        }
+      ],
+      "album": {
+        "name": "Confraternização Família Santana 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e70918836d368ff1136c3290"
+      },
+      "duration_ms": 227600,
+      "played_at": "2026-10-11T12:04:19.899Z"
+    },
     {
       "id": "3RSpK5Y0y5tl25qvssrwJ6",
       "name": "My All",
@@ -1602,153 +1674,6 @@
       },
       "duration_ms": 100615,
       "played_at": "2026-10-10T22:18:09.532Z"
-    },
-    {
-      "id": "4YDUv0wEyKu1WSOoxXw1dU",
-      "name": "Gin de 10 (Eletrofunk)",
-      "url": "https://open.spotify.com/track/4YDUv0wEyKu1WSOoxXw1dU",
-      "artists": [
-        {
-          "id": "1jigiOquttaIeKIy0B3xaG",
-          "name": "DJ WS BEAT",
-          "url": "https://open.spotify.com/artist/1jigiOquttaIeKIy0B3xaG"
-        },
-        {
-          "id": "466CdZBDPcGn9fuvBhzRRk",
-          "name": "Mc Neguinho do Morro",
-          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
-        },
-        {
-          "id": "1VgGaAocQcDmFfazjofQQ6",
-          "name": "MC NINA",
-          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
-        }
-      ],
-      "album": {
-        "name": "Gin de 10 (Eletrofunk)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f246de87e972f1396f62f8e3"
-      },
-      "duration_ms": 79533,
-      "played_at": "2026-10-10T22:16:37.909Z"
-    },
-    {
-      "id": "5ZuMmHbrXddrLTGcmdh7xl",
-      "name": "Vou Fazer Meu Golzinho de Puteiro",
-      "url": "https://open.spotify.com/track/5ZuMmHbrXddrLTGcmdh7xl",
-      "artists": [
-        {
-          "id": "16RrFZwuMzmgcFIs3oXDwu",
-          "name": "DJ PERTUBADO",
-          "url": "https://open.spotify.com/artist/16RrFZwuMzmgcFIs3oXDwu"
-        },
-        {
-          "id": "4jEl4IQK6F0OECbeeatBBM",
-          "name": "Mc Sapinha",
-          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
-        },
-        {
-          "id": "4MxOyYxbnV9jnoL6FxAy16",
-          "name": "DANNTZ!",
-          "url": "https://open.spotify.com/artist/4MxOyYxbnV9jnoL6FxAy16"
-        },
-        {
-          "id": "5IfPngxE3IRk9PjoZlVv5l",
-          "name": "WATILA GYN",
-          "url": "https://open.spotify.com/artist/5IfPngxE3IRk9PjoZlVv5l"
-        }
-      ],
-      "album": {
-        "name": "Vou Fazer Meu Golzinho de Puteiro",
-        "image": "https://i.scdn.co/image/ab67616d0000b27307f11d916966089ba991b29f"
-      },
-      "duration_ms": 153235,
-      "played_at": "2026-10-10T22:13:04.864Z"
-    },
-    {
-      "id": "78PIC5Mc1gNKio8TL6y0Yr",
-      "name": "Ele Carrega Minha Bolsa",
-      "url": "https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr",
-      "artists": [
-        {
-          "id": "6Y7e2jet1yvaymbzwOn4Fa",
-          "name": "dj andreoli",
-          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
-        },
-        {
-          "id": "5TL5gz3Q8oX0m9hNt2Jq7g",
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "id": "0xXEI1dXDaCOmkIPNYtPWF",
-          "name": "Mac Júlia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "id": "0NB5wv4kn6A919CLHUKRmk",
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "id": "14hsjenLEdvafsGkk2CEiF",
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        },
-        {
-          "id": "6nNrD1epadXGS9JVOWf0x2",
-          "name": "DJ Kayque",
-          "url": "https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2"
-        }
-      ],
-      "album": {
-        "name": "Ele Carrega Minha Bolsa",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ed284efe2e78a06d6bbed911"
-      },
-      "duration_ms": 136615,
-      "played_at": "2026-10-10T22:12:00.032Z"
-    },
-    {
-      "id": "78PIC5Mc1gNKio8TL6y0Yr",
-      "name": "Ele Carrega Minha Bolsa",
-      "url": "https://open.spotify.com/track/78PIC5Mc1gNKio8TL6y0Yr",
-      "artists": [
-        {
-          "id": "6Y7e2jet1yvaymbzwOn4Fa",
-          "name": "dj andreoli",
-          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
-        },
-        {
-          "id": "5TL5gz3Q8oX0m9hNt2Jq7g",
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "id": "0xXEI1dXDaCOmkIPNYtPWF",
-          "name": "Mac Júlia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "id": "0NB5wv4kn6A919CLHUKRmk",
-          "name": "DJ Ws da Igrejinha",
-          "url": "https://open.spotify.com/artist/0NB5wv4kn6A919CLHUKRmk"
-        },
-        {
-          "id": "14hsjenLEdvafsGkk2CEiF",
-          "name": "MC Fabinho da Osk",
-          "url": "https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF"
-        },
-        {
-          "id": "6nNrD1epadXGS9JVOWf0x2",
-          "name": "DJ Kayque",
-          "url": "https://open.spotify.com/artist/6nNrD1epadXGS9JVOWf0x2"
-        }
-      ],
-      "album": {
-        "name": "Ele Carrega Minha Bolsa",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ed284efe2e78a06d6bbed911"
-      },
-      "duration_ms": 136615,
-      "played_at": "2026-10-10T22:09:47.729Z"
     }
   ]
 }
