@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T17:36:52.409326+00:00",
+  "updated_at": "2026-10-11T21:23:52.016122+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "087b2Wqaku93EDiGAA3JRW",
+      "name": "Gaguinho",
+      "url": "https://open.spotify.com/track/087b2Wqaku93EDiGAA3JRW",
+      "artists": [
+        {
+          "id": "0WP4PLxwWMBq3WWc01TBgJ",
+          "name": "Hugo & Tiago",
+          "url": "https://open.spotify.com/artist/0WP4PLxwWMBq3WWc01TBgJ"
+        }
+      ],
+      "album": {
+        "name": "O Que Acontece no Bar, Vol. 6",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738ce031fc7acc2df82aadff71"
+      },
+      "duration_ms": 148426,
+      "played_at": "2026-10-11T21:10:48.052Z"
+    },
     {
       "id": "1oAwsWBovWRIp7qLMGPIet",
       "name": "Apocalypse",
@@ -1636,44 +1654,6 @@
       },
       "duration_ms": 77076,
       "played_at": "2026-10-10T22:21:23.289Z"
-    },
-    {
-      "id": "21F7gZU1fUvr2YxqctPXB1",
-      "name": "Ai Nao Machuca",
-      "url": "https://open.spotify.com/track/21F7gZU1fUvr2YxqctPXB1",
-      "artists": [
-        {
-          "id": "2Zs8oC4IDwNcanf2QU8jkM",
-          "name": "Dj Brenno Paixão",
-          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
-        },
-        {
-          "id": "5axyZvNuPzvU4nIJVl6z5A",
-          "name": "Fxbriciu",
-          "url": "https://open.spotify.com/artist/5axyZvNuPzvU4nIJVl6z5A"
-        },
-        {
-          "id": "5O2vMwEiTxszw0kbhYKVAU",
-          "name": "SAM SAM",
-          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
-        },
-        {
-          "id": "09sgxe1S2omDMEAwpmVauG",
-          "name": "MC Rafa Original",
-          "url": "https://open.spotify.com/artist/09sgxe1S2omDMEAwpmVauG"
-        },
-        {
-          "id": "0NseDkNLAVBv2OZY5wquS7",
-          "name": "Mc India",
-          "url": "https://open.spotify.com/artist/0NseDkNLAVBv2OZY5wquS7"
-        }
-      ],
-      "album": {
-        "name": "Ai Nao Machuca",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381844fd18b31c3ae09b36612"
-      },
-      "duration_ms": 100615,
-      "played_at": "2026-10-10T22:18:09.532Z"
     }
   ]
 }
