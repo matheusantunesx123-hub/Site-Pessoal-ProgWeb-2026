@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T03:35:01.041293+00:00",
+  "updated_at": "2026-10-11T11:59:28.204070+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,383 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3RSpK5Y0y5tl25qvssrwJ6",
+      "name": "My All",
+      "url": "https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6",
+      "artists": [
+        {
+          "id": "4iHNK0tOyZPYnBU7nGAgpQ",
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "album": {
+        "name": "Butterfly",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398ed501c6a838b2244ebaf75"
+      },
+      "duration_ms": 230933,
+      "played_at": "2026-10-11T06:16:25.368Z"
+    },
+    {
+      "id": "1xaTREM89RbIxkcjlpf4Uw",
+      "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
+      "url": "https://open.spotify.com/track/1xaTREM89RbIxkcjlpf4Uw",
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "album": {
+        "name": "Hatful of Hollow",
+        "image": "https://i.scdn.co/image/ab67616d0000b27304480d4422fe67d383386660"
+      },
+      "duration_ms": 215760,
+      "played_at": "2026-10-11T06:12:43.473Z"
+    },
+    {
+      "id": "2enPRFda84VE2wtI8c86Uf",
+      "name": "Always Forever",
+      "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf",
+      "artists": [
+        {
+          "id": "3Oim8XBPbznAa8Jj8QzNc8",
+          "name": "Cults",
+          "url": "https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8"
+        }
+      ],
+      "album": {
+        "name": "Static",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b03096e45464122b278aef93"
+      },
+      "duration_ms": 223750,
+      "played_at": "2026-10-11T06:09:16.670Z"
+    },
+    {
+      "id": "5cjagrNaegv6IQZKflkPTf",
+      "name": "I Love You So - Acoustic",
+      "url": "https://open.spotify.com/track/5cjagrNaegv6IQZKflkPTf",
+      "artists": [
+        {
+          "id": "027TpXKGwdXP7iwbjUSpV8",
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "album": {
+        "name": "I Love You So (Acoustic)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dd4039c06b84b18b5624d5eb"
+      },
+      "duration_ms": 147333,
+      "played_at": "2026-10-11T06:05:41.943Z"
+    },
+    {
+      "id": "5Ctzx0mMiUPAu9JqbAOY9n",
+      "name": "Be Like a Woman",
+      "url": "https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n",
+      "artists": [
+        {
+          "id": "0CnHF3fzueVi59nz8fdwcl",
+          "name": "Chris Rainbow",
+          "url": "https://open.spotify.com/artist/0CnHF3fzueVi59nz8fdwcl"
+        }
+      ],
+      "album": {
+        "name": "White Trails (Expanded)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b01318919e207e569f69c1a2"
+      },
+      "duration_ms": 255946,
+      "played_at": "2026-10-11T06:03:23.571Z"
+    },
+    {
+      "id": "2kn0fLwt9QRorHuGdmk6ze",
+      "name": "No One Noticed (Extended Spanish)",
+      "url": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze",
+      "artists": [
+        {
+          "id": "2sSGPbdZJkaSE2AbcGOACx",
+          "name": "The Marías",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "album": {
+        "name": "No One Noticed (Extended)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27358c0f15c5247c0b719d7ffb0"
+      },
+      "duration_ms": 284466,
+      "played_at": "2026-10-11T05:59:16.617Z"
+    },
+    {
+      "id": "5HQEmiV2lKnSO6qa2fsR7x",
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x",
+      "artists": [
+        {
+          "id": "6i6WlGzQtXtz7GcC5H5st5",
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "album": {
+        "name": "The Original Soundtrack",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d3e47e52f8f218c9ba12b8eb"
+      },
+      "duration_ms": 366640,
+      "played_at": "2026-10-11T05:54:41.162Z"
+    },
+    {
+      "id": "02H1K5Cw9Ar89b35XwSEw6",
+      "name": "My Heart Is Buried in Venice",
+      "url": "https://open.spotify.com/track/02H1K5Cw9Ar89b35XwSEw6",
+      "artists": [
+        {
+          "id": "0ZUvK7zGdXLd78mQr3t1Tw",
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "album": {
+        "name": "Montgomery Ricky",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d0b970342518ac22be8e844"
+      },
+      "duration_ms": 184866,
+      "played_at": "2026-10-11T05:48:43.579Z"
+    },
+    {
+      "id": "6G9YlbU3ByPJQvOFDRdwyM",
+      "name": "her",
+      "url": "https://open.spotify.com/track/6G9YlbU3ByPJQvOFDRdwyM",
+      "artists": [
+        {
+          "id": "164Uj4eKjl6zTBKfJLFKKK",
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "album": {
+        "name": "her",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a0934c15232680a3afc9da6e"
+      },
+      "duration_ms": 171757,
+      "played_at": "2026-10-11T05:45:47.681Z"
+    },
+    {
+      "id": "4SqWKzw0CbA05TGszDgMlc",
+      "name": "I Love You So",
+      "url": "https://open.spotify.com/track/4SqWKzw0CbA05TGszDgMlc",
+      "artists": [
+        {
+          "id": "027TpXKGwdXP7iwbjUSpV8",
+          "name": "The Walters",
+          "url": "https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8"
+        }
+      ],
+      "album": {
+        "name": "I Love You So",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a9ab24f62c01f4bd4a08571e"
+      },
+      "duration_ms": 160239,
+      "played_at": "2026-10-11T05:43:04.880Z"
+    },
+    {
+      "id": "21IYMdzTrzSe191Cy5eMap",
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
+      "artists": [
+        {
+          "id": "1iCnM8foFssWlPRLfAbIwo",
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "album": {
+        "name": "At The Beach, In Every Life",
+        "image": "https://i.scdn.co/image/ab67616d0000b27349c26270052e1671add569c1"
+      },
+      "duration_ms": 211978,
+      "played_at": "2026-10-11T05:40:33.682Z"
+    },
+    {
+      "id": "60jQTAr2OkFcV4SWSRz3st",
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/60jQTAr2OkFcV4SWSRz3st",
+      "artists": [
+        {
+          "id": "4cPHsZM98sKzmV26wlwD2W",
+          "name": "Brenda Lee",
+          "url": "https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W"
+        }
+      ],
+      "album": {
+        "name": "Emotions",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f07aa5c8e8b6b285ada4a941"
+      },
+      "duration_ms": 171226,
+      "played_at": "2026-10-11T05:36:30.687Z"
+    },
+    {
+      "id": "18E1LAdiOj79wZqSOYMHE7",
+      "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
+      "url": "https://open.spotify.com/track/18E1LAdiOj79wZqSOYMHE7",
+      "artists": [
+        {
+          "id": "5XKFrudbV4IiuE5WuTPRmT",
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        },
+        {
+          "id": "7o2ZQYM7nTsaVdkXY38UAA",
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "album": {
+        "name": "Angel Face (Club Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27362ecbc14602444f8a6c3f5bf"
+      },
+      "duration_ms": 176440,
+      "played_at": "2026-10-11T05:32:34.699Z"
+    },
+    {
+      "id": "1DpC4L3JjsGRW7y6eTHaMj",
+      "name": "Ojos Tristes (with The Marías)",
+      "url": "https://open.spotify.com/track/1DpC4L3JjsGRW7y6eTHaMj",
+      "artists": [
+        {
+          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "id": "5CiGnKThu5ctn9pBxv7DGa",
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "id": "2sSGPbdZJkaSE2AbcGOACx",
+          "name": "The Marías",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "album": {
+        "name": "I Said I Love You First",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302479f0a8f30875dce4a35be"
+      },
+      "duration_ms": 201920,
+      "played_at": "2026-10-11T05:29:05.103Z"
+    },
+    {
+      "id": "709p9UGPAuyImWf1Z3vjRo",
+      "name": "Let You Break My Heart Again",
+      "url": "https://open.spotify.com/track/709p9UGPAuyImWf1Z3vjRo",
+      "artists": [
+        {
+          "id": "7gW0r5CkdEUMm42w9XpyZO",
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "id": "09KZU0NsS7jRa5p0SflmGY",
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "album": {
+        "name": "Let You Break My Heart Again",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739457bba66a2daf4456855bb7"
+      },
+      "duration_ms": 269066,
+      "played_at": "2026-10-11T05:25:52.120Z"
+    },
+    {
+      "id": "00kIWJu9IHiQ6i0qJAU0Z9",
+      "name": "Amor Completo",
+      "url": "https://open.spotify.com/track/00kIWJu9IHiQ6i0qJAU0Z9",
+      "artists": [
+        {
+          "id": "4boI7bJtmB1L3b1cuL75Zr",
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "album": {
+        "name": "Mon Laferte (Vol. 1)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735eebf3f8ec6e9807105f3151"
+      },
+      "duration_ms": 241880,
+      "played_at": "2026-10-11T05:19:38.055Z"
+    },
+    {
+      "id": "28UP90XhjCovLtieduYr9P",
+      "name": "Mi Buen Amor",
+      "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P",
+      "artists": [
+        {
+          "id": "4boI7bJtmB1L3b1cuL75Zr",
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        },
+        {
+          "id": "4uqzzJg3ww5eH7IgGV7DMT",
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "album": {
+        "name": "La Trenza",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ac6e52ed084e8209691f208f"
+      },
+      "duration_ms": 227586,
+      "played_at": "2026-10-11T05:02:50.146Z"
+    },
+    {
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "artists": [
+        {
+          "id": "3MZsBdqDrRTJihTHQrO6Dq",
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "album": {
+        "name": "BALLADS 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2"
+      },
+      "duration_ms": 209273,
+      "played_at": "2026-10-11T04:40:52.525Z"
+    },
+    {
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "played_at": "2026-10-11T04:33:05.572Z"
+    },
     {
       "id": "5dxHYAiCZnqsolgrrbfVU6",
       "name": "BEBIDA DROGA E SEXO",
@@ -1372,428 +1749,6 @@
       },
       "duration_ms": 136615,
       "played_at": "2026-10-10T22:09:47.729Z"
-    },
-    {
-      "id": "4S8m4idVm41zFI6n2YxgYm",
-      "name": "VOU DANÇAR,VOU BEBER",
-      "url": "https://open.spotify.com/track/4S8m4idVm41zFI6n2YxgYm",
-      "artists": [
-        {
-          "id": "7ufHJna3thtyJ5b2X7zY3W",
-          "name": "MC Donzela",
-          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
-        },
-        {
-          "id": "1Of861LgztNDqP7dgj9Bf8",
-          "name": "Mc Otávio da 9",
-          "url": "https://open.spotify.com/artist/1Of861LgztNDqP7dgj9Bf8"
-        },
-        {
-          "id": "1f6xTNdXkrk5Wyeb4tQK1E",
-          "name": "DJ CR Original",
-          "url": "https://open.spotify.com/artist/1f6xTNdXkrk5Wyeb4tQK1E"
-        }
-      ],
-      "album": {
-        "name": "VOU DANÇAR,VOU BEBER",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f77c05205b82219682f5e8c9"
-      },
-      "duration_ms": 136615,
-      "played_at": "2026-10-10T22:04:56.549Z"
-    },
-    {
-      "id": "4YDUv0wEyKu1WSOoxXw1dU",
-      "name": "Gin de 10 (Eletrofunk)",
-      "url": "https://open.spotify.com/track/4YDUv0wEyKu1WSOoxXw1dU",
-      "artists": [
-        {
-          "id": "1jigiOquttaIeKIy0B3xaG",
-          "name": "DJ WS BEAT",
-          "url": "https://open.spotify.com/artist/1jigiOquttaIeKIy0B3xaG"
-        },
-        {
-          "id": "466CdZBDPcGn9fuvBhzRRk",
-          "name": "Mc Neguinho do Morro",
-          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
-        },
-        {
-          "id": "1VgGaAocQcDmFfazjofQQ6",
-          "name": "MC NINA",
-          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
-        }
-      ],
-      "album": {
-        "name": "Gin de 10 (Eletrofunk)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f246de87e972f1396f62f8e3"
-      },
-      "duration_ms": 79533,
-      "played_at": "2026-10-10T22:02:48.927Z"
-    },
-    {
-      "id": "0oKdsMglh1dTsX4nrkURMX",
-      "name": "Rua do Ouro",
-      "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX",
-      "artists": [
-        {
-          "id": "2Zs8oC4IDwNcanf2QU8jkM",
-          "name": "Dj Brenno Paixão",
-          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
-        },
-        {
-          "id": "0xXEI1dXDaCOmkIPNYtPWF",
-          "name": "Mac Júlia",
-          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
-        },
-        {
-          "id": "60ArvoSDGNI2WPhezAqz6u",
-          "name": "MC Rica",
-          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
-        },
-        {
-          "id": "5O2vMwEiTxszw0kbhYKVAU",
-          "name": "SAM SAM",
-          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
-        }
-      ],
-      "album": {
-        "name": "Rua do Ouro",
-        "image": "https://i.scdn.co/image/ab67616d0000b27383c9c9bef3b376b176c575ba"
-      },
-      "duration_ms": 136615,
-      "played_at": "2026-10-10T22:01:38.431Z"
-    },
-    {
-      "id": "0gbNLi9uvioDGatRBM8HHo",
-      "name": "Vídeo Sensual",
-      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
-      "artists": [
-        {
-          "id": "7rbQBgqL5HYC01Ox1C00oY",
-          "name": "DJ Patrick Original",
-          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
-        },
-        {
-          "id": "1SccqhX1lbpNKrJ7bVRDLh",
-          "name": "Game Records",
-          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
-        },
-        {
-          "id": "6jlrg5vTnraLDDXILE77BE",
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        },
-        {
-          "id": "5xKesKsXI1jv2TorLOnbbm",
-          "name": "Mc Frog",
-          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
-        }
-      ],
-      "album": {
-        "name": "Vídeo Sensual",
-        "image": "https://i.scdn.co/image/ab67616d0000b27316f5c72a62143a51a3637425"
-      },
-      "duration_ms": 148921,
-      "played_at": "2026-10-10T21:58:36.577Z"
-    },
-    {
-      "id": "17YVWP3yXLnplHHCOU7RGI",
-      "name": "157 CAFAJESTE X 157 DE XXT",
-      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
-      "artists": [
-        {
-          "id": "4OsPs4eirSwu3F4jB1bL0B",
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        },
-        {
-          "id": "4GeitETxoipNor9MyEEbYz",
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        },
-        {
-          "id": "7dUNKhz7HdxExteqcREGLi",
-          "name": "Mc Denny",
-          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
-        }
-      ],
-      "album": {
-        "name": "157 CAFAJESTE X 157 DE XXT",
-        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
-      },
-      "duration_ms": 164571,
-      "played_at": "2026-10-10T20:38:38.804Z"
-    },
-    {
-      "id": "39UIGfLXmKgetqGJRvYpGF",
-      "name": "Cuntelectual",
-      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
-      },
-      "duration_ms": 131050,
-      "played_at": "2026-10-10T20:31:31.316Z"
-    },
-    {
-      "id": "3J31Ng3dKKJ6sEHDtV9hSp",
-      "name": "No Other Heart",
-      "url": "https://open.spotify.com/track/3J31Ng3dKKJ6sEHDtV9hSp",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "Another One",
-        "image": "https://i.scdn.co/image/ab67616d0000b27363bb237154c47c65da7f63c2"
-      },
-      "duration_ms": 173117,
-      "played_at": "2026-10-10T02:42:28.020Z"
-    },
-    {
-      "id": "3wUMcPzXcmaeW8QxTdyXQO",
-      "name": "Pretty Girls Make Graves - 2011 Remaster",
-      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO",
-      "artists": [
-        {
-          "id": "3yY2gUcIsjMr8hjo51PoJ8",
-          "name": "The Smiths",
-          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-        }
-      ],
-      "album": {
-        "name": "The Smiths",
-        "image": "https://i.scdn.co/image/ab67616d0000b27346b017e0c96e4186e82df085"
-      },
-      "duration_ms": 223253,
-      "played_at": "2026-10-10T02:42:27.822Z"
-    },
-    {
-      "id": "1Roq03sTKb6TPKBY89YJ4v",
-      "name": "I Think I Like When It Rains",
-      "url": "https://open.spotify.com/track/1Roq03sTKb6TPKBY89YJ4v",
-      "artists": [
-        {
-          "id": "3OykSjAE6F2Mb51WplFoRk",
-          "name": "WILLIS",
-          "url": "https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk"
-        }
-      ],
-      "album": {
-        "name": "Locals 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732d69c136cce5333f00d848fc"
-      },
-      "duration_ms": 278293,
-      "played_at": "2026-10-10T02:38:55.540Z"
-    },
-    {
-      "id": "0UV5zxRMz6AO4ZwUOZNIKI",
-      "name": "Where'd All the Time Go?",
-      "url": "https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI",
-      "artists": [
-        {
-          "id": "4mLJ3XfOM5FPjSAWdQ2Jk7",
-          "name": "Dr. Dog",
-          "url": "https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7"
-        }
-      ],
-      "album": {
-        "name": "Shame, Shame (Deluxe Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730478062bc04df0947d232fcb"
-      },
-      "duration_ms": 234800,
-      "played_at": "2026-10-10T02:34:26.268Z"
-    },
-    {
-      "id": "3MRGPpSroiVOxUdEOhHv4C",
-      "name": "Árvores do Fundo do Quintal",
-      "url": "https://open.spotify.com/track/3MRGPpSroiVOxUdEOhHv4C",
-      "artists": [
-        {
-          "id": "40FLeMjObSRuLxId2AreLK",
-          "name": "clara bicho",
-          "url": "https://open.spotify.com/artist/40FLeMjObSRuLxId2AreLK"
-        },
-        {
-          "id": "0SE1q0DtRWvOcjt78ZZ4ZF",
-          "name": "Exclusive Os Cabides",
-          "url": "https://open.spotify.com/artist/0SE1q0DtRWvOcjt78ZZ4ZF"
-        }
-      ],
-      "album": {
-        "name": "Árvores do Fundo do Quintal",
-        "image": "https://i.scdn.co/image/ab67616d0000b27361fae2e3ce4856684564211d"
-      },
-      "duration_ms": 204500,
-      "played_at": "2026-10-10T02:30:40.338Z"
-    },
-    {
-      "id": "2zQ6pYIh4UKG7xmMz5e2jj",
-      "name": "Besa",
-      "url": "https://open.spotify.com/track/2zQ6pYIh4UKG7xmMz5e2jj",
-      "artists": [
-        {
-          "id": "3hnNIsiWatVyHen6mz79sf",
-          "name": "Cidade Dormitório",
-          "url": "https://open.spotify.com/artist/3hnNIsiWatVyHen6mz79sf"
-        }
-      ],
-      "album": {
-        "name": "Fraternidade-Terror",
-        "image": "https://i.scdn.co/image/ab67616d0000b27326864a003c19af5940771256"
-      },
-      "duration_ms": 264973,
-      "played_at": "2026-10-10T02:27:24.935Z"
-    },
-    {
-      "id": "4QYGKJExNwTvNhf64Cp2XI",
-      "name": "Olha Só",
-      "url": "https://open.spotify.com/track/4QYGKJExNwTvNhf64Cp2XI",
-      "artists": [
-        {
-          "id": "7c8kQb9AUntvapfnuC3IhF",
-          "name": "Terno Rei",
-          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
-        }
-      ],
-      "album": {
-        "name": "Gêmeos",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737142cb5eff7fb7d4f29a24d8"
-      },
-      "duration_ms": 166000,
-      "played_at": "2026-10-10T02:23:08.942Z"
-    },
-    {
-      "id": "4NUhcsz9E1LrBe8nXLZqzp",
-      "name": "It Almost Worked",
-      "url": "https://open.spotify.com/track/4NUhcsz9E1LrBe8nXLZqzp",
-      "artists": [
-        {
-          "id": "0Y6dVaC9DZtPNH4591M42W",
-          "name": "TV Girl",
-          "url": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-        }
-      ],
-      "album": {
-        "name": "The Night in Question: French Exit Outtakes",
-        "image": "https://i.scdn.co/image/ab67616d0000b273870138983fee24fe052d12af"
-      },
-      "duration_ms": 152000,
-      "played_at": "2026-10-10T02:20:32.015Z"
-    },
-    {
-      "id": "0CBvj4hRSoN2jG34cUffuq",
-      "name": "Summer Lover",
-      "url": "https://open.spotify.com/track/0CBvj4hRSoN2jG34cUffuq",
-      "artists": [
-        {
-          "id": "6iT2YoEvBBNXpfHrOvAmk9",
-          "name": "YMA",
-          "url": "https://open.spotify.com/artist/6iT2YoEvBBNXpfHrOvAmk9"
-        },
-        {
-          "id": "70DRYhcYN1cmMFUjDLf9FU",
-          "name": "Gab Ferreira",
-          "url": "https://open.spotify.com/artist/70DRYhcYN1cmMFUjDLf9FU"
-        }
-      ],
-      "album": {
-        "name": "Summer Lover",
-        "image": "https://i.scdn.co/image/ab67616d0000b273446ae9455f6376ff539a2b55"
-      },
-      "duration_ms": 227518,
-      "played_at": "2026-10-10T02:18:09.012Z"
-    },
-    {
-      "id": "04Xrk7U4pO1PHHJPmCR7nk",
-      "name": "The Way I Drop",
-      "url": "https://open.spotify.com/track/04Xrk7U4pO1PHHJPmCR7nk",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
-      },
-      "duration_ms": 162175,
-      "played_at": "2026-10-10T00:51:00.985Z"
-    },
-    {
-      "id": "39UIGfLXmKgetqGJRvYpGF",
-      "name": "Cuntelectual",
-      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
-      },
-      "duration_ms": 131050,
-      "played_at": "2026-10-09T23:20:53.414Z"
-    },
-    {
-      "id": "0UNqdgLDVDGIUlyqI0Pq43",
-      "name": "Alibi (with Pabllo Vittar & Yseult)",
-      "url": "https://open.spotify.com/track/0UNqdgLDVDGIUlyqI0Pq43",
-      "artists": [
-        {
-          "id": "5MraexJKZDrQYzS98kNwie",
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "id": "6tzRZ39aZlNqlUzQlkuhDV",
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "id": "1QsdzIKkTT5gDFj8GB1cIX",
-          "name": "Yseult",
-          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
-        }
-      ],
-      "album": {
-        "name": "HEROINA",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738764879d436c2b7dfe130396"
-      },
-      "duration_ms": 161655,
-      "played_at": "2026-10-09T23:11:26.730Z"
-    },
-    {
-      "id": "1QxfiSKbs0x9FIljyq5XqF",
-      "name": "Manifestação do Amor",
-      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF",
-      "artists": [
-        {
-          "id": "5Znx4PG5UsUitigaJnmZX3",
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "album": {
-        "name": "Manifestação do Amor",
-        "image": "https://i.scdn.co/image/ab67616d0000b27350036e48200edc8a2da014ad"
-      },
-      "duration_ms": 162321,
-      "played_at": "2026-10-09T23:08:54.108Z"
     }
   ]
 }
