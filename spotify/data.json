@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-13T00:03:50.118277+00:00",
+  "updated_at": "2026-10-13T13:24:18.144213+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -280,6 +280,28 @@
       "duration_ms": 521866
     },
     {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473
+    },
+    {
       "id": "1hL4Ez8As4A4VJBw8X2eVA",
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
@@ -339,28 +361,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
       },
       "duration_ms": 165333
-    },
-    {
-      "id": "1r5xSeHHrnnAPlZD8s03N1",
-      "name": "Codinome Exagerado",
-      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
-      "artists": [
-        {
-          "id": "21Z6OxfrB1jTI53TaDMm67",
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        },
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "Codinome Exagerado",
-        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
-      },
-      "duration_ms": 189473
     },
     {
       "id": "2FEWcWHnDmGD6WSqpW4VYu",
@@ -431,6 +431,23 @@
       "duration_ms": 263026
     },
     {
+      "id": "0WiMJIxYYEex2AqhRqzV3u",
+      "name": "For the First Time",
+      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
+      "artists": [
+        {
+          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+          "name": "Mac DeMarco",
+          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+        }
+      ],
+      "album": {
+        "name": "This Old Dog",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
+      },
+      "duration_ms": 182306
+    },
+    {
       "id": "2R5smAQVZCdyulSwDPYFeZ",
       "name": "50 Meninas",
       "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
@@ -465,23 +482,6 @@
       "duration_ms": 262424
     },
     {
-      "id": "0WiMJIxYYEex2AqhRqzV3u",
-      "name": "For the First Time",
-      "url": "https://open.spotify.com/track/0WiMJIxYYEex2AqhRqzV3u",
-      "artists": [
-        {
-          "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
-          "name": "Mac DeMarco",
-          "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
-        }
-      ],
-      "album": {
-        "name": "This Old Dog",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733f7561fb0914fb1f5f101f0a"
-      },
-      "duration_ms": 182306
-    },
-    {
       "id": "57wrj5gmY8aZA4YBmqfitc",
       "name": "Teto de Vidro",
       "url": "https://open.spotify.com/track/57wrj5gmY8aZA4YBmqfitc",
@@ -500,6 +500,29 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473,
+      "played_at": "2026-10-13T02:24:28.910Z"
+    },
     {
       "id": "2picCrZrElxsU6wdbPlHjl",
       "name": "Evidências - Ao Vivo",
@@ -1456,24 +1479,6 @@
       },
       "duration_ms": 261466,
       "played_at": "2026-10-12T07:09:42.149Z"
-    },
-    {
-      "id": "1zFbBrZmJr1Z49HYe84dBg",
-      "name": "Harvey",
-      "url": "https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg",
-      "artists": [
-        {
-          "id": "77mJc3M7ZT5oOVM7gNdXim",
-          "name": "Her's",
-          "url": "https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim"
-        }
-      ],
-      "album": {
-        "name": "Invitation to Her's",
-        "image": "https://i.scdn.co/image/ab67616d0000b273280a001e43c93792dd1e27c7"
-      },
-      "duration_ms": 211165,
-      "played_at": "2026-10-12T07:05:29.688Z"
     }
   ]
 }
