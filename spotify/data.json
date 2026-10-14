@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14T11:02:31.500611+00:00",
+  "updated_at": "2026-10-14T16:22:27.078546+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -68,28 +68,28 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb9ba799363b79e9a73b2c303a"
     },
     {
-      "id": "7IAXZaLTb6nkJr8RmVPn5y",
-      "name": "ANGRA",
-      "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb07a22f1e40e3aaf072fa302a"
-    },
-    {
       "id": "57pVvBwa3ZCR9LsVlkLXj7",
       "name": "Vanessa Da Mata",
       "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7",
       "image": "https://i.scdn.co/image/ab6761610000e5eb0726b3a2a4db36495765f020"
     },
     {
-      "id": "4boI7bJtmB1L3b1cuL75Zr",
-      "name": "Mon Laferte",
-      "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
-    },
-    {
       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
       "name": "Billie Eilish",
       "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH",
       "image": "https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da"
+    },
+    {
+      "id": "7IAXZaLTb6nkJr8RmVPn5y",
+      "name": "ANGRA",
+      "url": "https://open.spotify.com/artist/7IAXZaLTb6nkJr8RmVPn5y",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb07a22f1e40e3aaf072fa302a"
+    },
+    {
+      "id": "4boI7bJtmB1L3b1cuL75Zr",
+      "name": "Mon Laferte",
+      "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
     },
     {
       "id": "3yY2gUcIsjMr8hjo51PoJ8",
@@ -501,6 +501,24 @@
   ],
   "recently_played": [
     {
+      "id": "2SsY5k7UWFqgye3PUMG3Oq",
+      "name": "The Subway",
+      "url": "https://open.spotify.com/track/2SsY5k7UWFqgye3PUMG3Oq",
+      "artists": [
+        {
+          "id": "7GlBOeep6PqTfFi59PTUUN",
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "album": {
+        "name": "The Subway",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730b96f8824100aab118792442"
+      },
+      "duration_ms": 252276,
+      "played_at": "2026-10-14T11:44:33.892Z"
+    },
+    {
       "id": "4AcDe8mX2iMX52Qfi7rEjg",
       "name": "Fio De Cabelo - Ao Vivo",
       "url": "https://open.spotify.com/track/4AcDe8mX2iMX52Qfi7rEjg",
@@ -535,6 +553,101 @@
       },
       "duration_ms": 191440,
       "played_at": "2026-10-14T09:53:10.577Z"
+    },
+    {
+      "id": "4T8ox558vnY7tCdWvdOhan",
+      "name": "Ai Que Calor",
+      "url": "https://open.spotify.com/track/4T8ox558vnY7tCdWvdOhan",
+      "artists": [
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Batidão Tropical Vol. 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273eb3be2aa722f8170d5b8c80e"
+      },
+      "duration_ms": 144175,
+      "played_at": "2026-10-14T09:39:42.594Z"
+    },
+    {
+      "id": "5TxRUOsGeWeRl3xOML59Ai",
+      "name": "ARE WE STILL FRIENDS?",
+      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai",
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "album": {
+        "name": "IGOR",
+        "image": "https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb"
+      },
+      "duration_ms": 265480,
+      "played_at": "2026-10-14T09:32:08.336Z"
+    },
+    {
+      "id": "2KP3zqq9MQarh2WwsuonoM",
+      "name": "Menino Bonito",
+      "url": "https://open.spotify.com/track/2KP3zqq9MQarh2WwsuonoM",
+      "artists": [
+        {
+          "id": "7dnT2FUXhjirperXaH22IJ",
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "album": {
+        "name": "Atrás Do Porto Tem Uma Cidade",
+        "image": "https://i.scdn.co/image/ab67616d0000b273eeeb28cac7fe7e8238679064"
+      },
+      "duration_ms": 166333,
+      "played_at": "2026-10-14T09:26:03.098Z"
+    },
+    {
+      "id": "5Az8KU81g2aLBbJN67F2CI",
+      "name": "Mind Over Matter",
+      "url": "https://open.spotify.com/track/5Az8KU81g2aLBbJN67F2CI",
+      "artists": [
+        {
+          "id": "4j56EQDQu5XnL7R3E9iFJT",
+          "name": "Young the Giant",
+          "url": "https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT"
+        }
+      ],
+      "album": {
+        "name": "Mind Over Matter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d1a1b0e0f3e0fc586393092"
+      },
+      "duration_ms": 244693,
+      "played_at": "2026-10-14T09:23:21.456Z"
+    },
+    {
+      "id": "0Al15mz670v9J7ik2FXDAr",
+      "name": "Static",
+      "url": "https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr",
+      "artists": [
+        {
+          "id": "4zKYrXs8iN4AeHmO8ZxNqp",
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "album": {
+        "name": "The Last Exit",
+        "image": "https://i.scdn.co/image/ab67616d0000b273017cd0686496c00ce6557926"
+      },
+      "duration_ms": 235093,
+      "played_at": "2026-10-14T09:10:15.579Z"
     },
     {
       "id": "0u2P5u6lvoDfwTYjAADbn4",
@@ -1316,129 +1429,6 @@
       },
       "duration_ms": 154424,
       "played_at": "2026-10-14T05:34:45.896Z"
-    },
-    {
-      "id": "44ONERBHALxftQNWq6dmyd",
-      "name": "Side To Side",
-      "url": "https://open.spotify.com/track/44ONERBHALxftQNWq6dmyd",
-      "artists": [
-        {
-          "id": "66CXWjxzNUsdJxJ2JdwvnR",
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "id": "0hCNtLu0JehylgoiP8L4Gh",
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "album": {
-        "name": "Dangerous Woman",
-        "image": "https://i.scdn.co/image/ab67616d0000b27333342c57a9b2c4e04c97b3f5"
-      },
-      "duration_ms": 226160,
-      "played_at": "2026-10-14T05:32:20.503Z"
-    },
-    {
-      "id": "63Pi2NAx5yCgeLhCTOrEou",
-      "name": "Headlock",
-      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou",
-      "artists": [
-        {
-          "id": "6Xb4ezwoAQC4516kI89nWz",
-          "name": "Imogen Heap",
-          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
-        }
-      ],
-      "album": {
-        "name": "Speak for Yourself (Deluxe Version)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27396623f4784c88259592fb8a1"
-      },
-      "duration_ms": 215338,
-      "played_at": "2026-10-14T05:28:43.393Z"
-    },
-    {
-      "id": "3DarAbFujv6eYNliUTyqtz",
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "id": "7tYKF4w9nC0nq9CsPZTHyP",
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 208666,
-      "played_at": "2026-10-14T05:25:17.007Z"
-    },
-    {
-      "id": "1YM3cVri0CmSX7c71gwALR",
-      "name": "The Trip - 2023 Remaster",
-      "url": "https://open.spotify.com/track/1YM3cVri0CmSX7c71gwALR",
-      "artists": [
-        {
-          "id": "4zKYrXs8iN4AeHmO8ZxNqp",
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "album": {
-        "name": "Strange Pleasures: 10th Anniversary Edition (2023 Remaster)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734f32976dd19a3fd1d380aec6"
-      },
-      "duration_ms": 373266,
-      "played_at": "2026-10-14T05:21:57.421Z"
-    },
-    {
-      "id": "1UcyzhmBDfdw07DiuT7DEG",
-      "name": "The Perfect Girl - The Motion Retrowave Remix",
-      "url": "https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG",
-      "artists": [
-        {
-          "id": "7riQPkkGZBnTh9ve5qIhYo",
-          "name": "Mareux",
-          "url": "https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo"
-        },
-        {
-          "id": "2Oa32CWdPcsW36MkDRjM5n",
-          "name": "The Motion",
-          "url": "https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n"
-        }
-      ],
-      "album": {
-        "name": "The Perfect Girl (The Motion Retrowave Remix)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a6997efdcd54ebfda6d10585"
-      },
-      "duration_ms": 181016,
-      "played_at": "2026-10-14T05:15:53.067Z"
-    },
-    {
-      "id": "1JLn8RhQzHz3qDqsChcmBl",
-      "name": "I Want to Know What Love Is - 1999 Remaster",
-      "url": "https://open.spotify.com/track/1JLn8RhQzHz3qDqsChcmBl",
-      "artists": [
-        {
-          "id": "6IRouO5mvvfcyxtPDKMYFN",
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "album": {
-        "name": "Agent Provocateur",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733e030a7e606959674643d274"
-      },
-      "duration_ms": 304786,
-      "played_at": "2026-10-14T05:13:01.134Z"
     }
   ]
 }
