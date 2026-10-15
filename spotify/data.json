@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T10:45:24.685842+00:00",
+  "updated_at": "2026-10-15T16:11:04.000265+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,78 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "5DN7LROd7Tio5pG9PgFzj2",
+      "name": "Meu Pisêro",
+      "url": "https://open.spotify.com/track/5DN7LROd7Tio5pG9PgFzj2",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
+      },
+      "duration_ms": 199813,
+      "played_at": "2026-10-15T11:13:48.417Z"
+    },
+    {
+      "id": "0eXVtgVU61LmIjWUYrLwpV",
+      "name": "A verdade é que a cidade vai me matar",
+      "url": "https://open.spotify.com/track/0eXVtgVU61LmIjWUYrLwpV",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 163278,
+      "played_at": "2026-10-15T11:10:37.627Z"
+    },
+    {
+      "id": "2r8WpiohQGwWvOZnwLAZDS",
+      "name": "Ocitocina",
+      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 220000,
+      "played_at": "2026-10-15T11:07:54.340Z"
+    },
+    {
+      "id": "3cFf4K6ew15k8bYe16kJ9N",
+      "name": "Como uma onda - Zen-surfismo",
+      "url": "https://open.spotify.com/track/3cFf4K6ew15k8bYe16kJ9N",
+      "artists": [
+        {
+          "id": "0A1oy7PC7fdzURgaLaWkL1",
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "album": {
+        "name": "O Ritmo do Momento",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d2f858873d5f1b3d2734fca0"
+      },
+      "duration_ms": 217026,
+      "played_at": "2026-10-15T11:03:03.279Z"
+    },
     {
       "id": "5kUFoBhCLHF9s4HmczC1NK",
       "name": "Tudo Vira Bosta",
@@ -1352,88 +1424,6 @@
       },
       "duration_ms": 141200,
       "played_at": "2026-10-15T06:11:32.474Z"
-    },
-    {
-      "id": "6z9rbTyybj57JXKu6s7uuq",
-      "name": "Desculpe O Auê",
-      "url": "https://open.spotify.com/track/6z9rbTyybj57JXKu6s7uuq",
-      "artists": [
-        {
-          "id": "7dnT2FUXhjirperXaH22IJ",
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "id": "4w4ll81d0dR8gz989jjko1",
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "album": {
-        "name": "Bombom",
-        "image": "https://i.scdn.co/image/ab67616d0000b273521fcbc97267ce628d341d51"
-      },
-      "duration_ms": 175400,
-      "played_at": "2026-10-15T06:09:20.250Z"
-    },
-    {
-      "id": "2KP3zqq9MQarh2WwsuonoM",
-      "name": "Menino Bonito",
-      "url": "https://open.spotify.com/track/2KP3zqq9MQarh2WwsuonoM",
-      "artists": [
-        {
-          "id": "7dnT2FUXhjirperXaH22IJ",
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "album": {
-        "name": "Atrás Do Porto Tem Uma Cidade",
-        "image": "https://i.scdn.co/image/ab67616d0000b273eeeb28cac7fe7e8238679064"
-      },
-      "duration_ms": 166333,
-      "played_at": "2026-10-15T06:06:33.733Z"
-    },
-    {
-      "id": "2qnP80eqDwpQHdFnYA1dQN",
-      "name": "q prazer",
-      "url": "https://open.spotify.com/track/2qnP80eqDwpQHdFnYA1dQN",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 213532,
-      "played_at": "2026-10-15T01:05:32.461Z"
-    },
-    {
-      "id": "4oAp6TwkxdhCEadnvXNSoV",
-      "name": "Nossa Chance",
-      "url": "https://open.spotify.com/track/4oAp6TwkxdhCEadnvXNSoV",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        },
-        {
-          "id": "3lIU3RoZiHen1QXAQ3KQ9e",
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        }
-      ],
-      "album": {
-        "name": "Nossa Chance",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c0bc7a096ab5deb705c27491"
-      },
-      "duration_ms": 224881,
-      "played_at": "2026-10-15T00:28:44.508Z"
     }
   ]
 }
