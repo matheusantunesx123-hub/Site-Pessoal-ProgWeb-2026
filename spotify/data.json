@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:57:41.048808+00:00",
+  "updated_at": "2026-10-16T20:25:20.798493+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -500,6 +500,139 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0oKdsMglh1dTsX4nrkURMX",
+      "name": "Rua do Ouro",
+      "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX",
+      "artists": [
+        {
+          "id": "2Zs8oC4IDwNcanf2QU8jkM",
+          "name": "Dj Brenno Paixão",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+        },
+        {
+          "id": "0xXEI1dXDaCOmkIPNYtPWF",
+          "name": "Mac Júlia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "id": "60ArvoSDGNI2WPhezAqz6u",
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "id": "5O2vMwEiTxszw0kbhYKVAU",
+          "name": "SAM SAM",
+          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
+        }
+      ],
+      "album": {
+        "name": "Rua do Ouro",
+        "image": "https://i.scdn.co/image/ab67616d0000b27383c9c9bef3b376b176c575ba"
+      },
+      "duration_ms": 136615,
+      "played_at": "2026-10-16T20:01:10.838Z"
+    },
+    {
+      "id": "6xi41eSOTp4o5N84iIyUs8",
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "album": {
+        "name": "TOMA NO CU (Maria Gasolina)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
+      },
+      "duration_ms": 91321,
+      "played_at": "2026-10-16T19:59:03.140Z"
+    },
+    {
+      "id": "55d7fAJmM0R2TDfuHWPwnc",
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/55d7fAJmM0R2TDfuHWPwnc",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 259519,
+      "played_at": "2026-10-16T19:54:55.704Z"
+    },
+    {
+      "id": "7Mu4XSS2eqoUUrWDkJjQJD",
+      "name": "NA TUA CABEÇA",
+      "url": "https://open.spotify.com/track/7Mu4XSS2eqoUUrWDkJjQJD",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 220381,
+      "played_at": "2026-10-16T19:50:33.974Z"
+    },
+    {
+      "id": "2r8WpiohQGwWvOZnwLAZDS",
+      "name": "Ocitocina",
+      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 220000,
+      "played_at": "2026-10-16T19:46:39.116Z"
+    },
+    {
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473,
+      "played_at": "2026-10-16T19:30:52.891Z"
+    },
     {
       "id": "2r8WpiohQGwWvOZnwLAZDS",
       "name": "Ocitocina",
@@ -1396,124 +1529,6 @@
       },
       "duration_ms": 238058,
       "played_at": "2026-10-16T06:32:09.582Z"
-    },
-    {
-      "id": "20b6CAM96m1oELvRPGAcwU",
-      "name": "Amarela Paixão",
-      "url": "https://open.spotify.com/track/20b6CAM96m1oELvRPGAcwU",
-      "artists": [
-        {
-          "id": "5ZtyHkAGvYFPSYcWPfmL5n",
-          "name": "Liniker e os Caramelows",
-          "url": "https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n"
-        },
-        {
-          "id": "2O6q06oNcmOIPg1qidSU3C",
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        },
-        {
-          "id": "7v5Y5Ua4GZTLrbYUUfK9Hi",
-          "name": "Caramelows",
-          "url": "https://open.spotify.com/artist/7v5Y5Ua4GZTLrbYUUfK9Hi"
-        }
-      ],
-      "album": {
-        "name": "Goela Abaixo",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d22a284ef045b8ec2092241c"
-      },
-      "duration_ms": 241685,
-      "played_at": "2026-10-16T06:28:20.572Z"
-    },
-    {
-      "id": "3Rezv7ZN2NOEqfqVLlMAHk",
-      "name": "Atômico Platônico (Da Série Original Amazon Manhãs De Setembro)",
-      "url": "https://open.spotify.com/track/3Rezv7ZN2NOEqfqVLlMAHk",
-      "artists": [
-        {
-          "id": "2O6q06oNcmOIPg1qidSU3C",
-          "name": "Liniker",
-          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
-        }
-      ],
-      "album": {
-        "name": "Atômico Platônico (Da Série Original Amazon Manhãs De Setembro)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d59049ff231d215c6199545b"
-      },
-      "duration_ms": 181263,
-      "played_at": "2026-10-16T06:24:27.870Z"
-    },
-    {
-      "id": "7iF9q3EgryAbl24AT559DF",
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/7iF9q3EgryAbl24AT559DF",
-      "artists": [
-        {
-          "id": "5xA5rj8tUegPoax30Xs2uh",
-          "name": "Getúlio Abelha",
-          "url": "https://open.spotify.com/artist/5xA5rj8tUegPoax30Xs2uh"
-        }
-      ],
-      "album": {
-        "name": "Autópsia+",
-        "image": "https://i.scdn.co/image/ab67616d0000b273030fbea42ece843e3ffa92e8"
-      },
-      "duration_ms": 145048,
-      "played_at": "2026-10-16T06:21:35.672Z"
-    },
-    {
-      "id": "4Krb89Rjztv9LvyWYL5YVh",
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/4Krb89Rjztv9LvyWYL5YVh",
-      "artists": [
-        {
-          "id": "4wMwIE7PB2nb4S6bI5ZlJE",
-          "name": "Mãeana",
-          "url": "https://open.spotify.com/artist/4wMwIE7PB2nb4S6bI5ZlJE"
-        }
-      ],
-      "album": {
-        "name": "mãeana canta JG",
-        "image": "https://i.scdn.co/image/ab67616d0000b273279edadc3a8b023c43bd368e"
-      },
-      "duration_ms": 181400,
-      "played_at": "2026-10-16T06:19:19.550Z"
-    },
-    {
-      "id": "6ofxeLdVYvY5mOYKAIDThF",
-      "name": "Próxima Parada",
-      "url": "https://open.spotify.com/track/6ofxeLdVYvY5mOYKAIDThF",
-      "artists": [
-        {
-          "id": "7c8kQb9AUntvapfnuC3IhF",
-          "name": "Terno Rei",
-          "url": "https://open.spotify.com/artist/7c8kQb9AUntvapfnuC3IhF"
-        }
-      ],
-      "album": {
-        "name": "Nenhuma Estrela",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733d3a0ea5b56a35bf84034ebe"
-      },
-      "duration_ms": 171920,
-      "played_at": "2026-10-16T06:16:27.149Z"
-    },
-    {
-      "id": "16L1FLZDGYg76gB2pwjgzr",
-      "name": "Navegar",
-      "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 154752,
-      "played_at": "2026-10-16T06:13:44.216Z"
     }
   ]
 }
