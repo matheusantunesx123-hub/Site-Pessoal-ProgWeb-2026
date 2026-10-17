@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T02:42:27.424269+00:00",
+  "updated_at": "2026-10-17T10:02:47.085947+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -214,23 +214,6 @@
       "duration_ms": 105442
     },
     {
-      "id": "0lWfavNNZv6eYAvNlJjIfz",
-      "name": "Fire In My Heart",
-      "url": "https://open.spotify.com/track/0lWfavNNZv6eYAvNlJjIfz",
-      "artists": [
-        {
-          "id": "1xSJPHGAj5EOrbeUCbbUD9",
-          "name": "Escape from New York",
-          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
-        }
-      ],
-      "album": {
-        "name": "Fire in My Heart",
-        "image": "https://i.scdn.co/image/ab67616d0000b27375fd9ec7678af2ee912b4b66"
-      },
-      "duration_ms": 313638
-    },
-    {
       "id": "0gbNLi9uvioDGatRBM8HHo",
       "name": "Vídeo Sensual",
       "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
@@ -261,6 +244,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27316f5c72a62143a51a3637425"
       },
       "duration_ms": 148921
+    },
+    {
+      "id": "0lWfavNNZv6eYAvNlJjIfz",
+      "name": "Fire In My Heart",
+      "url": "https://open.spotify.com/track/0lWfavNNZv6eYAvNlJjIfz",
+      "artists": [
+        {
+          "id": "1xSJPHGAj5EOrbeUCbbUD9",
+          "name": "Escape from New York",
+          "url": "https://open.spotify.com/artist/1xSJPHGAj5EOrbeUCbbUD9"
+        }
+      ],
+      "album": {
+        "name": "Fire in My Heart",
+        "image": "https://i.scdn.co/image/ab67616d0000b27375fd9ec7678af2ee912b4b66"
+      },
+      "duration_ms": 313638
     },
     {
       "id": "1r5xSeHHrnnAPlZD8s03N1",
@@ -482,21 +482,26 @@
       "duration_ms": 212720
     },
     {
-      "id": "7nGGKB0KX7FojvyJ5DNrK3",
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
+      "id": "1nSF7mrf2Wt4VKsN3cemM2",
+      "name": "Voz Do Brasil",
+      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
       "artists": [
         {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "76hYPcWML9NGEh8LashwT5",
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
         }
       ],
       "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
       },
-      "duration_ms": 217916
+      "duration_ms": 193920
     }
   ],
   "recently_played": [
