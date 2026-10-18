@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-18T02:43:46.017129+00:00",
+  "updated_at": "2026-10-18T10:15:49.264365+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -380,6 +380,28 @@
       "duration_ms": 334373
     },
     {
+      "id": "1nSF7mrf2Wt4VKsN3cemM2",
+      "name": "Voz Do Brasil",
+      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "76hYPcWML9NGEh8LashwT5",
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 193920
+    },
+    {
       "id": "0YrH15XcTh2Kf3re3yubZ5",
       "name": "Metade Da Metade",
       "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
@@ -480,28 +502,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
       },
       "duration_ms": 212720
-    },
-    {
-      "id": "1nSF7mrf2Wt4VKsN3cemM2",
-      "name": "Voz Do Brasil",
-      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        },
-        {
-          "id": "76hYPcWML9NGEh8LashwT5",
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 193920
     }
   ],
   "recently_played": [
