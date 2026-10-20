@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T10:50:35.136300+00:00",
+  "updated_at": "2026-10-20T16:14:24.938027+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -505,6 +505,34 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3ZmaXPth5DwzJTtbsf7via",
+      "name": "Vênus Em Escorpião",
+      "url": "https://open.spotify.com/track/3ZmaXPth5DwzJTtbsf7via",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "id": "2SFIMUkCdZowbeisskDdhn",
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Purakê",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b35f3ca94bb35c620903b8db"
+      },
+      "duration_ms": 183263,
+      "played_at": "2026-10-20T11:36:43.398Z"
+    },
     {
       "id": "0ZBYKXS2sFtFOiJNt97mPP",
       "name": "Nas Asas do Senhor (feat. Celina Borges)",
@@ -1596,24 +1624,6 @@
       },
       "duration_ms": 181146,
       "played_at": "2026-10-19T09:46:13.687Z"
-    },
-    {
-      "id": "1QxfiSKbs0x9FIljyq5XqF",
-      "name": "Manifestação do Amor",
-      "url": "https://open.spotify.com/track/1QxfiSKbs0x9FIljyq5XqF",
-      "artists": [
-        {
-          "id": "5Znx4PG5UsUitigaJnmZX3",
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "album": {
-        "name": "Manifestação do Amor",
-        "image": "https://i.scdn.co/image/ab67616d0000b27350036e48200edc8a2da014ad"
-      },
-      "duration_ms": 162321,
-      "played_at": "2026-10-18T23:47:47.596Z"
     }
   ]
 }
