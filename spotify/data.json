@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T16:14:24.938027+00:00",
+  "updated_at": "2026-10-20T21:09:42.387983+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -505,6 +505,62 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3ZmaXPth5DwzJTtbsf7via",
+      "name": "Vênus Em Escorpião",
+      "url": "https://open.spotify.com/track/3ZmaXPth5DwzJTtbsf7via",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "id": "2SFIMUkCdZowbeisskDdhn",
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Purakê",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b35f3ca94bb35c620903b8db"
+      },
+      "duration_ms": 183263,
+      "played_at": "2026-10-20T18:44:09.420Z"
+    },
+    {
+      "id": "3ZmaXPth5DwzJTtbsf7via",
+      "name": "Vênus Em Escorpião",
+      "url": "https://open.spotify.com/track/3ZmaXPth5DwzJTtbsf7via",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "id": "2SFIMUkCdZowbeisskDdhn",
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Purakê",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b35f3ca94bb35c620903b8db"
+      },
+      "duration_ms": 183263,
+      "played_at": "2026-10-20T11:39:37.694Z"
+    },
     {
       "id": "3ZmaXPth5DwzJTtbsf7via",
       "name": "Vênus Em Escorpião",
@@ -1588,42 +1644,6 @@
       },
       "duration_ms": 284430,
       "played_at": "2026-10-19T11:04:19.044Z"
-    },
-    {
-      "id": "5oqSMBzlsGQ1DpZ6mCTpey",
-      "name": "Minha Essência",
-      "url": "https://open.spotify.com/track/5oqSMBzlsGQ1DpZ6mCTpey",
-      "artists": [
-        {
-          "id": "7nhFPRuBTebusd2cBMAaEK",
-          "name": "Thiago Brado",
-          "url": "https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK"
-        }
-      ],
-      "album": {
-        "name": "Minha Essência",
-        "image": "https://i.scdn.co/image/ab67616d0000b273da6bf26a53ec2ad6c043031a"
-      },
-      "duration_ms": 375613,
-      "played_at": "2026-10-19T10:59:43.650Z"
-    },
-    {
-      "id": "1NpD7cQH8hGMZrufOQQ0Xk",
-      "name": "Chora, Me Liga - Ao Vivo",
-      "url": "https://open.spotify.com/track/1NpD7cQH8hGMZrufOQQ0Xk",
-      "artists": [
-        {
-          "id": "7zIRO89G0FBAQtGMHO1Wa0",
-          "name": "João Bosco & Vinícius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "album": {
-        "name": "Curtição (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27342e5786875a30fb89b878f22"
-      },
-      "duration_ms": 181146,
-      "played_at": "2026-10-19T09:46:13.687Z"
     }
   ]
 }
