@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23T03:04:17.528532+00:00",
+  "updated_at": "2026-10-23T10:54:49.809464+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -32,12 +32,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d"
     },
     {
-      "id": "6Kps94g1Npexh3LrinIOvC",
-      "name": "Calcinha Preta",
-      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
-    },
-    {
       "id": "2dmQ0vMD3THLMcz7DsvfaT",
       "name": "Pitty",
       "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT",
@@ -48,6 +42,12 @@
       "name": "Maria Bethânia",
       "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV",
       "image": "https://i.scdn.co/image/ab6761610000e5eb6dd0de52c3b1a36a6400eb6d"
+    },
+    {
+      "id": "6Kps94g1Npexh3LrinIOvC",
+      "name": "Calcinha Preta",
+      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
     },
     {
       "id": "1U1el3k54VvEUzo3ybLPlM",
@@ -62,16 +62,16 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb9ba799363b79e9a73b2c303a"
     },
     {
-      "id": "1rdXEdH8SRIqbuTbzQzd93",
-      "name": "Jaloo",
-      "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93",
-      "image": "https://i.scdn.co/image/ab6761610000e5eba3340a6e6c87ade606b5dae7"
-    },
-    {
       "id": "4rF7c8zpCKzuSXohs2HIpA",
       "name": "Steven Universe",
       "url": "https://open.spotify.com/artist/4rF7c8zpCKzuSXohs2HIpA",
       "image": "https://i.scdn.co/image/ab6761610000e5eb5821a955623f4b2b76efdbaf"
+    },
+    {
+      "id": "1rdXEdH8SRIqbuTbzQzd93",
+      "name": "Jaloo",
+      "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba3340a6e6c87ade606b5dae7"
     },
     {
       "id": "57pVvBwa3ZCR9LsVlkLXj7",
@@ -98,12 +98,6 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb084908d5e330d10976c6fc2c"
     },
     {
-      "id": "3yY2gUcIsjMr8hjo51PoJ8",
-      "name": "The Smiths",
-      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
-      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
-    },
-    {
       "id": "6MK5Z7OjpkcN6OFe6nh8pi",
       "name": "DJ EXE",
       "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi",
@@ -114,6 +108,12 @@
       "name": "The Marías",
       "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx",
       "image": "https://i.scdn.co/image/ab6761610000e5ebaf586afa2b397f1288683a76"
+    },
+    {
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "name": "The Smiths",
+      "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
+      "image": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9"
     },
     {
       "id": "1QAJqy2dA3ihHBFIHRphZj",
@@ -285,23 +285,6 @@
       "duration_ms": 189473
     },
     {
-      "id": "1uvyZBs4IZYRebHIB1747m",
-      "name": "Purple Rain",
-      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
-      "artists": [
-        {
-          "id": "5a2EaR3hamoenG9rDuVn8j",
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "album": {
-        "name": "Purple Rain",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
-      },
-      "duration_ms": 521866
-    },
-    {
       "id": "1hL4Ez8As4A4VJBw8X2eVA",
       "name": "Peligrosa",
       "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
@@ -317,6 +300,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
       },
       "duration_ms": 149387
+    },
+    {
+      "id": "1uvyZBs4IZYRebHIB1747m",
+      "name": "Purple Rain",
+      "url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+      "artists": [
+        {
+          "id": "5a2EaR3hamoenG9rDuVn8j",
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "album": {
+        "name": "Purple Rain",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738a2ce3f148f57584269c3782"
+      },
+      "duration_ms": 521866
     },
     {
       "id": "17YVWP3yXLnplHHCOU7RGI",
@@ -390,21 +390,21 @@
       "duration_ms": 183263
     },
     {
-      "id": "2FEWcWHnDmGD6WSqpW4VYu",
-      "name": "This I Love",
-      "url": "https://open.spotify.com/track/2FEWcWHnDmGD6WSqpW4VYu",
+      "id": "5lAnYvAIkSDNXqfo7DyFUm",
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
       "artists": [
         {
-          "id": "3qm84nBOXUEQ2vnTfUTTFC",
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
       "album": {
-        "name": "Chinese Democracy",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e29a351729da4d29214e54e2"
+        "name": "Planet Her",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
       },
-      "duration_ms": 334373
+      "duration_ms": 174253
     },
     {
       "id": "1nSF7mrf2Wt4VKsN3cemM2",
@@ -429,23 +429,6 @@
       "duration_ms": 193920
     },
     {
-      "id": "5lAnYvAIkSDNXqfo7DyFUm",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 174253
-    },
-    {
       "id": "0YrH15XcTh2Kf3re3yubZ5",
       "name": "Metade Da Metade",
       "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
@@ -461,6 +444,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
       },
       "duration_ms": 184659
+    },
+    {
+      "id": "2r8WpiohQGwWvOZnwLAZDS",
+      "name": "Ocitocina",
+      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 220000
     },
     {
       "id": "55pBIZO1cqoldeqpp5WR7H",
@@ -497,21 +497,21 @@
       "duration_ms": 182306
     },
     {
-      "id": "2r8WpiohQGwWvOZnwLAZDS",
-      "name": "Ocitocina",
-      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
+      "id": "2R5smAQVZCdyulSwDPYFeZ",
+      "name": "50 Meninas",
+      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
       "artists": [
         {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
         }
       ],
       "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+        "name": "Te Amo Lá Fora",
+        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
       },
-      "duration_ms": 220000
+      "duration_ms": 212693
     }
   ],
   "recently_played": [
