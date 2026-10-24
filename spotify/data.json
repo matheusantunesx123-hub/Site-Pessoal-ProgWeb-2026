@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T15:16:39.296251+00:00",
+  "updated_at": "2026-10-24T20:06:15.405383+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -515,6 +515,155 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1vESo1aF09DXmwwyHJVhne",
+      "name": "Vermelho",
+      "url": "https://open.spotify.com/track/1vESo1aF09DXmwwyHJVhne",
+      "artists": [
+        {
+          "id": "6n45wsxj6sDedgwEyTza6d",
+          "name": "Fafá de Belém",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "album": {
+        "name": "Pássaro Sonhador",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738e937d0e11caa96f8b29c04b"
+      },
+      "duration_ms": 227426,
+      "played_at": "2026-10-24T20:04:12.531Z"
+    },
+    {
+      "id": "0v6BrGO1mSNHaqwrK85NIZ",
+      "name": "Bolsomico",
+      "url": "https://open.spotify.com/track/0v6BrGO1mSNHaqwrK85NIZ",
+      "artists": [
+        {
+          "id": "1k5H347aN5ZLHuvblO2Hmo",
+          "name": "Orquestra Royal",
+          "url": "https://open.spotify.com/artist/1k5H347aN5ZLHuvblO2Hmo"
+        }
+      ],
+      "album": {
+        "name": "Bolsomico",
+        "image": "https://i.scdn.co/image/ab67616d0000b27391c3a28851eb5758f1c14583"
+      },
+      "duration_ms": 120007,
+      "played_at": "2026-10-24T19:57:41.119Z"
+    },
+    {
+      "id": "7E1duSMvHGUcYRgwrMZOUf",
+      "name": "Cachimbo da Paz (feat. Lulu Santos)",
+      "url": "https://open.spotify.com/track/7E1duSMvHGUcYRgwrMZOUf",
+      "artists": [
+        {
+          "id": "5BWqFYIPTnFx3OPWOoJvmD",
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        },
+        {
+          "id": "0A1oy7PC7fdzURgaLaWkL1",
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+        }
+      ],
+      "album": {
+        "name": "Quebra - Cabeça",
+        "image": "https://i.scdn.co/image/ab67616d0000b273524c5eb8f6f7c9dd64217d16"
+      },
+      "duration_ms": 333106,
+      "played_at": "2026-10-24T19:47:46.789Z"
+    },
+    {
+      "id": "7o7MExeF7niW4VFiie5Zxh",
+      "name": "Admirável Chip Novo",
+      "url": "https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Admirável Chip Novo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
+      },
+      "duration_ms": 191520,
+      "played_at": "2026-10-24T19:42:11.743Z"
+    },
+    {
+      "id": "3RVolKJJjLUjGGQUk8Ommc",
+      "name": "Pega Ladrão!",
+      "url": "https://open.spotify.com/track/3RVolKJJjLUjGGQUk8Ommc",
+      "artists": [
+        {
+          "id": "5BWqFYIPTnFx3OPWOoJvmD",
+          "name": "Gabriel O Pensador",
+          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
+        }
+      ],
+      "album": {
+        "name": "Seja Você Mesmo (Mas Não Seja Sempre O Mesmo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736cf6edbd0f46da50074b6ad4"
+      },
+      "duration_ms": 251600,
+      "played_at": "2026-10-24T19:38:58.354Z"
+    },
+    {
+      "id": "1vESo1aF09DXmwwyHJVhne",
+      "name": "Vermelho",
+      "url": "https://open.spotify.com/track/1vESo1aF09DXmwwyHJVhne",
+      "artists": [
+        {
+          "id": "6n45wsxj6sDedgwEyTza6d",
+          "name": "Fafá de Belém",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "album": {
+        "name": "Pássaro Sonhador",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738e937d0e11caa96f8b29c04b"
+      },
+      "duration_ms": 227426,
+      "played_at": "2026-10-24T19:29:14.734Z"
+    },
+    {
+      "id": "1vESo1aF09DXmwwyHJVhne",
+      "name": "Vermelho",
+      "url": "https://open.spotify.com/track/1vESo1aF09DXmwwyHJVhne",
+      "artists": [
+        {
+          "id": "6n45wsxj6sDedgwEyTza6d",
+          "name": "Fafá de Belém",
+          "url": "https://open.spotify.com/artist/6n45wsxj6sDedgwEyTza6d"
+        }
+      ],
+      "album": {
+        "name": "Pássaro Sonhador",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738e937d0e11caa96f8b29c04b"
+      },
+      "duration_ms": 227426,
+      "played_at": "2026-10-24T19:25:29.247Z"
+    },
+    {
+      "id": "1RmXibCbfLIVrN8ZRdoYbW",
+      "name": "Foi Mal",
+      "url": "https://open.spotify.com/track/1RmXibCbfLIVrN8ZRdoYbW",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165208,
+      "played_at": "2026-10-23T21:19:05.956Z"
+    },
     {
       "id": "55d7fAJmM0R2TDfuHWPwnc",
       "name": "Blossom",
@@ -1385,170 +1534,6 @@
       },
       "duration_ms": 216519,
       "played_at": "2026-10-22T23:18:20.690Z"
-    },
-    {
-      "id": "6Uj1ctrBOjOas8xZXGqKk4",
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 172626,
-      "played_at": "2026-10-22T23:14:44.137Z"
-    },
-    {
-      "id": "5lAnYvAIkSDNXqfo7DyFUm",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 174253,
-      "played_at": "2026-10-22T23:11:51.578Z"
-    },
-    {
-      "id": "5lAnYvAIkSDNXqfo7DyFUm",
-      "name": "Ain't Shit",
-      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
-      "artists": [
-        {
-          "id": "5cj0lLjcoR7YOSnhnX0Po5",
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "album": {
-        "name": "Planet Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
-      },
-      "duration_ms": 174253,
-      "played_at": "2026-10-22T23:09:06.942Z"
-    },
-    {
-      "id": "6Jt18cyNzFXYYUUBllm7rZ",
-      "name": "Heart Attack - Rock Version",
-      "url": "https://open.spotify.com/track/6Jt18cyNzFXYYUUBllm7rZ",
-      "artists": [
-        {
-          "id": "6S2OmqARrzebs0tKUEyXyp",
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "album": {
-        "name": "REVAMPED",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
-      },
-      "duration_ms": 239011,
-      "played_at": "2026-10-22T20:33:57.544Z"
-    },
-    {
-      "id": "55d7fAJmM0R2TDfuHWPwnc",
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/55d7fAJmM0R2TDfuHWPwnc",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
-      },
-      "duration_ms": 259519,
-      "played_at": "2026-10-22T20:30:07.578Z"
-    },
-    {
-      "id": "17YVWP3yXLnplHHCOU7RGI",
-      "name": "157 CAFAJESTE X 157 DE XXT",
-      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
-      "artists": [
-        {
-          "id": "4OsPs4eirSwu3F4jB1bL0B",
-          "name": "Zairon",
-          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
-        },
-        {
-          "id": "4GeitETxoipNor9MyEEbYz",
-          "name": "MC Myres",
-          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
-        },
-        {
-          "id": "7dUNKhz7HdxExteqcREGLi",
-          "name": "Mc Denny",
-          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
-        }
-      ],
-      "album": {
-        "name": "157 CAFAJESTE X 157 DE XXT",
-        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
-      },
-      "duration_ms": 164571,
-      "played_at": "2026-10-22T20:25:56.985Z"
-    },
-    {
-      "id": "5xebls1ZOUqKDVVwQA5YDG",
-      "name": "QUANDO EU TOMO GIN DE 10",
-      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
-      "artists": [
-        {
-          "id": "466CdZBDPcGn9fuvBhzRRk",
-          "name": "Mc Neguinho do Morro",
-          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
-        },
-        {
-          "id": "1VgGaAocQcDmFfazjofQQ6",
-          "name": "MC NINA",
-          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
-        },
-        {
-          "id": "5rDBnqOlE9v4vZRFC5QNKm",
-          "name": "MITOS ENTRETENIMENTO",
-          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
-        }
-      ],
-      "album": {
-        "name": "QUANDO EU TOMO GIN DE 10",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
-      },
-      "duration_ms": 167999,
-      "played_at": "2026-10-22T20:23:21.385Z"
-    },
-    {
-      "id": "1hL4Ez8As4A4VJBw8X2eVA",
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 149387,
-      "played_at": "2026-10-22T20:15:12.824Z"
     }
   ]
 }
