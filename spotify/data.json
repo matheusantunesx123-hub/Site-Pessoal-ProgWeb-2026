@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T12:08:04.295995+00:00",
+  "updated_at": "2026-10-26T22:12:35.762376+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -446,23 +446,6 @@
       "duration_ms": 220000
     },
     {
-      "id": "0YrH15XcTh2Kf3re3yubZ5",
-      "name": "Metade Da Metade",
-      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
-      "artists": [
-        {
-          "id": "0EGHYkXkJxZIcYUiAJUNOo",
-          "name": "Banda Magníficos",
-          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
-        }
-      ],
-      "album": {
-        "name": "Chamego Ou Xaveco?",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
-      },
-      "duration_ms": 184659
-    },
-    {
       "id": "55pBIZO1cqoldeqpp5WR7H",
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
@@ -478,6 +461,23 @@
         "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
       },
       "duration_ms": 297090
+    },
+    {
+      "id": "0YrH15XcTh2Kf3re3yubZ5",
+      "name": "Metade Da Metade",
+      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 184659
     },
     {
       "id": "0WiMJIxYYEex2AqhRqzV3u",
@@ -515,6 +515,543 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1RmXibCbfLIVrN8ZRdoYbW",
+      "name": "Foi Mal",
+      "url": "https://open.spotify.com/track/1RmXibCbfLIVrN8ZRdoYbW",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165208,
+      "played_at": "2026-10-26T21:16:20.702Z"
+    },
+    {
+      "id": "2afu4LmXG1OTPCoptFYzRX",
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "artists": [
+        {
+          "id": "0XfQBWgzisaS9ltDV9bXAS",
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Black Girl Magic",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+      },
+      "duration_ms": 220347,
+      "played_at": "2026-10-26T21:13:48.600Z"
+    },
+    {
+      "id": "1RmXibCbfLIVrN8ZRdoYbW",
+      "name": "Foi Mal",
+      "url": "https://open.spotify.com/track/1RmXibCbfLIVrN8ZRdoYbW",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 165208,
+      "played_at": "2026-10-26T20:58:54.869Z"
+    },
+    {
+      "id": "2afu4LmXG1OTPCoptFYzRX",
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "artists": [
+        {
+          "id": "0XfQBWgzisaS9ltDV9bXAS",
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Black Girl Magic",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+      },
+      "duration_ms": 220347,
+      "played_at": "2026-10-26T20:12:57.302Z"
+    },
+    {
+      "id": "70ocH5hvko1KK1v9jpt41N",
+      "name": "KAWASAKI 2.0",
+      "url": "https://open.spotify.com/track/70ocH5hvko1KK1v9jpt41N",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "3g1NhInk2OwAa1UNhBgWiS",
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "id": "2M0BRHVrzJ5y20huTCzMJu",
+          "name": "Irmãs de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI 2.0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733858a006bf3f397e52d6eb58"
+      },
+      "duration_ms": 172754,
+      "played_at": "2026-10-26T20:08:44.050Z"
+    },
+    {
+      "id": "70ocH5hvko1KK1v9jpt41N",
+      "name": "KAWASAKI 2.0",
+      "url": "https://open.spotify.com/track/70ocH5hvko1KK1v9jpt41N",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "3g1NhInk2OwAa1UNhBgWiS",
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "id": "2M0BRHVrzJ5y20huTCzMJu",
+          "name": "Irmãs de Pau",
+          "url": "https://open.spotify.com/artist/2M0BRHVrzJ5y20huTCzMJu"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI 2.0",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733858a006bf3f397e52d6eb58"
+      },
+      "duration_ms": 172754,
+      "played_at": "2026-10-26T20:06:59.606Z"
+    },
+    {
+      "id": "2afu4LmXG1OTPCoptFYzRX",
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "artists": [
+        {
+          "id": "0XfQBWgzisaS9ltDV9bXAS",
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Black Girl Magic",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+      },
+      "duration_ms": 220347,
+      "played_at": "2026-10-26T20:05:49.274Z"
+    },
+    {
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "played_at": "2026-10-26T19:57:31.282Z"
+    },
+    {
+      "id": "1nSF7mrf2Wt4VKsN3cemM2",
+      "name": "Voz Do Brasil",
+      "url": "https://open.spotify.com/track/1nSF7mrf2Wt4VKsN3cemM2",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "76hYPcWML9NGEh8LashwT5",
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 193920,
+      "played_at": "2026-10-26T19:53:42.163Z"
+    },
+    {
+      "id": "3fzWEhohdeEF6Z9aBrBCno",
+      "name": "KAWASAKI",
+      "url": "https://open.spotify.com/track/3fzWEhohdeEF6Z9aBrBCno",
+      "artists": [
+        {
+          "id": "6424uJS5kZLTGL0pAW7e3J",
+          "name": "WES",
+          "url": "https://open.spotify.com/artist/6424uJS5kZLTGL0pAW7e3J"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        },
+        {
+          "id": "0J4DHkFbIhACgOkPFvWl9Y",
+          "name": "CARLO",
+          "url": "https://open.spotify.com/artist/0J4DHkFbIhACgOkPFvWl9Y"
+        },
+        {
+          "id": "5W0yWqP7U3b2Y89gSgR9OD",
+          "name": "Lastra",
+          "url": "https://open.spotify.com/artist/5W0yWqP7U3b2Y89gSgR9OD"
+        }
+      ],
+      "album": {
+        "name": "KAWASAKI",
+        "image": "https://i.scdn.co/image/ab67616d0000b27398b5432383db981563f8f2ba"
+      },
+      "duration_ms": 162964,
+      "played_at": "2026-10-26T19:50:37.193Z"
+    },
+    {
+      "id": "7w8IIeqtYJBodS0P9zB0El",
+      "name": "Vontade De Voar",
+      "url": "https://open.spotify.com/track/7w8IIeqtYJBodS0P9zB0El",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 253914,
+      "played_at": "2026-10-26T19:48:03.289Z"
+    },
+    {
+      "id": "04zj7YtTSjAd2Y8tt8KX2K",
+      "name": "Rolling",
+      "url": "https://open.spotify.com/track/04zj7YtTSjAd2Y8tt8KX2K",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (BLOSSOM EDITION)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738bc08a43d5027b70585d2f11"
+      },
+      "duration_ms": 135199,
+      "played_at": "2026-10-26T19:43:58.402Z"
+    },
+    {
+      "id": "2JrxhxVvdQ5h1zADrQzZed",
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/2JrxhxVvdQ5h1zADrQzZed",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (BLOSSOM EDITION)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738bc08a43d5027b70585d2f11"
+      },
+      "duration_ms": 110267,
+      "played_at": "2026-10-26T19:41:52.192Z"
+    },
+    {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "played_at": "2026-10-26T18:05:02.638Z"
+    },
+    {
+      "id": "1qk26emY1Ze0HbsXeF07d2",
+      "name": "Eu Tô Solteira",
+      "url": "https://open.spotify.com/track/1qk26emY1Ze0HbsXeF07d2",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 68666,
+      "played_at": "2026-10-26T16:06:31.351Z"
+    },
+    {
+      "id": "3z7YYkTNEpG6FXIuZmfnPg",
+      "name": "É Tudo Meu",
+      "url": "https://open.spotify.com/track/3z7YYkTNEpG6FXIuZmfnPg",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 182625,
+      "played_at": "2026-10-26T16:05:31.657Z"
+    },
+    {
+      "id": "2afu4LmXG1OTPCoptFYzRX",
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "artists": [
+        {
+          "id": "0XfQBWgzisaS9ltDV9bXAS",
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Black Girl Magic",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+      },
+      "duration_ms": 220347,
+      "played_at": "2026-10-26T16:01:19.259Z"
+    },
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "played_at": "2026-10-26T15:57:47.856Z"
+    },
+    {
+      "id": "39UIGfLXmKgetqGJRvYpGF",
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 131050,
+      "played_at": "2026-10-26T15:49:59.729Z"
+    },
+    {
+      "id": "7w8IIeqtYJBodS0P9zB0El",
+      "name": "Vontade De Voar",
+      "url": "https://open.spotify.com/track/7w8IIeqtYJBodS0P9zB0El",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 253914,
+      "played_at": "2026-10-26T15:47:57.645Z"
+    },
+    {
+      "id": "0oKdsMglh1dTsX4nrkURMX",
+      "name": "Rua do Ouro",
+      "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX",
+      "artists": [
+        {
+          "id": "2Zs8oC4IDwNcanf2QU8jkM",
+          "name": "Dj Brenno Paixão",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+        },
+        {
+          "id": "0xXEI1dXDaCOmkIPNYtPWF",
+          "name": "Mac Júlia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "id": "60ArvoSDGNI2WPhezAqz6u",
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "id": "5O2vMwEiTxszw0kbhYKVAU",
+          "name": "SAM SAM",
+          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
+        }
+      ],
+      "album": {
+        "name": "Rua do Ouro",
+        "image": "https://i.scdn.co/image/ab67616d0000b27383c9c9bef3b376b176c575ba"
+      },
+      "duration_ms": 136615,
+      "played_at": "2026-10-26T15:39:40.297Z"
+    },
+    {
+      "id": "2r8WpiohQGwWvOZnwLAZDS",
+      "name": "Ocitocina",
+      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 220000,
+      "played_at": "2026-10-26T15:37:32.634Z"
+    },
+    {
+      "id": "5lAnYvAIkSDNXqfo7DyFUm",
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Planet Her",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
+      },
+      "duration_ms": 174253,
+      "played_at": "2026-10-26T15:32:59.033Z"
+    },
+    {
+      "id": "53jnnqFSRGMDB9ADrNriCA",
+      "name": "Bloody Mary",
+      "url": "https://open.spotify.com/track/53jnnqFSRGMDB9ADrNriCA",
+      "artists": [
+        {
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "album": {
+        "name": "Born This Way (International Special Edition Version)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a5d31644260279be8d0c46c0"
+      },
+      "duration_ms": 244760,
+      "played_at": "2026-10-26T15:28:30.936Z"
+    },
     {
       "id": "4NgherJDfCXWBZBYheM4jK",
       "name": "WASTE",
@@ -982,453 +1519,6 @@
       },
       "duration_ms": 236053,
       "played_at": "2026-10-26T09:21:32.980Z"
-    },
-    {
-      "id": "7DnAm9FOTWE3cUvso43HhI",
-      "name": "Sweet but Psycho",
-      "url": "https://open.spotify.com/track/7DnAm9FOTWE3cUvso43HhI",
-      "artists": [
-        {
-          "id": "4npEfmQ6YuiwW1GpUmaq3F",
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "album": {
-        "name": "Heaven & Hell",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea46ceca00d552337e5b8ac2"
-      },
-      "duration_ms": 187436,
-      "played_at": "2026-10-26T09:17:45.856Z"
-    },
-    {
-      "id": "5Xk6GwwLwQaklody4DslTD",
-      "name": "A Potion For Love",
-      "url": "https://open.spotify.com/track/5Xk6GwwLwQaklody4DslTD",
-      "artists": [
-        {
-          "id": "1WgXqy2Dd70QQOU7Ay074N",
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "album": {
-        "name": "A Potion For Love",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737039674d541870dcd6789e1e"
-      },
-      "duration_ms": 216426,
-      "played_at": "2026-10-26T08:59:46.968Z"
-    },
-    {
-      "id": "3siwsiaEoU4Kuuc9WKMUy5",
-      "name": "No One Noticed",
-      "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
-      "artists": [
-        {
-          "id": "2sSGPbdZJkaSE2AbcGOACx",
-          "name": "The Marías",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "album": {
-        "name": "Submarine",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738aa339341a0b0c813909c831"
-      },
-      "duration_ms": 236906,
-      "played_at": "2026-10-26T08:56:19.526Z"
-    },
-    {
-      "id": "4VrWlk8IQxevMvERoX08iC",
-      "name": "Chandelier",
-      "url": "https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC",
-      "artists": [
-        {
-          "id": "5WUlDfRSoLAfcVSX1WnrxN",
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "album": {
-        "name": "1000 Forms Of Fear",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d199c9f6e6562aafa5aa357"
-      },
-      "duration_ms": 216120,
-      "played_at": "2026-10-26T08:52:31.635Z"
-    },
-    {
-      "id": "2JzZzZUQj3Qff7wapcbKjc",
-      "name": "See You Again (feat. Charlie Puth)",
-      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc",
-      "artists": [
-        {
-          "id": "137W8MRPWKqSmrBGDBFSop",
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "id": "6VuMaDnrHyPL1p4EHjYLi7",
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "album": {
-        "name": "See You Again (feat. Charlie Puth)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734e5df11b17b2727da2b718d8"
-      },
-      "duration_ms": 229525,
-      "played_at": "2026-10-26T08:49:04.501Z"
-    },
-    {
-      "id": "7qjZnBKE73H4Oxkopwulqe",
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
-      "artists": [
-        {
-          "id": "4G9NDjRyZFDlJKMRL8hx3S",
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "album": {
-        "name": "I Barely Know Her",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302"
-      },
-      "duration_ms": 199032,
-      "played_at": "2026-10-26T08:45:24.004Z"
-    },
-    {
-      "id": "65uoaqX5qcjXZRheAj1qQT",
-      "name": "Dernière danse",
-      "url": "https://open.spotify.com/track/65uoaqX5qcjXZRheAj1qQT",
-      "artists": [
-        {
-          "id": "0FEJqmeLRzsXj8hgcZaAyB",
-          "name": "Indila",
-          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
-        }
-      ],
-      "album": {
-        "name": "Mini World",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405"
-      },
-      "duration_ms": 213493,
-      "played_at": "2026-10-26T08:27:14.185Z"
-    },
-    {
-      "id": "4B0cJGASxVICLW2AsBZhiE",
-      "name": "LABOUR - the cacophony",
-      "url": "https://open.spotify.com/track/4B0cJGASxVICLW2AsBZhiE",
-      "artists": [
-        {
-          "id": "2EXpthNgSeTDeX8nGwxppp",
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "album": {
-        "name": "LABOUR (the cacophony)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733b2a31f7534446b89316bad7"
-      },
-      "duration_ms": 247445,
-      "played_at": "2026-10-26T08:23:49.675Z"
-    },
-    {
-      "id": "7ua1l4jD1fvz5x6zHGxxlB",
-      "name": "I Went Too Far",
-      "url": "https://open.spotify.com/track/7ua1l4jD1fvz5x6zHGxxlB",
-      "artists": [
-        {
-          "id": "1WgXqy2Dd70QQOU7Ay074N",
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "album": {
-        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c379325088c2845fe85cd70a"
-      },
-      "duration_ms": 207853,
-      "played_at": "2026-10-26T08:19:51.261Z"
-    },
-    {
-      "id": "38My4vL4LarJ3bEMQiEYM5",
-      "name": "Cradles",
-      "url": "https://open.spotify.com/track/38My4vL4LarJ3bEMQiEYM5",
-      "artists": [
-        {
-          "id": "7gXb99Sf9nNmpNYeAgIQFG",
-          "name": "Sub Urban",
-          "url": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
-        }
-      ],
-      "album": {
-        "name": "Cradles",
-        "image": "https://i.scdn.co/image/ab67616d0000b2737da2321ad06e736b0a7f27ff"
-      },
-      "duration_ms": 209829,
-      "played_at": "2026-10-26T08:16:32.389Z"
-    },
-    {
-      "id": "6qqdFWe7C4LsBjWbXQdsHA",
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
-      "artists": [
-        {
-          "id": "00FQb4jTyendYWaN8pK0wa",
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "album": {
-        "name": "Born To Die - The Paradise Edition",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
-      },
-      "duration_ms": 243187,
-      "played_at": "2026-10-26T08:13:11.592Z"
-    },
-    {
-      "id": "7DcJ6fEBb7BaKuYKTwiDxK",
-      "name": "Homage",
-      "url": "https://open.spotify.com/track/7DcJ6fEBb7BaKuYKTwiDxK",
-      "artists": [
-        {
-          "id": "5J81VungUjSVHxlPpTI9KG",
-          "name": "Mild High Club",
-          "url": "https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG"
-        }
-      ],
-      "album": {
-        "name": "Skiptracing",
-        "image": "https://i.scdn.co/image/ab67616d0000b27396bc7d5bd0b6488de76598ab"
-      },
-      "duration_ms": 177493,
-      "played_at": "2026-10-26T08:09:17.388Z"
-    },
-    {
-      "id": "0tgVpDi06FyKpA1z0VMD4v",
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
-      "artists": [
-        {
-          "id": "6eUKZXaKkcviH0Ku9w2n3V",
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "album": {
-        "name": "÷ (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96"
-      },
-      "duration_ms": 263400,
-      "played_at": "2026-10-26T08:05:47.989Z"
-    },
-    {
-      "id": "3zHq9ouUJQFQRf3cm1rRLu",
-      "name": "Love Me Like You Do - From \"Fifty Shades Of Grey\"",
-      "url": "https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu",
-      "artists": [
-        {
-          "id": "0X2BH1fck6amBIoJhDVmmJ",
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "album": {
-        "name": "Delirium (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736bdee14242f244d9d6ddf2fd"
-      },
-      "duration_ms": 252534,
-      "played_at": "2026-10-26T08:01:33.623Z"
-    },
-    {
-      "id": "6IPwKM3fUUzlElbvKw2sKl",
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl",
-      "artists": [
-        {
-          "id": "3uwAm6vQy7kWPS2bciKWx9",
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "image": "https://i.scdn.co/image/ab67616d0000b273deade9f354749841f09feca2"
-      },
-      "duration_ms": 184153,
-      "played_at": "2026-10-26T07:57:30.080Z"
-    },
-    {
-      "id": "0ocZ3MJDhUTkCmMWzhnHqq",
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/0ocZ3MJDhUTkCmMWzhnHqq",
-      "artists": [
-        {
-          "id": "1WgXqy2Dd70QQOU7Ay074N",
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "album": {
-        "name": "The Gods We Can Touch",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733e0d05346299e86c58f75123"
-      },
-      "duration_ms": 181333,
-      "played_at": "2026-10-26T07:54:34.917Z"
-    },
-    {
-      "id": "5KZ4DC772dYcRBAizx0yYk",
-      "name": "Caribbean Blue - 2009 Remaster",
-      "url": "https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk",
-      "artists": [
-        {
-          "id": "6uothxMWeLWIhsGeF7cyo4",
-          "name": "Enya",
-          "url": "https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4"
-        }
-      ],
-      "album": {
-        "name": "Shepherd Moons",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733184c671068d02838d47b277"
-      },
-      "duration_ms": 239586,
-      "played_at": "2026-10-26T07:51:42.555Z"
-    },
-    {
-      "id": "6lanRgr6wXibZr8KgzXxBl",
-      "name": "a thousand years",
-      "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl",
-      "artists": [
-        {
-          "id": "7H55rcKCfwqkyDFH9wpKM6",
-          "name": "Christina Perri",
-          "url": "https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6"
-        }
-      ],
-      "album": {
-        "name": "a thousand years",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733dea4a2ccd58ad1f8e4dbb03"
-      },
-      "duration_ms": 285120,
-      "played_at": "2026-10-26T07:47:52.025Z"
-    },
-    {
-      "id": "3XHrTm6WE2BOHafLwTT3GR",
-      "name": "Eyes on Fire",
-      "url": "https://open.spotify.com/track/3XHrTm6WE2BOHafLwTT3GR",
-      "artists": [
-        {
-          "id": "1FWybrAwiSa0zKibdLfZZr",
-          "name": "Blue Foundation",
-          "url": "https://open.spotify.com/artist/1FWybrAwiSa0zKibdLfZZr"
-        }
-      ],
-      "album": {
-        "name": "Life Of A Ghost",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739f7db71bd5c5eacbc7466e96"
-      },
-      "duration_ms": 302826,
-      "played_at": "2026-10-26T07:43:15.862Z"
-    },
-    {
-      "id": "54PbBpquVfhfrwRwvjSXbI",
-      "name": "We Don't Talk Anymore (feat. Selena Gomez)",
-      "url": "https://open.spotify.com/track/54PbBpquVfhfrwRwvjSXbI",
-      "artists": [
-        {
-          "id": "6VuMaDnrHyPL1p4EHjYLi7",
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "album": {
-        "name": "Nine Track Mind (Special Edition)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27315145482a542a9adb282250b"
-      },
-      "duration_ms": 217706,
-      "played_at": "2026-10-26T07:38:22.072Z"
-    },
-    {
-      "id": "2pUpNOgJBIBCcjyQZQ00qU",
-      "name": "Let Her Go",
-      "url": "https://open.spotify.com/track/2pUpNOgJBIBCcjyQZQ00qU",
-      "artists": [
-        {
-          "id": "0gadJ2b9A4SKsB1RFkBb66",
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "album": {
-        "name": "All the Little Lights (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273eb0b18cce8b7f5c9fc1579e7"
-      },
-      "duration_ms": 252733,
-      "played_at": "2026-10-26T07:34:53.400Z"
-    },
-    {
-      "id": "1qDrWA6lyx8cLECdZE7TV7",
-      "name": "Somebody That I Used To Know",
-      "url": "https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7",
-      "artists": [
-        {
-          "id": "2AsusXITU8P25dlRNhcAbG",
-          "name": "Gotye",
-          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
-        },
-        {
-          "id": "6hk7Yq1DU9QcCCrz9uc0Ti",
-          "name": "Kimbra",
-          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
-        }
-      ],
-      "album": {
-        "name": "Making Mirrors",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738ac5768205ad97df3f4f4c0e"
-      },
-      "duration_ms": 244884,
-      "played_at": "2026-10-26T07:30:49.613Z"
-    },
-    {
-      "id": "7LY0lwkvVK7C4y7IxoN4R0",
-      "name": "Runaway - Lvl.2",
-      "url": "https://open.spotify.com/track/7LY0lwkvVK7C4y7IxoN4R0",
-      "artists": [
-        {
-          "id": "1WgXqy2Dd70QQOU7Ay074N",
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "album": {
-        "name": "Runaway (Lvl.2)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734a479ab03443834b082d305f"
-      },
-      "duration_ms": 213866,
-      "played_at": "2026-10-26T07:26:53.755Z"
-    },
-    {
-      "id": "0WbMK4wrZ1wFSty9F7FCgu",
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
-      "artists": [
-        {
-          "id": "7GlBOeep6PqTfFi59PTUUN",
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "album": {
-        "name": "Good Luck, Babe!",
-        "image": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7"
-      },
-      "duration_ms": 218423,
-      "played_at": "2026-10-26T07:23:28.877Z"
     }
   ]
 }
