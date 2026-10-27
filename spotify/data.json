@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T03:25:54.332867+00:00",
+  "updated_at": "2026-10-27T11:29:34.634969+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -319,6 +319,23 @@
       "duration_ms": 521866
     },
     {
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333
+    },
+    {
       "id": "17YVWP3yXLnplHHCOU7RGI",
       "name": "157 CAFAJESTE X 157 DE XXT",
       "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
@@ -344,23 +361,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
       },
       "duration_ms": 164571
-    },
-    {
-      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
-      "name": "Profano",
-      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
-      },
-      "duration_ms": 165333
     },
     {
       "id": "3ZmaXPth5DwzJTtbsf7via",
