@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T16:42:38.970619+00:00",
+  "updated_at": "2026-10-31T20:54:37.938683+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -515,6 +515,114 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "played_at": "2026-10-31T19:03:01.789Z"
+    },
+    {
+      "id": "54MW0MeBLyJeswM8w0LtR0",
+      "name": "Tanto Faz",
+      "url": "https://open.spotify.com/track/54MW0MeBLyJeswM8w0LtR0",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 177650,
+      "played_at": "2026-10-31T19:00:38.592Z"
+    },
+    {
+      "id": "16L1FLZDGYg76gB2pwjgzr",
+      "name": "Navegar",
+      "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 154752,
+      "played_at": "2026-10-31T18:57:20.083Z"
+    },
+    {
+      "id": "6bUrD4iFmsTFzoC95PLTk7",
+      "name": "Espelhos d'água",
+      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 232386,
+      "played_at": "2026-10-31T18:53:52.867Z"
+    },
+    {
+      "id": "6sKopGG4r21ObTE8V6pD6x",
+      "name": "Força Estranha",
+      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x",
+      "artists": [
+        {
+          "id": "1b8kpp4DUwt1hWaxTiWQhD",
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
+        }
+      ],
+      "album": {
+        "name": "Gal Tropical",
+        "image": "https://i.scdn.co/image/ab67616d0000b273de4828d89731083b45eb1521"
+      },
+      "duration_ms": 214693,
+      "played_at": "2026-10-31T18:49:42.776Z"
+    },
+    {
+      "id": "1bEnIDpwKsyhDauHVoMz6t",
+      "name": "Blue Bird (From \"Naruto Shippuden\")",
+      "url": "https://open.spotify.com/track/1bEnIDpwKsyhDauHVoMz6t",
+      "artists": [
+        {
+          "id": "7i3eGEz3HNFnPOCdc7mqoq",
+          "name": "Akano",
+          "url": "https://open.spotify.com/artist/7i3eGEz3HNFnPOCdc7mqoq"
+        }
+      ],
+      "album": {
+        "name": "Blue Bird (From \"Naruto Shippuden\")",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732d6016235e4d0178b779afe1"
+      },
+      "duration_ms": 100200,
+      "played_at": "2026-10-31T02:17:50.734Z"
+    },
     {
       "id": "3RVolKJJjLUjGGQUk8Ommc",
       "name": "Pega Ladrão!",
@@ -1491,119 +1599,6 @@
       },
       "duration_ms": 136615,
       "played_at": "2026-10-29T18:12:04.681Z"
-    },
-    {
-      "id": "7nGGKB0KX7FojvyJ5DNrK3",
-      "name": "BABY",
-      "url": "https://open.spotify.com/track/7nGGKB0KX7FojvyJ5DNrK3",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 217916,
-      "played_at": "2026-10-29T16:44:28.579Z"
-    },
-    {
-      "id": "57dVtT9QGyLku0R3nQhDjf",
-      "name": "DESAPAiXONAR",
-      "url": "https://open.spotify.com/track/57dVtT9QGyLku0R3nQhDjf",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
-      },
-      "duration_ms": 174047,
-      "played_at": "2026-10-29T16:40:46.078Z"
-    },
-    {
-      "id": "2R5smAQVZCdyulSwDPYFeZ",
-      "name": "50 Meninas",
-      "url": "https://open.spotify.com/track/2R5smAQVZCdyulSwDPYFeZ",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Te Amo Lá Fora",
-        "image": "https://i.scdn.co/image/ab67616d0000b27320adef84e2223115a7380282"
-      },
-      "duration_ms": 212693,
-      "played_at": "2026-10-29T16:38:00.957Z"
-    },
-    {
-      "id": "2r8WpiohQGwWvOZnwLAZDS",
-      "name": "Ocitocina",
-      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
-      },
-      "duration_ms": 220000,
-      "played_at": "2026-10-29T16:27:15.761Z"
-    },
-    {
-      "id": "4dqimUG6Fdi9JZPIYLt16K",
-      "name": "Ninguem Dança",
-      "url": "https://open.spotify.com/track/4dqimUG6Fdi9JZPIYLt16K",
-      "artists": [
-        {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
-        }
-      ],
-      "album": {
-        "name": "Sinto Muito",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739f37b014317a3a62d298a6c7"
-      },
-      "duration_ms": 231086,
-      "played_at": "2026-10-29T16:23:27.528Z"
-    },
-    {
-      "id": "2i1IenkjeON6xI1EzbHUyr",
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/2i1IenkjeON6xI1EzbHUyr",
-      "artists": [
-        {
-          "id": "7qmf5YAQYjfjBF9C7kkjzs",
-          "name": "Johnny Hooker",
-          "url": "https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs"
-        },
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "album": {
-        "name": "Coração",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731a532e6c64d36ef6d2f5f636"
-      },
-      "duration_ms": 184095,
-      "played_at": "2026-10-29T16:19:45.436Z"
     }
   ]
 }
