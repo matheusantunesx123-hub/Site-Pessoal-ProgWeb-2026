@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-02T04:00:04.068274+00:00",
+  "updated_at": "2026-11-02T14:36:00.884576+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -515,6 +515,250 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "5JBCQMPZWOiPIKYnPIxMxv",
+      "name": "Vénus Noir",
+      "url": "https://open.spotify.com/track/5JBCQMPZWOiPIKYnPIxMxv",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 151520,
+      "played_at": "2026-11-02T14:13:06.627Z"
+    },
+    {
+      "id": "7fqjcGoNTioKvf4IUfJUBv",
+      "name": "Sulamericano",
+      "url": "https://open.spotify.com/track/7fqjcGoNTioKvf4IUfJUBv",
+      "artists": [
+        {
+          "id": "5JHYuwE2n7bleXMUsmtCW5",
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "id": "5I1bGI36W07UPnxDZ23QYB",
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/5I1bGI36W07UPnxDZ23QYB"
+        }
+      ],
+      "album": {
+        "name": "O Futuro Não Demora",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735dc0db0cc93e127679f74843"
+      },
+      "duration_ms": 246346,
+      "played_at": "2026-11-02T14:03:17.130Z"
+    },
+    {
+      "id": "0gTWSdIl8bUq7us45K3PZh",
+      "name": "Apesar de Você",
+      "url": "https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh",
+      "artists": [
+        {
+          "id": "317yGDHMNsNQMfjsNNPYUg",
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        }
+      ],
+      "album": {
+        "name": "Apesar de Você",
+        "image": "https://i.scdn.co/image/ab67616d0000b273dbbbf97b0e580858cf6f8616"
+      },
+      "duration_ms": 275333,
+      "played_at": "2026-11-02T13:55:56.898Z"
+    },
+    {
+      "id": "1ZhEDAngzBgI5LPtcz5oyv",
+      "name": "Se Eu Fosse Você",
+      "url": "https://open.spotify.com/track/1ZhEDAngzBgI5LPtcz5oyv",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 167392,
+      "played_at": "2026-11-02T13:51:30.570Z"
+    },
+    {
+      "id": "4c7m5TLZ61e4otG1fZ68XP",
+      "name": "Rosa de Hiroshima",
+      "url": "https://open.spotify.com/track/4c7m5TLZ61e4otG1fZ68XP",
+      "artists": [
+        {
+          "id": "4EKJxXaAZapG14Q5FTZoxm",
+          "name": "Secos & Molhados",
+          "url": "https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm"
+        }
+      ],
+      "album": {
+        "name": "A volta de Secos & Molhados",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739f0e7b0974da507e8289db25"
+      },
+      "duration_ms": 121893,
+      "played_at": "2026-11-02T13:48:52.222Z"
+    },
+    {
+      "id": "0c3yWQVdaR6kFPxAMGg8zL",
+      "name": "Mulher do Fim do Mundo",
+      "url": "https://open.spotify.com/track/0c3yWQVdaR6kFPxAMGg8zL",
+      "artists": [
+        {
+          "id": "4cn4gMq0KXORHeYA45PcBi",
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "album": {
+        "name": "A Mulher do Fim do Mundo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f786b0b4c5756115296be379"
+      },
+      "duration_ms": 277677,
+      "played_at": "2026-11-02T13:46:59.246Z"
+    },
+    {
+      "id": "3CcdKvop9T2pPlwMWbAXrG",
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/3CcdKvop9T2pPlwMWbAXrG",
+      "artists": [
+        {
+          "id": "4cn4gMq0KXORHeYA45PcBi",
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "album": {
+        "name": "No Tempo da Intolerância",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161"
+      },
+      "duration_ms": 207399,
+      "played_at": "2026-11-02T13:42:30.632Z"
+    },
+    {
+      "id": "2GY2ilbruCbGkeyRKQL7yB",
+      "name": "No Tempo da Intolerância",
+      "url": "https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB",
+      "artists": [
+        {
+          "id": "4cn4gMq0KXORHeYA45PcBi",
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "album": {
+        "name": "No Tempo da Intolerância",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161"
+      },
+      "duration_ms": 170071,
+      "played_at": "2026-11-02T13:36:45.683Z"
+    },
+    {
+      "id": "4ZdxWHytUTUfibuspU6UVh",
+      "name": "Me Adora, Mas",
+      "url": "https://open.spotify.com/track/4ZdxWHytUTUfibuspU6UVh",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Todas Elas",
+        "image": "https://i.scdn.co/image/ab67616d0000b27389a4ca43996ab1e7e8c74bfb"
+      },
+      "duration_ms": 204574,
+      "played_at": "2026-11-02T13:27:18.889Z"
+    },
+    {
+      "id": "62jTVJtdKlehYBdJbBwGX2",
+      "name": "Cálice",
+      "url": "https://open.spotify.com/track/62jTVJtdKlehYBdJbBwGX2",
+      "artists": [
+        {
+          "id": "09pGaaj8opuuUkLL3BlDJ2",
+          "name": "Indireto",
+          "url": "https://open.spotify.com/artist/09pGaaj8opuuUkLL3BlDJ2"
+        },
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Indireto",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f9cf77e5e6466cb33c2bd262"
+      },
+      "duration_ms": 219570,
+      "played_at": "2026-11-02T13:22:41.033Z"
+    },
+    {
+      "id": "7o7MExeF7niW4VFiie5Zxh",
+      "name": "Admirável Chip Novo",
+      "url": "https://open.spotify.com/track/7o7MExeF7niW4VFiie5Zxh",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Admirável Chip Novo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
+      },
+      "duration_ms": 191520,
+      "played_at": "2026-11-02T13:17:58.454Z"
+    },
+    {
+      "id": "5SFGa6X8mXY3u5WOkfRjGl",
+      "name": "Armadura",
+      "url": "https://open.spotify.com/track/5SFGa6X8mXY3u5WOkfRjGl",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Pitty",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731b7a3925a5cbb4b5d0361c18"
+      },
+      "duration_ms": 153725,
+      "played_at": "2026-11-02T13:14:56.036Z"
+    },
+    {
+      "id": "57wrj5gmY8aZA4YBmqfitc",
+      "name": "Teto de Vidro",
+      "url": "https://open.spotify.com/track/57wrj5gmY8aZA4YBmqfitc",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Admirável Chip Novo",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739b0c101acbe6a2ea36c480b1"
+      },
+      "duration_ms": 212720,
+      "played_at": "2026-11-01T22:27:08.866Z"
+    },
     {
       "id": "0W6aXi2B0UlwY0sPckvrmT",
       "name": "Foguinho",
@@ -1245,245 +1489,6 @@
       },
       "duration_ms": 238760,
       "played_at": "2026-11-01T14:47:45.042Z"
-    },
-    {
-      "id": "6pjjThJkJI0SFD2dACFf6y",
-      "name": "Tua Família",
-      "url": "https://open.spotify.com/track/6pjjThJkJI0SFD2dACFf6y",
-      "artists": [
-        {
-          "id": "6NdqC1F1roz6KejkMjoIJK",
-          "name": "Anjos de Resgate",
-          "url": "https://open.spotify.com/artist/6NdqC1F1roz6KejkMjoIJK"
-        }
-      ],
-      "album": {
-        "name": "10 Anos",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cef8539bc490b3fcdd689bbb"
-      },
-      "duration_ms": 256000,
-      "played_at": "2026-11-01T14:43:38.997Z"
-    },
-    {
-      "id": "0ZBYKXS2sFtFOiJNt97mPP",
-      "name": "Nas Asas do Senhor (feat. Celina Borges)",
-      "url": "https://open.spotify.com/track/0ZBYKXS2sFtFOiJNt97mPP",
-      "artists": [
-        {
-          "id": "72G62rG7kmq4GFOzyjJV4q",
-          "name": "Padre Fábio De Melo",
-          "url": "https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q"
-        },
-        {
-          "id": "7EEghT52d3DvpgqTxlMy6n",
-          "name": "Celina Borges",
-          "url": "https://open.spotify.com/artist/7EEghT52d3DvpgqTxlMy6n"
-        }
-      ],
-      "album": {
-        "name": "Queremos Deus",
-        "image": "https://i.scdn.co/image/ab67616d0000b273793db5fed411a19bce7591b4"
-      },
-      "duration_ms": 303973,
-      "played_at": "2026-11-01T14:38:17.303Z"
-    },
-    {
-      "id": "1hL4Ez8As4A4VJBw8X2eVA",
-      "name": "Peligrosa",
-      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 149387,
-      "played_at": "2026-10-31T19:03:01.789Z"
-    },
-    {
-      "id": "54MW0MeBLyJeswM8w0LtR0",
-      "name": "Tanto Faz",
-      "url": "https://open.spotify.com/track/54MW0MeBLyJeswM8w0LtR0",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "FÚRIA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
-      },
-      "duration_ms": 177650,
-      "played_at": "2026-10-31T19:00:38.592Z"
-    },
-    {
-      "id": "16L1FLZDGYg76gB2pwjgzr",
-      "name": "Navegar",
-      "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 154752,
-      "played_at": "2026-10-31T18:57:20.083Z"
-    },
-    {
-      "id": "6bUrD4iFmsTFzoC95PLTk7",
-      "name": "Espelhos d'água",
-      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
-      "artists": [
-        {
-          "id": "1i2xi8v7H0aXgMNZcOaYzB",
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "album": {
-        "name": "Prét-A-Porter",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
-      },
-      "duration_ms": 232386,
-      "played_at": "2026-10-31T18:53:52.867Z"
-    },
-    {
-      "id": "6sKopGG4r21ObTE8V6pD6x",
-      "name": "Força Estranha",
-      "url": "https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x",
-      "artists": [
-        {
-          "id": "1b8kpp4DUwt1hWaxTiWQhD",
-          "name": "Gal Costa",
-          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
-        }
-      ],
-      "album": {
-        "name": "Gal Tropical",
-        "image": "https://i.scdn.co/image/ab67616d0000b273de4828d89731083b45eb1521"
-      },
-      "duration_ms": 214693,
-      "played_at": "2026-10-31T18:49:42.776Z"
-    },
-    {
-      "id": "1bEnIDpwKsyhDauHVoMz6t",
-      "name": "Blue Bird (From \"Naruto Shippuden\")",
-      "url": "https://open.spotify.com/track/1bEnIDpwKsyhDauHVoMz6t",
-      "artists": [
-        {
-          "id": "7i3eGEz3HNFnPOCdc7mqoq",
-          "name": "Akano",
-          "url": "https://open.spotify.com/artist/7i3eGEz3HNFnPOCdc7mqoq"
-        }
-      ],
-      "album": {
-        "name": "Blue Bird (From \"Naruto Shippuden\")",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732d6016235e4d0178b779afe1"
-      },
-      "duration_ms": 100200,
-      "played_at": "2026-10-31T02:17:50.734Z"
-    },
-    {
-      "id": "3RVolKJJjLUjGGQUk8Ommc",
-      "name": "Pega Ladrão!",
-      "url": "https://open.spotify.com/track/3RVolKJJjLUjGGQUk8Ommc",
-      "artists": [
-        {
-          "id": "5BWqFYIPTnFx3OPWOoJvmD",
-          "name": "Gabriel O Pensador",
-          "url": "https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD"
-        }
-      ],
-      "album": {
-        "name": "Seja Você Mesmo (Mas Não Seja Sempre O Mesmo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736cf6edbd0f46da50074b6ad4"
-      },
-      "duration_ms": 251600,
-      "played_at": "2026-10-31T00:43:33.507Z"
-    },
-    {
-      "id": "1DLKuppSYytOuxhtI6KBGu",
-      "name": "Aliança",
-      "url": "https://open.spotify.com/track/1DLKuppSYytOuxhtI6KBGu",
-      "artists": [
-        {
-          "id": "4laQz4PaKeh2Hu6QL6evVD",
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "album": {
-        "name": "Tribalistas",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e1fda94a0865012f0bdf349b"
-      },
-      "duration_ms": 237421,
-      "played_at": "2026-10-31T00:19:46.863Z"
-    },
-    {
-      "id": "5nx4uSJz6KEOmeigORbuM1",
-      "name": "3 X 4",
-      "url": "https://open.spotify.com/track/5nx4uSJz6KEOmeigORbuM1",
-      "artists": [
-        {
-          "id": "0GNq4xh8uFCyihPurnunf7",
-          "name": "Engenheiros Do Hawaii",
-          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
-        }
-      ],
-      "album": {
-        "name": "!Tchau Radar! (Audio)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27393c3690d18f342840e5ed3ac"
-      },
-      "duration_ms": 231174,
-      "played_at": "2026-10-30T23:49:35.730Z"
-    },
-    {
-      "id": "6bUrD4iFmsTFzoC95PLTk7",
-      "name": "Espelhos d'água",
-      "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7",
-      "artists": [
-        {
-          "id": "1i2xi8v7H0aXgMNZcOaYzB",
-          "name": "Preta Gil",
-          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
-        }
-      ],
-      "album": {
-        "name": "Prét-A-Porter",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
-      },
-      "duration_ms": 232386,
-      "played_at": "2026-10-30T23:45:53.526Z"
-    },
-    {
-      "id": "1h0f2T0DT3EVYnURyV8Rtu",
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/1h0f2T0DT3EVYnURyV8Rtu",
-      "artists": [
-        {
-          "id": "57pVvBwa3ZCR9LsVlkLXj7",
-          "name": "Vanessa Da Mata",
-          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
-        }
-      ],
-      "album": {
-        "name": "Sim (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738356ae7cd6e16cd302b242d2"
-      },
-      "duration_ms": 249973,
-      "played_at": "2026-10-30T23:42:10.211Z"
     }
   ]
 }
