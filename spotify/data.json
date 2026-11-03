@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T13:29:37.433461+00:00",
+  "updated_at": "2026-11-03T22:48:49.112426+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -516,6 +516,24 @@
   ],
   "recently_played": [
     {
+      "id": "5SFGa6X8mXY3u5WOkfRjGl",
+      "name": "Armadura",
+      "url": "https://open.spotify.com/track/5SFGa6X8mXY3u5WOkfRjGl",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "album": {
+        "name": "Pitty",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731b7a3925a5cbb4b5d0361c18"
+      },
+      "duration_ms": 153725,
+      "played_at": "2026-11-03T14:28:41.130Z"
+    },
+    {
       "id": "2AI119XyjkjVVSldgGsRic",
       "name": "Amante de Aluguel",
       "url": "https://open.spotify.com/track/2AI119XyjkjVVSldgGsRic",
@@ -578,6 +596,29 @@
       },
       "duration_ms": 183263,
       "played_at": "2026-11-02T22:17:40.507Z"
+    },
+    {
+      "id": "2Tq6ODyHDXRdS6mjjQZTgf",
+      "name": "Mil vezes cantarei - Una y mil veces",
+      "url": "https://open.spotify.com/track/2Tq6ODyHDXRdS6mjjQZTgf",
+      "artists": [
+        {
+          "id": "0ozdcqmICsOZDe7eJQVzrp",
+          "name": "Rick & Renner",
+          "url": "https://open.spotify.com/artist/0ozdcqmICsOZDe7eJQVzrp"
+        },
+        {
+          "id": "55Wn8tf8dBvfl1HRsD7Kze",
+          "name": "Continental",
+          "url": "https://open.spotify.com/artist/55Wn8tf8dBvfl1HRsD7Kze"
+        }
+      ],
+      "album": {
+        "name": "Mil Vezes Cantarei",
+        "image": "https://i.scdn.co/image/ab67616d0000b273955fc282a2b0a361a06c337f"
+      },
+      "duration_ms": 292053,
+      "played_at": "2026-11-02T22:14:20.699Z"
     },
     {
       "id": "1JkLTSDz8bKt9IRub0T8Ty",
@@ -1773,42 +1814,6 @@
       },
       "duration_ms": 277677,
       "played_at": "2026-11-02T13:46:59.246Z"
-    },
-    {
-      "id": "3CcdKvop9T2pPlwMWbAXrG",
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/3CcdKvop9T2pPlwMWbAXrG",
-      "artists": [
-        {
-          "id": "4cn4gMq0KXORHeYA45PcBi",
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "album": {
-        "name": "No Tempo da Intolerância",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161"
-      },
-      "duration_ms": 207399,
-      "played_at": "2026-11-02T13:42:30.632Z"
-    },
-    {
-      "id": "2GY2ilbruCbGkeyRKQL7yB",
-      "name": "No Tempo da Intolerância",
-      "url": "https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB",
-      "artists": [
-        {
-          "id": "4cn4gMq0KXORHeYA45PcBi",
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "album": {
-        "name": "No Tempo da Intolerância",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161"
-      },
-      "duration_ms": 170071,
-      "played_at": "2026-11-02T13:36:45.683Z"
     }
   ]
 }
