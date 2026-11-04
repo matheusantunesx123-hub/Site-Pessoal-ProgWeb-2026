@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T13:41:03.166459+00:00",
+  "updated_at": "2026-11-04T23:07:01.061763+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -302,6 +302,23 @@
       "duration_ms": 521866
     },
     {
+      "id": "39UIGfLXmKgetqGJRvYpGF",
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 131050
+    },
+    {
       "id": "3ZmaXPth5DwzJTtbsf7via",
       "name": "Vênus Em Escorpião",
       "url": "https://open.spotify.com/track/3ZmaXPth5DwzJTtbsf7via",
@@ -371,23 +388,6 @@
         "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
       },
       "duration_ms": 164571
-    },
-    {
-      "id": "39UIGfLXmKgetqGJRvYpGF",
-      "name": "Cuntelectual",
-      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
-      },
-      "duration_ms": 131050
     },
     {
       "id": "0lWfavNNZv6eYAvNlJjIfz",
@@ -515,6 +515,88 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3CcdKvop9T2pPlwMWbAXrG",
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/3CcdKvop9T2pPlwMWbAXrG",
+      "artists": [
+        {
+          "id": "4cn4gMq0KXORHeYA45PcBi",
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "album": {
+        "name": "No Tempo da Intolerância",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161"
+      },
+      "duration_ms": 207399,
+      "played_at": "2026-11-04T23:02:44.922Z"
+    },
+    {
+      "id": "2afu4LmXG1OTPCoptFYzRX",
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "artists": [
+        {
+          "id": "0XfQBWgzisaS9ltDV9bXAS",
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Black Girl Magic",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+      },
+      "duration_ms": 220347,
+      "played_at": "2026-11-04T22:59:13.658Z"
+    },
+    {
+      "id": "39UIGfLXmKgetqGJRvYpGF",
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 131050,
+      "played_at": "2026-11-04T18:52:23.612Z"
+    },
+    {
+      "id": "39UIGfLXmKgetqGJRvYpGF",
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 131050,
+      "played_at": "2026-11-04T18:50:35.938Z"
+    },
     {
       "id": "2afu4LmXG1OTPCoptFYzRX",
       "name": "Everybody",
@@ -1402,83 +1484,6 @@
       },
       "duration_ms": 187249,
       "played_at": "2026-11-04T05:53:15.658Z"
-    },
-    {
-      "id": "2fAwUj2Ezq0uB2ClAKEDb1",
-      "name": "Ela Une Todas As Coisas",
-      "url": "https://open.spotify.com/track/2fAwUj2Ezq0uB2ClAKEDb1",
-      "artists": [
-        {
-          "id": "783AF57UpgTN2fditDRFSs",
-          "name": "Jorge Vercillo",
-          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
-        }
-      ],
-      "album": {
-        "name": "Todos Nós Somos Um",
-        "image": "https://i.scdn.co/image/ab67616d0000b27375440e6d1774d8ff9f28198a"
-      },
-      "duration_ms": 254560,
-      "played_at": "2026-11-04T05:50:17.325Z"
-    },
-    {
-      "id": "475ZjWRTp3097bbuWcGuDd",
-      "name": "Toda Beleza",
-      "url": "https://open.spotify.com/track/475ZjWRTp3097bbuWcGuDd",
-      "artists": [
-        {
-          "id": "0slVGXBggrLglTLNKbeEyW",
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        },
-        {
-          "id": "4MF1QlpuvKRIfkmfOA4DrH",
-          "name": "Bala Desejo",
-          "url": "https://open.spotify.com/artist/4MF1QlpuvKRIfkmfOA4DrH"
-        }
-      ],
-      "album": {
-        "name": "AS PALAVRAS, VOL. 1 & 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea2aa0ff23e12bed70ad0862"
-      },
-      "duration_ms": 186382,
-      "played_at": "2026-11-04T05:46:11.776Z"
-    },
-    {
-      "id": "6CqmoPws2oeVmyXfb1Uvug",
-      "name": "Olha",
-      "url": "https://open.spotify.com/track/6CqmoPws2oeVmyXfb1Uvug",
-      "artists": [
-        {
-          "id": "5SVFuUaS3BKAdJs6I8rVa4",
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "album": {
-        "name": "Mil Coisas Invisíveis",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739976bd22102afeeca34c2d24"
-      },
-      "duration_ms": 259681,
-      "played_at": "2026-11-04T05:43:14.370Z"
-    },
-    {
-      "id": "7oo3L1ZPEQSavDVSnlOvDa",
-      "name": "Apenas Um Rapaz Latino Americano",
-      "url": "https://open.spotify.com/track/7oo3L1ZPEQSavDVSnlOvDa",
-      "artists": [
-        {
-          "id": "0C8HhyOa7zfzIl3gmPjY52",
-          "name": "Belchior",
-          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
-        }
-      ],
-      "album": {
-        "name": "Alucinação",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730a2d19f88187766f64d0b910"
-      },
-      "duration_ms": 258026,
-      "played_at": "2026-11-04T05:39:03.720Z"
     }
   ]
 }
