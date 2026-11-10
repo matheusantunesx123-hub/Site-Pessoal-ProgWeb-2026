@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T14:11:28.792098+00:00",
+  "updated_at": "2026-11-10T22:44:55.330989+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -525,6 +525,47 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "5iQhTuGIZjx1xQi1UmC24s",
+      "name": "Mundão moderno",
+      "url": "https://open.spotify.com/track/5iQhTuGIZjx1xQi1UmC24s",
+      "artists": [
+        {
+          "id": "0VgVhZxYnmTGqqj7WkAATA",
+          "name": "Bison e Comassetto",
+          "url": "https://open.spotify.com/artist/0VgVhZxYnmTGqqj7WkAATA"
+        }
+      ],
+      "album": {
+        "name": "Cru e sem frescura 5 EP",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d756f854eb3986087e4a5027"
+      },
+      "duration_ms": 147078,
+      "played_at": "2026-11-09T23:13:19.708Z"
+    },
+    {
+      "id": "503WvzwpOK00gffeYLsvFs",
+      "name": "Se você não voltar",
+      "url": "https://open.spotify.com/track/503WvzwpOK00gffeYLsvFs",
+      "artists": [
+        {
+          "id": "0ozdcqmICsOZDe7eJQVzrp",
+          "name": "Rick & Renner",
+          "url": "https://open.spotify.com/artist/0ozdcqmICsOZDe7eJQVzrp"
+        },
+        {
+          "id": "55Wn8tf8dBvfl1HRsD7Kze",
+          "name": "Continental",
+          "url": "https://open.spotify.com/artist/55Wn8tf8dBvfl1HRsD7Kze"
+        }
+      ],
+      "album": {
+        "name": "É Dez, é Cem, é Mil",
+        "image": "https://i.scdn.co/image/ab67616d0000b273270ed1266b36ff6cdb9be4e6"
+      },
+      "duration_ms": 219520,
+      "played_at": "2026-11-09T23:13:19.708Z"
+    },
     {
       "id": "3ZmaXPth5DwzJTtbsf7via",
       "name": "Vênus Em Escorpião",
@@ -1673,47 +1714,6 @@
       },
       "duration_ms": 214730,
       "played_at": "2026-11-08T15:16:51.480Z"
-    },
-    {
-      "id": "1r5xSeHHrnnAPlZD8s03N1",
-      "name": "Codinome Exagerado",
-      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
-      "artists": [
-        {
-          "id": "21Z6OxfrB1jTI53TaDMm67",
-          "name": "HODARI",
-          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
-        },
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "Codinome Exagerado",
-        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
-      },
-      "duration_ms": 189473,
-      "played_at": "2026-11-08T15:07:51.700Z"
-    },
-    {
-      "id": "2r8WpiohQGwWvOZnwLAZDS",
-      "name": "Ocitocina",
-      "url": "https://open.spotify.com/track/2r8WpiohQGwWvOZnwLAZDS",
-      "artists": [
-        {
-          "id": "1rdXEdH8SRIqbuTbzQzd93",
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "album": {
-        "name": "MAU",
-        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
-      },
-      "duration_ms": 220000,
-      "played_at": "2026-11-08T15:04:17.980Z"
     }
   ]
 }
