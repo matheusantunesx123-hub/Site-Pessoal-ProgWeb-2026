@@ -1,14 +1,19 @@
-```python
 import base64
 import http.server
+import os
+import sys
 import urllib.parse
 import webbrowser
 
 import requests
 
 
-CLIENT_ID = "f2eb432a6a9b40358530cd3855e21417"
-CLIENT_SECRET = "9f7b8b63989c41009f4597606697576d"
+CLIENT_ID = os.environ.get("SPOTIFY_CLIENT_ID")
+CLIENT_SECRET = os.environ.get("SPOTIFY_CLIENT_SECRET")
+
+if not CLIENT_ID or not CLIENT_SECRET:
+    print("Erro: defina as variaveis de ambiente SPOTIFY_CLIENT_ID e SPOTIFY_CLIENT_SECRET.")
+    sys.exit(1)
 
 REDIRECT_URI = "http://127.0.0.1:8888/callback"
 
@@ -91,6 +96,7 @@ response = requests.post(
         "code": authorization_code,
         "redirect_uri": REDIRECT_URI,
     },
+    timeout=30,
 )
 
 if response.status_code != 200:
@@ -110,4 +116,3 @@ print()
 print("=" * 60)
 print()
 print("Guarde esse valor. Ele será colocado no GitHub Secret.")
-```
