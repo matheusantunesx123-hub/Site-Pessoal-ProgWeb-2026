@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T19:27:20.042316+00:00",
+  "updated_at": "2026-11-13T04:46:04.326430+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -525,6 +525,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "39UIGfLXmKgetqGJRvYpGF",
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 131050,
+      "played_at": "2026-11-12T20:51:03.619Z"
+    },
     {
       "id": "5lAnYvAIkSDNXqfo7DyFUm",
       "name": "Ain't Shit",
@@ -1536,24 +1554,6 @@
       },
       "duration_ms": 239516,
       "played_at": "2026-11-11T14:21:27.716Z"
-    },
-    {
-      "id": "0vBWwc6LnM7mhg4GZjhqNv",
-      "name": "Hoje à Noite",
-      "url": "https://open.spotify.com/track/0vBWwc6LnM7mhg4GZjhqNv",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Hoje à Noite, Vol. 11 (Inéditas e ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732c214376195b1bb3ab0871d7"
-      },
-      "duration_ms": 212715,
-      "played_at": "2026-11-11T14:14:21.294Z"
     }
   ]
 }
