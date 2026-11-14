@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T04:40:13.213751+00:00",
+  "updated_at": "2026-11-14T12:52:44.428166+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -98,6 +98,12 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf680c991c829899faf1283c"
     },
     {
+      "id": "5kn7l4yaJxtNhj583LmL9L",
+      "name": "Gaby Amarantos",
+      "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba757019bb21ae2efb3407562"
+    },
+    {
       "id": "4boI7bJtmB1L3b1cuL75Zr",
       "name": "Mon Laferte",
       "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr",
@@ -108,12 +114,6 @@
       "name": "Tim Bernardes",
       "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4",
       "image": "https://i.scdn.co/image/ab6761610000e5ebd91deca571610be109e3f3db"
-    },
-    {
-      "id": "5kn7l4yaJxtNhj583LmL9L",
-      "name": "Gaby Amarantos",
-      "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L",
-      "image": "https://i.scdn.co/image/ab6761610000e5eba757019bb21ae2efb3407562"
     },
     {
       "id": "6MK5Z7OjpkcN6OFe6nh8pi",
@@ -525,6 +525,42 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "0aNN6abJWE5l1QCmt8KhF5",
+      "name": "Se não é amor",
+      "url": "https://open.spotify.com/track/0aNN6abJWE5l1QCmt8KhF5",
+      "artists": [
+        {
+          "id": "0hPar6ePAELiu9rYMdvMEo",
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "album": {
+        "name": "Uma nova paixão",
+        "image": "https://i.scdn.co/image/ab67616d0000b273694a83ca187aaf177074b634"
+      },
+      "duration_ms": 264200,
+      "played_at": "2026-11-13T23:01:01.284Z"
+    },
+    {
+      "id": "3xCkNUiap7EBjqnRldHSSh",
+      "name": "Coladin (Minha Deusa)",
+      "url": "https://open.spotify.com/track/3xCkNUiap7EBjqnRldHSSh",
+      "artists": [
+        {
+          "id": "5K8Rmjmf4RZFffz94EmBRt",
+          "name": "Zé Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        }
+      ],
+      "album": {
+        "name": "Indícios",
+        "image": "https://i.scdn.co/image/ab67616d0000b273490c081cf00f636d5ffbcb92"
+      },
+      "duration_ms": 228301,
+      "played_at": "2026-11-13T22:37:13.378Z"
+    },
     {
       "id": "5dQEEwXcpWb2WsTOhU8iBT",
       "name": "Príncipe Encantado",
@@ -1568,42 +1604,6 @@
       },
       "duration_ms": 213466,
       "played_at": "2026-11-13T07:18:50.109Z"
-    },
-    {
-      "id": "3PlKQNlbL4767rND3HnqSI",
-      "name": "Um Amor Puro - Ao Vivo",
-      "url": "https://open.spotify.com/track/3PlKQNlbL4767rND3HnqSI",
-      "artists": [
-        {
-          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
-          "name": "Djavan",
-          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
-        }
-      ],
-      "album": {
-        "name": "Djavan (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e84d18937e46c24bcdff259a"
-      },
-      "duration_ms": 327000,
-      "played_at": "2026-11-13T07:15:25.573Z"
-    },
-    {
-      "id": "6TJJi1sNzwrUpjlXHXazlz",
-      "name": "A Loba",
-      "url": "https://open.spotify.com/track/6TJJi1sNzwrUpjlXHXazlz",
-      "artists": [
-        {
-          "id": "0hPar6ePAELiu9rYMdvMEo",
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "album": {
-        "name": "A Paixão Tem Memória",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738ab02a5b19afe9b2e30c7aac"
-      },
-      "duration_ms": 264706,
-      "played_at": "2026-11-13T07:10:07.620Z"
     }
   ]
 }
