@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T01:28:19.176737+00:00",
+  "updated_at": "2026-11-17T15:24:26.989919+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -526,1019 +526,919 @@
   ],
   "recently_played": [
     {
-      "id": "77pgJ5RdjC2Qo2g44rJFnO",
-      "name": "Kenner no Pé",
-      "url": "https://open.spotify.com/track/77pgJ5RdjC2Qo2g44rJFnO",
+      "id": "5BXqaWb8fRDDe1fDi30MfC",
+      "name": "Risca Faca",
+      "url": "https://open.spotify.com/track/5BXqaWb8fRDDe1fDi30MfC",
       "artists": [
         {
-          "id": "3Me7uocyqQLZEhXCr3Zqh0",
-          "name": "Robert",
-          "url": "https://open.spotify.com/artist/3Me7uocyqQLZEhXCr3Zqh0"
+          "id": "4mnhyGRAuExTL4J0soT4za",
+          "name": "Aviões do Forró",
+          "url": "https://open.spotify.com/artist/4mnhyGRAuExTL4J0soT4za"
         }
       ],
       "album": {
-        "name": "Ímpeto Ardente",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c7c18e198dd5a07fa65e23be"
+        "name": "Aviões do Forró, Vol. 4",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e5a7abc2374c560f07d55e41"
       },
-      "duration_ms": 166663,
-      "played_at": "2026-11-17T00:44:10.106Z"
+      "duration_ms": 208535,
+      "played_at": "2026-11-17T15:15:46.834Z"
     },
     {
-      "id": "1lUUNThFBW8tz0AIRLy01w",
-      "name": "Short Beira Cu",
-      "url": "https://open.spotify.com/track/1lUUNThFBW8tz0AIRLy01w",
+      "id": "0YrH15XcTh2Kf3re3yubZ5",
+      "name": "Metade Da Metade",
+      "url": "https://open.spotify.com/track/0YrH15XcTh2Kf3re3yubZ5",
       "artists": [
         {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
         }
       ],
       "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
       },
-      "duration_ms": 136421,
-      "played_at": "2026-11-16T23:44:11.561Z"
+      "duration_ms": 184659,
+      "played_at": "2026-11-17T15:12:18.326Z"
     },
     {
-      "id": "0AwC9dvtLDRb3FyGPb38BD",
-      "name": "Te Amo Fudido",
-      "url": "https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD",
+      "id": "0RpAQUFX5VJW5YV2FYuUgp",
+      "name": "É Chamego Ou Xaveco?",
+      "url": "https://open.spotify.com/track/0RpAQUFX5VJW5YV2FYuUgp",
       "artists": [
         {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 221178,
+      "played_at": "2026-11-17T15:07:04.091Z"
+    },
+    {
+      "id": "0RpAQUFX5VJW5YV2FYuUgp",
+      "name": "É Chamego Ou Xaveco?",
+      "url": "https://open.spotify.com/track/0RpAQUFX5VJW5YV2FYuUgp",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 221178,
+      "played_at": "2026-11-17T15:03:47.545Z"
+    },
+    {
+      "id": "2QFzn5NXgtqssepxJjmJYP",
+      "name": "Liga pra Mim (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2QFzn5NXgtqssepxJjmJYP",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Eu Amo Demais, Vol. 21 (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c03eeb7fc5d730e034b89c2e"
+      },
+      "duration_ms": 200773,
+      "played_at": "2026-11-17T15:02:16.079Z"
+    },
+    {
+      "id": "0jeFHISVpw1dgBOdM63SB3",
+      "name": "Volta Vai - Ao Vivo",
+      "url": "https://open.spotify.com/track/0jeFHISVpw1dgBOdM63SB3",
+      "artists": [
+        {
+          "id": "0MInKJqZscEeNc5K3K0mkE",
+          "name": "Simone & Simaria",
+          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
+        }
+      ],
+      "album": {
+        "name": "Bar Das Coleguinhas (Ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736d9c190b18f51c9b39b620b3"
+      },
+      "duration_ms": 276386,
+      "played_at": "2026-11-17T14:58:55.278Z"
+    },
+    {
+      "id": "0RpAQUFX5VJW5YV2FYuUgp",
+      "name": "É Chamego Ou Xaveco?",
+      "url": "https://open.spotify.com/track/0RpAQUFX5VJW5YV2FYuUgp",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 221178,
+      "played_at": "2026-11-17T14:54:18.868Z"
+    },
+    {
+      "id": "5h7J58ByKMNy9uYGPbxcrf",
+      "name": "Não Deligue o Telefone",
+      "url": "https://open.spotify.com/track/5h7J58ByKMNy9uYGPbxcrf",
+      "artists": [
+        {
+          "id": "4adpoL1QBRZW6jWjRVMB04",
+          "name": "Banda Djavú",
+          "url": "https://open.spotify.com/artist/4adpoL1QBRZW6jWjRVMB04"
+        }
+      ],
+      "album": {
+        "name": "O Furacão É Show",
+        "image": "https://i.scdn.co/image/ab67616d0000b27338a55f9b103bbe81fadc7f10"
+      },
+      "duration_ms": 250200,
+      "played_at": "2026-11-17T14:49:21.961Z"
+    },
+    {
+      "id": "6gjqPHut0PC4OS2VJWgDtB",
+      "name": "Traidor",
+      "url": "https://open.spotify.com/track/6gjqPHut0PC4OS2VJWgDtB",
+      "artists": [
+        {
+          "id": "5K8Rmjmf4RZFffz94EmBRt",
+          "name": "Zé Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
         },
         {
-          "id": "1p2aDZsmPNSKQynqjXN7Hj",
-          "name": "Viviane Batidão",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+          "id": "1nca3OA1kKCpP6aPJcBL92",
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
         }
       ],
       "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+        "name": "Traidor",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e0c3e71bee4c3311877f0f8b"
       },
-      "duration_ms": 163764,
-      "played_at": "2026-11-16T23:41:20.617Z"
+      "duration_ms": 199387,
+      "played_at": "2026-11-17T14:44:45.864Z"
     },
     {
-      "id": "2afu4LmXG1OTPCoptFYzRX",
-      "name": "Everybody",
-      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "id": "1P2cC0daWOoZWUjUYLfIgA",
+      "name": "Tem Mais Alguém?",
+      "url": "https://open.spotify.com/track/1P2cC0daWOoZWUjUYLfIgA",
       "artists": [
         {
-          "id": "0XfQBWgzisaS9ltDV9bXAS",
-          "name": "Honey Dijon",
-          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Calcinha Preta Premium",
+        "image": "https://i.scdn.co/image/ab67616d0000b273affbc662fdc4630890d21353"
+      },
+      "duration_ms": 255466,
+      "played_at": "2026-11-17T14:41:26.503Z"
+    },
+    {
+      "id": "7CNB3gJSRb4NEVRe3mwiur",
+      "name": "Sai Solidão",
+      "url": "https://open.spotify.com/track/7CNB3gJSRb4NEVRe3mwiur",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Mágica, Vol. 12",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
+      },
+      "duration_ms": 263026,
+      "played_at": "2026-11-17T14:37:10.963Z"
+    },
+    {
+      "id": "7CNB3gJSRb4NEVRe3mwiur",
+      "name": "Sai Solidão",
+      "url": "https://open.spotify.com/track/7CNB3gJSRb4NEVRe3mwiur",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Mágica, Vol. 12",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
+      },
+      "duration_ms": 263026,
+      "played_at": "2026-11-17T14:32:50.791Z"
+    },
+    {
+      "id": "0AsfpL8bzbmEyJsfbPPYnj",
+      "name": "Zóio De Lula",
+      "url": "https://open.spotify.com/track/0AsfpL8bzbmEyJsfbPPYnj",
+      "artists": [
+        {
+          "id": "1on7ZQ2pvgeQF4vmIA09x5",
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
+        }
+      ],
+      "album": {
+        "name": "Preço Curto, Prazo Longo",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a31196ef709290f831ee89ae"
+      },
+      "duration_ms": 252226,
+      "played_at": "2026-11-17T14:32:37.560Z"
+    },
+    {
+      "id": "3fak0qjHByUubKQY2JM3ux",
+      "name": "Leva",
+      "url": "https://open.spotify.com/track/3fak0qjHByUubKQY2JM3ux",
+      "artists": [
+        {
+          "id": "0jOs0wnXCu1bGGP7kh5uIu",
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "album": {
+        "name": "Tim Maia",
+        "image": "https://i.scdn.co/image/ab67616d0000b273455714f8055a474928a7f214"
+      },
+      "duration_ms": 258200,
+      "played_at": "2026-11-17T09:02:01.576Z"
+    },
+    {
+      "id": "0YBZgQ9O0GO0GM5eGkP3Pd",
+      "name": "Mon Amour, Meu Bem, Ma Femme / Música Incidental: La Vie En Rose",
+      "url": "https://open.spotify.com/track/0YBZgQ9O0GO0GM5eGkP3Pd",
+      "artists": [
+        {
+          "id": "6DYBkobQCkvav5GCnfqlcC",
+          "name": "Reginaldo Rossi",
+          "url": "https://open.spotify.com/artist/6DYBkobQCkvav5GCnfqlcC"
+        }
+      ],
+      "album": {
+        "name": "Nova Bis - Reginaldo Rossi",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732a4b87fad8ebf81d7dd2d5bb"
+      },
+      "duration_ms": 160760,
+      "played_at": "2026-11-17T08:57:52.363Z"
+    },
+    {
+      "id": "0VUgbCK0k8QWGpLiEV8YYZ",
+      "name": "Cálice",
+      "url": "https://open.spotify.com/track/0VUgbCK0k8QWGpLiEV8YYZ",
+      "artists": [
+        {
+          "id": "6tOsSffQQIXmK8TqsDck8t",
+          "name": "Chico Buarque",
+          "url": "https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t"
         },
         {
-          "id": "6tzRZ39aZlNqlUzQlkuhDV",
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+          "id": "3Bnq7jiU506HcPjRgQ43TM",
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        }
+      ],
+      "album": {
+        "name": "Chico Buarque",
+        "image": "https://i.scdn.co/image/ab67616d0000b273175c5e58d396b45c4f637deb"
+      },
+      "duration_ms": 241866,
+      "played_at": "2026-11-17T08:55:20.577Z"
+    },
+    {
+      "id": "3PavsmA9S6QA5lNmmsuOif",
+      "name": "O Mundo É Um Moinho",
+      "url": "https://open.spotify.com/track/3PavsmA9S6QA5lNmmsuOif",
+      "artists": [
+        {
+          "id": "0RSWHhBUwW7lhCqXqxKxWN",
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "album": {
+        "name": "Cartola (1976)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739854c0ddb18055c616154d18"
+      },
+      "duration_ms": 233520,
+      "played_at": "2026-11-17T08:51:27.747Z"
+    },
+    {
+      "id": "5t6QgW9guk6MRptJJWgsFY",
+      "name": "Vou Deixar",
+      "url": "https://open.spotify.com/track/5t6QgW9guk6MRptJJWgsFY",
+      "artists": [
+        {
+          "id": "4C4kpaAdp6aKSkguw40SsU",
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "album": {
+        "name": "Cosmotron",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ff0586b9798083958c22cfed"
+      },
+      "duration_ms": 273533,
+      "played_at": "2026-11-17T08:47:43.215Z"
+    },
+    {
+      "id": "2TI5GBkbrrFtZRM5v1heeb",
+      "name": "Trem Das Onze",
+      "url": "https://open.spotify.com/track/2TI5GBkbrrFtZRM5v1heeb",
+      "artists": [
+        {
+          "id": "7vTlV3ajnMxl5l0ahupUeP",
+          "name": "Adoniran Barbosa",
+          "url": "https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP"
+        }
+      ],
+      "album": {
+        "name": "Adoniran Barbosa",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732253c41bfeac02997def39e2"
+      },
+      "duration_ms": 184000,
+      "played_at": "2026-11-17T08:43:18.682Z"
+    },
+    {
+      "id": "4hxBc6iD1MB2E6hiIhuKdP",
+      "name": "Cadeira De Rodas",
+      "url": "https://open.spotify.com/track/4hxBc6iD1MB2E6hiIhuKdP",
+      "artists": [
+        {
+          "id": "6SYKh5gFxjnz8RjiQkdO1O",
+          "name": "Fernando Mendes",
+          "url": "https://open.spotify.com/artist/6SYKh5gFxjnz8RjiQkdO1O"
+        }
+      ],
+      "album": {
+        "name": "Fernando Mendes",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f44c341534f4728761c7f817"
+      },
+      "duration_ms": 209200,
+      "played_at": "2026-11-17T08:40:23.685Z"
+    },
+    {
+      "id": "0dsn6r2gtpmtcsdDHsjFes",
+      "name": "Lindo Lago Do Amor",
+      "url": "https://open.spotify.com/track/0dsn6r2gtpmtcsdDHsjFes",
+      "artists": [
+        {
+          "id": "1LOFaxDBvn3YuvarTldGAe",
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
+        }
+      ],
+      "album": {
+        "name": "Grávido",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f8c741087f67696c0503851c"
+      },
+      "duration_ms": 251146,
+      "played_at": "2026-11-17T08:37:03.483Z"
+    },
+    {
+      "id": "2kXkaplZ6HdXz5XYBtdunj",
+      "name": "Acenda o farol",
+      "url": "https://open.spotify.com/track/2kXkaplZ6HdXz5XYBtdunj",
+      "artists": [
+        {
+          "id": "0jOs0wnXCu1bGGP7kh5uIu",
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "album": {
+        "name": "Brazilian Café",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cfc9c0d3db640ea6bcf385f9"
+      },
+      "duration_ms": 192026,
+      "played_at": "2026-11-17T08:33:01.386Z"
+    },
+    {
+      "id": "7Fp2zfZYm5VrHwXWSbls7R",
+      "name": "Meu Bem Querer",
+      "url": "https://open.spotify.com/track/7Fp2zfZYm5VrHwXWSbls7R",
+      "artists": [
+        {
+          "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "album": {
+        "name": "Alumbramento",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d32e0dc1fa50a3d7cd6d8c5d"
+      },
+      "duration_ms": 203093,
+      "played_at": "2026-11-17T08:29:58.336Z"
+    },
+    {
+      "id": "6XNlZ5mYra5mSv7wmAck91",
+      "name": "Coisas Que Eu Sei - Ao Vivo No Rio De Janeiro / 2008",
+      "url": "https://open.spotify.com/track/6XNlZ5mYra5mSv7wmAck91",
+      "artists": [
+        {
+          "id": "783AF57UpgTN2fditDRFSs",
+          "name": "Jorge Vercillo",
+          "url": "https://open.spotify.com/artist/783AF57UpgTN2fditDRFSs"
         },
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "4anCi47lxznfXNiIm73DYV",
+          "name": "Dudu Falcão",
+          "url": "https://open.spotify.com/artist/4anCi47lxznfXNiIm73DYV"
         }
       ],
       "album": {
-        "name": "Black Girl Magic",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+        "name": "Trem Da Minha Vida (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27340240b3c9e3f8cf10a0be35a"
       },
-      "duration_ms": 220347,
-      "played_at": "2026-11-16T23:37:01.761Z"
+      "duration_ms": 237742,
+      "played_at": "2026-11-17T08:26:44.284Z"
     },
     {
-      "id": "5ON5BW0tazw1lUD3c5jEkU",
-      "name": "Duas Metades - Versão Estúdio",
-      "url": "https://open.spotify.com/track/5ON5BW0tazw1lUD3c5jEkU",
+      "id": "4oZr3pfUrZtjJzxr0UIPb9",
+      "name": "Primeiros Erros (Chove) - Ao Vivo",
+      "url": "https://open.spotify.com/track/4oZr3pfUrZtjJzxr0UIPb9",
       "artists": [
         {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "id": "4Z0yuwHVJBROVZqFpTIr0d",
+          "name": "Capital Inicial",
+          "url": "https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d"
         }
       ],
       "album": {
-        "name": "A Hora É Agora (Ao Vivo Em Jurerê)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
+        "name": "Capital Inicial Multishow (Ao Vivo) [Deluxe]",
+        "image": "https://i.scdn.co/image/ab67616d0000b273eb5544ac1c56cd2d89854030"
       },
-      "duration_ms": 228653,
-      "played_at": "2026-11-16T23:35:25.111Z"
+      "duration_ms": 332306,
+      "played_at": "2026-11-17T08:22:55.488Z"
     },
     {
-      "id": "76K91k1A3S7GHe5GmALuO9",
-      "name": "SAUDADE DE VOCÊ",
-      "url": "https://open.spotify.com/track/76K91k1A3S7GHe5GmALuO9",
+      "id": "4FwfiZYw2hm4CkoZctZIDq",
+      "name": "Em Plena Lua De Mel (Dina)",
+      "url": "https://open.spotify.com/track/4FwfiZYw2hm4CkoZctZIDq",
       "artists": [
         {
-          "id": "2QLSJqqGIstNbO6nYRR16o",
-          "name": "DUDA BEAT",
-          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+          "id": "6DYBkobQCkvav5GCnfqlcC",
+          "name": "Reginaldo Rossi",
+          "url": "https://open.spotify.com/artist/6DYBkobQCkvav5GCnfqlcC"
         }
       ],
       "album": {
-        "name": "Tara e Tal",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+        "name": "Cheio De Amor",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bc7695df73f90945f528dcd6"
       },
-      "duration_ms": 236212,
-      "played_at": "2026-11-16T23:33:21.312Z"
+      "duration_ms": 202613,
+      "played_at": "2026-11-17T08:17:32.190Z"
     },
     {
-      "id": "43GAz1TUkdhcGdRBW9kGkL",
-      "name": "Tatuagem do Teu Ex 2",
-      "url": "https://open.spotify.com/track/43GAz1TUkdhcGdRBW9kGkL",
+      "id": "78I8jaChZbPu72bIGGPMKk",
+      "name": "Lágrimas Negras",
+      "url": "https://open.spotify.com/track/78I8jaChZbPu72bIGGPMKk",
       "artists": [
         {
-          "id": "36MLP28p1UX0xIRdhZTeUc",
-          "name": "Christopher Luz",
-          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
-        },
-        {
-          "id": "7Esv5D6U1qtVOHbXihKgea",
-          "name": "DJ MAVI",
-          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
-        },
-        {
-          "id": "2TGtBMeVz0MkIATkn2gHhe",
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
-        },
-        {
-          "id": "2sQHo73pQF1OTq3lDuQhlO",
-          "name": "Mc Pogba",
-          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
-        },
-        {
-          "id": "18d98atAsxwOOhHGF9Mhxb",
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+          "id": "1b8kpp4DUwt1hWaxTiWQhD",
+          "name": "Gal Costa",
+          "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
       "album": {
-        "name": "Tatuagem do Teu Ex 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b273fa65893ff80ab8d06a346cea"
+        "name": "Cantar",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a109c0cc2759660eae238c5d"
       },
-      "duration_ms": 133138,
-      "played_at": "2026-11-16T23:29:25.256Z"
+      "duration_ms": 215440,
+      "played_at": "2026-11-17T08:14:18.591Z"
     },
     {
-      "id": "4kOA9FwTcsWljrRXsdjYtR",
-      "name": "RAVE DE BONECA",
-      "url": "https://open.spotify.com/track/4kOA9FwTcsWljrRXsdjYtR",
+      "id": "6vgKWE1KV4E7p1Dv75z0kL",
+      "name": "Azul Da Cor Do Mar",
+      "url": "https://open.spotify.com/track/6vgKWE1KV4E7p1Dv75z0kL",
       "artists": [
         {
-          "id": "4fEVOU30FExLu4AzdKtyqc",
-          "name": "Mia Badgyal",
-          "url": "https://open.spotify.com/artist/4fEVOU30FExLu4AzdKtyqc"
-        },
-        {
-          "id": "3bY8SmKlzUFImE0mt0zDjY",
-          "name": "Lia Clark",
-          "url": "https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY"
-        },
-        {
-          "id": "18d98atAsxwOOhHGF9Mhxb",
-          "name": "Katy da Voz e as abusadas",
-          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
-        },
-        {
-          "id": "0YYrMvekr8APmc9sIbIpx3",
-          "name": "CyberKills",
-          "url": "https://open.spotify.com/artist/0YYrMvekr8APmc9sIbIpx3"
+          "id": "0jOs0wnXCu1bGGP7kh5uIu",
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
       "album": {
-        "name": "MUCHO SEXY",
-        "image": "https://i.scdn.co/image/ab67616d0000b2738ef0263275eeec8ef87bc553"
+        "name": "Tim Maia 1970",
+        "image": "https://i.scdn.co/image/ab67616d0000b273052bd0ef86fa73c77263bfbe"
       },
-      "duration_ms": 188040,
-      "played_at": "2026-11-16T23:27:11.929Z"
+      "duration_ms": 198261,
+      "played_at": "2026-11-17T08:10:52.163Z"
     },
     {
-      "id": "0J04fTkB0VXZXWzsIK8gKn",
-      "name": "Somos Amigas",
-      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "id": "1SYkdjGAnwononT8OzmL8v",
+      "name": "Pensando Nela",
+      "url": "https://open.spotify.com/track/1SYkdjGAnwononT8OzmL8v",
       "artists": [
         {
-          "id": "7Eli9jWjQ5F1d06clIH46R",
-          "name": "Danny Bond",
-          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
-        },
-        {
-          "id": "1h27s7BnaBATagMAgDOcDF",
-          "name": "PZZS",
-          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
-        },
-        {
-          "id": "7BT8x82CjBZUjJy6xj1G3O",
-          "name": "MC Pipokinha",
-          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+          "id": "6DYBkobQCkvav5GCnfqlcC",
+          "name": "Reginaldo Rossi",
+          "url": "https://open.spotify.com/artist/6DYBkobQCkvav5GCnfqlcC"
         }
       ],
       "album": {
-        "name": "Epica 2 (Edição Completa)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+        "name": "Cheio De Amor",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bc7695df73f90945f528dcd6"
       },
-      "duration_ms": 152389,
-      "played_at": "2026-11-16T23:24:03.926Z"
+      "duration_ms": 181800,
+      "played_at": "2026-11-17T08:07:42.892Z"
     },
     {
-      "id": "5b1OMdOMZKPabNweOF6oug",
-      "name": "Neo Thang",
-      "url": "https://open.spotify.com/track/5b1OMdOMZKPabNweOF6oug",
+      "id": "4DJBSoZmcymRVkLDXBzae8",
+      "name": "Eu Queria Dizer Que Te Amo Numa Canção",
+      "url": "https://open.spotify.com/track/4DJBSoZmcymRVkLDXBzae8",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "6SYKh5gFxjnz8RjiQkdO1O",
+          "name": "Fernando Mendes",
+          "url": "https://open.spotify.com/artist/6SYKh5gFxjnz8RjiQkdO1O"
         }
       ],
       "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+        "name": "Nova Bis",
+        "image": "https://i.scdn.co/image/ab67616d0000b27308f29eeb5e9970170d9be06a"
       },
-      "duration_ms": 151944,
-      "played_at": "2026-11-16T23:21:31.519Z"
+      "duration_ms": 206840,
+      "played_at": "2026-11-17T08:04:50.084Z"
     },
     {
-      "id": "5b1OMdOMZKPabNweOF6oug",
-      "name": "Neo Thang",
-      "url": "https://open.spotify.com/track/5b1OMdOMZKPabNweOF6oug",
+      "id": "6qlb3j0zGqEe6uWJpQZGxP",
+      "name": "Menina Veneno",
+      "url": "https://open.spotify.com/track/6qlb3j0zGqEe6uWJpQZGxP",
       "artists": [
         {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+          "id": "4KWRrTJoM6MhOq3UTYctJV",
+          "name": "Ritchie",
+          "url": "https://open.spotify.com/artist/4KWRrTJoM6MhOq3UTYctJV"
         }
       ],
       "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+        "name": "Vôo de Coração",
+        "image": "https://i.scdn.co/image/ab67616d0000b273df1ad76d06fe7f07e70b164a"
       },
-      "duration_ms": 151944,
-      "played_at": "2026-11-16T23:18:59.418Z"
+      "duration_ms": 281293,
+      "played_at": "2026-11-17T08:01:32.243Z"
     },
     {
-      "id": "340nuWOC9qEMffqdNyuvXI",
-      "name": "Homem de Família - Ao Vivo",
-      "url": "https://open.spotify.com/track/340nuWOC9qEMffqdNyuvXI",
+      "id": "5lvvqOEWpUvs2jaFkQTFWJ",
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/5lvvqOEWpUvs2jaFkQTFWJ",
       "artists": [
         {
-          "id": "7MiDcPa6UiV3In7lIM71IN",
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "id": "0slVGXBggrLglTLNKbeEyW",
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
         }
       ],
       "album": {
-        "name": "50/50 (Ao Vivo) [Deluxe]",
-        "image": "https://i.scdn.co/image/ab67616d0000b273988b4d0fc8161790f0a1399b"
+        "name": "Pearl",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733bf2c47f0b7eb441cda9a7c7"
       },
-      "duration_ms": 184888,
-      "played_at": "2026-11-16T19:39:30.690Z"
+      "duration_ms": 394706,
+      "played_at": "2026-11-17T07:56:59.996Z"
     },
     {
-      "id": "6P7Uodyh8g40Nyc3no6R8E",
-      "name": "Te Assumi Pro Brasil - Ao Vivo",
-      "url": "https://open.spotify.com/track/6P7Uodyh8g40Nyc3no6R8E",
+      "id": "5WhopL3cBWYfCfWP85nmGO",
+      "name": "Não Creio Em Mais Nada",
+      "url": "https://open.spotify.com/track/5WhopL3cBWYfCfWP85nmGO",
       "artists": [
         {
-          "id": "2Z0lRIqr997lIUiPtrpKCr",
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+          "id": "0HigSwyGHoUcZCRDwvQtJt",
+          "name": "Paulo Sérgio",
+          "url": "https://open.spotify.com/artist/0HigSwyGHoUcZCRDwvQtJt"
         }
       ],
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b3dc19f5718350a3f81f0afa"
+        "name": "Paulo Sergio (Vol. IV)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b23cad35c5577b35ef72c6c2"
       },
-      "duration_ms": 162734,
-      "played_at": "2026-11-16T19:30:26.967Z"
+      "duration_ms": 139733,
+      "played_at": "2026-11-17T07:50:34.240Z"
     },
     {
-      "id": "0TUGKtbczYRfHmRRUmpW25",
-      "name": "Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/0TUGKtbczYRfHmRRUmpW25",
+      "id": "4C0jbc9jPcDmPDGphIdDoN",
+      "name": "Temporal",
+      "url": "https://open.spotify.com/track/4C0jbc9jPcDmPDGphIdDoN",
       "artists": [
         {
-          "id": "3p7PcrEHaaKLJnPUGOtRlT",
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "id": "6YMWV5AeYoZymMMDonMfsA",
+          "name": "Art Popular",
+          "url": "https://open.spotify.com/artist/6YMWV5AeYoZymMMDonMfsA"
         }
       ],
       "album": {
-        "name": "Novas Histórias (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736f77a385515006e6af3558cd"
+        "name": "Temporal (Audio)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fa79bbb1585d2580e484da5b"
       },
-      "duration_ms": 176774,
-      "played_at": "2026-11-16T18:53:24.207Z"
+      "duration_ms": 275360,
+      "played_at": "2026-11-17T07:48:23.508Z"
     },
     {
-      "id": "6PyTGvEiXsFQFSZIPY2AkX",
-      "name": "Rosas, Versos e Vinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6PyTGvEiXsFQFSZIPY2AkX",
+      "id": "04h9o3gtRD7fvGafF7ukJj",
+      "name": "Eu Amo Você",
+      "url": "https://open.spotify.com/track/04h9o3gtRD7fvGafF7ukJj",
       "artists": [
         {
-          "id": "7MiDcPa6UiV3In7lIM71IN",
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "id": "0jOs0wnXCu1bGGP7kh5uIu",
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
       "album": {
-        "name": "Gusttavo Lima",
-        "image": "https://i.scdn.co/image/ab67616d0000b273464ce42d3533ea68ca6e6c0b"
+        "name": "Tim Maia 1970",
+        "image": "https://i.scdn.co/image/ab67616d0000b273052bd0ef86fa73c77263bfbe"
       },
-      "duration_ms": 221586,
-      "played_at": "2026-11-16T17:51:17.434Z"
+      "duration_ms": 243183,
+      "played_at": "2026-11-17T07:43:57.208Z"
     },
     {
-      "id": "6PyTGvEiXsFQFSZIPY2AkX",
-      "name": "Rosas, Versos e Vinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/6PyTGvEiXsFQFSZIPY2AkX",
+      "id": "4d0DpU7Odiv0ztvX2GxJlk",
+      "name": "Exagerado",
+      "url": "https://open.spotify.com/track/4d0DpU7Odiv0ztvX2GxJlk",
       "artists": [
         {
-          "id": "7MiDcPa6UiV3In7lIM71IN",
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+          "id": "1PwOU6fFbmaGkK3wkbb8fU",
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
         }
       ],
       "album": {
-        "name": "Gusttavo Lima",
-        "image": "https://i.scdn.co/image/ab67616d0000b273464ce42d3533ea68ca6e6c0b"
+        "name": "Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e662ee7aaed07bedec85e564"
       },
-      "duration_ms": 221586,
-      "played_at": "2026-11-16T17:48:20.326Z"
+      "duration_ms": 222696,
+      "played_at": "2026-11-17T07:40:03.007Z"
     },
     {
-      "id": "1wzBbuHRzc9TlYgI0ZlkpH",
-      "name": "O Que É Que Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wzBbuHRzc9TlYgI0ZlkpH",
+      "id": "09h91oP3t1c5fSEI5P6maS",
+      "name": "Quero Ser Feliz Também",
+      "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS",
       "artists": [
         {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "id": "4PhdYoQGH8s1xee81dqQOO",
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
       "album": {
-        "name": "A Hora É Agora (Ao Vivo Em Jurerê)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27340a6f202ed07fff84d806a2f"
+        "name": "Nossa Missão",
+        "image": "https://i.scdn.co/image/ab67616d0000b273363821552f65adc2ad9f453d"
       },
-      "duration_ms": 207813,
-      "played_at": "2026-11-16T15:04:53.016Z"
+      "duration_ms": 254026,
+      "played_at": "2026-11-17T07:36:29.311Z"
     },
     {
-      "id": "2K9kZpwD2CzTa6iiSYYOoO",
-      "name": "Leão",
-      "url": "https://open.spotify.com/track/2K9kZpwD2CzTa6iiSYYOoO",
+      "id": "0YvWYuozljvaJzFMUNAV8F",
+      "name": "Resposta",
+      "url": "https://open.spotify.com/track/0YvWYuozljvaJzFMUNAV8F",
       "artists": [
         {
-          "id": "1yR65psqiazQpeM79CcGh8",
-          "name": "Marília Mendonça",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "id": "4C4kpaAdp6aKSkguw40SsU",
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
         }
       ],
       "album": {
-        "name": "Decretos Reais, Vol. 2",
-        "image": "https://i.scdn.co/image/ab67616d0000b273680345244dcab673f3a1389d"
+        "name": "Siderado",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a598a9acfc02ed4fa3e11c46"
       },
-      "duration_ms": 166774,
-      "played_at": "2026-11-16T15:01:34.135Z"
+      "duration_ms": 243933,
+      "played_at": "2026-11-17T07:32:24.310Z"
     },
     {
-      "id": "06mJICPD91PUTdS08mH1If",
-      "name": "Pra Não Pensar em Você",
-      "url": "https://open.spotify.com/track/06mJICPD91PUTdS08mH1If",
+      "id": "3rwduIZV035Mj9czplinaL",
+      "name": "Divina Comédia Humana",
+      "url": "https://open.spotify.com/track/3rwduIZV035Mj9czplinaL",
       "artists": [
         {
-          "id": "4dyYjqmYDjegbB3F2mbvcT",
-          "name": "Zezé Di Camargo & Luciano",
-          "url": "https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT"
+          "id": "0C8HhyOa7zfzIl3gmPjY52",
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
         }
       ],
       "album": {
-        "name": "Zezé Di Camargo & Luciano 1998",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ba323f9a5e6a954eb54884bf"
+        "name": "Divina Comédia Humana",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d061206583f9a5bf99369070"
       },
-      "duration_ms": 302733,
-      "played_at": "2026-11-16T14:58:01.905Z"
+      "duration_ms": 325400,
+      "played_at": "2026-11-17T07:28:29.407Z"
     },
     {
-      "id": "2kdtdYMYlsOEt5Zmc07O3f",
-      "name": "Fim De Namoro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2kdtdYMYlsOEt5Zmc07O3f",
+      "id": "7h76l7sXK3y6Q5JPKlzmZn",
+      "name": "Amor, Amor, Amor",
+      "url": "https://open.spotify.com/track/7h76l7sXK3y6Q5JPKlzmZn",
       "artists": [
         {
-          "id": "3p7PcrEHaaKLJnPUGOtRlT",
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "id": "6DYBkobQCkvav5GCnfqlcC",
+          "name": "Reginaldo Rossi",
+          "url": "https://open.spotify.com/artist/6DYBkobQCkvav5GCnfqlcC"
         }
       ],
       "album": {
-        "name": "Manifesto Musical 2 (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ea8c31c9f8657e8c3812eb28"
+        "name": "A Volta",
+        "image": "https://i.scdn.co/image/ab67616d0000b27373ba9081ae2b0056eb18d1ca"
       },
-      "duration_ms": 166907,
-      "played_at": "2026-11-16T14:45:05.085Z"
+      "duration_ms": 218333,
+      "played_at": "2026-11-17T07:23:13.001Z"
     },
     {
-      "id": "2ujdEDiXAcuZPUJnNlcJT5",
-      "name": "Te Amo E Nada Mais",
-      "url": "https://open.spotify.com/track/2ujdEDiXAcuZPUJnNlcJT5",
+      "id": "1qD6F4egXG4T8niy2nBi8U",
+      "name": "Maluco beleza",
+      "url": "https://open.spotify.com/track/1qD6F4egXG4T8niy2nBi8U",
       "artists": [
         {
-          "id": "2FrLTuXGuFDzQsjKidB03W",
-          "name": "João Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+          "id": "7jrRQZg4FZq6dwpi3baKcu",
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
         }
       ],
       "album": {
-        "name": "Ao Vivo Em Palmas",
-        "image": "https://i.scdn.co/image/ab67616d0000b27342f0903aa08de5a11b2c2d5c"
+        "name": "Maluco Beleza",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739d64a71aa30f62da08753cab"
       },
-      "duration_ms": 203466,
-      "played_at": "2026-11-16T14:42:27.180Z"
+      "duration_ms": 204666,
+      "played_at": "2026-11-17T07:19:43.607Z"
     },
     {
-      "id": "0IZoAHNQC2dQm90CfhWn3S",
-      "name": "Estou apaixonado",
-      "url": "https://open.spotify.com/track/0IZoAHNQC2dQm90CfhWn3S",
+      "id": "0G6RszlmbBTvYJFEqgqFOX",
+      "name": "Casinha de Sapê",
+      "url": "https://open.spotify.com/track/0G6RszlmbBTvYJFEqgqFOX",
       "artists": [
         {
-          "id": "4rOoJbjbSc9bNHPyHGdfbc",
-          "name": "João Paulo & Daniel",
-          "url": "https://open.spotify.com/artist/4rOoJbjbSc9bNHPyHGdfbc"
-        },
-        {
-          "id": "55Wn8tf8dBvfl1HRsD7Kze",
-          "name": "Continental",
-          "url": "https://open.spotify.com/artist/55Wn8tf8dBvfl1HRsD7Kze"
+          "id": "0jOs0wnXCu1bGGP7kh5uIu",
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
       "album": {
-        "name": "Warner 25 anos",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bb42f9217e5240d17aabd555"
+        "name": "Nuvens",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d4af255844fc147eaf5e8f75"
       },
-      "duration_ms": 282080,
-      "played_at": "2026-11-16T14:39:12.685Z"
+      "duration_ms": 218226,
+      "played_at": "2026-11-17T07:16:28.008Z"
     },
     {
-      "id": "27BcWN9G2MxGBXvC0tEKkN",
-      "name": "Cadeira Cativa - Ao Vivo",
-      "url": "https://open.spotify.com/track/27BcWN9G2MxGBXvC0tEKkN",
+      "id": "4ccf1TibacBYDDwWsuC2S6",
+      "name": "Moça criança",
+      "url": "https://open.spotify.com/track/4ccf1TibacBYDDwWsuC2S6",
       "artists": [
         {
-          "id": "487N2T9nIPEHrlTZLL3SQs",
-          "name": "Zé Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "id": "5T2UOU9fV8RcUgLH3b6TTN",
+          "name": "Agepê",
+          "url": "https://open.spotify.com/artist/5T2UOU9fV8RcUgLH3b6TTN"
         }
       ],
       "album": {
-        "name": "Vocês & Deus (Ao Vivo no Rio de Janeiro)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ede6a29e3b312fba44c9c8f9"
+        "name": "Moro Onde Não Mora Ninguém",
+        "image": "https://i.scdn.co/image/ab67616d0000b273cc1ea1d35f799f6d34027ade"
       },
-      "duration_ms": 160613,
-      "played_at": "2026-11-16T14:34:39.582Z"
+      "duration_ms": 159291,
+      "played_at": "2026-11-17T07:12:58.766Z"
     },
     {
-      "id": "2cbMXc0P5s271VwZOUk1Gb",
-      "name": "Mulher Maravilha - Ao Vivo",
-      "url": "https://open.spotify.com/track/2cbMXc0P5s271VwZOUk1Gb",
+      "id": "6i3fNMOa7RWYQMrbeSftzH",
+      "name": "O Por Do Sol",
+      "url": "https://open.spotify.com/track/6i3fNMOa7RWYQMrbeSftzH",
       "artists": [
         {
-          "id": "487N2T9nIPEHrlTZLL3SQs",
-          "name": "Zé Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+          "id": "6SYKh5gFxjnz8RjiQkdO1O",
+          "name": "Fernando Mendes",
+          "url": "https://open.spotify.com/artist/6SYKh5gFxjnz8RjiQkdO1O"
         }
       ],
       "album": {
-        "name": "Esquece o Mundo Lá Fora (Ao Vivo | Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ff93ff99ca25cbd3607247bb"
+        "name": "Fernando Mendes",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f44c341534f4728761c7f817"
       },
-      "duration_ms": 157460,
-      "played_at": "2026-11-16T14:32:08.030Z"
+      "duration_ms": 189666,
+      "played_at": "2026-11-17T07:10:28.476Z"
     },
     {
-      "id": "1nnZNzmDwxSHwsPI3iH5yA",
-      "name": "Me Caiu Tão Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nnZNzmDwxSHwsPI3iH5yA",
+      "id": "4bTkrwixNENl9Cxs6AqSDX",
+      "name": "Saudade de Rosa",
+      "url": "https://open.spotify.com/track/4bTkrwixNENl9Cxs6AqSDX",
       "artists": [
         {
-          "id": "3hq7WoPJsrRP0KMSLhUgRz",
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "id": "1X6ORK7IekgmyjV6IFPszP",
-          "name": "Gustavo Mioto",
-          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+          "id": "5sz0KCAiQWi1PZau7Noo97",
+          "name": "Bartô Galeno",
+          "url": "https://open.spotify.com/artist/5sz0KCAiQWi1PZau7Noo97"
         }
       ],
       "album": {
-        "name": "Fortaleza, Vol.3 (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f1c1c01c903aa5fcf363e12e"
+        "name": "20 Super Sucessos",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739666171d05581bc58683fbd3"
       },
-      "duration_ms": 156146,
-      "played_at": "2026-11-16T14:29:39.538Z"
+      "duration_ms": 186726,
+      "played_at": "2026-11-17T07:07:27.787Z"
     },
     {
-      "id": "7tMj5rQQpDWz0yg9eh7Ndh",
-      "name": "Tanto Faz - Ao Vivo",
-      "url": "https://open.spotify.com/track/7tMj5rQQpDWz0yg9eh7Ndh",
+      "id": "5AKrqJ7RiOCfCaaCuxxGk0",
+      "name": "Preciso Me Encontrar",
+      "url": "https://open.spotify.com/track/5AKrqJ7RiOCfCaaCuxxGk0",
       "artists": [
         {
-          "id": "3qvcCP2J0fWi0m0uQDUf6r",
-          "name": "Luan Santana",
-          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+          "id": "0RSWHhBUwW7lhCqXqxKxWN",
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
         }
       ],
       "album": {
-        "name": "Registro Histórico (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381e44cb5e9369f13005fe9d2"
+        "name": "Cartola (1976)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739854c0ddb18055c616154d18"
       },
-      "duration_ms": 162371,
-      "played_at": "2026-11-16T14:27:12.427Z"
+      "duration_ms": 178506,
+      "played_at": "2026-11-17T07:04:30.113Z"
     },
     {
-      "id": "6hfF2RyNBCfpSFufkjBPoV",
-      "name": "Aí Já Era - Live In Buenos Aires / 2010",
-      "url": "https://open.spotify.com/track/6hfF2RyNBCfpSFufkjBPoV",
+      "id": "3eVyDZXJPJzUKkyWP6eLyc",
+      "name": "O bêbado e a equilibrista",
+      "url": "https://open.spotify.com/track/3eVyDZXJPJzUKkyWP6eLyc",
       "artists": [
         {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "id": "0yFvXd36g5sNKYDi0Kkvl8",
+          "name": "Elis Regina",
+          "url": "https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8"
         }
       ],
       "album": {
-        "name": "Aí Já Era...",
-        "image": "https://i.scdn.co/image/ab67616d0000b2733ac295b6002fe88e8ef4e7ce"
+        "name": "Essa Mulher",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739470033b97047c8ea4cad5e6"
       },
-      "duration_ms": 248720,
-      "played_at": "2026-11-16T14:24:39.028Z"
+      "duration_ms": 231358,
+      "played_at": "2026-11-17T07:01:40.623Z"
     },
     {
-      "id": "3YppiISUkHejCcxEF75Tql",
-      "name": "Eu Duvido - Ao Vivo",
-      "url": "https://open.spotify.com/track/3YppiISUkHejCcxEF75Tql",
+      "id": "2CoKGyZavJWTFUPyvWoj0b",
+      "name": "O Que É O Que É?",
+      "url": "https://open.spotify.com/track/2CoKGyZavJWTFUPyvWoj0b",
       "artists": [
         {
-          "id": "6m6e7D2TnV0aYMllFFwMxu",
-          "name": "Guilherme & Benuto",
-          "url": "https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu"
-        },
-        {
-          "id": "5qIpstBGrGteJZg1xIvbiz",
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+          "id": "1LOFaxDBvn3YuvarTldGAe",
+          "name": "Gonzaguinha",
+          "url": "https://open.spotify.com/artist/1LOFaxDBvn3YuvarTldGAe"
         }
       ],
       "album": {
-        "name": "Deu Rolo No Barretão",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736e03373778d8d3696647cd6e"
+        "name": "Caminhos Do Coração",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ef28a6dd5c5cdc8e06ebe360"
       },
-      "duration_ms": 170658,
-      "played_at": "2026-11-16T14:18:03.221Z"
+      "duration_ms": 258986,
+      "played_at": "2026-11-17T06:57:58.216Z"
     },
     {
-      "id": "4xxeEWGQNFQ6qehlnev5LS",
-      "name": "Te Amo Demais",
-      "url": "https://open.spotify.com/track/4xxeEWGQNFQ6qehlnev5LS",
+      "id": "1TZzwEmqDQeZq7LAqLwfnY",
+      "name": "Bons Momentos",
+      "url": "https://open.spotify.com/track/1TZzwEmqDQeZq7LAqLwfnY",
       "artists": [
         {
-          "id": "1yR65psqiazQpeM79CcGh8",
-          "name": "Marília Mendonça",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+          "id": "0jOs0wnXCu1bGGP7kh5uIu",
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
       "album": {
-        "name": "Decretos Reais, Vol.1",
-        "image": "https://i.scdn.co/image/ab67616d0000b27333aa5241a4a528c0d1265e66"
+        "name": "Sufocante",
+        "image": "https://i.scdn.co/image/ab67616d0000b27335af707a2caf8a441d291d01"
       },
-      "duration_ms": 205685,
-      "played_at": "2026-11-16T14:15:21.523Z"
+      "duration_ms": 292322,
+      "played_at": "2026-11-17T06:53:48.216Z"
     },
     {
-      "id": "1HA4xFLEQ3QA9PwggMGr2a",
-      "name": "O Céu Explica Tudo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1HA4xFLEQ3QA9PwggMGr2a",
+      "id": "5scGvEhNqShhwq8lZWciZb",
+      "name": "Paralelas",
+      "url": "https://open.spotify.com/track/5scGvEhNqShhwq8lZWciZb",
       "artists": [
         {
-          "id": "3p7PcrEHaaKLJnPUGOtRlT",
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "id": "0C8HhyOa7zfzIl3gmPjY52",
+          "name": "Belchior",
+          "url": "https://open.spotify.com/artist/0C8HhyOa7zfzIl3gmPjY52"
         }
       ],
       "album": {
-        "name": "O Céu Explica Tudo (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381ad6c15a42b65e5d7c9ae65"
+        "name": "Coração selvagem (1977)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2737c9bb9fe16c20db24ab644f3"
       },
-      "duration_ms": 146183,
-      "played_at": "2026-11-16T14:12:04.827Z"
-    },
-    {
-      "id": "0gQbFqIMTJAOuRCbtXDw0y",
-      "name": "Sorte é Ter Você - Ao Vivo",
-      "url": "https://open.spotify.com/track/0gQbFqIMTJAOuRCbtXDw0y",
-      "artists": [
-        {
-          "id": "7zIRO89G0FBAQtGMHO1Wa0",
-          "name": "João Bosco & Vinícius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "album": {
-        "name": "A Voz de Uma Geração (Ao Vivo Em Barretos)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734f8450771609e27f4d0988a3"
-      },
-      "duration_ms": 179008,
-      "played_at": "2026-11-16T14:09:18.126Z"
-    },
-    {
-      "id": "1QxVBx83jADYtDI1pWvgYV",
-      "name": "Te Amo - Ao Vivo",
-      "url": "https://open.spotify.com/track/1QxVBx83jADYtDI1pWvgYV",
-      "artists": [
-        {
-          "id": "487N2T9nIPEHrlTZLL3SQs",
-          "name": "Zé Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "album": {
-        "name": "Ao Vivo em São José do Rio Preto (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf3a6b24c549f90f37ccb8d3"
-      },
-      "duration_ms": 198786,
-      "played_at": "2026-11-16T14:06:28.120Z"
-    },
-    {
-      "id": "0LzoBZQvXJf1mLN6mw8kNb",
-      "name": "Casa Branca - Ao Vivo",
-      "url": "https://open.spotify.com/track/0LzoBZQvXJf1mLN6mw8kNb",
-      "artists": [
-        {
-          "id": "77PXntcAH6TrnvUuXE3cU9",
-          "name": "Hugo Pena",
-          "url": "https://open.spotify.com/artist/77PXntcAH6TrnvUuXE3cU9"
-        },
-        {
-          "id": "3Y3eSZ9fdHANVdvbYEqGen",
-          "name": "Fernando Zor",
-          "url": "https://open.spotify.com/artist/3Y3eSZ9fdHANVdvbYEqGen"
-        }
-      ],
-      "album": {
-        "name": "Hugo Pena e Segundeiros do Brasil (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732182b523ef6280010469cc16"
-      },
-      "duration_ms": 181303,
-      "played_at": "2026-11-16T14:03:18.322Z"
-    },
-    {
-      "id": "0LzoBZQvXJf1mLN6mw8kNb",
-      "name": "Casa Branca - Ao Vivo",
-      "url": "https://open.spotify.com/track/0LzoBZQvXJf1mLN6mw8kNb",
-      "artists": [
-        {
-          "id": "77PXntcAH6TrnvUuXE3cU9",
-          "name": "Hugo Pena",
-          "url": "https://open.spotify.com/artist/77PXntcAH6TrnvUuXE3cU9"
-        },
-        {
-          "id": "3Y3eSZ9fdHANVdvbYEqGen",
-          "name": "Fernando Zor",
-          "url": "https://open.spotify.com/artist/3Y3eSZ9fdHANVdvbYEqGen"
-        }
-      ],
-      "album": {
-        "name": "Hugo Pena e Segundeiros do Brasil (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732182b523ef6280010469cc16"
-      },
-      "duration_ms": 181303,
-      "played_at": "2026-11-16T12:57:20.742Z"
-    },
-    {
-      "id": "2LfugoWFAbKdY7aXJxkENh",
-      "name": "Menina Veneno - Ao Vivo",
-      "url": "https://open.spotify.com/track/2LfugoWFAbKdY7aXJxkENh",
-      "artists": [
-        {
-          "id": "3PVg0vaMUNTOu7C2GmYfSg",
-          "name": "Kevi Jonny",
-          "url": "https://open.spotify.com/artist/3PVg0vaMUNTOu7C2GmYfSg"
-        }
-      ],
-      "album": {
-        "name": "PRA OUVIR COM SEUS PAIS (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273381f3dcea2de068576cc8018"
-      },
-      "duration_ms": 232384,
-      "played_at": "2026-11-16T12:53:57.702Z"
-    },
-    {
-      "id": "54TwNxgRorpA9lsStXcv0k",
-      "name": "Caso Indefinido - Ao Vivo",
-      "url": "https://open.spotify.com/track/54TwNxgRorpA9lsStXcv0k",
-      "artists": [
-        {
-          "id": "4HF14RSTZQcEafvfPCFEpI",
-          "name": "Cristiano Araújo",
-          "url": "https://open.spotify.com/artist/4HF14RSTZQcEafvfPCFEpI"
-        }
-      ],
-      "album": {
-        "name": "In The Cities - Ao Vivo Em Cuiabá",
-        "image": "https://i.scdn.co/image/ab67616d0000b27350ff0f63e65c6eac6e7a5b97"
-      },
-      "duration_ms": 313266,
-      "played_at": "2026-11-16T12:50:14.392Z"
-    },
-    {
-      "id": "0YDssIvo35Py7gUldsDEom",
-      "name": "Sabe Ser Linda - Ao Vivo",
-      "url": "https://open.spotify.com/track/0YDssIvo35Py7gUldsDEom",
-      "artists": [
-        {
-          "id": "77q2E7KVunjbcwLiceWv1b",
-          "name": "Rafael Quadros",
-          "url": "https://open.spotify.com/artist/77q2E7KVunjbcwLiceWv1b"
-        },
-        {
-          "id": "63yBOaK3N1kG2g1M5ZxBox",
-          "name": "Mariana Fagundes",
-          "url": "https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox"
-        }
-      ],
-      "album": {
-        "name": "Sabe Ser Linda (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734200437ef0fb22b1537f9dc7"
-      },
-      "duration_ms": 141534,
-      "played_at": "2026-11-16T12:45:10.096Z"
-    },
-    {
-      "id": "28xs3GHeeSk6BJZYrUGiqA",
-      "name": "Carta Branca",
-      "url": "https://open.spotify.com/track/28xs3GHeeSk6BJZYrUGiqA",
-      "artists": [
-        {
-          "id": "7MiDcPa6UiV3In7lIM71IN",
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "album": {
-        "name": "Buteco do Gusttavo Lima (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273b7ecf91104ae77d8abbe25c8"
-      },
-      "duration_ms": 236240,
-      "played_at": "2026-11-16T12:42:57.506Z"
-    },
-    {
-      "id": "4Oog4fqVCVRfuNGAtagkwv",
-      "name": "Cem Mil Horas - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Oog4fqVCVRfuNGAtagkwv",
-      "artists": [
-        {
-          "id": "4aoYJ4BymBTeqLVwN7GHBb",
-          "name": "João Henrique",
-          "url": "https://open.spotify.com/artist/4aoYJ4BymBTeqLVwN7GHBb"
-        }
-      ],
-      "album": {
-        "name": "Sentidos (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273cf8a0e71b31ebfc0ba43c8a3"
-      },
-      "duration_ms": 168684,
-      "played_at": "2026-11-16T12:39:10.288Z"
-    },
-    {
-      "id": "4YV827A7aWVswtyt0eWoWM",
-      "name": "Sorte Que Cê Beija Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YV827A7aWVswtyt0eWoWM",
-      "artists": [
-        {
-          "id": "59jlthNnbmim5l9tmNA7se",
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "album": {
-        "name": "Ao Vivo Em Campo Grande",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730b2b298e40d43121c502ca8d"
-      },
-      "duration_ms": 151826,
-      "played_at": "2026-11-16T12:36:30.586Z"
-    },
-    {
-      "id": "6yNcZpBQOMoMRNow1bYhub",
-      "name": "Mistérios - Ao Vivo",
-      "url": "https://open.spotify.com/track/6yNcZpBQOMoMRNow1bYhub",
-      "artists": [
-        {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "album": {
-        "name": "O Mundo É Tão Pequeno",
-        "image": "https://i.scdn.co/image/ab67616d0000b27304a5031fd5fa6fb81cad9ad6"
-      },
-      "duration_ms": 185573,
-      "played_at": "2026-11-16T12:34:07.781Z"
-    },
-    {
-      "id": "3pxavT4s6AWJ1OGqJA1oOv",
-      "name": "Oportunidade - Ao Vivo",
-      "url": "https://open.spotify.com/track/3pxavT4s6AWJ1OGqJA1oOv",
-      "artists": [
-        {
-          "id": "7zIRO89G0FBAQtGMHO1Wa0",
-          "name": "João Bosco & Vinícius",
-          "url": "https://open.spotify.com/artist/7zIRO89G0FBAQtGMHO1Wa0"
-        }
-      ],
-      "album": {
-        "name": "Deixa o Barulho, Vol. 2 (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2732f4e5e3f951c8b321ae4646f"
-      },
-      "duration_ms": 161642,
-      "played_at": "2026-11-16T12:31:11.183Z"
-    },
-    {
-      "id": "7az7NyQSqKGs3sXFlTCAr4",
-      "name": "Só Com Ela - Ao Vivo",
-      "url": "https://open.spotify.com/track/7az7NyQSqKGs3sXFlTCAr4",
-      "artists": [
-        {
-          "id": "3hq7WoPJsrRP0KMSLhUgRz",
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        },
-        {
-          "id": "37mqXU98U5GmH5ZDtlHM1c",
-          "name": "Matheus Fernandes",
-          "url": "https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c"
-        }
-      ],
-      "album": {
-        "name": "Du Nada (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273733360369483263e6745ca3c"
-      },
-      "duration_ms": 168916,
-      "played_at": "2026-11-16T12:28:38.584Z"
-    },
-    {
-      "id": "3XLY1NoGu6RPGYaRjGX68T",
-      "name": "Como É Que A Gente Fica - Ao Vivo",
-      "url": "https://open.spotify.com/track/3XLY1NoGu6RPGYaRjGX68T",
-      "artists": [
-        {
-          "id": "3p7PcrEHaaKLJnPUGOtRlT",
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "album": {
-        "name": "Novas Histórias (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736f77a385515006e6af3558cd"
-      },
-      "duration_ms": 163913,
-      "played_at": "2026-11-16T12:25:58.682Z"
-    },
-    {
-      "id": "0rUL7vUZmCKxB0gS83W3aM",
-      "name": "Apaixonadinha - Ao Vivo",
-      "url": "https://open.spotify.com/track/0rUL7vUZmCKxB0gS83W3aM",
-      "artists": [
-        {
-          "id": "1yR65psqiazQpeM79CcGh8",
-          "name": "Marília Mendonça",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "id": "7KVJCU4z5L4EUHILL8aMxR",
-          "name": "Léo Santana",
-          "url": "https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR"
-        },
-        {
-          "id": "1XggRlhdW70SWvKflaZUEI",
-          "name": "Didá Banda Feminina",
-          "url": "https://open.spotify.com/artist/1XggRlhdW70SWvKflaZUEI"
-        }
-      ],
-      "album": {
-        "name": "Todos Os Cantos, Vol. 2 (ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734ef5fb56ffaa3404e06ad60e"
-      },
-      "duration_ms": 180921,
-      "played_at": "2026-11-16T12:23:23.772Z"
-    },
-    {
-      "id": "587Lf3LyhC8smoFnNIQtn3",
-      "name": "Eu Te Seguro - Ao Vivo",
-      "url": "https://open.spotify.com/track/587Lf3LyhC8smoFnNIQtn3",
-      "artists": [
-        {
-          "id": "5qIpstBGrGteJZg1xIvbiz",
-          "name": "Panda",
-          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
-        },
-        {
-          "id": "0oAZhL6hFrM3YRr6QzjlOf",
-          "name": "MJ Records",
-          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
-        }
-      ],
-      "album": {
-        "name": "Eu Te Seguro (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273bfd85a89e28cbbc84b1d1ae3"
-      },
-      "duration_ms": 148561,
-      "played_at": "2026-11-16T12:20:31.783Z"
-    },
-    {
-      "id": "7ncpeYDcVRsp7UA1US3mNu",
-      "name": "Vem Pra Minha Vida - Ao Vivo",
-      "url": "https://open.spotify.com/track/7ncpeYDcVRsp7UA1US3mNu",
-      "artists": [
-        {
-          "id": "3p7PcrEHaaKLJnPUGOtRlT",
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "album": {
-        "name": "O Céu Explica Tudo (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381ad6c15a42b65e5d7c9ae65"
-      },
-      "duration_ms": 201235,
-      "played_at": "2026-11-16T12:18:12.276Z"
-    },
-    {
-      "id": "2KGv51jgAz8OTjNPyRryfq",
-      "name": "Pra Sempre Com Você - Ao Vivo",
-      "url": "https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq",
-      "artists": [
-        {
-          "id": "1elUiq4X7pxej6FRlrEzjM",
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "album": {
-        "name": "Como. Sempre Feito. Nunca (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736871f3c5c8238f18a9ba88f7"
-      },
-      "duration_ms": 207520,
-      "played_at": "2026-11-16T12:15:00.022Z"
-    },
-    {
-      "id": "6mB6JCafQPA5RgpIcPNkxQ",
-      "name": "Ela é demais",
-      "url": "https://open.spotify.com/track/6mB6JCafQPA5RgpIcPNkxQ",
-      "artists": [
-        {
-          "id": "0ozdcqmICsOZDe7eJQVzrp",
-          "name": "Rick & Renner",
-          "url": "https://open.spotify.com/artist/0ozdcqmICsOZDe7eJQVzrp"
-        },
-        {
-          "id": "55Wn8tf8dBvfl1HRsD7Kze",
-          "name": "Continental",
-          "url": "https://open.spotify.com/artist/55Wn8tf8dBvfl1HRsD7Kze"
-        }
-      ],
-      "album": {
-        "name": "Mil Vezes Cantarei",
-        "image": "https://i.scdn.co/image/ab67616d0000b273955fc282a2b0a361a06c337f"
-      },
-      "duration_ms": 216000,
-      "played_at": "2026-11-16T12:11:41.479Z"
-    },
-    {
-      "id": "44pllb9f5QwcrD2kKc0gS0",
-      "name": "Que Sorte A Nossa - Ao Vivo",
-      "url": "https://open.spotify.com/track/44pllb9f5QwcrD2kKc0gS0",
-      "artists": [
-        {
-          "id": "2Z0lRIqr997lIUiPtrpKCr",
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "album": {
-        "name": "Face A Face (Live)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c08f5933fbe44282925bc9e0"
-      },
-      "duration_ms": 188346,
-      "played_at": "2026-11-16T12:08:14.478Z"
+      "duration_ms": 258200,
+      "played_at": "2026-11-17T06:49:04.911Z"
     }
   ]
 }
