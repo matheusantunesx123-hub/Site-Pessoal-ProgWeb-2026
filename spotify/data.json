@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:39:12.020088+00:00",
+  "updated_at": "2026-11-19T15:06:53.037981+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -525,6 +525,24 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "1h0f2T0DT3EVYnURyV8Rtu",
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/1h0f2T0DT3EVYnURyV8Rtu",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Sim (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2738356ae7cd6e16cd302b242d2"
+      },
+      "duration_ms": 249973,
+      "played_at": "2026-11-19T07:50:49.192Z"
+    },
     {
       "id": "3bR8wBqLky6b61ROJlaBEF",
       "name": "Ai, Amor",
@@ -1511,29 +1529,6 @@
       },
       "duration_ms": 204574,
       "played_at": "2026-11-18T23:04:50.115Z"
-    },
-    {
-      "id": "69lnNVsVKJs3yrfv06UZtI",
-      "name": "Mon Amour",
-      "url": "https://open.spotify.com/track/69lnNVsVKJs3yrfv06UZtI",
-      "artists": [
-        {
-          "id": "78nr1pVnDR7qZH6QbVMYZf",
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
-          "id": "0nFdWpwl7h6fp3ADRyG14L",
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        }
-      ],
-      "album": {
-        "name": "Mon Amour",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736d308b7683cf5aad72ca2ef9"
-      },
-      "duration_ms": 269600,
-      "played_at": "2026-11-18T23:01:24.945Z"
     }
   ]
 }
