@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T05:19:47.116652+00:00",
+  "updated_at": "2026-11-21T14:03:33.218336+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -525,6 +525,114 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "094JCS7nVby0gqIaKOaQwB",
+      "name": "Mal de amar",
+      "url": "https://open.spotify.com/track/094JCS7nVby0gqIaKOaQwB",
+      "artists": [
+        {
+          "id": "1i2xi8v7H0aXgMNZcOaYzB",
+          "name": "Preta Gil",
+          "url": "https://open.spotify.com/artist/1i2xi8v7H0aXgMNZcOaYzB"
+        }
+      ],
+      "album": {
+        "name": "Prét-A-Porter",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e"
+      },
+      "duration_ms": 210506,
+      "played_at": "2026-11-21T14:00:36.338Z"
+    },
+    {
+      "id": "2BdJ63hkTPQPJcSdBMPouv",
+      "name": "Vaya Con Dios - Live",
+      "url": "https://open.spotify.com/track/2BdJ63hkTPQPJcSdBMPouv",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (LIVE)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27343adb54ffebc7f4394beb899"
+      },
+      "duration_ms": 145624,
+      "played_at": "2026-11-21T13:57:14.857Z"
+    },
+    {
+      "id": "4ZdxWHytUTUfibuspU6UVh",
+      "name": "Me Adora, Mas",
+      "url": "https://open.spotify.com/track/4ZdxWHytUTUfibuspU6UVh",
+      "artists": [
+        {
+          "id": "57pVvBwa3ZCR9LsVlkLXj7",
+          "name": "Vanessa Da Mata",
+          "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7"
+        }
+      ],
+      "album": {
+        "name": "Todas Elas",
+        "image": "https://i.scdn.co/image/ab67616d0000b27389a4ca43996ab1e7e8c74bfb"
+      },
+      "duration_ms": 204574,
+      "played_at": "2026-11-21T13:54:17.344Z"
+    },
+    {
+      "id": "0FRiKJad36zm8EY9RV5sfL",
+      "name": "Tanto Faz - Live",
+      "url": "https://open.spotify.com/track/0FRiKJad36zm8EY9RV5sfL",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "HER MIND (LIVE)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27343adb54ffebc7f4394beb899"
+      },
+      "duration_ms": 205536,
+      "played_at": "2026-11-21T13:50:07.282Z"
+    },
+    {
+      "id": "3cL6azWo1RrzlsvohPPnGs",
+      "name": "Vontade De Voar",
+      "url": "https://open.spotify.com/track/3cL6azWo1RrzlsvohPPnGs",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "album": {
+        "name": "Vontade de Voar",
+        "image": "https://i.scdn.co/image/ab67616d0000b273700dd47d75a32d562e272244"
+      },
+      "duration_ms": 253914,
+      "played_at": "2026-11-21T13:46:50.744Z"
+    },
+    {
+      "id": "7foxf6udGnoanZWzhfwjIe",
+      "name": "Paulinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/7foxf6udGnoanZWzhfwjIe",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Como Não Amar? (Ao Vivo em Belém)",
+        "image": "https://i.scdn.co/image/ab67616d0000b27300ac4240e1b12ec3f355abfb"
+      },
+      "duration_ms": 144259,
+      "played_at": "2026-11-21T01:04:53.114Z"
+    },
     {
       "id": "59EohlfMvYOO1aVm8F91ZR",
       "name": "Louca por Ti - Ao Vivo",
@@ -1526,119 +1634,6 @@
       },
       "duration_ms": 258653,
       "played_at": "2026-11-19T04:12:35.163Z"
-    },
-    {
-      "id": "6HuDOlM6PCOgzzXCWvh9yY",
-      "name": "Bem",
-      "url": "https://open.spotify.com/track/6HuDOlM6PCOgzzXCWvh9yY",
-      "artists": [
-        {
-          "id": "14WMxy5IQph8kM1kcrwCcu",
-          "name": "Chapéu de Palha",
-          "url": "https://open.spotify.com/artist/14WMxy5IQph8kM1kcrwCcu"
-        }
-      ],
-      "album": {
-        "name": "Eu",
-        "image": "https://i.scdn.co/image/ab67616d0000b273ee8264a5b1c5f1a547e5080e"
-      },
-      "duration_ms": 270000,
-      "played_at": "2026-11-19T04:08:25.536Z"
-    },
-    {
-      "id": "3QI5bIozef0HZ1kJnA2RdT",
-      "name": "Como Tudo Deve Ser",
-      "url": "https://open.spotify.com/track/3QI5bIozef0HZ1kJnA2RdT",
-      "artists": [
-        {
-          "id": "1on7ZQ2pvgeQF4vmIA09x5",
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "album": {
-        "name": "100% Charlie Brown Jr - Abalando A Sua Fábrica",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739ce3f2af269f08d61ac2ab9e"
-      },
-      "duration_ms": 273040,
-      "played_at": "2026-11-19T04:04:04.495Z"
-    },
-    {
-      "id": "1mSxbLW7fKABfeY4lGpg0E",
-      "name": "Velha Infância - 2004 Digital Remaster",
-      "url": "https://open.spotify.com/track/1mSxbLW7fKABfeY4lGpg0E",
-      "artists": [
-        {
-          "id": "4laQz4PaKeh2Hu6QL6evVD",
-          "name": "Tribalistas",
-          "url": "https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD"
-        }
-      ],
-      "album": {
-        "name": "Tribalistas",
-        "image": "https://i.scdn.co/image/ab67616d0000b273663718a3cb1a4dc196aab349"
-      },
-      "duration_ms": 250440,
-      "played_at": "2026-11-19T03:59:40.455Z"
-    },
-    {
-      "id": "0x2C3lTa6qfceRMAUuFHQU",
-      "name": "Amor E Sexo",
-      "url": "https://open.spotify.com/track/0x2C3lTa6qfceRMAUuFHQU",
-      "artists": [
-        {
-          "id": "7dnT2FUXhjirperXaH22IJ",
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        },
-        {
-          "id": "4w4ll81d0dR8gz989jjko1",
-          "name": "Roberto De Carvalho",
-          "url": "https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1"
-        }
-      ],
-      "album": {
-        "name": "Balacobaco",
-        "image": "https://i.scdn.co/image/ab67616d0000b27360316959be359c170ae4b65b"
-      },
-      "duration_ms": 218516,
-      "played_at": "2026-11-19T03:55:39.064Z"
-    },
-    {
-      "id": "3tHfEsbQsvAdGQ2CUFeEx0",
-      "name": "Anjos",
-      "url": "https://open.spotify.com/track/3tHfEsbQsvAdGQ2CUFeEx0",
-      "artists": [
-        {
-          "id": "2yE1mUMfa7pAKNJq6UyaUp",
-          "name": "Venere Vai Venus",
-          "url": "https://open.spotify.com/artist/2yE1mUMfa7pAKNJq6UyaUp"
-        }
-      ],
-      "album": {
-        "name": "Divino",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731ddb107e5d16065d0ae93c46"
-      },
-      "duration_ms": 212640,
-      "played_at": "2026-11-19T03:52:09.572Z"
-    },
-    {
-      "id": "0r4GPkgHNBgqSJNLBUpQHh",
-      "name": "Recomeçar",
-      "url": "https://open.spotify.com/track/0r4GPkgHNBgqSJNLBUpQHh",
-      "artists": [
-        {
-          "id": "5SVFuUaS3BKAdJs6I8rVa4",
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "album": {
-        "name": "Recomeçar",
-        "image": "https://i.scdn.co/image/ab67616d0000b273d2e47f761c130b212bd2f3b8"
-      },
-      "duration_ms": 235442,
-      "played_at": "2026-11-19T03:48:45.885Z"
     }
   ]
 }
