@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:42:19.102479+00:00",
+  "updated_at": "2026-11-22T04:45:12.062820+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -520,6 +520,54 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "5tYGcyOLzgmwKomShRjjDb",
+      "name": "Resenha dos Amigos 1.0 ( Especial )",
+      "url": "https://open.spotify.com/track/5tYGcyOLzgmwKomShRjjDb",
+      "artists": [
+        {
+          "id": "7gIeuq2qBfYhO1budb6TSQ",
+          "name": "DG e Batidão Stronda",
+          "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+        },
+        {
+          "id": "7ub8q6QONytBzB5nEuq2te",
+          "name": "Iguzin",
+          "url": "https://open.spotify.com/artist/7ub8q6QONytBzB5nEuq2te"
+        },
+        {
+          "id": "29u3JaZVRn9ICRK7M82Ynr",
+          "name": "DLIMA7",
+          "url": "https://open.spotify.com/artist/29u3JaZVRn9ICRK7M82Ynr"
+        },
+        {
+          "id": "1kq4buzqp7pWWozhbc1vOg",
+          "name": "Bernardo Gomes",
+          "url": "https://open.spotify.com/artist/1kq4buzqp7pWWozhbc1vOg"
+        },
+        {
+          "id": "4o3iHfv6VQMClnSGkieKh5",
+          "name": "Davi Motta",
+          "url": "https://open.spotify.com/artist/4o3iHfv6VQMClnSGkieKh5"
+        },
+        {
+          "id": "1LkRepfjV4zoEgl8IopZtX",
+          "name": "Sofia Reis",
+          "url": "https://open.spotify.com/artist/1LkRepfjV4zoEgl8IopZtX"
+        },
+        {
+          "id": "3IGD9W9i4JwkWkGSRH6tND",
+          "name": "Ana Liz",
+          "url": "https://open.spotify.com/artist/3IGD9W9i4JwkWkGSRH6tND"
+        }
+      ],
+      "album": {
+        "name": "Resenha dos Amigos 1.0 ( Especial )",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa"
+      },
+      "duration_ms": 269988,
+      "played_at": "2026-11-21T22:41:50.454Z"
+    },
     {
       "id": "2nGAbkL3T98o0fBFSQt4bg",
       "name": "Gin de 10",
@@ -1781,24 +1829,6 @@
       },
       "duration_ms": 149387,
       "played_at": "2026-11-19T22:36:48.750Z"
-    },
-    {
-      "id": "1yNstWFOG0z4CFkJrusyzP",
-      "name": "Manchete dos Jornais",
-      "url": "https://open.spotify.com/track/1yNstWFOG0z4CFkJrusyzP",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Mágica, Vol. 12",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
-      },
-      "duration_ms": 239516,
-      "played_at": "2026-11-19T22:34:14.086Z"
     }
   ]
 }
