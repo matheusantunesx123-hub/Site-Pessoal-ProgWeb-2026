@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T03:43:39.133653+00:00",
+  "updated_at": "2026-11-24T16:53:04.867554+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -26,6 +26,12 @@
       "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261"
     },
     {
+      "id": "6Kps94g1Npexh3LrinIOvC",
+      "name": "Calcinha Preta",
+      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
+    },
+    {
       "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
       "name": "Mac DeMarco",
       "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -38,28 +44,22 @@
       "image": "https://i.scdn.co/image/ab6761610000e5eb1e911671efb2ed25cadadfe4"
     },
     {
-      "id": "6Kps94g1Npexh3LrinIOvC",
-      "name": "Calcinha Preta",
-      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
-      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26"
-    },
-    {
       "id": "1b8kpp4DUwt1hWaxTiWQhD",
       "name": "Gal Costa",
       "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD",
       "image": "https://i.scdn.co/image/ab6761610000e5eb9ba799363b79e9a73b2c303a"
     },
     {
-      "id": "3f5VCwd57gZsqMad28jyLV",
-      "name": "Maria Bethânia",
-      "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb6dd0de52c3b1a36a6400eb6d"
-    },
-    {
       "id": "57pVvBwa3ZCR9LsVlkLXj7",
       "name": "Vanessa Da Mata",
       "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7",
       "image": "https://i.scdn.co/image/ab6761610000e5eb0726b3a2a4db36495765f020"
+    },
+    {
+      "id": "3f5VCwd57gZsqMad28jyLV",
+      "name": "Maria Bethânia",
+      "url": "https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb6dd0de52c3b1a36a6400eb6d"
     },
     {
       "id": "1rdXEdH8SRIqbuTbzQzd93",
@@ -520,6 +520,101 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "3AJwUDP919kvQ9QcozQPxg",
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+      "artists": [
+        {
+          "id": "4gzpq5DPGxSnKTe4SA8HAU",
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "album": {
+        "name": "Parachutes",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a"
+      },
+      "duration_ms": 266773,
+      "played_at": "2026-11-24T04:00:37.428Z"
+    },
+    {
+      "id": "416MsJxvxSKY96DCmbJIRs",
+      "name": "The Hanging Tree - From \"The Hunger Games: Mockingjay\" Soundtrack",
+      "url": "https://open.spotify.com/track/416MsJxvxSKY96DCmbJIRs",
+      "artists": [
+        {
+          "id": "2M4eNCvV3CJUswavkhAQg2",
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
+        {
+          "id": "3oCIYpmkFw8KGWwMNPKgXh",
+          "name": "Jennifer Lawrence",
+          "url": "https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh"
+        }
+      ],
+      "album": {
+        "name": "The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bde3c2d2dcbee4dbd46b4e73"
+      },
+      "duration_ms": 218506,
+      "played_at": "2026-11-24T03:56:19.677Z"
+    },
+    {
+      "id": "0fBSs3fRoh1yJcne77fdu9",
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/0fBSs3fRoh1yJcne77fdu9",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 281960,
+      "played_at": "2026-11-24T03:52:50.189Z"
+    },
+    {
+      "id": "1MqzIgGsHP4cNjPboevsfq",
+      "name": "Tourner Dans Le Vide",
+      "url": "https://open.spotify.com/track/1MqzIgGsHP4cNjPboevsfq",
+      "artists": [
+        {
+          "id": "0FEJqmeLRzsXj8hgcZaAyB",
+          "name": "Indila",
+          "url": "https://open.spotify.com/artist/0FEJqmeLRzsXj8hgcZaAyB"
+        }
+      ],
+      "album": {
+        "name": "Mini World",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734ae8ff731c49965bf2083405"
+      },
+      "duration_ms": 246093,
+      "played_at": "2026-11-24T03:48:17.229Z"
+    },
+    {
+      "id": "4DpNNXFMMxQEKl7r0ykkWA",
+      "name": "Play Date",
+      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA",
+      "artists": [
+        {
+          "id": "63yrD80RY3RNEM2YDpUpO8",
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "album": {
+        "name": "Cry Baby (Deluxe Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951"
+      },
+      "duration_ms": 179867,
+      "played_at": "2026-11-24T03:44:20.131Z"
+    },
     {
       "id": "16tvIGzCNfRLVbm8G39DDo",
       "name": "The Seed",
@@ -1409,111 +1504,6 @@
       },
       "duration_ms": 136615,
       "played_at": "2026-11-23T22:35:48.593Z"
-    },
-    {
-      "id": "5dxHYAiCZnqsolgrrbfVU6",
-      "name": "BEBIDA DROGA E SEXO",
-      "url": "https://open.spotify.com/track/5dxHYAiCZnqsolgrrbfVU6",
-      "artists": [
-        {
-          "id": "466CdZBDPcGn9fuvBhzRRk",
-          "name": "Mc Neguinho do Morro",
-          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
-        },
-        {
-          "id": "7ufHJna3thtyJ5b2X7zY3W",
-          "name": "MC Donzela",
-          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
-        },
-        {
-          "id": "3kyCaYYNMNumGoI3Gn179C",
-          "name": "DJ NDM",
-          "url": "https://open.spotify.com/artist/3kyCaYYNMNumGoI3Gn179C"
-        },
-        {
-          "id": "5rDBnqOlE9v4vZRFC5QNKm",
-          "name": "MITOS ENTRETENIMENTO",
-          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
-        }
-      ],
-      "album": {
-        "name": "BEBIDA DROGA E SEXO",
-        "image": "https://i.scdn.co/image/ab67616d0000b2739707f207ca2c003d0578c2e8"
-      },
-      "duration_ms": 162461,
-      "played_at": "2026-11-23T22:33:31.926Z"
-    },
-    {
-      "id": "2RTkdHBUb5UCg36tcX6C7D",
-      "name": "Meu Violão E O Nosso Cachorro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2RTkdHBUb5UCg36tcX6C7D",
-      "artists": [
-        {
-          "id": "0MInKJqZscEeNc5K3K0mkE",
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "album": {
-        "name": "Simone & Simaria (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273942828dbaf6ed2e194713786"
-      },
-      "duration_ms": 214513,
-      "played_at": "2026-11-23T22:29:25.918Z"
-    },
-    {
-      "id": "34BZ1Vu4PJx3kMElvGhF1r",
-      "name": "Mentira Estampada Na Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/34BZ1Vu4PJx3kMElvGhF1r",
-      "artists": [
-        {
-          "id": "0MInKJqZscEeNc5K3K0mkE",
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "album": {
-        "name": "Bar Das Coleguinhas (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736d9c190b18f51c9b39b620b3"
-      },
-      "duration_ms": 213146,
-      "played_at": "2026-11-23T22:25:51.390Z"
-    },
-    {
-      "id": "34BZ1Vu4PJx3kMElvGhF1r",
-      "name": "Mentira Estampada Na Cara - Ao Vivo",
-      "url": "https://open.spotify.com/track/34BZ1Vu4PJx3kMElvGhF1r",
-      "artists": [
-        {
-          "id": "0MInKJqZscEeNc5K3K0mkE",
-          "name": "Simone & Simaria",
-          "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
-        }
-      ],
-      "album": {
-        "name": "Bar Das Coleguinhas (Ao Vivo)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2736d9c190b18f51c9b39b620b3"
-      },
-      "duration_ms": 213146,
-      "played_at": "2026-11-23T22:21:59.277Z"
-    },
-    {
-      "id": "5ZmwhmKEQLDtclAGQMPe0H",
-      "name": "Locutor (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5ZmwhmKEQLDtclAGQMPe0H",
-      "artists": [
-        {
-          "id": "4B0rppbJilYfZOPPEgpPtz",
-          "name": "Léo Magalhães",
-          "url": "https://open.spotify.com/artist/4B0rppbJilYfZOPPEgpPtz"
-        }
-      ],
-      "album": {
-        "name": "Ao Vivo em Goiânia",
-        "image": "https://i.scdn.co/image/ab67616d0000b273eca5be285ca31e603776ed3f"
-      },
-      "duration_ms": 210506,
-      "played_at": "2026-11-23T22:14:30.270Z"
     }
   ]
 }
