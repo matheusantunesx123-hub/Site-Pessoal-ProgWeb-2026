@@ -1,0 +1,1491 @@
+{
+  "month": "2026-11",
+  "year": 2026,
+  "month_number": 11,
+  "label": "Novembro 2026",
+  "short_label": "NOV 2026",
+  "updated_at": "2026-11-25T06:15:45.110406+00:00",
+  "is_current_month": true,
+  "coverage": {
+    "first_play_brt": "2026-11-01T11:38:17.303000-03:00",
+    "last_play_brt": "2026-11-24T20:50:19.749000-03:00",
+    "days_in_month": 30,
+    "active_days": 24
+  },
+  "summary": {
+    "total_plays": 1457,
+    "total_ms": 312410414,
+    "total_minutes": 5207,
+    "total_hours": 86.8,
+    "unique_tracks": 846,
+    "unique_artists": 560,
+    "unique_albums": 662,
+    "active_days": 24,
+    "longest_streak_days": 24,
+    "avg_minutes_per_active_day": 217.0,
+    "peak_day": {
+      "date": "2026-11-11",
+      "day": 11,
+      "weekday_label": "Qua",
+      "plays": 121,
+      "minutes": 431,
+      "top_track": "Neo Thang"
+    },
+    "peak_hour": {
+      "hour": 0,
+      "label": "00h",
+      "period": "Madrugada",
+      "plays": 133
+    },
+    "periods": {
+      "madrugada": {
+        "label": "Madrugada",
+        "plays": 564,
+        "pct": 38.7
+      },
+      "manha": {
+        "label": "Manhã",
+        "plays": 236,
+        "pct": 16.2
+      },
+      "tarde": {
+        "label": "Tarde",
+        "plays": 270,
+        "pct": 18.5
+      },
+      "noite": {
+        "label": "Noite",
+        "plays": 387,
+        "pct": 26.6
+      }
+    },
+    "dominant_period": "madrugada",
+    "repeat_ratio": 1.72,
+    "personality_tag": "Trilha da Madrugada",
+    "personality_subtitle": "Pico às 00h no horário de Brasília, embalado por 560 artistas distintos ao longo de 1457 reproduções.",
+    "delta_vs_prev": {
+      "prev_month": "2026-10",
+      "prev_label": "Outubro 2026",
+      "plays_diff": -298,
+      "plays_pct": -17.0,
+      "minutes_diff": -648,
+      "minutes_pct": -11.1,
+      "new_artists_count": 251
+    }
+  },
+  "top_tracks": [
+    {
+      "rank": 1,
+      "prev_rank": 9,
+      "rank_delta": "+8",
+      "id": "2afu4LmXG1OTPCoptFYzRX",
+      "name": "Everybody",
+      "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+      "artists": [
+        {
+          "id": "0XfQBWgzisaS9ltDV9bXAS",
+          "name": "Honey Dijon",
+          "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS"
+        },
+        {
+          "id": "6tzRZ39aZlNqlUzQlkuhDV",
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Honey Dijon, Pabllo Vittar, Urias",
+      "album": {
+        "name": "Black Girl Magic",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d"
+      },
+      "duration_ms": 220347,
+      "plays": 24,
+      "minutes": 88,
+      "share_pct": 1.6
+    },
+    {
+      "rank": 2,
+      "prev_rank": 248,
+      "rank_delta": "+246",
+      "id": "5b1OMdOMZKPabNweOF6oug",
+      "name": "Neo Thang",
+      "url": "https://open.spotify.com/track/5b1OMdOMZKPabNweOF6oug",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 151944,
+      "plays": 22,
+      "minutes": 56,
+      "share_pct": 1.5
+    },
+    {
+      "rank": 3,
+      "prev_rank": 4,
+      "rank_delta": "+1",
+      "id": "39UIGfLXmKgetqGJRvYpGF",
+      "name": "Cuntelectual",
+      "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 131050,
+      "plays": 16,
+      "minutes": 35,
+      "share_pct": 1.1
+    },
+    {
+      "rank": 4,
+      "prev_rank": 3,
+      "rank_delta": "-1",
+      "id": "3ZmaXPth5DwzJTtbsf7via",
+      "name": "Vênus Em Escorpião",
+      "url": "https://open.spotify.com/track/3ZmaXPth5DwzJTtbsf7via",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "id": "2SFIMUkCdZowbeisskDdhn",
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Gaby Amarantos, Ney Matogrosso, Urias",
+      "album": {
+        "name": "Purakê",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b35f3ca94bb35c620903b8db"
+      },
+      "duration_ms": 183263,
+      "plays": 15,
+      "minutes": 46,
+      "share_pct": 1.0
+    },
+    {
+      "rank": 5,
+      "prev_rank": 48,
+      "rank_delta": "+43",
+      "id": "5JBCQMPZWOiPIKYnPIxMxv",
+      "name": "Vénus Noir",
+      "url": "https://open.spotify.com/track/5JBCQMPZWOiPIKYnPIxMxv",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 151520,
+      "plays": 13,
+      "minutes": 33,
+      "share_pct": 0.9
+    },
+    {
+      "rank": 6,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "0RpAQUFX5VJW5YV2FYuUgp",
+      "name": "É Chamego Ou Xaveco?",
+      "url": "https://open.spotify.com/track/0RpAQUFX5VJW5YV2FYuUgp",
+      "artists": [
+        {
+          "id": "0EGHYkXkJxZIcYUiAJUNOo",
+          "name": "Banda Magníficos",
+          "url": "https://open.spotify.com/artist/0EGHYkXkJxZIcYUiAJUNOo"
+        }
+      ],
+      "artist_names": "Banda Magníficos",
+      "album": {
+        "name": "Chamego Ou Xaveco?",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26"
+      },
+      "duration_ms": 221178,
+      "plays": 12,
+      "minutes": 44,
+      "share_pct": 0.8
+    },
+    {
+      "rank": 7,
+      "prev_rank": 623,
+      "rank_delta": "+616",
+      "id": "3CcdKvop9T2pPlwMWbAXrG",
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/3CcdKvop9T2pPlwMWbAXrG",
+      "artists": [
+        {
+          "id": "4cn4gMq0KXORHeYA45PcBi",
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "artist_names": "Elza Soares",
+      "album": {
+        "name": "No Tempo da Intolerância",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161"
+      },
+      "duration_ms": 207399,
+      "plays": 11,
+      "minutes": 38,
+      "share_pct": 0.8
+    },
+    {
+      "rank": 8,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "5iQhTuGIZjx1xQi1UmC24s",
+      "name": "Mundão moderno",
+      "url": "https://open.spotify.com/track/5iQhTuGIZjx1xQi1UmC24s",
+      "artists": [
+        {
+          "id": "0VgVhZxYnmTGqqj7WkAATA",
+          "name": "Bison e Comassetto",
+          "url": "https://open.spotify.com/artist/0VgVhZxYnmTGqqj7WkAATA"
+        }
+      ],
+      "artist_names": "Bison e Comassetto",
+      "album": {
+        "name": "Cru e sem frescura 5 EP",
+        "image": "https://i.scdn.co/image/ab67616d0000b273d756f854eb3986087e4a5027"
+      },
+      "duration_ms": 147078,
+      "plays": 10,
+      "minutes": 25,
+      "share_pct": 0.7
+    },
+    {
+      "rank": 9,
+      "prev_rank": 5,
+      "rank_delta": "-4",
+      "id": "0oKdsMglh1dTsX4nrkURMX",
+      "name": "Rua do Ouro",
+      "url": "https://open.spotify.com/track/0oKdsMglh1dTsX4nrkURMX",
+      "artists": [
+        {
+          "id": "2Zs8oC4IDwNcanf2QU8jkM",
+          "name": "Dj Brenno Paixão",
+          "url": "https://open.spotify.com/artist/2Zs8oC4IDwNcanf2QU8jkM"
+        },
+        {
+          "id": "0xXEI1dXDaCOmkIPNYtPWF",
+          "name": "Mac Júlia",
+          "url": "https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF"
+        },
+        {
+          "id": "60ArvoSDGNI2WPhezAqz6u",
+          "name": "MC Rica",
+          "url": "https://open.spotify.com/artist/60ArvoSDGNI2WPhezAqz6u"
+        },
+        {
+          "id": "5O2vMwEiTxszw0kbhYKVAU",
+          "name": "SAM SAM",
+          "url": "https://open.spotify.com/artist/5O2vMwEiTxszw0kbhYKVAU"
+        }
+      ],
+      "artist_names": "Dj Brenno Paixão, Mac Júlia, MC Rica, SAM SAM",
+      "album": {
+        "name": "Rua do Ouro",
+        "image": "https://i.scdn.co/image/ab67616d0000b27383c9c9bef3b376b176c575ba"
+      },
+      "duration_ms": 136615,
+      "plays": 10,
+      "minutes": 23,
+      "share_pct": 0.7
+    },
+    {
+      "rank": 10,
+      "prev_rank": 57,
+      "rank_delta": "+47",
+      "id": "6gjqPHut0PC4OS2VJWgDtB",
+      "name": "Traidor",
+      "url": "https://open.spotify.com/track/6gjqPHut0PC4OS2VJWgDtB",
+      "artists": [
+        {
+          "id": "5K8Rmjmf4RZFffz94EmBRt",
+          "name": "Zé Vaqueiro",
+          "url": "https://open.spotify.com/artist/5K8Rmjmf4RZFffz94EmBRt"
+        },
+        {
+          "id": "1nca3OA1kKCpP6aPJcBL92",
+          "name": "Paula Fernandes",
+          "url": "https://open.spotify.com/artist/1nca3OA1kKCpP6aPJcBL92"
+        }
+      ],
+      "artist_names": "Zé Vaqueiro, Paula Fernandes",
+      "album": {
+        "name": "Traidor",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e0c3e71bee4c3311877f0f8b"
+      },
+      "duration_ms": 199387,
+      "plays": 9,
+      "minutes": 30,
+      "share_pct": 0.6
+    },
+    {
+      "rank": 11,
+      "prev_rank": 65,
+      "rank_delta": "+54",
+      "id": "7L1FuZqKXSKnpiBmyYt96B",
+      "name": "NiGHT MARé",
+      "url": "https://open.spotify.com/track/7L1FuZqKXSKnpiBmyYt96B",
+      "artists": [
+        {
+          "id": "2QLSJqqGIstNbO6nYRR16o",
+          "name": "DUDA BEAT",
+          "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+        }
+      ],
+      "artist_names": "DUDA BEAT",
+      "album": {
+        "name": "Tara e Tal",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853"
+      },
+      "duration_ms": 167774,
+      "plays": 8,
+      "minutes": 22,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 12,
+      "prev_rank": 25,
+      "rank_delta": "+13",
+      "id": "16L1FLZDGYg76gB2pwjgzr",
+      "name": "Navegar",
+      "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "CARRANCA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
+      },
+      "duration_ms": 154752,
+      "plays": 8,
+      "minutes": 21,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 13,
+      "prev_rank": 853,
+      "rank_delta": "+840",
+      "id": "5SFGa6X8mXY3u5WOkfRjGl",
+      "name": "Armadura",
+      "url": "https://open.spotify.com/track/5SFGa6X8mXY3u5WOkfRjGl",
+      "artists": [
+        {
+          "id": "2dmQ0vMD3THLMcz7DsvfaT",
+          "name": "Pitty",
+          "url": "https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT"
+        }
+      ],
+      "artist_names": "Pitty",
+      "album": {
+        "name": "Pitty",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731b7a3925a5cbb4b5d0361c18"
+      },
+      "duration_ms": 153725,
+      "plays": 8,
+      "minutes": 20,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 14,
+      "prev_rank": 280,
+      "rank_delta": "+266",
+      "id": "5lvvqOEWpUvs2jaFkQTFWJ",
+      "name": "Quando Bate Aquela Saudade",
+      "url": "https://open.spotify.com/track/5lvvqOEWpUvs2jaFkQTFWJ",
+      "artists": [
+        {
+          "id": "0slVGXBggrLglTLNKbeEyW",
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "artist_names": "Rubel",
+      "album": {
+        "name": "Pearl",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733bf2c47f0b7eb441cda9a7c7"
+      },
+      "duration_ms": 394706,
+      "plays": 7,
+      "minutes": 46,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 15,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "7CNB3gJSRb4NEVRe3mwiur",
+      "name": "Sai Solidão",
+      "url": "https://open.spotify.com/track/7CNB3gJSRb4NEVRe3mwiur",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "artist_names": "Calcinha Preta",
+      "album": {
+        "name": "Mágica, Vol. 12",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
+      },
+      "duration_ms": 263026,
+      "plays": 7,
+      "minutes": 31,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 16,
+      "prev_rank": 8,
+      "rank_delta": "-8",
+      "id": "55d7fAJmM0R2TDfuHWPwnc",
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/55d7fAJmM0R2TDfuHWPwnc",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 259519,
+      "plays": 7,
+      "minutes": 30,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 17,
+      "prev_rank": 1,
+      "rank_delta": "-16",
+      "id": "1r5xSeHHrnnAPlZD8s03N1",
+      "name": "Codinome Exagerado",
+      "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
+      "artists": [
+        {
+          "id": "21Z6OxfrB1jTI53TaDMm67",
+          "name": "HODARI",
+          "url": "https://open.spotify.com/artist/21Z6OxfrB1jTI53TaDMm67"
+        },
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "HODARI, Urias",
+      "album": {
+        "name": "Codinome Exagerado",
+        "image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f"
+      },
+      "duration_ms": 189473,
+      "plays": 7,
+      "minutes": 22,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 18,
+      "prev_rank": 101,
+      "rank_delta": "+83",
+      "id": "5A1xlxgPzHoq4G03uc7kCS",
+      "name": "So Dumb",
+      "url": "https://open.spotify.com/track/5A1xlxgPzHoq4G03uc7kCS",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 185167,
+      "plays": 7,
+      "minutes": 22,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 19,
+      "prev_rank": 15,
+      "rank_delta": "-4",
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "artist_names": "Mc Neguinho do Morro, MC NINA, MITOS ENTRETENIMENTO",
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "plays": 7,
+      "minutes": 20,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 20,
+      "prev_rank": 12,
+      "rank_delta": "-8",
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "plays": 7,
+      "minutes": 12,
+      "share_pct": 0.5
+    }
+  ],
+  "top_artists": [
+    {
+      "rank": 1,
+      "prev_rank": 1,
+      "rank_delta": "same",
+      "id": "6BXiBj4eAZsiynbcmSRHUs",
+      "name": "Urias",
+      "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe69d17fb09b541a02e70f9d6",
+      "genres": [],
+      "plays": 196,
+      "minutes": 567,
+      "unique_tracks": 43,
+      "share_pct": 13.5,
+      "top_track_name": "Everybody"
+    },
+    {
+      "rank": 2,
+      "prev_rank": 380,
+      "rank_delta": "+378",
+      "id": "6Kps94g1Npexh3LrinIOvC",
+      "name": "Calcinha Preta",
+      "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26",
+      "genres": [],
+      "plays": 48,
+      "minutes": 180,
+      "unique_tracks": 20,
+      "share_pct": 3.3,
+      "top_track_name": "Sai Solidão"
+    },
+    {
+      "rank": 3,
+      "prev_rank": 108,
+      "rank_delta": "+105",
+      "id": "0rSTXALHu0EKAawPLBdODH",
+      "name": "Marisa Monte",
+      "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebdf680c991c829899faf1283c",
+      "genres": [],
+      "plays": 39,
+      "minutes": 130,
+      "unique_tracks": 21,
+      "share_pct": 2.7,
+      "top_track_name": "Era Óbvio"
+    },
+    {
+      "rank": 4,
+      "prev_rank": 450,
+      "rank_delta": "+446",
+      "id": "0jOs0wnXCu1bGGP7kh5uIu",
+      "name": "Tim Maia",
+      "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu",
+      "image": "https://i.scdn.co/image/ab67616d0000b273bf96aed03a1e378dad91217b",
+      "genres": [],
+      "plays": 32,
+      "minutes": 134,
+      "unique_tracks": 17,
+      "share_pct": 2.2,
+      "top_track_name": "Me Dê Motivo"
+    },
+    {
+      "rank": 5,
+      "prev_rank": 5,
+      "rank_delta": "same",
+      "id": "5kn7l4yaJxtNhj583LmL9L",
+      "name": "Gaby Amarantos",
+      "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba757019bb21ae2efb3407562",
+      "genres": [],
+      "plays": 32,
+      "minutes": 78,
+      "unique_tracks": 6,
+      "share_pct": 2.2,
+      "top_track_name": "Vênus Em Escorpião"
+    },
+    {
+      "rank": 6,
+      "prev_rank": 16,
+      "rank_delta": "+10",
+      "id": "6tzRZ39aZlNqlUzQlkuhDV",
+      "name": "Pabllo Vittar",
+      "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d",
+      "genres": [],
+      "plays": 29,
+      "minutes": 102,
+      "unique_tracks": 5,
+      "share_pct": 2.0,
+      "top_track_name": "Everybody"
+    },
+    {
+      "rank": 7,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "0ozdcqmICsOZDe7eJQVzrp",
+      "name": "Rick & Renner",
+      "url": "https://open.spotify.com/artist/0ozdcqmICsOZDe7eJQVzrp",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7990f38cf790c788d038282",
+      "genres": [],
+      "plays": 28,
+      "minutes": 117,
+      "unique_tracks": 11,
+      "share_pct": 1.9,
+      "top_track_name": "Nos bares da cidade"
+    },
+    {
+      "rank": 8,
+      "prev_rank": 425,
+      "rank_delta": "+417",
+      "id": "5SVFuUaS3BKAdJs6I8rVa4",
+      "name": "Tim Bernardes",
+      "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebd91deca571610be109e3f3db",
+      "genres": [],
+      "plays": 25,
+      "minutes": 104,
+      "unique_tracks": 15,
+      "share_pct": 1.7,
+      "top_track_name": "Recomeçar"
+    },
+    {
+      "rank": 9,
+      "prev_rank": 96,
+      "rank_delta": "+87",
+      "id": "57pVvBwa3ZCR9LsVlkLXj7",
+      "name": "Vanessa Da Mata",
+      "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0726b3a2a4db36495765f020",
+      "genres": [],
+      "plays": 25,
+      "minutes": 94,
+      "unique_tracks": 14,
+      "share_pct": 1.7,
+      "top_track_name": "Me Adora, Mas"
+    },
+    {
+      "rank": 10,
+      "prev_rank": 144,
+      "rank_delta": "+134",
+      "id": "5rrmaoBXZ7Jcs4Qb77j0YA",
+      "name": "Djavan",
+      "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e84d18937e46c24bcdff259a",
+      "genres": [],
+      "plays": 24,
+      "minutes": 117,
+      "unique_tracks": 11,
+      "share_pct": 1.6,
+      "top_track_name": "Um Amor Puro - Ao Vivo"
+    },
+    {
+      "rank": 11,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "55Wn8tf8dBvfl1HRsD7Kze",
+      "name": "Continental",
+      "url": "https://open.spotify.com/artist/55Wn8tf8dBvfl1HRsD7Kze",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f7990f38cf790c788d038282",
+      "genres": [],
+      "plays": 24,
+      "minutes": 98,
+      "unique_tracks": 11,
+      "share_pct": 1.6,
+      "top_track_name": "Nos bares da cidade"
+    },
+    {
+      "rank": 12,
+      "prev_rank": 31,
+      "rank_delta": "+19",
+      "id": "0XfQBWgzisaS9ltDV9bXAS",
+      "name": "Honey Dijon",
+      "url": "https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d",
+      "genres": [],
+      "plays": 24,
+      "minutes": 88,
+      "unique_tracks": 1,
+      "share_pct": 1.6,
+      "top_track_name": "Everybody"
+    },
+    {
+      "rank": 13,
+      "prev_rank": 3,
+      "rank_delta": "-10",
+      "id": "2QLSJqqGIstNbO6nYRR16o",
+      "name": "DUDA BEAT",
+      "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783",
+      "genres": [],
+      "plays": 23,
+      "minutes": 77,
+      "unique_tracks": 13,
+      "share_pct": 1.6,
+      "top_track_name": "NiGHT MARé"
+    },
+    {
+      "rank": 14,
+      "prev_rank": 15,
+      "rank_delta": "+1",
+      "id": "466CdZBDPcGn9fuvBhzRRk",
+      "name": "Mc Neguinho do Morro",
+      "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f246de87e972f1396f62f8e3",
+      "genres": [],
+      "plays": 23,
+      "minutes": 54,
+      "unique_tracks": 4,
+      "share_pct": 1.6,
+      "top_track_name": "Gin de 10 (Eletrofunk)"
+    },
+    {
+      "rank": 15,
+      "prev_rank": 21,
+      "rank_delta": "+6",
+      "id": "1VgGaAocQcDmFfazjofQQ6",
+      "name": "MC NINA",
+      "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f246de87e972f1396f62f8e3",
+      "genres": [],
+      "plays": 19,
+      "minutes": 43,
+      "unique_tracks": 3,
+      "share_pct": 1.3,
+      "top_track_name": "Gin de 10 (Eletrofunk)"
+    },
+    {
+      "rank": 16,
+      "prev_rank": 204,
+      "rank_delta": "+188",
+      "id": "0slVGXBggrLglTLNKbeEyW",
+      "name": "Rubel",
+      "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW",
+      "image": "https://i.scdn.co/image/ab67616d0000b2733bf2c47f0b7eb441cda9a7c7",
+      "genres": [],
+      "plays": 18,
+      "minutes": 86,
+      "unique_tracks": 7,
+      "share_pct": 1.2,
+      "top_track_name": "Quando Bate Aquela Saudade"
+    },
+    {
+      "rank": 17,
+      "prev_rank": 59,
+      "rank_delta": "+42",
+      "id": "1yR65psqiazQpeM79CcGh8",
+      "name": "Marília Mendonça",
+      "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe1331ec78df48ffef03318e7",
+      "genres": [],
+      "plays": 18,
+      "minutes": 58,
+      "unique_tracks": 18,
+      "share_pct": 1.2,
+      "top_track_name": "Hackearam-Me"
+    },
+    {
+      "rank": 18,
+      "prev_rank": 179,
+      "rank_delta": "+161",
+      "id": "4cn4gMq0KXORHeYA45PcBi",
+      "name": "Elza Soares",
+      "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161",
+      "genres": [],
+      "plays": 17,
+      "minutes": 60,
+      "unique_tracks": 5,
+      "share_pct": 1.2,
+      "top_track_name": "Te Quiero"
+    },
+    {
+      "rank": 19,
+      "prev_rank": 7,
+      "rank_delta": "-12",
+      "id": "2SFIMUkCdZowbeisskDdhn",
+      "name": "Ney Matogrosso",
+      "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b35f3ca94bb35c620903b8db",
+      "genres": [],
+      "plays": 17,
+      "minutes": 55,
+      "unique_tracks": 2,
+      "share_pct": 1.2,
+      "top_track_name": "Vênus Em Escorpião"
+    },
+    {
+      "rank": 20,
+      "prev_rank": 70,
+      "rank_delta": "+50",
+      "id": "0hPar6ePAELiu9rYMdvMEo",
+      "name": "Alcione",
+      "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2738ab02a5b19afe9b2e30c7aac",
+      "genres": [],
+      "plays": 14,
+      "minutes": 61,
+      "unique_tracks": 8,
+      "share_pct": 1.0,
+      "top_track_name": "Meu Vício é Você"
+    }
+  ],
+  "top_albums": [
+    {
+      "rank": 1,
+      "name": "HER MIND",
+      "artist_name": "Urias",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789",
+      "plays": 70,
+      "minutes": 178,
+      "unique_tracks": 10
+    },
+    {
+      "rank": 2,
+      "name": "CARRANCA",
+      "artist_name": "Urias",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926",
+      "plays": 41,
+      "minutes": 126,
+      "unique_tracks": 11
+    },
+    {
+      "rank": 3,
+      "name": "Black Girl Magic",
+      "artist_name": "Honey Dijon",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d",
+      "plays": 24,
+      "minutes": 88,
+      "unique_tracks": 1
+    },
+    {
+      "rank": 4,
+      "name": "Rock Doido",
+      "artist_name": "Gaby Amarantos",
+      "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88",
+      "plays": 17,
+      "minutes": 32,
+      "unique_tracks": 5
+    },
+    {
+      "rank": 5,
+      "name": "Mágica, Vol. 12",
+      "artist_name": "Calcinha Preta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132",
+      "plays": 16,
+      "minutes": 67,
+      "unique_tracks": 4
+    },
+    {
+      "rank": 6,
+      "name": "No Tempo da Intolerância",
+      "artist_name": "Elza Soares",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f938c9af5d698b3b8847a161",
+      "plays": 15,
+      "minutes": 52,
+      "unique_tracks": 3
+    },
+    {
+      "rank": 7,
+      "name": "Tara e Tal",
+      "artist_name": "DUDA BEAT",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735d8edb7dfcaf8791af149853",
+      "plays": 15,
+      "minutes": 47,
+      "unique_tracks": 6
+    },
+    {
+      "rank": 8,
+      "name": "Purakê",
+      "artist_name": "Gaby Amarantos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b35f3ca94bb35c620903b8db",
+      "plays": 15,
+      "minutes": 46,
+      "unique_tracks": 1
+    },
+    {
+      "rank": 9,
+      "name": "FÚRIA",
+      "artist_name": "Urias",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078",
+      "plays": 15,
+      "minutes": 41,
+      "unique_tracks": 4
+    },
+    {
+      "rank": 10,
+      "name": "Chamego Ou Xaveco?",
+      "artist_name": "Banda Magníficos",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e19ed21072cb039bb83c8f26",
+      "plays": 13,
+      "minutes": 47,
+      "unique_tracks": 2
+    }
+  ],
+  "obsession": {
+    "id": "2afu4LmXG1OTPCoptFYzRX",
+    "name": "Everybody",
+    "artist_names": "Honey Dijon, Pabllo Vittar, Urias",
+    "album_name": "Black Girl Magic",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d",
+    "url": "https://open.spotify.com/track/2afu4LmXG1OTPCoptFYzRX",
+    "plays": 24,
+    "minutes": 88,
+    "max_day_date": "2026-11-06",
+    "max_day_plays": 6
+  },
+  "new_discoveries": [
+    {
+      "id": "1kq4buzqp7pWWozhbc1vOg",
+      "name": "Bernardo Gomes",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 14,
+      "minutes": 58,
+      "url": "https://open.spotify.com/artist/1kq4buzqp7pWWozhbc1vOg"
+    },
+    {
+      "id": "29u3JaZVRn9ICRK7M82Ynr",
+      "name": "DLIMA7",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 14,
+      "minutes": 58,
+      "url": "https://open.spotify.com/artist/29u3JaZVRn9ICRK7M82Ynr"
+    },
+    {
+      "id": "3IGD9W9i4JwkWkGSRH6tND",
+      "name": "Ana Liz",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 12,
+      "minutes": 54,
+      "url": "https://open.spotify.com/artist/3IGD9W9i4JwkWkGSRH6tND"
+    },
+    {
+      "id": "4o3iHfv6VQMClnSGkieKh5",
+      "name": "Davi Motta",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 12,
+      "minutes": 54,
+      "url": "https://open.spotify.com/artist/4o3iHfv6VQMClnSGkieKh5"
+    },
+    {
+      "id": "7gIeuq2qBfYhO1budb6TSQ",
+      "name": "DG e Batidão Stronda",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 12,
+      "minutes": 54,
+      "url": "https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ"
+    },
+    {
+      "id": "7ub8q6QONytBzB5nEuq2te",
+      "name": "Iguzin",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 12,
+      "minutes": 54,
+      "url": "https://open.spotify.com/artist/7ub8q6QONytBzB5nEuq2te"
+    },
+    {
+      "id": "1LkRepfjV4zoEgl8IopZtX",
+      "name": "Sofia Reis",
+      "image": "https://i.scdn.co/image/ab67616d0000b2734ddb7298457561d7cf38d5aa",
+      "plays": 12,
+      "minutes": 54,
+      "url": "https://open.spotify.com/artist/1LkRepfjV4zoEgl8IopZtX"
+    },
+    {
+      "id": "6SYKh5gFxjnz8RjiQkdO1O",
+      "name": "Fernando Mendes",
+      "image": "https://i.scdn.co/image/ab67616d0000b273f44c341534f4728761c7f817",
+      "plays": 10,
+      "minutes": 35,
+      "url": "https://open.spotify.com/artist/6SYKh5gFxjnz8RjiQkdO1O"
+    }
+  ],
+  "top_genres": [],
+  "hourly_distribution": [
+    133,
+    77,
+    52,
+    100,
+    118,
+    84,
+    24,
+    18,
+    2,
+    22,
+    58,
+    112,
+    44,
+    39,
+    53,
+    45,
+    41,
+    48,
+    73,
+    90,
+    83,
+    14,
+    32,
+    95
+  ],
+  "weekday_distribution": [
+    {
+      "key": "seg",
+      "label": "Seg",
+      "plays": 271,
+      "minutes": 920
+    },
+    {
+      "key": "ter",
+      "label": "Ter",
+      "plays": 172,
+      "minutes": 629
+    },
+    {
+      "key": "qua",
+      "label": "Qua",
+      "plays": 265,
+      "minutes": 939
+    },
+    {
+      "key": "qui",
+      "label": "Qui",
+      "plays": 154,
+      "minutes": 564
+    },
+    {
+      "key": "sex",
+      "label": "Sex",
+      "plays": 138,
+      "minutes": 447
+    },
+    {
+      "key": "sab",
+      "label": "Sáb",
+      "plays": 176,
+      "minutes": 714
+    },
+    {
+      "key": "dom",
+      "label": "Dom",
+      "plays": 281,
+      "minutes": 993
+    }
+  ],
+  "daily_calendar": [
+    {
+      "date": "2026-11-01",
+      "day": 1,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 40,
+      "minutes": 160,
+      "top_track": "Everybody"
+    },
+    {
+      "date": "2026-11-02",
+      "day": 2,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 55,
+      "minutes": 184,
+      "top_track": "Mundão moderno"
+    },
+    {
+      "date": "2026-11-03",
+      "day": 3,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 26,
+      "minutes": 94,
+      "top_track": "Armadura"
+    },
+    {
+      "date": "2026-11-04",
+      "day": 4,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 92,
+      "minutes": 348,
+      "top_track": "Everybody"
+    },
+    {
+      "date": "2026-11-05",
+      "day": 5,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 93,
+      "minutes": 345,
+      "top_track": "Everybody"
+    },
+    {
+      "date": "2026-11-06",
+      "day": 6,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 50,
+      "minutes": 142,
+      "top_track": "Everybody"
+    },
+    {
+      "date": "2026-11-07",
+      "day": 7,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 107,
+      "minutes": 471,
+      "top_track": "Everybody"
+    },
+    {
+      "date": "2026-11-08",
+      "day": 8,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 97,
+      "minutes": 337,
+      "top_track": "Neo Thang"
+    },
+    {
+      "date": "2026-11-09",
+      "day": 9,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 45,
+      "minutes": 144,
+      "top_track": "Mundão moderno"
+    },
+    {
+      "date": "2026-11-10",
+      "day": 10,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 23,
+      "minutes": 87,
+      "top_track": "Neo Thang"
+    },
+    {
+      "date": "2026-11-11",
+      "day": 11,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 121,
+      "minutes": 431,
+      "top_track": "Neo Thang"
+    },
+    {
+      "date": "2026-11-12",
+      "day": 12,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 17,
+      "minutes": 55,
+      "top_track": "VOU DANÇAR,VOU BEBER"
+    },
+    {
+      "date": "2026-11-13",
+      "day": 13,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 68,
+      "minutes": 247,
+      "top_track": "CHACINA"
+    },
+    {
+      "date": "2026-11-14",
+      "day": 14,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 45,
+      "minutes": 173,
+      "top_track": "Sai Solidão"
+    },
+    {
+      "date": "2026-11-15",
+      "day": 15,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 103,
+      "minutes": 356,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-11-16",
+      "day": 16,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 115,
+      "minutes": 387,
+      "top_track": "Resenha dos Amigos 2.0 ( Especial )"
+    },
+    {
+      "date": "2026-11-17",
+      "day": 17,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 94,
+      "minutes": 343,
+      "top_track": "É Chamego Ou Xaveco?"
+    },
+    {
+      "date": "2026-11-18",
+      "day": 18,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 52,
+      "minutes": 160,
+      "top_track": "Não Pegue Esse Avião"
+    },
+    {
+      "date": "2026-11-19",
+      "day": 19,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 44,
+      "minutes": 164,
+      "top_track": "Comentário a respeito de John"
+    },
+    {
+      "date": "2026-11-20",
+      "day": 20,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 20,
+      "minutes": 57,
+      "top_track": "Rua do Ouro"
+    },
+    {
+      "date": "2026-11-21",
+      "day": 21,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 24,
+      "minutes": 71,
+      "top_track": "Traidor"
+    },
+    {
+      "date": "2026-11-22",
+      "day": 22,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 41,
+      "minutes": 140,
+      "top_track": "Gin de 10 (Eletrofunk)"
+    },
+    {
+      "date": "2026-11-23",
+      "day": 23,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 56,
+      "minutes": 205,
+      "top_track": "Mentira Estampada Na Cara - Ao Vivo"
+    },
+    {
+      "date": "2026-11-24",
+      "day": 24,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 29,
+      "minutes": 105,
+      "top_track": "Ain't Shit"
+    },
+    {
+      "date": "2026-11-25",
+      "day": 25,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    },
+    {
+      "date": "2026-11-26",
+      "day": 26,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    },
+    {
+      "date": "2026-11-27",
+      "day": 27,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    },
+    {
+      "date": "2026-11-28",
+      "day": 28,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    },
+    {
+      "date": "2026-11-29",
+      "day": 29,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    },
+    {
+      "date": "2026-11-30",
+      "day": 30,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    }
+  ],
+  "spotify_short_term": null,
+  "spotify_medium_term_snapshot": {
+    "captured_at": "2026-11-25T01:51:09.594878+00:00",
+    "top_artists": [
+      {
+        "name": "Urias",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe69d17fb09b541a02e70f9d6",
+        "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+      },
+      {
+        "name": "Marina Sena",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba1f1da49af37bc62284c9cc9",
+        "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+      },
+      {
+        "name": "DUDA BEAT",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783",
+        "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+      },
+      {
+        "name": "Lana Del Rey",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+        "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      {
+        "name": "Calcinha Preta",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebdd75359bbc82768f97b71b26",
+        "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Espelhos d'água",
+        "artist_names": "Preta Gil",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e",
+        "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7"
+      },
+      {
+        "name": "Mi Buen Amor",
+        "artist_names": "Mon Laferte, Bunbury",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ac6e52ed084e8209691f208f",
+        "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+      },
+      {
+        "name": "Cool for the Summer - Rock Version",
+        "artist_names": "Demi Lovato",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+        "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
+      },
+      {
+        "name": "Magnata",
+        "artist_names": "Urias",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789",
+        "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty"
+      },
+      {
+        "name": "Late Redemption",
+        "artist_names": "ANGRA",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273deae82e5c6e6a2751fe0616a",
+        "url": "https://open.spotify.com/track/0gjTMdOgwPcTvDpcCMjK5o"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1531 @@
+{
+  "month": "2026-09",
+  "year": 2026,
+  "month_number": 9,
+  "label": "Setembro 2026",
+  "short_label": "SET 2026",
+  "updated_at": "2026-11-25T06:15:44.828793+00:00",
+  "is_current_month": false,
+  "coverage": {
+    "first_play_brt": "2026-09-01T07:06:20.118000-03:00",
+    "last_play_brt": "2026-09-30T23:58:35.337000-03:00",
+    "days_in_month": 30,
+    "active_days": 29
+  },
+  "summary": {
+    "total_plays": 1980,
+    "total_ms": 404108869,
+    "total_minutes": 6735,
+    "total_hours": 112.3,
+    "unique_tracks": 1167,
+    "unique_artists": 794,
+    "unique_albums": 886,
+    "active_days": 29,
+    "longest_streak_days": 24,
+    "avg_minutes_per_active_day": 232.2,
+    "peak_day": {
+      "date": "2026-09-24",
+      "day": 24,
+      "weekday_label": "Qui",
+      "plays": 133,
+      "minutes": 510,
+      "top_track": "Riverside"
+    },
+    "peak_hour": {
+      "hour": 3,
+      "label": "03h",
+      "period": "Madrugada",
+      "plays": 197
+    },
+    "periods": {
+      "madrugada": {
+        "label": "Madrugada",
+        "plays": 747,
+        "pct": 37.7
+      },
+      "manha": {
+        "label": "Manhã",
+        "plays": 167,
+        "pct": 8.4
+      },
+      "tarde": {
+        "label": "Tarde",
+        "plays": 440,
+        "pct": 22.2
+      },
+      "noite": {
+        "label": "Noite",
+        "plays": 626,
+        "pct": 31.6
+      }
+    },
+    "dominant_period": "madrugada",
+    "repeat_ratio": 1.7,
+    "personality_tag": "Trilha da Madrugada",
+    "personality_subtitle": "Pico às 03h no horário de Brasília, embalado por 794 artistas distintos ao longo de 1980 reproduções.",
+    "delta_vs_prev": {
+      "prev_month": "2026-08",
+      "prev_label": "Agosto 2026",
+      "plays_diff": 625,
+      "plays_pct": 46.1,
+      "minutes_diff": 2396,
+      "minutes_pct": 55.2,
+      "new_artists_count": 593
+    }
+  },
+  "top_tracks": [
+    {
+      "rank": 1,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "4B3lcxYv3fb2yAw9hkKR0M",
+      "name": "Cool for the Summer - Rock Version",
+      "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+      "artists": [
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "artist_names": "Demi Lovato",
+      "album": {
+        "name": "REVAMPED",
+        "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e"
+      },
+      "duration_ms": 212289,
+      "plays": 49,
+      "minutes": 173,
+      "share_pct": 2.5
+    },
+    {
+      "rank": 2,
+      "prev_rank": 21,
+      "rank_delta": "+19",
+      "id": "0gbNLi9uvioDGatRBM8HHo",
+      "name": "Vídeo Sensual",
+      "url": "https://open.spotify.com/track/0gbNLi9uvioDGatRBM8HHo",
+      "artists": [
+        {
+          "id": "7rbQBgqL5HYC01Ox1C00oY",
+          "name": "DJ Patrick Original",
+          "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY"
+        },
+        {
+          "id": "1SccqhX1lbpNKrJ7bVRDLh",
+          "name": "Game Records",
+          "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        },
+        {
+          "id": "5xKesKsXI1jv2TorLOnbbm",
+          "name": "Mc Frog",
+          "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm"
+        }
+      ],
+      "artist_names": "DJ Patrick Original, Game Records, CACAU CHUU, Mc Frog",
+      "album": {
+        "name": "Vídeo Sensual",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4"
+      },
+      "duration_ms": 148921,
+      "plays": 48,
+      "minutes": 119,
+      "share_pct": 2.4
+    },
+    {
+      "rank": 3,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "17YVWP3yXLnplHHCOU7RGI",
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "url": "https://open.spotify.com/track/17YVWP3yXLnplHHCOU7RGI",
+      "artists": [
+        {
+          "id": "4OsPs4eirSwu3F4jB1bL0B",
+          "name": "Zairon",
+          "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+        },
+        {
+          "id": "4GeitETxoipNor9MyEEbYz",
+          "name": "MC Myres",
+          "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+        },
+        {
+          "id": "7dUNKhz7HdxExteqcREGLi",
+          "name": "Mc Denny",
+          "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+        }
+      ],
+      "artist_names": "Zairon, MC Myres, Mc Denny",
+      "album": {
+        "name": "157 CAFAJESTE X 157 DE XXT",
+        "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051"
+      },
+      "duration_ms": 164571,
+      "plays": 29,
+      "minutes": 80,
+      "share_pct": 1.5
+    },
+    {
+      "rank": 4,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "6EAOzP1WZ4YU1ZWcqyPxR7",
+      "name": "Profano",
+      "url": "https://open.spotify.com/track/6EAOzP1WZ4YU1ZWcqyPxR7",
+      "artists": [
+        {
+          "id": "1rdXEdH8SRIqbuTbzQzd93",
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "artist_names": "Jaloo",
+      "album": {
+        "name": "MAU",
+        "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56"
+      },
+      "duration_ms": 165333,
+      "plays": 23,
+      "minutes": 63,
+      "share_pct": 1.2
+    },
+    {
+      "rank": 5,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "2VT56hhAcF0D3lGx9PUthf",
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/2VT56hhAcF0D3lGx9PUthf",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "artist_names": "Doja Cat",
+      "album": {
+        "name": "Planet Her (Deluxe)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f"
+      },
+      "duration_ms": 174253,
+      "plays": 18,
+      "minutes": 52,
+      "share_pct": 0.9
+    },
+    {
+      "rank": 6,
+      "prev_rank": 50,
+      "rank_delta": "+44",
+      "id": "5xebls1ZOUqKDVVwQA5YDG",
+      "name": "QUANDO EU TOMO GIN DE 10",
+      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "1VgGaAocQcDmFfazjofQQ6",
+          "name": "MC NINA",
+          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "artist_names": "Mc Neguinho do Morro, MC NINA, MITOS ENTRETENIMENTO",
+      "album": {
+        "name": "QUANDO EU TOMO GIN DE 10",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
+      },
+      "duration_ms": 167999,
+      "plays": 18,
+      "minutes": 50,
+      "share_pct": 0.9
+    },
+    {
+      "rank": 7,
+      "prev_rank": 742,
+      "rank_delta": "+735",
+      "id": "6xi41eSOTp4o5N84iIyUs8",
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "url": "https://open.spotify.com/track/6xi41eSOTp4o5N84iIyUs8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "artist_names": "DJ EXE, CACAU CHUU",
+      "album": {
+        "name": "TOMA NO CU (Maria Gasolina)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc"
+      },
+      "duration_ms": 91321,
+      "plays": 18,
+      "minutes": 27,
+      "share_pct": 0.9
+    },
+    {
+      "rank": 8,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "6qqdFWe7C4LsBjWbXQdsHA",
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/6qqdFWe7C4LsBjWbXQdsHA",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "artist_names": "Lana Del Rey",
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 243187,
+      "plays": 16,
+      "minutes": 65,
+      "share_pct": 0.8
+    },
+    {
+      "rank": 9,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "2J0Nuqw3GbSPRRrTO7P6V8",
+      "name": "QUE LOUCURA",
+      "url": "https://open.spotify.com/track/2J0Nuqw3GbSPRRrTO7P6V8",
+      "artists": [
+        {
+          "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+          "name": "DJ EXE",
+          "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi"
+        },
+        {
+          "id": "6jlrg5vTnraLDDXILE77BE",
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "artist_names": "DJ EXE, CACAU CHUU",
+      "album": {
+        "name": "QUE LOUCURA",
+        "image": "https://i.scdn.co/image/ab67616d0000b27349248c0bd4b98457fce00a1a"
+      },
+      "duration_ms": 93883,
+      "plays": 16,
+      "minutes": 25,
+      "share_pct": 0.8
+    },
+    {
+      "rank": 10,
+      "prev_rank": 13,
+      "rank_delta": "+3",
+      "id": "55pBIZO1cqoldeqpp5WR7H",
+      "name": "the cure",
+      "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
+      "artists": [
+        {
+          "id": "1McMsnEElThX1knmY4oliG",
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "artist_names": "Olivia Rodrigo",
+      "album": {
+        "name": "you seem pretty sad for a girl so in love",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46"
+      },
+      "duration_ms": 297090,
+      "plays": 15,
+      "minutes": 74,
+      "share_pct": 0.8
+    },
+    {
+      "rank": 11,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "4sNTXu96frvV2padGOSbSR",
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/4sNTXu96frvV2padGOSbSR",
+      "artists": [
+        {
+          "id": "2OteRXiAleVQTZbUMWeoOo",
+          "name": "Barrie-James",
+          "url": "https://open.spotify.com/artist/2OteRXiAleVQTZbUMWeoOo"
+        },
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "artist_names": "Barrie-James, Lana Del Rey",
+      "album": {
+        "name": "Strange Desire",
+        "image": "https://i.scdn.co/image/ab67616d0000b273bda0e43310f3c9d982883aaa"
+      },
+      "duration_ms": 207746,
+      "plays": 14,
+      "minutes": 48,
+      "share_pct": 0.7
+    },
+    {
+      "rank": 12,
+      "prev_rank": 17,
+      "rank_delta": "+5",
+      "id": "1JkLTSDz8bKt9IRub0T8Ty",
+      "name": "Magnata",
+      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "HER MIND",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
+      },
+      "duration_ms": 105442,
+      "plays": 13,
+      "minutes": 23,
+      "share_pct": 0.7
+    },
+    {
+      "rank": 13,
+      "prev_rank": 125,
+      "rank_delta": "+112",
+      "id": "6rY5FAWxCdAGllYEOZMbjW",
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW",
+      "artists": [
+        {
+          "id": "3MZsBdqDrRTJihTHQrO6Dq",
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "artist_names": "Joji",
+      "album": {
+        "name": "BALLADS 1",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734cc52cd7a712842234e4fce2"
+      },
+      "duration_ms": 209273,
+      "plays": 12,
+      "minutes": 42,
+      "share_pct": 0.6
+    },
+    {
+      "rank": 14,
+      "prev_rank": 5,
+      "rank_delta": "-9",
+      "id": "58yGiA1glEPIeGMoCcRPoB",
+      "name": "Tatuagem do Teu Ex 2",
+      "url": "https://open.spotify.com/track/58yGiA1glEPIeGMoCcRPoB",
+      "artists": [
+        {
+          "id": "36MLP28p1UX0xIRdhZTeUc",
+          "name": "Christopher Luz",
+          "url": "https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc"
+        },
+        {
+          "id": "7Esv5D6U1qtVOHbXihKgea",
+          "name": "DJ MAVI",
+          "url": "https://open.spotify.com/artist/7Esv5D6U1qtVOHbXihKgea"
+        },
+        {
+          "id": "2TGtBMeVz0MkIATkn2gHhe",
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        },
+        {
+          "id": "2sQHo73pQF1OTq3lDuQhlO",
+          "name": "Mc Pogba",
+          "url": "https://open.spotify.com/artist/2sQHo73pQF1OTq3lDuQhlO"
+        },
+        {
+          "id": "18d98atAsxwOOhHGF9Mhxb",
+          "name": "Katy da Voz e as abusadas",
+          "url": "https://open.spotify.com/artist/18d98atAsxwOOhHGF9Mhxb"
+        }
+      ],
+      "artist_names": "Christopher Luz, DJ MAVI, Kaya Conky, Mc Pogba, Katy da Voz e as abusadas",
+      "album": {
+        "name": "Tatuagem do Teu Ex 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b27347d187974a708dcdd79922e7"
+      },
+      "duration_ms": 133138,
+      "plays": 12,
+      "minutes": 27,
+      "share_pct": 0.6
+    },
+    {
+      "rank": 15,
+      "prev_rank": 8,
+      "rank_delta": "-7",
+      "id": "1hL4Ez8As4A4VJBw8X2eVA",
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/1hL4Ez8As4A4VJBw8X2eVA",
+      "artists": [
+        {
+          "id": "6BXiBj4eAZsiynbcmSRHUs",
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "artist_names": "Urias",
+      "album": {
+        "name": "FÚRIA",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078"
+      },
+      "duration_ms": 149387,
+      "plays": 11,
+      "minutes": 27,
+      "share_pct": 0.6
+    },
+    {
+      "rank": 16,
+      "prev_rank": 52,
+      "rank_delta": "+36",
+      "id": "5dxHYAiCZnqsolgrrbfVU6",
+      "name": "BEBIDA DROGA E SEXO",
+      "url": "https://open.spotify.com/track/5dxHYAiCZnqsolgrrbfVU6",
+      "artists": [
+        {
+          "id": "466CdZBDPcGn9fuvBhzRRk",
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        },
+        {
+          "id": "7ufHJna3thtyJ5b2X7zY3W",
+          "name": "MC Donzela",
+          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
+        },
+        {
+          "id": "3kyCaYYNMNumGoI3Gn179C",
+          "name": "DJ NDM",
+          "url": "https://open.spotify.com/artist/3kyCaYYNMNumGoI3Gn179C"
+        },
+        {
+          "id": "5rDBnqOlE9v4vZRFC5QNKm",
+          "name": "MITOS ENTRETENIMENTO",
+          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
+        }
+      ],
+      "artist_names": "Mc Neguinho do Morro, MC Donzela, DJ NDM, MITOS ENTRETENIMENTO",
+      "album": {
+        "name": "BEBIDA DROGA E SEXO",
+        "image": "https://i.scdn.co/image/ab67616d0000b2739707f207ca2c003d0578c2e8"
+      },
+      "duration_ms": 162461,
+      "plays": 10,
+      "minutes": 27,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 17,
+      "prev_rank": 196,
+      "rank_delta": "+179",
+      "id": "5Ohxk2dO5COHF1krpoPigN",
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "artist_names": "Harry Styles",
+      "album": {
+        "name": "Harry Styles",
+        "image": "https://i.scdn.co/image/ab67616d0000b2733f8b8a9c71b2bd2f3019940b"
+      },
+      "duration_ms": 340706,
+      "plays": 9,
+      "minutes": 51,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 18,
+      "prev_rank": 10,
+      "rank_delta": "-8",
+      "id": "0J04fTkB0VXZXWzsIK8gKn",
+      "name": "Somos Amigas",
+      "url": "https://open.spotify.com/track/0J04fTkB0VXZXWzsIK8gKn",
+      "artists": [
+        {
+          "id": "7Eli9jWjQ5F1d06clIH46R",
+          "name": "Danny Bond",
+          "url": "https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R"
+        },
+        {
+          "id": "1h27s7BnaBATagMAgDOcDF",
+          "name": "PZZS",
+          "url": "https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF"
+        },
+        {
+          "id": "7BT8x82CjBZUjJy6xj1G3O",
+          "name": "MC Pipokinha",
+          "url": "https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O"
+        }
+      ],
+      "artist_names": "Danny Bond, PZZS, MC Pipokinha",
+      "album": {
+        "name": "Epica 2 (Edição Completa)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2734c1d9f9ab45e67f1e8c9802b"
+      },
+      "duration_ms": 152389,
+      "plays": 9,
+      "minutes": 23,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 19,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "2TktkzfozZifbQhXjT6I33",
+      "name": "Evergreen (You Didn’t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33",
+      "artists": [
+        {
+          "id": "5FxD8fkQZ6KcsSYupDVoSO",
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "artist_names": "Omar Apollo",
+      "album": {
+        "name": "Ivory",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a4b3a51e2b3941f5275f052f"
+      },
+      "duration_ms": 216680,
+      "plays": 8,
+      "minutes": 29,
+      "share_pct": 0.4
+    },
+    {
+      "rank": 20,
+      "prev_rank": 248,
+      "rank_delta": "+228",
+      "id": "0BxE4FqsDD1Ot4YuBXwAPp",
+      "name": "505",
+      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp",
+      "artists": [
+        {
+          "id": "7Ln80lUS6He07XvHI8qqHH",
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "artist_names": "Arctic Monkeys",
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "image": "https://i.scdn.co/image/ab67616d0000b273b1f8da74f225fa1225cdface"
+      },
+      "duration_ms": 253586,
+      "plays": 7,
+      "minutes": 30,
+      "share_pct": 0.4
+    }
+  ],
+  "top_artists": [
+    {
+      "rank": 1,
+      "prev_rank": 38,
+      "rank_delta": "+37",
+      "id": "6jlrg5vTnraLDDXILE77BE",
+      "name": "CACAU CHUU",
+      "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4",
+      "genres": [],
+      "plays": 116,
+      "minutes": 238,
+      "unique_tracks": 20,
+      "share_pct": 5.9,
+      "top_track_name": "Vídeo Sensual"
+    },
+    {
+      "rank": 2,
+      "prev_rank": 1,
+      "rank_delta": "-1",
+      "id": "6BXiBj4eAZsiynbcmSRHUs",
+      "name": "Urias",
+      "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe69d17fb09b541a02e70f9d6",
+      "genres": [],
+      "plays": 83,
+      "minutes": 236,
+      "unique_tracks": 20,
+      "share_pct": 4.2,
+      "top_track_name": "Magnata"
+    },
+    {
+      "rank": 3,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "name": "Lana Del Rey",
+      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+      "genres": [],
+      "plays": 81,
+      "minutes": 333,
+      "unique_tracks": 37,
+      "share_pct": 4.1,
+      "top_track_name": "Dark Paradise"
+    },
+    {
+      "rank": 4,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "6S2OmqARrzebs0tKUEyXyp",
+      "name": "Demi Lovato",
+      "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+      "genres": [],
+      "plays": 57,
+      "minutes": 200,
+      "unique_tracks": 4,
+      "share_pct": 2.9,
+      "top_track_name": "Cool for the Summer - Rock Version"
+    },
+    {
+      "rank": 5,
+      "prev_rank": 52,
+      "rank_delta": "+47",
+      "id": "5xKesKsXI1jv2TorLOnbbm",
+      "name": "Mc Frog",
+      "url": "https://open.spotify.com/artist/5xKesKsXI1jv2TorLOnbbm",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4",
+      "genres": [],
+      "plays": 50,
+      "minutes": 125,
+      "unique_tracks": 2,
+      "share_pct": 2.5,
+      "top_track_name": "Vídeo Sensual"
+    },
+    {
+      "rank": 6,
+      "prev_rank": 50,
+      "rank_delta": "+44",
+      "id": "7rbQBgqL5HYC01Ox1C00oY",
+      "name": "DJ Patrick Original",
+      "url": "https://open.spotify.com/artist/7rbQBgqL5HYC01Ox1C00oY",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4",
+      "genres": [],
+      "plays": 50,
+      "minutes": 123,
+      "unique_tracks": 2,
+      "share_pct": 2.5,
+      "top_track_name": "Vídeo Sensual"
+    },
+    {
+      "rank": 7,
+      "prev_rank": 51,
+      "rank_delta": "+44",
+      "id": "1SccqhX1lbpNKrJ7bVRDLh",
+      "name": "Game Records",
+      "url": "https://open.spotify.com/artist/1SccqhX1lbpNKrJ7bVRDLh",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4",
+      "genres": [],
+      "plays": 50,
+      "minutes": 123,
+      "unique_tracks": 2,
+      "share_pct": 2.5,
+      "top_track_name": "Vídeo Sensual"
+    },
+    {
+      "rank": 8,
+      "prev_rank": 636,
+      "rank_delta": "+628",
+      "id": "6MK5Z7OjpkcN6OFe6nh8pi",
+      "name": "DJ EXE",
+      "url": "https://open.spotify.com/artist/6MK5Z7OjpkcN6OFe6nh8pi",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb4b746a0246026f8402979ed3",
+      "genres": [],
+      "plays": 47,
+      "minutes": 72,
+      "unique_tracks": 10,
+      "share_pct": 2.4,
+      "top_track_name": "TOMA NO CU (Maria Gasolina)"
+    },
+    {
+      "rank": 9,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "5cj0lLjcoR7YOSnhnX0Po5",
+      "name": "Doja Cat",
+      "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f",
+      "genres": [],
+      "plays": 42,
+      "minutes": 127,
+      "unique_tracks": 16,
+      "share_pct": 2.1,
+      "top_track_name": "Ain't Shit"
+    },
+    {
+      "rank": 10,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name": "Mac DeMarco",
+      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+      "genres": [],
+      "plays": 36,
+      "minutes": 130,
+      "unique_tracks": 16,
+      "share_pct": 1.8,
+      "top_track_name": "For the First Time"
+    },
+    {
+      "rank": 11,
+      "prev_rank": 2,
+      "rank_delta": "-9",
+      "id": "2QLSJqqGIstNbO6nYRR16o",
+      "name": "DUDA BEAT",
+      "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783",
+      "genres": [],
+      "plays": 34,
+      "minutes": 110,
+      "unique_tracks": 20,
+      "share_pct": 1.7,
+      "top_track_name": "BABY"
+    },
+    {
+      "rank": 12,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "4OsPs4eirSwu3F4jB1bL0B",
+      "name": "Zairon",
+      "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "genres": [],
+      "plays": 30,
+      "minutes": 84,
+      "unique_tracks": 2,
+      "share_pct": 1.5,
+      "top_track_name": "157 CAFAJESTE X 157 DE XXT"
+    },
+    {
+      "rank": 13,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "4GeitETxoipNor9MyEEbYz",
+      "name": "MC Myres",
+      "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "genres": [],
+      "plays": 30,
+      "minutes": 82,
+      "unique_tracks": 2,
+      "share_pct": 1.5,
+      "top_track_name": "157 CAFAJESTE X 157 DE XXT"
+    },
+    {
+      "rank": 14,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "6zpNfYJcPavd1pqLXKiSvl",
+      "name": "Edson & Hudson",
+      "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732153de609dd9bed588202cea",
+      "genres": [],
+      "plays": 29,
+      "minutes": 96,
+      "unique_tracks": 26,
+      "share_pct": 1.5,
+      "top_track_name": "Te Quero Pra Mim"
+    },
+    {
+      "rank": 15,
+      "prev_rank": 339,
+      "rank_delta": "+324",
+      "id": "1U1el3k54VvEUzo3ybLPlM",
+      "name": "Kali Uchis",
+      "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb37cfef7964da2f1b983b0279",
+      "genres": [],
+      "plays": 29,
+      "minutes": 95,
+      "unique_tracks": 20,
+      "share_pct": 1.5,
+      "top_track_name": "Melting"
+    },
+    {
+      "rank": 16,
+      "prev_rank": 45,
+      "rank_delta": "+29",
+      "id": "466CdZBDPcGn9fuvBhzRRk",
+      "name": "Mc Neguinho do Morro",
+      "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d",
+      "genres": [],
+      "plays": 29,
+      "minutes": 80,
+      "unique_tracks": 3,
+      "share_pct": 1.5,
+      "top_track_name": "QUANDO EU TOMO GIN DE 10"
+    },
+    {
+      "rank": 17,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "7dUNKhz7HdxExteqcREGLi",
+      "name": "Mc Denny",
+      "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "genres": [],
+      "plays": 29,
+      "minutes": 80,
+      "unique_tracks": 1,
+      "share_pct": 1.5,
+      "top_track_name": "157 CAFAJESTE X 157 DE XXT"
+    },
+    {
+      "rank": 18,
+      "prev_rank": 46,
+      "rank_delta": "+28",
+      "id": "5rDBnqOlE9v4vZRFC5QNKm",
+      "name": "MITOS ENTRETENIMENTO",
+      "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm",
+      "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d",
+      "genres": [],
+      "plays": 28,
+      "minutes": 77,
+      "unique_tracks": 2,
+      "share_pct": 1.4,
+      "top_track_name": "QUANDO EU TOMO GIN DE 10"
+    },
+    {
+      "rank": 19,
+      "prev_rank": 31,
+      "rank_delta": "+12",
+      "id": "1McMsnEElThX1knmY4oliG",
+      "name": "Olivia Rodrigo",
+      "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb14eb4dcfd2f3858bed06e44",
+      "genres": [],
+      "plays": 27,
+      "minutes": 113,
+      "unique_tracks": 10,
+      "share_pct": 1.4,
+      "top_track_name": "the cure"
+    },
+    {
+      "rank": 20,
+      "prev_rank": 154,
+      "rank_delta": "+134",
+      "id": "1rdXEdH8SRIqbuTbzQzd93",
+      "name": "Jaloo",
+      "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93",
+      "image": "https://i.scdn.co/image/ab6761610000e5eba3340a6e6c87ade606b5dae7",
+      "genres": [],
+      "plays": 27,
+      "minutes": 80,
+      "unique_tracks": 3,
+      "share_pct": 1.4,
+      "top_track_name": "Profano"
+    }
+  ],
+  "top_albums": [
+    {
+      "rank": 1,
+      "name": "REVAMPED",
+      "artist_name": "Demi Lovato",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+      "plays": 49,
+      "minutes": 173,
+      "unique_tracks": 1
+    },
+    {
+      "rank": 2,
+      "name": "Vídeo Sensual",
+      "artist_name": "DJ Patrick Original",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4",
+      "plays": 48,
+      "minutes": 119,
+      "unique_tracks": 1
+    },
+    {
+      "rank": 3,
+      "name": "157 CAFAJESTE X 157 DE XXT",
+      "artist_name": "Zairon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "plays": 29,
+      "minutes": 80,
+      "unique_tracks": 1
+    },
+    {
+      "rank": 4,
+      "name": "Born To Die - The Paradise Edition",
+      "artist_name": "Lana Del Rey",
+      "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918",
+      "plays": 24,
+      "minutes": 100,
+      "unique_tracks": 7
+    },
+    {
+      "rank": 5,
+      "name": "FÚRIA",
+      "artist_name": "Urias",
+      "image": "https://i.scdn.co/image/ab67616d0000b273a3f48d9b46218e589c997078",
+      "plays": 24,
+      "minutes": 65,
+      "unique_tracks": 5
+    },
+    {
+      "rank": 6,
+      "name": "MAU",
+      "artist_name": "Jaloo",
+      "image": "https://i.scdn.co/image/ab67616d0000b27325a7cf8241479b7e27182e56",
+      "plays": 23,
+      "minutes": 63,
+      "unique_tracks": 1
+    },
+    {
+      "rank": 7,
+      "name": "CARRANCA",
+      "artist_name": "Urias",
+      "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926",
+      "plays": 21,
+      "minutes": 72,
+      "unique_tracks": 6
+    },
+    {
+      "rank": 8,
+      "name": "QUE LOUCURA",
+      "artist_name": "DJ EXE",
+      "image": "https://i.scdn.co/image/ab67616d0000b27349248c0bd4b98457fce00a1a",
+      "plays": 21,
+      "minutes": 34,
+      "unique_tracks": 4
+    },
+    {
+      "rank": 9,
+      "name": "TOMA NO CU (Maria Gasolina)",
+      "artist_name": "DJ EXE",
+      "image": "https://i.scdn.co/image/ab67616d0000b273b6b1c2bfe67d1d0c73a710fc",
+      "plays": 19,
+      "minutes": 29,
+      "unique_tracks": 2
+    },
+    {
+      "rank": 10,
+      "name": "you seem pretty sad for a girl so in love",
+      "artist_name": "Olivia Rodrigo",
+      "image": "https://i.scdn.co/image/ab67616d0000b2735cf234eeb7a2edf44bf64a46",
+      "plays": 18,
+      "minutes": 85,
+      "unique_tracks": 3
+    }
+  ],
+  "obsession": {
+    "id": "4B3lcxYv3fb2yAw9hkKR0M",
+    "name": "Cool for the Summer - Rock Version",
+    "artist_names": "Demi Lovato",
+    "album_name": "REVAMPED",
+    "album_image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+    "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M",
+    "plays": 49,
+    "minutes": 173,
+    "max_day_date": "2026-09-16",
+    "max_day_plays": 25
+  },
+  "new_discoveries": [
+    {
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "name": "Lana Del Rey",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+      "plays": 81,
+      "minutes": 333,
+      "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+    },
+    {
+      "id": "6S2OmqARrzebs0tKUEyXyp",
+      "name": "Demi Lovato",
+      "image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+      "plays": 57,
+      "minutes": 200,
+      "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+    },
+    {
+      "id": "5cj0lLjcoR7YOSnhnX0Po5",
+      "name": "Doja Cat",
+      "image": "https://i.scdn.co/image/ab67616d0000b2736b98dbf13791547e637e322f",
+      "plays": 42,
+      "minutes": 127,
+      "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+    },
+    {
+      "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
+      "name": "Mac DeMarco",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+      "plays": 36,
+      "minutes": 130,
+      "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+    },
+    {
+      "id": "4OsPs4eirSwu3F4jB1bL0B",
+      "name": "Zairon",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "plays": 30,
+      "minutes": 84,
+      "url": "https://open.spotify.com/artist/4OsPs4eirSwu3F4jB1bL0B"
+    },
+    {
+      "id": "4GeitETxoipNor9MyEEbYz",
+      "name": "MC Myres",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "plays": 30,
+      "minutes": 82,
+      "url": "https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz"
+    },
+    {
+      "id": "6zpNfYJcPavd1pqLXKiSvl",
+      "name": "Edson & Hudson",
+      "image": "https://i.scdn.co/image/ab67616d0000b2732153de609dd9bed588202cea",
+      "plays": 29,
+      "minutes": 96,
+      "url": "https://open.spotify.com/artist/6zpNfYJcPavd1pqLXKiSvl"
+    },
+    {
+      "id": "7dUNKhz7HdxExteqcREGLi",
+      "name": "Mc Denny",
+      "image": "https://i.scdn.co/image/ab67616d0000b27316f839824b3f78641c765051",
+      "plays": 29,
+      "minutes": 80,
+      "url": "https://open.spotify.com/artist/7dUNKhz7HdxExteqcREGLi"
+    }
+  ],
+  "top_genres": [],
+  "hourly_distribution": [
+    64,
+    56,
+    125,
+    197,
+    195,
+    110,
+    23,
+    27,
+    21,
+    12,
+    37,
+    47,
+    50,
+    79,
+    68,
+    51,
+    88,
+    104,
+    133,
+    147,
+    80,
+    44,
+    68,
+    154
+  ],
+  "weekday_distribution": [
+    {
+      "key": "seg",
+      "label": "Seg",
+      "plays": 322,
+      "minutes": 1125
+    },
+    {
+      "key": "ter",
+      "label": "Ter",
+      "plays": 359,
+      "minutes": 1239
+    },
+    {
+      "key": "qua",
+      "label": "Qua",
+      "plays": 408,
+      "minutes": 1374
+    },
+    {
+      "key": "qui",
+      "label": "Qui",
+      "plays": 339,
+      "minutes": 1218
+    },
+    {
+      "key": "sex",
+      "label": "Sex",
+      "plays": 306,
+      "minutes": 1045
+    },
+    {
+      "key": "sab",
+      "label": "Sáb",
+      "plays": 134,
+      "minutes": 392
+    },
+    {
+      "key": "dom",
+      "label": "Dom",
+      "plays": 112,
+      "minutes": 341
+    }
+  ],
+  "daily_calendar": [
+    {
+      "date": "2026-09-01",
+      "day": 1,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 41,
+      "minutes": 117,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-02",
+      "day": 2,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 12,
+      "minutes": 34,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-03",
+      "day": 3,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 42,
+      "minutes": 128,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-04",
+      "day": 4,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 45,
+      "minutes": 136,
+      "top_track": "Idiota Raiz (Deixa Ir)"
+    },
+    {
+      "date": "2026-09-05",
+      "day": 5,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 24,
+      "minutes": 66,
+      "top_track": "Senta Olhando Pra Mim"
+    },
+    {
+      "date": "2026-09-06",
+      "day": 6,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 0,
+      "minutes": 0,
+      "top_track": null
+    },
+    {
+      "date": "2026-09-07",
+      "day": 7,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 4,
+      "minutes": 14,
+      "top_track": "você vai gostar"
+    },
+    {
+      "date": "2026-09-08",
+      "day": 8,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 19,
+      "minutes": 52,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-09",
+      "day": 9,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 50,
+      "minutes": 128,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-10",
+      "day": 10,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 95,
+      "minutes": 299,
+      "top_track": "Training Season (Live from the Royal Albert Hall)"
+    },
+    {
+      "date": "2026-09-11",
+      "day": 11,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 83,
+      "minutes": 271,
+      "top_track": "157 CAFAJESTE X 157 DE XXT"
+    },
+    {
+      "date": "2026-09-12",
+      "day": 12,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 50,
+      "minutes": 137,
+      "top_track": "QUE LOUCURA"
+    },
+    {
+      "date": "2026-09-13",
+      "day": 13,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 30,
+      "minutes": 78,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-14",
+      "day": 14,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 83,
+      "minutes": 285,
+      "top_track": "Vídeo Sensual"
+    },
+    {
+      "date": "2026-09-15",
+      "day": 15,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 88,
+      "minutes": 315,
+      "top_track": "Cool for the Summer - Rock Version"
+    },
+    {
+      "date": "2026-09-16",
+      "day": 16,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 113,
+      "minutes": 376,
+      "top_track": "Cool for the Summer - Rock Version"
+    },
+    {
+      "date": "2026-09-17",
+      "day": 17,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 69,
+      "minutes": 282,
+      "top_track": "Profano"
+    },
+    {
+      "date": "2026-09-18",
+      "day": 18,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 70,
+      "minutes": 279,
+      "top_track": "Profano"
+    },
+    {
+      "date": "2026-09-19",
+      "day": 19,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 9,
+      "minutes": 28,
+      "top_track": "Profano"
+    },
+    {
+      "date": "2026-09-20",
+      "day": 20,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 46,
+      "minutes": 144,
+      "top_track": "Bem Pior Que Eu - Ao Vivo"
+    },
+    {
+      "date": "2026-09-21",
+      "day": 21,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 118,
+      "minutes": 410,
+      "top_track": "Cool for the Summer - Rock Version"
+    },
+    {
+      "date": "2026-09-22",
+      "day": 22,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 98,
+      "minutes": 326,
+      "top_track": "Saudade Da Minha Terra - Ao Vivo"
+    },
+    {
+      "date": "2026-09-23",
+      "day": 23,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 128,
+      "minutes": 438,
+      "top_track": "Ain't Shit"
+    },
+    {
+      "date": "2026-09-24",
+      "day": 24,
+      "weekday": 3,
+      "weekday_label": "Qui",
+      "plays": 133,
+      "minutes": 510,
+      "top_track": "Riverside"
+    },
+    {
+      "date": "2026-09-25",
+      "day": 25,
+      "weekday": 4,
+      "weekday_label": "Sex",
+      "plays": 108,
+      "minutes": 360,
+      "top_track": "Ain't Shit"
+    },
+    {
+      "date": "2026-09-26",
+      "day": 26,
+      "weekday": 5,
+      "weekday_label": "Sáb",
+      "plays": 51,
+      "minutes": 161,
+      "top_track": "Ain't Shit"
+    },
+    {
+      "date": "2026-09-27",
+      "day": 27,
+      "weekday": 6,
+      "weekday_label": "Dom",
+      "plays": 36,
+      "minutes": 119,
+      "top_track": "INDUSTRY BABY (feat. Jack Harlow)"
+    },
+    {
+      "date": "2026-09-28",
+      "day": 28,
+      "weekday": 0,
+      "weekday_label": "Seg",
+      "plays": 117,
+      "minutes": 416,
+      "top_track": "Ain't Shit"
+    },
+    {
+      "date": "2026-09-29",
+      "day": 29,
+      "weekday": 1,
+      "weekday_label": "Ter",
+      "plays": 113,
+      "minutes": 428,
+      "top_track": "Profano"
+    },
+    {
+      "date": "2026-09-30",
+      "day": 30,
+      "weekday": 2,
+      "weekday_label": "Qua",
+      "plays": 105,
+      "minutes": 399,
+      "top_track": "157 CAFAJESTE X 157 DE XXT"
+    }
+  ],
+  "spotify_short_term": null,
+  "spotify_medium_term_snapshot": {
+    "captured_at": "2026-09-30T21:47:48.278998+00:00",
+    "top_artists": [
+      {
+        "name": "Urias",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebf35e1c3f88c658be155a2db2",
+        "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+      },
+      {
+        "name": "Marina Sena",
+        "image": "https://i.scdn.co/image/ab6761610000e5eba1f1da49af37bc62284c9cc9",
+        "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+      },
+      {
+        "name": "DUDA BEAT",
+        "image": "https://i.scdn.co/image/ab6761610000e5eb304a33c05e7107da55dab783",
+        "url": "https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o"
+      },
+      {
+        "name": "Lana Del Rey",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+        "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      {
+        "name": "Mac DeMarco",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebc9aca5b6d4c528caf75e8a1d",
+        "url": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
+      }
+    ],
+    "top_tracks": [
+      {
+        "name": "Espelhos d'água",
+        "artist_names": "Preta Gil",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e",
+        "url": "https://open.spotify.com/track/6bUrD4iFmsTFzoC95PLTk7"
+      },
+      {
+        "name": "Mi Buen Amor",
+        "artist_names": "Mon Laferte, Bunbury",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273ac6e52ed084e8209691f208f",
+        "url": "https://open.spotify.com/track/28UP90XhjCovLtieduYr9P"
+      },
+      {
+        "name": "Cool for the Summer - Rock Version",
+        "artist_names": "Demi Lovato",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+        "url": "https://open.spotify.com/track/4B3lcxYv3fb2yAw9hkKR0M"
+      },
+      {
+        "name": "Late Redemption",
+        "artist_names": "ANGRA",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273deae82e5c6e6a2751fe0616a",
+        "url": "https://open.spotify.com/track/0gjTMdOgwPcTvDpcCMjK5o"
+      },
+      {
+        "name": "Magnata",
+        "artist_names": "Urias",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789",
+        "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty"
+      }
+    ]
+  }
+}

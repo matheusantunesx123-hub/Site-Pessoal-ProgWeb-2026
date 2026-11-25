@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0D0F0E" />
+  <title>Máquina do Tempo · Spotify Mensal</title>
+  <meta name="description" content="Arquivo mensal real do Spotify desde agosto de 2026: minutos ouvidos, rankings, horários de pico e exportação em alta resolução para Stories, Feed e Carrossel do Instagram." />
+  <meta property="og:title" content="Máquina do Tempo · Spotify Mensal" />
+  <meta property="og:description" content="Retrospectiva mensal real da sua conta Spotify com exportação pronta para o Instagram." />
+  <meta property="og:type" content="website" />
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230D0F0E'/%3E%3Ccircle cx='32' cy='32' r='22' fill='none' stroke='%231ED760' stroke-width='3'/%3E%3Ccircle cx='32' cy='32' r='12' fill='none' stroke='%23E89B3C' stroke-width='2.5'/%3E%3Ccircle cx='32' cy='32' r='4' fill='%23F4F1EA'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,600;0,9..144,700;1,9..144,500&family=JetBrains+Mono:wght@400;500;600&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#conteudo-principal">Ir para o conteúdo principal</a>
+
+  <header class="site-header">
+    <div class="wrap header-inner">
+      <a class="brand" href="./" aria-label="Início da Máquina do Tempo Spotify">
+        <span class="brand-disc" aria-hidden="true">
+          <svg width="26" height="26" viewBox="0 0 28 28" fill="none">
+            <circle cx="14" cy="14" r="12" stroke="#1ED760" stroke-width="2" />
+            <circle cx="14" cy="14" r="6.5" stroke="#E89B3C" stroke-width="1.5" />
+            <circle cx="14" cy="14" r="2.2" fill="#F4F1EA" />
+          </svg>
+        </span>
+        <span class="brand-text">
+          <strong>Máquina do Tempo</strong>
+          <small>Arquivo Mensal · Spotify</small>
+        </span>
+      </a>
+
+      <nav class="header-actions" aria-label="Ações principais">
+        <a class="btn btn-ghost" href="../index.html">Voltar ao site</a>
+        <a class="btn btn-primary" href="#estudio-instagram">Exportar para Instagram</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="conteudo-principal">
+    <!-- Barra de linha do tempo dos meses + acervo total -->
+    <section class="timeline-band" aria-label="Navegação entre meses">
+      <div class="wrap">
+        <div class="timeline-top">
+          <div class="archive-summary" id="archive-summary">
+            <span class="mono-tag">ACERVO CONTÍNUO</span>
+            <span class="archive-stats" id="archive-stats">Carregando histórico mensal...</span>
+          </div>
+          <div class="month-steppers">
+            <button type="button" class="btn btn-icon" id="btn-prev-month" aria-label="Ir para o mês anterior">
+              <span aria-hidden="true">←</span>
+              <span>Anterior</span>
+            </button>
+            <button type="button" class="btn btn-icon" id="btn-next-month" aria-label="Ir para o próximo mês">
+              <span>Próximo</span>
+              <span aria-hidden="true">→</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="month-pills" id="month-pills" role="tablist" aria-label="Meses disponíveis">
+          <!-- Preenchido via JS -->
+        </div>
+      </div>
+    </section>
+
+    <!-- Estado de carregamento / erro -->
+    <div class="wrap" id="status-banner" aria-live="polite"></div>
+
+    <!-- Hero editorial do mês -->
+    <section class="hero-section" id="secao-hero" aria-labelledby="month-title">
+      <div class="wrap">
+        <div class="hero-head">
+          <div class="hero-copy">
+            <div class="hero-meta-row">
+              <span class="edition-badge" id="edition-badge">EDIÇÃO MENSAL</span>
+              <span class="personality-pill" id="personality-pill">—</span>
+              <span class="coverage-note" id="coverage-note">—</span>
+            </div>
+            <h1 class="month-title" id="month-title">—</h1>
+            <p class="personality-subtitle" id="personality-subtitle">
+              Reconstruindo seus dados mensais do Spotify...
+            </p>
+          </div>
+
+          <div class="source-switch-wrap" id="source-switch-wrap">
+            <span class="switch-label">Fonte dos rankings</span>
+            <div class="segmented" role="group" aria-label="Alternar fonte dos dados do mês">
+              <button type="button" class="seg-btn is-active" data-source="real" id="btn-source-real">
+                Histórico Real
+              </button>
+              <button type="button" class="seg-btn" data-source="short_term" id="btn-source-short">
+                Top 4 Semanas (Spotify)
+              </button>
+            </div>
+          </div>
+        </div>
+
+        <!-- Destaque duplo: Artista #1 e Música #1 -->
+        <div class="spotlight-grid" id="spotlight-grid">
+          <article class="spotlight-card" id="spotlight-artist">
+            <div class="spotlight-media">
+              <div class="media-skeleton"></div>
+            </div>
+            <div class="spotlight-body">
+              <span class="spotlight-kicker">ARTISTA Nº 1 DO MÊS</span>
+              <h2 class="spotlight-name">—</h2>
+              <p class="spotlight-meta">—</p>
+            </div>
+          </article>
+
+          <article class="spotlight-card" id="spotlight-track">
+            <div class="spotlight-media">
+              <div class="media-skeleton"></div>
+            </div>
+            <div class="spotlight-body">
+              <span class="spotlight-kicker">MÚSICA Nº 1 DO MÊS</span>
+              <h2 class="spotlight-name">—</h2>
+              <p class="spotlight-meta">—</p>
+            </div>
+          </article>
+        </div>
+
+        <!-- 4 KPIs principais -->
+        <div class="kpi-grid" id="kpi-grid">
+          <article class="kpi-card">
+            <span class="kpi-label">Minutos ouvidos</span>
+            <strong class="kpi-value" id="kpi-minutes">—</strong>
+            <span class="kpi-sub" id="kpi-minutes-sub">—</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">Reproduções reais</span>
+            <strong class="kpi-value" id="kpi-plays">—</strong>
+            <span class="kpi-sub" id="kpi-plays-sub">—</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">Artistas únicos</span>
+            <strong class="kpi-value" id="kpi-artists">—</strong>
+            <span class="kpi-sub" id="kpi-artists-sub">—</span>
+          </article>
+          <article class="kpi-card">
+            <span class="kpi-label">Dia mais musical</span>
+            <strong class="kpi-value" id="kpi-peak-day">—</strong>
+            <span class="kpi-sub" id="kpi-peak-day-sub">—</span>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Rankings interativos: Top Músicas & Top Artistas -->
+    <section class="section-block" id="secao-rankings" aria-labelledby="titulo-rankings">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">PARADA MENSAL</span>
+            <h2 id="titulo-rankings">Mais tocadas e mais ouvidos</h2>
+          </div>
+          <p class="section-note" id="rankings-note">Ordenado por reproduções reais registradas no mês.</p>
+        </div>
+
+        <div class="rankings-grid">
+          <div class="panel-card">
+            <div class="panel-header">
+              <h3>Top Músicas</h3>
+              <button type="button" class="btn btn-small" id="btn-toggle-tracks" aria-expanded="false">
+                Mostrar Top 20
+              </button>
+            </div>
+            <ol class="rank-list" id="top-tracks-list"></ol>
+          </div>
+
+          <div class="panel-card">
+            <div class="panel-header">
+              <h3>Top Artistas</h3>
+              <button type="button" class="btn btn-small" id="btn-toggle-artists" aria-expanded="false">
+                Mostrar Top 20
+              </button>
+            </div>
+            <ol class="rank-list" id="top-artists-list"></ol>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Obsessão, Álbuns, Descobertas e Gêneros -->
+    <section class="section-block" id="secao-curadoria" aria-labelledby="titulo-curadoria">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">RECORTES DO MÊS</span>
+            <h2 id="titulo-curadoria">Obsessão, álbuns e descobertas</h2>
+          </div>
+        </div>
+
+        <div class="curadoria-grid">
+          <!-- Obsessão do Mês -->
+          <article class="panel-card obsession-card" id="obsession-card">
+            <div class="panel-header">
+              <h3>Obsessão no Repeat</h3>
+              <span class="mono-badge" id="obsession-badge">—</span>
+            </div>
+            <div class="obsession-content" id="obsession-content"></div>
+          </article>
+
+          <!-- Top Gêneros / Perfil -->
+          <article class="panel-card" id="genres-card">
+            <div class="panel-header">
+              <h3>Gêneros e Assinatura</h3>
+              <span class="mono-badge" id="repeat-badge">—</span>
+            </div>
+            <div class="genres-body" id="genres-body"></div>
+          </article>
+
+          <!-- Top Álbuns -->
+          <article class="panel-card span-2" id="albums-card">
+            <div class="panel-header">
+              <h3>Álbuns mais girados</h3>
+              <span class="mono-badge" id="albums-count-badge">—</span>
+            </div>
+            <div class="albums-grid" id="top-albums-grid"></div>
+          </article>
+
+          <!-- Descobertas do Mês -->
+          <article class="panel-card span-2" id="discoveries-card">
+            <div class="panel-header">
+              <h3>Descobertas do mês</h3>
+              <span class="mono-badge" id="discoveries-badge">Artistas inéditos</span>
+            </div>
+            <div class="discoveries-grid" id="discoveries-grid"></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Ritmo do Mês: 24h, Calendário Diário e Evolução Multi-Mês -->
+    <section class="section-block" id="secao-ritmo" aria-labelledby="titulo-ritmo">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">TEMPO &amp; HÁBITO</span>
+            <h2 id="titulo-ritmo">Ritmo de audição</h2>
+          </div>
+          <p class="section-note" id="rhythm-note">Horários no fuso oficial de Brasília (BRT / UTC-3).</p>
+        </div>
+
+        <div class="rhythm-grid">
+          <!-- Gráfico 24h -->
+          <article class="panel-card">
+            <div class="panel-header">
+              <h3>Horas do dia (00h–23h)</h3>
+              <span class="mono-badge amber" id="peak-hour-badge">Pico —</span>
+            </div>
+            <div class="chart-wrap" id="hourly-chart-wrap"></div>
+            <div class="periods-row" id="periods-row"></div>
+          </article>
+
+          <!-- Calendário Diário -->
+          <article class="panel-card">
+            <div class="panel-header">
+              <h3>Calendário do mês</h3>
+              <span class="mono-badge" id="streak-badge">Sequência —</span>
+            </div>
+            <div class="calendar-weekdays" aria-hidden="true">
+              <span>Seg</span><span>Ter</span><span>Qua</span><span>Qui</span><span>Sex</span><span>Sáb</span><span>Dom</span>
+            </div>
+            <div class="calendar-grid" id="calendar-grid"></div>
+            <div class="calendar-inspector" id="calendar-inspector">
+              Toque ou passe o mouse em um dia para ver os detalhes.
+            </div>
+          </article>
+
+          <!-- Evolução Multi-Mês -->
+          <article class="panel-card span-2">
+            <div class="panel-header">
+              <h3>Linha do tempo entre meses</h3>
+              <span class="mono-badge">Clique em um mês para viajar</span>
+            </div>
+            <div class="evolution-chart-wrap" id="evolution-chart-wrap"></div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Estúdio de Exportação para Instagram -->
+    <section class="section-block studio-section" id="estudio-instagram" aria-labelledby="titulo-estudio">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <span class="section-kicker">ESTÚDIO INSTAGRAM</span>
+            <h2 id="titulo-estudio">Exportar arte em alta resolução</h2>
+          </div>
+          <p class="section-note">
+            Renderização local em 1080px (Story 9:16, Feed 4:5 ou Carrossel completo com 5 slides em .zip).
+          </p>
+        </div>
+
+        <div class="studio-layout">
+          <!-- Controles -->
+          <div class="panel-card studio-controls">
+            <div class="control-group">
+              <span class="control-label">1. Formato de saída</span>
+              <div class="pill-group" id="ctrl-format" role="group" aria-label="Formato de saída">
+                <button type="button" class="ctrl-btn is-active" data-format="story">Story (9:16)</button>
+                <button type="button" class="ctrl-btn" data-format="feed">Feed (4:5)</button>
+                <button type="button" class="ctrl-btn" data-format="carousel">Carrossel (5 Slides)</button>
+              </div>
+            </div>
+
+            <div class="control-group" id="group-carousel-ratio" hidden>
+              <span class="control-label">Proporção do Carrossel</span>
+              <div class="pill-group" id="ctrl-carousel-ratio" role="group" aria-label="Proporção do carrossel">
+                <button type="button" class="ctrl-btn is-active" data-ratio="feed">Feed 4:5 (1080×1350)</button>
+                <button type="button" class="ctrl-btn" data-ratio="story">Story 9:16 (1080×1920)</button>
+              </div>
+            </div>
+
+            <div class="control-group" id="group-card-mode">
+              <span class="control-label">2. Tipo de arte</span>
+              <div class="pill-group wrap-pills" id="ctrl-mode" role="group" aria-label="Tipo de card">
+                <button type="button" class="ctrl-btn is-active" data-mode="poster">Poster Completo</button>
+                <button type="button" class="ctrl-btn" data-mode="capa">Capa do Mês</button>
+                <button type="button" class="ctrl-btn" data-mode="musicas">Top 5 Músicas</button>
+                <button type="button" class="ctrl-btn" data-mode="artistas">Top 5 Artistas</button>
+                <button type="button" class="ctrl-btn" data-mode="ritmo">Ritmo &amp; Horários</button>
+              </div>
+            </div>
+
+            <div class="control-group">
+              <span class="control-label">3. Tema editorial</span>
+              <div class="theme-group" id="ctrl-theme" role="group" aria-label="Tema visual">
+                <button type="button" class="theme-btn is-active" data-theme="prensa">
+                  <span class="swatch-pair"><i style="background:#0D0F0E"></i><i style="background:#1ED760"></i></span>
+                  <span>Prensa Noturna</span>
+                </button>
+                <button type="button" class="theme-btn" data-theme="vinil">
+                  <span class="swatch-pair"><i style="background:#1B120E"></i><i style="background:#E76F51"></i></span>
+                  <span>Vinil Quente</span>
+                </button>
+                <button type="button" class="theme-btn" data-theme="cartaz">
+                  <span class="swatch-pair"><i style="background:#F4EFE4"></i><i style="background:#15803D"></i></span>
+                  <span>Cartaz Editorial</span>
+                </button>
+              </div>
+            </div>
+
+            <div class="control-group" id="group-export-source">
+              <span class="control-label">4. Dados na arte</span>
+              <div class="pill-group" id="ctrl-export-source" role="group" aria-label="Fonte dos dados na imagem">
+                <button type="button" class="ctrl-btn is-active" data-export-source="real">Histórico Real</button>
+                <button type="button" class="ctrl-btn" data-export-source="short_term" id="btn-export-short">
+                  Top 4 Semanas
+                </button>
+              </div>
+            </div>
+
+            <div class="control-row-split">
+              <div class="control-group">
+                <label class="control-label" for="input-handle">Assinatura / @ arroba</label>
+                <input type="text" id="input-handle" class="text-input" maxlength="32" placeholder="@matheus" value="@matheus" />
+              </div>
+
+              <div class="control-group checkbox-group">
+                <label class="checkbox-label">
+                  <input type="checkbox" id="chk-show-metrics" checked />
+                  <span>Exibir minutos e reproduções</span>
+                </label>
+              </div>
+            </div>
+
+            <!-- Botões de exportação -->
+            <div class="export-actions">
+              <button type="button" class="btn btn-primary btn-large" id="btn-download-main">
+                Baixar PNG (1080px)
+              </button>
+              <button type="button" class="btn btn-secondary" id="btn-download-slide" hidden>
+                Baixar Slide Atual (PNG)
+              </button>
+              <button type="button" class="btn btn-ghost" id="btn-share-image">
+                Compartilhar imagem
+              </button>
+            </div>
+            <p class="export-feedback" id="export-feedback" aria-live="polite"></p>
+          </div>
+
+          <!-- Preview ao vivo -->
+          <div class="panel-card studio-stage">
+            <div class="stage-header">
+              <span class="mono-badge" id="preview-meta">1080 × 1920 px · Story 9:16</span>
+              <span class="stage-status" id="preview-status">Pronto</span>
+            </div>
+
+            <!-- Seletor dos 5 slides no modo Carrossel -->
+            <div class="carousel-strip" id="carousel-strip" hidden role="tablist" aria-label="Slides do carrossel">
+              <button type="button" class="slide-tab is-active" data-slide="0">01 Capa</button>
+              <button type="button" class="slide-tab" data-slide="1">02 Artistas</button>
+              <button type="button" class="slide-tab" data-slide="2">03 Músicas</button>
+              <button type="button" class="slide-tab" data-slide="3">04 Ritmo</button>
+              <button type="button" class="slide-tab" data-slide="4">05 Resumo</button>
+            </div>
+
+            <div class="canvas-frame" id="canvas-frame">
+              <canvas id="export-preview-canvas" width="1080" height="1920" aria-label="Pré-visualização da arte para Instagram"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap footer-inner">
+      <p>
+        Máquina do Tempo Mensal · Dados reais coletados automaticamente via Spotify Web API e GitHub Actions.
+      </p>
+      <p class="footer-links">
+        <a href="../index.html">Site principal</a>
+        <a href="../spotify/monthly/index.json" target="_blank" rel="noopener noreferrer">JSON Mensal</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="./exporter.js"></script>
+  <script src="./app.js"></script>
+</body>
+</html>

@@ -1,0 +1,120 @@
+{
+  "generated_at": "2026-11-25T06:15:45.119511+00:00",
+  "default_month": "2026-11",
+  "all_time": {
+    "total_plays": 6547,
+    "total_minutes": 22137,
+    "total_hours": 368.9,
+    "unique_artists": 1780,
+    "unique_tracks": 2835,
+    "months_count": 4,
+    "first_month": "2026-08",
+    "last_month": "2026-11"
+  },
+  "months": [
+    {
+      "month": "2026-11",
+      "label": "Novembro 2026",
+      "short_label": "NOV 2026",
+      "is_current_month": true,
+      "total_plays": 1457,
+      "total_minutes": 5207,
+      "total_hours": 86.8,
+      "unique_artists": 560,
+      "unique_tracks": 846,
+      "active_days": 24,
+      "dominant_period": "madrugada",
+      "personality_tag": "Trilha da Madrugada",
+      "top_artist": {
+        "name": "Urias",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe69d17fb09b541a02e70f9d6",
+        "plays": 196
+      },
+      "top_track": {
+        "name": "Everybody",
+        "artist_names": "Honey Dijon, Pabllo Vittar, Urias",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273b3a71b16a78774a3ea0c1b6d",
+        "plays": 24
+      },
+      "has_short_term": false
+    },
+    {
+      "month": "2026-10",
+      "label": "Outubro 2026",
+      "short_label": "OUT 2026",
+      "is_current_month": false,
+      "total_plays": 1755,
+      "total_minutes": 5855,
+      "total_hours": 97.6,
+      "unique_artists": 685,
+      "unique_tracks": 956,
+      "active_days": 31,
+      "dominant_period": "noite",
+      "personality_tag": "Coruja Noturna",
+      "top_artist": {
+        "name": "Urias",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe69d17fb09b541a02e70f9d6",
+        "plays": 297
+      },
+      "top_track": {
+        "name": "Codinome Exagerado",
+        "artist_names": "HODARI, Urias",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b27356637df2ac501dbf8a44d86f",
+        "plays": 38
+      },
+      "has_short_term": false
+    },
+    {
+      "month": "2026-09",
+      "label": "Setembro 2026",
+      "short_label": "SET 2026",
+      "is_current_month": false,
+      "total_plays": 1980,
+      "total_minutes": 6735,
+      "total_hours": 112.3,
+      "unique_artists": 794,
+      "unique_tracks": 1167,
+      "active_days": 29,
+      "dominant_period": "madrugada",
+      "personality_tag": "Trilha da Madrugada",
+      "top_artist": {
+        "name": "CACAU CHUU",
+        "image": "https://i.scdn.co/image/ab67616d0000b2736e8f716e4c98f79ef3fcacb4",
+        "plays": 116
+      },
+      "top_track": {
+        "name": "Cool for the Summer - Rock Version",
+        "artist_names": "Demi Lovato",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b273c935454aba6964245bb3258e",
+        "plays": 49
+      },
+      "has_short_term": false
+    },
+    {
+      "month": "2026-08",
+      "label": "Agosto 2026",
+      "short_label": "AGO 2026",
+      "is_current_month": false,
+      "total_plays": 1355,
+      "total_minutes": 4339,
+      "total_hours": 72.3,
+      "unique_artists": 640,
+      "unique_tracks": 750,
+      "active_days": 24,
+      "dominant_period": "madrugada",
+      "personality_tag": "Trilha da Madrugada",
+      "top_artist": {
+        "name": "Urias",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebe69d17fb09b541a02e70f9d6",
+        "plays": 115
+      },
+      "top_track": {
+        "name": "Espelhos d'água",
+        "artist_names": "Preta Gil",
+        "album_image": "https://i.scdn.co/image/ab67616d0000b2735f46bc8a4692e3d7d356181e",
+        "plays": 87
+      },
+      "has_short_term": false
+    }
+  ]
+}
