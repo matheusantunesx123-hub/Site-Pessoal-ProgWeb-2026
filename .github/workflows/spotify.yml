@@ -37,7 +37,7 @@ jobs:
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
         run: |
           python scripts/spotify.py
-
+ 
       - name: Verificar alterações
         id: changes
         run: |
