@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T16:53:04.867554+00:00",
+  "updated_at": "2026-11-25T01:51:09.594878+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -520,6 +520,275 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "59o2rNbSZb4rLDbYV9YOw2",
+      "name": "Olha Bem pra Mim",
+      "url": "https://open.spotify.com/track/59o2rNbSZb4rLDbYV9YOw2",
+      "artists": [
+        {
+          "id": "1p2aDZsmPNSKQynqjXN7Hj",
+          "name": "Viviane Batidão",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        }
+      ],
+      "album": {
+        "name": "Verão no Ritmo das Aparelhagens",
+        "image": "https://i.scdn.co/image/ab67616d0000b27302fa91ef30c3b08e7bdd8664"
+      },
+      "duration_ms": 227056,
+      "played_at": "2026-11-24T23:50:19.749Z"
+    },
+    {
+      "id": "0AwC9dvtLDRb3FyGPb38BD",
+      "name": "Te Amo Fudido",
+      "url": "https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "id": "1p2aDZsmPNSKQynqjXN7Hj",
+          "name": "Viviane Batidão",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 163764,
+      "played_at": "2026-11-24T23:39:39.391Z"
+    },
+    {
+      "id": "0AwC9dvtLDRb3FyGPb38BD",
+      "name": "Te Amo Fudido",
+      "url": "https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        },
+        {
+          "id": "1p2aDZsmPNSKQynqjXN7Hj",
+          "name": "Viviane Batidão",
+          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 163764,
+      "played_at": "2026-11-24T23:37:21.704Z"
+    },
+    {
+      "id": "1lUUNThFBW8tz0AIRLy01w",
+      "name": "Short Beira Cu",
+      "url": "https://open.spotify.com/track/1lUUNThFBW8tz0AIRLy01w",
+      "artists": [
+        {
+          "id": "5kn7l4yaJxtNhj583LmL9L",
+          "name": "Gaby Amarantos",
+          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
+        }
+      ],
+      "album": {
+        "name": "Rock Doido",
+        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
+      },
+      "duration_ms": 136421,
+      "played_at": "2026-11-24T23:35:57.890Z"
+    },
+    {
+      "id": "5PyDJG7SQRgWXefgexqIge",
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Scarlet",
+        "image": "https://i.scdn.co/image/ab67616d0000b273a54499d7ba4e9afeea91df86"
+      },
+      "duration_ms": 265360,
+      "played_at": "2026-11-24T23:31:18.567Z"
+    },
+    {
+      "id": "2vtmY2mSccRzKGjtcHSzI3",
+      "name": "Diet Mountain Dew",
+      "url": "https://open.spotify.com/track/2vtmY2mSccRzKGjtcHSzI3",
+      "artists": [
+        {
+          "id": "00FQb4jTyendYWaN8pK0wa",
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "album": {
+        "name": "Born To Die - The Paradise Edition",
+        "image": "https://i.scdn.co/image/ab67616d0000b273ebc8cfac8b586bc475b04918"
+      },
+      "duration_ms": 222920,
+      "played_at": "2026-11-24T23:26:53.209Z"
+    },
+    {
+      "id": "6j23yxl5Sktj2uvf9Yb3gK",
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/6j23yxl5Sktj2uvf9Yb3gK",
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "id": "181bsRPaVXVlUKXrxwZfHK",
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "album": {
+        "name": "AM I THE DRAMA? (Beat Edition)",
+        "image": "https://i.scdn.co/image/ab67616d0000b273762cb4007f96ee44852f263e"
+      },
+      "duration_ms": 187546,
+      "played_at": "2026-11-24T23:22:33.637Z"
+    },
+    {
+      "id": "3nY8AqaMNNHHLYV4380ol0",
+      "name": "Dick (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0",
+      "artists": [
+        {
+          "id": "2WgfkM8S11vg4kxLgDY3F5",
+          "name": "StarBoi3",
+          "url": "https://open.spotify.com/artist/2WgfkM8S11vg4kxLgDY3F5"
+        },
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Dick (feat. Doja Cat)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731535551028fa53fd473ab7d3"
+      },
+      "duration_ms": 175238,
+      "played_at": "2026-11-24T23:17:59.726Z"
+    },
+    {
+      "id": "1SC5rEoYDGUK4NfG82494W",
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W",
+      "artists": [
+        {
+          "id": "7jVv8c5Fj3E9VhNjxT4snq",
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "album": {
+        "name": "MONTERO",
+        "image": "https://i.scdn.co/image/ab67616d0000b273f27e4bdc58ebe249a6b90da0"
+      },
+      "duration_ms": 137704,
+      "played_at": "2026-11-24T23:15:04.499Z"
+    },
+    {
+      "id": "3Vi5XqYrmQgOYBajMWSvCi",
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Planet Her",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
+      },
+      "duration_ms": 210560,
+      "played_at": "2026-11-24T23:12:46.719Z"
+    },
+    {
+      "id": "5lAnYvAIkSDNXqfo7DyFUm",
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Planet Her",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
+      },
+      "duration_ms": 174253,
+      "played_at": "2026-11-24T23:09:16.255Z"
+    },
+    {
+      "id": "5lAnYvAIkSDNXqfo7DyFUm",
+      "name": "Ain't Shit",
+      "url": "https://open.spotify.com/track/5lAnYvAIkSDNXqfo7DyFUm",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "name": "Planet Her",
+        "image": "https://i.scdn.co/image/ab67616d0000b27314b7b2a920a41166d53ddd49"
+      },
+      "duration_ms": 174253,
+      "played_at": "2026-11-24T23:06:28.541Z"
+    },
+    {
+      "id": "3CIyK1V4JEJkg02E4EJnDl",
+      "name": "Enemy (with JID) - from the series Arcane League of Legends",
+      "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
+      "artists": [
+        {
+          "id": "53XhwfbYqKCa1cC15pYq2q",
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        },
+        {
+          "id": "6U3ybJ9UHNKEdsH7ktGBZ7",
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "id": "57nPqD7z62gDdq37US9XJR",
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "id": "47mIJdHORyRerp4os813jD",
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "album": {
+        "name": "Mercury - Acts 1 & 2",
+        "image": "https://i.scdn.co/image/ab67616d0000b273fc915b69600dce2991a61f13"
+      },
+      "duration_ms": 173381,
+      "played_at": "2026-11-24T23:04:31.386Z"
+    },
     {
       "id": "3AJwUDP919kvQ9QcozQPxg",
       "name": "Yellow",
@@ -1215,295 +1484,6 @@
       },
       "duration_ms": 243187,
       "played_at": "2026-11-24T01:39:32.118Z"
-    },
-    {
-      "id": "1v1oIWf2Xgh54kIWuKsDf6",
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6",
-      "artists": [
-        {
-          "id": "1WgXqy2Dd70QQOU7Ay074N",
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
-        }
-      ],
-      "album": {
-        "name": "All My Demons Greeting Me As A Friend (Deluxe)",
-        "image": "https://i.scdn.co/image/ab67616d0000b273c379325088c2845fe85cd70a"
-      },
-      "duration_ms": 248826,
-      "played_at": "2026-11-24T01:35:37.925Z"
-    },
-    {
-      "id": "16L1FLZDGYg76gB2pwjgzr",
-      "name": "Navegar",
-      "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 154752,
-      "played_at": "2026-11-23T23:45:56.493Z"
-    },
-    {
-      "id": "5YWQJo8nUon9Yu9Vfu71Vm",
-      "name": "Culpa do Amor",
-      "url": "https://open.spotify.com/track/5YWQJo8nUon9Yu9Vfu71Vm",
-      "artists": [
-        {
-          "id": "2BwGxEffKsSjsQyKNtBgcQ",
-          "name": "Desejo De Menina",
-          "url": "https://open.spotify.com/artist/2BwGxEffKsSjsQyKNtBgcQ"
-        }
-      ],
-      "album": {
-        "name": "Diga Sim, Vol. 4",
-        "image": "https://i.scdn.co/image/ab67616d0000b2730608a3c6880ab70a40eb7827"
-      },
-      "duration_ms": 205040,
-      "played_at": "2026-11-23T23:15:07.896Z"
-    },
-    {
-      "id": "0W6aXi2B0UlwY0sPckvrmT",
-      "name": "Foguinho",
-      "url": "https://open.spotify.com/track/0W6aXi2B0UlwY0sPckvrmT",
-      "artists": [
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        }
-      ],
-      "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
-      },
-      "duration_ms": 82971,
-      "played_at": "2026-11-23T23:06:14.837Z"
-    },
-    {
-      "id": "0AwC9dvtLDRb3FyGPb38BD",
-      "name": "Te Amo Fudido",
-      "url": "https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD",
-      "artists": [
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        },
-        {
-          "id": "1p2aDZsmPNSKQynqjXN7Hj",
-          "name": "Viviane Batidão",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        }
-      ],
-      "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
-      },
-      "duration_ms": 163764,
-      "played_at": "2026-11-23T22:56:10.458Z"
-    },
-    {
-      "id": "0AwC9dvtLDRb3FyGPb38BD",
-      "name": "Te Amo Fudido",
-      "url": "https://open.spotify.com/track/0AwC9dvtLDRb3FyGPb38BD",
-      "artists": [
-        {
-          "id": "5kn7l4yaJxtNhj583LmL9L",
-          "name": "Gaby Amarantos",
-          "url": "https://open.spotify.com/artist/5kn7l4yaJxtNhj583LmL9L"
-        },
-        {
-          "id": "1p2aDZsmPNSKQynqjXN7Hj",
-          "name": "Viviane Batidão",
-          "url": "https://open.spotify.com/artist/1p2aDZsmPNSKQynqjXN7Hj"
-        }
-      ],
-      "album": {
-        "name": "Rock Doido",
-        "image": "https://i.scdn.co/image/ab67616d0000b27313aa6dc3af9f2b0da6621f88"
-      },
-      "duration_ms": 163764,
-      "played_at": "2026-11-23T22:53:25.588Z"
-    },
-    {
-      "id": "0FRiKJad36zm8EY9RV5sfL",
-      "name": "Tanto Faz - Live",
-      "url": "https://open.spotify.com/track/0FRiKJad36zm8EY9RV5sfL",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "HER MIND (LIVE)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27343adb54ffebc7f4394beb899"
-      },
-      "duration_ms": 205536,
-      "played_at": "2026-11-23T22:52:36.083Z"
-    },
-    {
-      "id": "16L1FLZDGYg76gB2pwjgzr",
-      "name": "Navegar",
-      "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "album": {
-        "name": "CARRANCA",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e8336e9e3be421d2293a8926"
-      },
-      "duration_ms": 154752,
-      "played_at": "2026-11-23T22:49:10.601Z"
-    },
-    {
-      "id": "3i6HhhXeBr9r55gcggVgaS",
-      "name": "Meu Carro Nao Tem Porta Luva - Remastered 2024",
-      "url": "https://open.spotify.com/track/3i6HhhXeBr9r55gcggVgaS",
-      "artists": [
-        {
-          "id": "1IOofxVTB3jFgrfUpufZgF",
-          "name": "DJ NATAN 22",
-          "url": "https://open.spotify.com/artist/1IOofxVTB3jFgrfUpufZgF"
-        },
-        {
-          "id": "54bV1pHNm5h5EcEgMis1RC",
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "id": "7sf1F0EqyDwfD9IlxBo4vB",
-          "name": "DJ DN do Dick",
-          "url": "https://open.spotify.com/artist/7sf1F0EqyDwfD9IlxBo4vB"
-        }
-      ],
-      "album": {
-        "name": "Meu Carro Nao Tem Porta Luva (Remastered 2024)",
-        "image": "https://i.scdn.co/image/ab67616d0000b2735d385a226613d33f89b8dc87"
-      },
-      "duration_ms": 159999,
-      "played_at": "2026-11-23T22:46:30.426Z"
-    },
-    {
-      "id": "1YHS582toNZwQuFqgmXDxr",
-      "name": "O Tbt Que Ele Quer",
-      "url": "https://open.spotify.com/track/1YHS582toNZwQuFqgmXDxr",
-      "artists": [
-        {
-          "id": "1xmIVtkS9LEchsnnrKzhIR",
-          "name": "DJ HM ZL",
-          "url": "https://open.spotify.com/artist/1xmIVtkS9LEchsnnrKzhIR"
-        },
-        {
-          "id": "10mKIVPFtg42JIvttHQrzr",
-          "name": "MC MAYAH",
-          "url": "https://open.spotify.com/artist/10mKIVPFtg42JIvttHQrzr"
-        }
-      ],
-      "album": {
-        "name": "O Tbt Que Ele Quer",
-        "image": "https://i.scdn.co/image/ab67616d0000b273e949dac49a739008363cb557"
-      },
-      "duration_ms": 172392,
-      "played_at": "2026-11-23T22:43:56.610Z"
-    },
-    {
-      "id": "5xebls1ZOUqKDVVwQA5YDG",
-      "name": "QUANDO EU TOMO GIN DE 10",
-      "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
-      "artists": [
-        {
-          "id": "466CdZBDPcGn9fuvBhzRRk",
-          "name": "Mc Neguinho do Morro",
-          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
-        },
-        {
-          "id": "1VgGaAocQcDmFfazjofQQ6",
-          "name": "MC NINA",
-          "url": "https://open.spotify.com/artist/1VgGaAocQcDmFfazjofQQ6"
-        },
-        {
-          "id": "5rDBnqOlE9v4vZRFC5QNKm",
-          "name": "MITOS ENTRETENIMENTO",
-          "url": "https://open.spotify.com/artist/5rDBnqOlE9v4vZRFC5QNKm"
-        }
-      ],
-      "album": {
-        "name": "QUANDO EU TOMO GIN DE 10",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731e42309a44c00c5e1e81203d"
-      },
-      "duration_ms": 167999,
-      "played_at": "2026-11-23T22:40:38.487Z"
-    },
-    {
-      "id": "27rqWKpmFCD0Mmw3XABBOW",
-      "name": "Eu Vou Cuspir",
-      "url": "https://open.spotify.com/track/27rqWKpmFCD0Mmw3XABBOW",
-      "artists": [
-        {
-          "id": "3lxhCRbMuc8uHPFG714lqM",
-          "name": "DJ YAN MARIOTO",
-          "url": "https://open.spotify.com/artist/3lxhCRbMuc8uHPFG714lqM"
-        },
-        {
-          "id": "3uSPe0aATQvPSLWin1kZsQ",
-          "name": "MC Marlon PH",
-          "url": "https://open.spotify.com/artist/3uSPe0aATQvPSLWin1kZsQ"
-        },
-        {
-          "id": "75KmA2fnu28O4MunN3AskC",
-          "name": "BIG MC",
-          "url": "https://open.spotify.com/artist/75KmA2fnu28O4MunN3AskC"
-        }
-      ],
-      "album": {
-        "name": "Eu Vou Cuspir",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f92f8fff9e2e5fe2c68fbe41"
-      },
-      "duration_ms": 121846,
-      "played_at": "2026-11-23T22:37:50.467Z"
-    },
-    {
-      "id": "4S8m4idVm41zFI6n2YxgYm",
-      "name": "VOU DANÇAR,VOU BEBER",
-      "url": "https://open.spotify.com/track/4S8m4idVm41zFI6n2YxgYm",
-      "artists": [
-        {
-          "id": "7ufHJna3thtyJ5b2X7zY3W",
-          "name": "MC Donzela",
-          "url": "https://open.spotify.com/artist/7ufHJna3thtyJ5b2X7zY3W"
-        },
-        {
-          "id": "1Of861LgztNDqP7dgj9Bf8",
-          "name": "Mc Otávio da 9",
-          "url": "https://open.spotify.com/artist/1Of861LgztNDqP7dgj9Bf8"
-        },
-        {
-          "id": "1f6xTNdXkrk5Wyeb4tQK1E",
-          "name": "DJ CR Original",
-          "url": "https://open.spotify.com/artist/1f6xTNdXkrk5Wyeb4tQK1E"
-        }
-      ],
-      "album": {
-        "name": "VOU DANÇAR,VOU BEBER",
-        "image": "https://i.scdn.co/image/ab67616d0000b273f77c05205b82219682f5e8c9"
-      },
-      "duration_ms": 136615,
-      "played_at": "2026-11-23T22:35:48.593Z"
     }
   ]
 }
