@@ -58,7 +58,7 @@
     if (url) {
       const img = document.createElement("img");
       img.crossOrigin = "anonymous";
-      img.loading = "lazy";
+      img.loading = "eager";
       img.decoding = "async";
       img.alt = altText || fallbackLabel || "Capa do Spotify";
       img.src = url;

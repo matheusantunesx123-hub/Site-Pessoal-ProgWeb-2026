@@ -706,9 +706,11 @@
         fillRoundRect(ctx, tx, barY, barW, 8, 999, theme.bg, null);
         fillRoundRect(ctx, tx, barY, Math.max(16, (tr.plays / maxPlays) * barW), 8, 999, idx === 0 ? theme.accent : theme.accent2, null);
 
+        ctx.textAlign = "left";
+        ctx.textBaseline = "alphabetic";
         ctx.fillStyle = theme.ink;
         ctx.font = '600 18px "JetBrains Mono", monospace';
-        ctx.fillText(`${tr.plays} plays · ${tr.minutes} min`, tx + barW + 16, barY + 8);
+        ctx.fillText(`${tr.plays} plays · ${tr.minutes} min`, tx + barW + 16, barY + 9);
       }
     });
 
@@ -813,10 +815,14 @@
         fillRoundRect(ctx, tx, barY, barW, 8, 999, theme.bg, null);
         fillRoundRect(ctx, tx, barY, Math.max(16, (art.plays / maxPlays) * barW), 8, 999, theme.accent, null);
 
+        ctx.textAlign = "left";
+        ctx.textBaseline = "alphabetic";
         ctx.fillStyle = theme.muted;
         ctx.font = '600 18px "JetBrains Mono", monospace';
-        ctx.fillText(`${art.plays} plays · ${art.minutes} min`, tx + barW + 16, barY + 8);
+        ctx.fillText(`${art.plays} plays · ${art.minutes} min`, tx + barW + 16, barY + 9);
       } else {
+        ctx.textAlign = "left";
+        ctx.textBaseline = "alphabetic";
         ctx.fillStyle = theme.muted;
         ctx.font = '500 20px "Plus Jakarta Sans", sans-serif';
         drawTruncatedText(ctx, (art.genres && art.genres[0]) || art.top_track_name || "Spotify", tx, ry + rowH * 0.72, tw, "left");
@@ -852,7 +858,7 @@
     y += isStory ? 92 : 72;
 
     // 24h Bar Chart Card
-    const chartH = isStory ? 440 : 320;
+    const chartH = isStory ? 460 : 350;
     fillRoundRect(ctx, padX, y, innerW, chartH, 20, theme.surface, theme.border);
 
     const hourly = report.hourly_distribution || new Array(24).fill(0);
@@ -892,7 +898,7 @@
     y += chartH + (isStory ? 26 : 18);
 
     // 4 Day Periods Card
-    const periodsH = isStory ? 290 : 210;
+    const periodsH = isStory ? 300 : 235;
     fillRoundRect(ctx, padX, y, innerW, periodsH, 20, theme.surface, theme.border);
     ctx.textAlign = "left";
     ctx.fillStyle = theme.muted;
@@ -932,6 +938,7 @@
     const pday = report.summary.peak_day;
 
     fillRoundRect(ctx, padX, y, cw, footH, 20, theme.surface2, theme.border);
+    ctx.textAlign = "left";
     ctx.fillStyle = theme.accent;
     ctx.font = '600 17px "JetBrains Mono", monospace';
     ctx.fillText("DIA MAIS MUSICAL", padX + 24, y + 40);
@@ -941,14 +948,15 @@
     ctx.fillStyle = theme.muted;
     ctx.font = '500 20px "Plus Jakarta Sans", sans-serif';
     drawTruncatedText(ctx, `${pday.plays} plays · ${pday.minutes} min`, padX + 24, y + (isStory ? 148 : 124), cw - 48, "left");
-    if (pday.top_track && isStory) {
+    if (pday.top_track) {
       ctx.fillStyle = theme.accent2;
       ctx.font = '500 19px "JetBrains Mono", monospace';
-      drawTruncatedText(ctx, `Hit: ${pday.top_track}`, padX + 24, y + 188, cw - 48, "left");
+      drawTruncatedText(ctx, `Hit: ${pday.top_track}`, padX + 24, y + (isStory ? 188 : 160), cw - 48, "left");
     }
 
     const rx = padX + cw + gap;
     fillRoundRect(ctx, rx, y, cw, footH, 20, theme.surface2, theme.border);
+    ctx.textAlign = "left";
     ctx.fillStyle = theme.accent2;
     ctx.font = '600 17px "JetBrains Mono", monospace';
     ctx.fillText("CONSTÂNCIA & REPEAT", rx + 24, y + 40);
@@ -958,6 +966,9 @@
     ctx.fillStyle = theme.muted;
     ctx.font = '500 20px "Plus Jakarta Sans", sans-serif';
     drawTruncatedText(ctx, `${report.summary.active_days} dias ativos · ${report.summary.repeat_ratio.toFixed(2)}x/faixa`, rx + 24, y + (isStory ? 148 : 124), cw - 48, "left");
+    ctx.fillStyle = theme.accent;
+    ctx.font = '500 19px "JetBrains Mono", monospace';
+    drawTruncatedText(ctx, `Média: ${report.summary.avg_minutes_per_active_day} min/dia ativo`, rx + 24, y + (isStory ? 188 : 160), cw - 48, "left");
   }
 
   function drawResumoSlide(ctx, W, H, report, options, theme, imgs, box) {

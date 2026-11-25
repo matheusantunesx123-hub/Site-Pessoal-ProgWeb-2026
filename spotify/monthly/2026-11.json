@@ -4,25 +4,25 @@
   "month_number": 11,
   "label": "Novembro 2026",
   "short_label": "NOV 2026",
-  "updated_at": "2026-11-25T06:15:45.110406+00:00",
+  "updated_at": "2026-11-25T13:57:48.745083+00:00",
   "is_current_month": true,
   "coverage": {
     "first_play_brt": "2026-11-01T11:38:17.303000-03:00",
-    "last_play_brt": "2026-11-24T20:50:19.749000-03:00",
+    "last_play_brt": "2026-11-25T01:50:18.303000-03:00",
     "days_in_month": 30,
-    "active_days": 24
+    "active_days": 25
   },
   "summary": {
-    "total_plays": 1457,
-    "total_ms": 312410414,
-    "total_minutes": 5207,
-    "total_hours": 86.8,
-    "unique_tracks": 846,
+    "total_plays": 1469,
+    "total_ms": 315304745,
+    "total_minutes": 5255,
+    "total_hours": 87.6,
+    "unique_tracks": 847,
     "unique_artists": 560,
     "unique_albums": 662,
-    "active_days": 24,
-    "longest_streak_days": 24,
-    "avg_minutes_per_active_day": 217.0,
+    "active_days": 25,
+    "longest_streak_days": 25,
+    "avg_minutes_per_active_day": 210.2,
     "peak_day": {
       "date": "2026-11-11",
       "day": 11,
@@ -35,41 +35,41 @@
       "hour": 0,
       "label": "00h",
       "period": "Madrugada",
-      "plays": 133
+      "plays": 140
     },
     "periods": {
       "madrugada": {
         "label": "Madrugada",
-        "plays": 564,
-        "pct": 38.7
+        "plays": 576,
+        "pct": 39.2
       },
       "manha": {
         "label": "Manhã",
         "plays": 236,
-        "pct": 16.2
+        "pct": 16.1
       },
       "tarde": {
         "label": "Tarde",
         "plays": 270,
-        "pct": 18.5
+        "pct": 18.4
       },
       "noite": {
         "label": "Noite",
         "plays": 387,
-        "pct": 26.6
+        "pct": 26.3
       }
     },
     "dominant_period": "madrugada",
-    "repeat_ratio": 1.72,
+    "repeat_ratio": 1.73,
     "personality_tag": "Trilha da Madrugada",
-    "personality_subtitle": "Pico às 00h no horário de Brasília, embalado por 560 artistas distintos ao longo de 1457 reproduções.",
+    "personality_subtitle": "Pico às 00h no horário de Brasília, embalado por 560 artistas distintos ao longo de 1469 reproduções.",
     "delta_vs_prev": {
       "prev_month": "2026-10",
       "prev_label": "Outubro 2026",
-      "plays_diff": -298,
-      "plays_pct": -17.0,
-      "minutes_diff": -648,
-      "minutes_pct": -11.1,
+      "plays_diff": -286,
+      "plays_pct": -16.3,
+      "minutes_diff": -600,
+      "minutes_pct": -10.2,
       "new_artists_count": 251
     }
   },
@@ -260,7 +260,7 @@
       "duration_ms": 207399,
       "plays": 11,
       "minutes": 38,
-      "share_pct": 0.8
+      "share_pct": 0.7
     },
     {
       "rank": 8,
@@ -356,8 +356,32 @@
     },
     {
       "rank": 11,
+      "prev_rank": null,
+      "rank_delta": "new",
+      "id": "038DECyhINSHF4b0fWkuoE",
+      "name": "Era Óbvio",
+      "url": "https://open.spotify.com/track/038DECyhINSHF4b0fWkuoE",
+      "artists": [
+        {
+          "id": "0rSTXALHu0EKAawPLBdODH",
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "artist_names": "Marisa Monte",
+      "album": {
+        "name": "O Que Você Quer Saber de Verdade",
+        "image": "https://i.scdn.co/image/ab67616d0000b2735b7cd42c778cf9be6b2790e8"
+      },
+      "duration_ms": 258653,
+      "plays": 8,
+      "minutes": 34,
+      "share_pct": 0.5
+    },
+    {
+      "rank": 12,
       "prev_rank": 65,
-      "rank_delta": "+54",
+      "rank_delta": "+53",
       "id": "7L1FuZqKXSKnpiBmyYt96B",
       "name": "NiGHT MARé",
       "url": "https://open.spotify.com/track/7L1FuZqKXSKnpiBmyYt96B",
@@ -379,9 +403,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 12,
+      "rank": 13,
       "prev_rank": 25,
-      "rank_delta": "+13",
+      "rank_delta": "+12",
       "id": "16L1FLZDGYg76gB2pwjgzr",
       "name": "Navegar",
       "url": "https://open.spotify.com/track/16L1FLZDGYg76gB2pwjgzr",
@@ -403,9 +427,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 13,
+      "rank": 14,
       "prev_rank": 853,
-      "rank_delta": "+840",
+      "rank_delta": "+839",
       "id": "5SFGa6X8mXY3u5WOkfRjGl",
       "name": "Armadura",
       "url": "https://open.spotify.com/track/5SFGa6X8mXY3u5WOkfRjGl",
@@ -427,9 +451,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 14,
+      "rank": 15,
       "prev_rank": 280,
-      "rank_delta": "+266",
+      "rank_delta": "+265",
       "id": "5lvvqOEWpUvs2jaFkQTFWJ",
       "name": "Quando Bate Aquela Saudade",
       "url": "https://open.spotify.com/track/5lvvqOEWpUvs2jaFkQTFWJ",
@@ -451,7 +475,7 @@
       "share_pct": 0.5
     },
     {
-      "rank": 15,
+      "rank": 16,
       "prev_rank": null,
       "rank_delta": "new",
       "id": "7CNB3gJSRb4NEVRe3mwiur",
@@ -475,9 +499,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 16,
+      "rank": 17,
       "prev_rank": 8,
-      "rank_delta": "-8",
+      "rank_delta": "-9",
       "id": "55d7fAJmM0R2TDfuHWPwnc",
       "name": "Blossom",
       "url": "https://open.spotify.com/track/55d7fAJmM0R2TDfuHWPwnc",
@@ -499,9 +523,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 17,
+      "rank": 18,
       "prev_rank": 1,
-      "rank_delta": "-16",
+      "rank_delta": "-17",
       "id": "1r5xSeHHrnnAPlZD8s03N1",
       "name": "Codinome Exagerado",
       "url": "https://open.spotify.com/track/1r5xSeHHrnnAPlZD8s03N1",
@@ -528,9 +552,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 18,
+      "rank": 19,
       "prev_rank": 101,
-      "rank_delta": "+83",
+      "rank_delta": "+82",
       "id": "5A1xlxgPzHoq4G03uc7kCS",
       "name": "So Dumb",
       "url": "https://open.spotify.com/track/5A1xlxgPzHoq4G03uc7kCS",
@@ -552,9 +576,9 @@
       "share_pct": 0.5
     },
     {
-      "rank": 19,
+      "rank": 20,
       "prev_rank": 15,
-      "rank_delta": "-4",
+      "rank_delta": "-5",
       "id": "5xebls1ZOUqKDVVwQA5YDG",
       "name": "QUANDO EU TOMO GIN DE 10",
       "url": "https://open.spotify.com/track/5xebls1ZOUqKDVVwQA5YDG",
@@ -584,30 +608,6 @@
       "plays": 7,
       "minutes": 20,
       "share_pct": 0.5
-    },
-    {
-      "rank": 20,
-      "prev_rank": 12,
-      "rank_delta": "-8",
-      "id": "1JkLTSDz8bKt9IRub0T8Ty",
-      "name": "Magnata",
-      "url": "https://open.spotify.com/track/1JkLTSDz8bKt9IRub0T8Ty",
-      "artists": [
-        {
-          "id": "6BXiBj4eAZsiynbcmSRHUs",
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "artist_names": "Urias",
-      "album": {
-        "name": "HER MIND",
-        "image": "https://i.scdn.co/image/ab67616d0000b2731408c1b60f71e68d0b84b789"
-      },
-      "duration_ms": 105442,
-      "plays": 7,
-      "minutes": 12,
-      "share_pct": 0.5
     }
   ],
   "top_artists": [
@@ -623,7 +623,7 @@
       "plays": 196,
       "minutes": 567,
       "unique_tracks": 43,
-      "share_pct": 13.5,
+      "share_pct": 13.3,
       "top_track_name": "Everybody"
     },
     {
@@ -650,10 +650,10 @@
       "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH",
       "image": "https://i.scdn.co/image/ab6761610000e5ebdf680c991c829899faf1283c",
       "genres": [],
-      "plays": 39,
-      "minutes": 130,
+      "plays": 43,
+      "minutes": 144,
       "unique_tracks": 21,
-      "share_pct": 2.7,
+      "share_pct": 2.9,
       "top_track_name": "Era Óbvio"
     },
     {
@@ -718,8 +718,23 @@
     },
     {
       "rank": 8,
+      "prev_rank": 96,
+      "rank_delta": "+88",
+      "id": "57pVvBwa3ZCR9LsVlkLXj7",
+      "name": "Vanessa Da Mata",
+      "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7",
+      "image": "https://i.scdn.co/image/ab6761610000e5eb0726b3a2a4db36495765f020",
+      "genres": [],
+      "plays": 26,
+      "minutes": 97,
+      "unique_tracks": 14,
+      "share_pct": 1.8,
+      "top_track_name": "Me Adora, Mas"
+    },
+    {
+      "rank": 9,
       "prev_rank": 425,
-      "rank_delta": "+417",
+      "rank_delta": "+416",
       "id": "5SVFuUaS3BKAdJs6I8rVa4",
       "name": "Tim Bernardes",
       "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4",
@@ -730,21 +745,6 @@
       "unique_tracks": 15,
       "share_pct": 1.7,
       "top_track_name": "Recomeçar"
-    },
-    {
-      "rank": 9,
-      "prev_rank": 96,
-      "rank_delta": "+87",
-      "id": "57pVvBwa3ZCR9LsVlkLXj7",
-      "name": "Vanessa Da Mata",
-      "url": "https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7",
-      "image": "https://i.scdn.co/image/ab6761610000e5eb0726b3a2a4db36495765f020",
-      "genres": [],
-      "plays": 25,
-      "minutes": 94,
-      "unique_tracks": 14,
-      "share_pct": 1.7,
-      "top_track_name": "Me Adora, Mas"
     },
     {
       "rank": 10,
@@ -905,11 +905,11 @@
       "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo",
       "image": "https://i.scdn.co/image/ab67616d0000b2738ab02a5b19afe9b2e30c7aac",
       "genres": [],
-      "plays": 14,
-      "minutes": 61,
+      "plays": 15,
+      "minutes": 65,
       "unique_tracks": 8,
       "share_pct": 1.0,
-      "top_track_name": "Meu Vício é Você"
+      "top_track_name": "A Loba"
     }
   ],
   "top_albums": [
@@ -1084,8 +1084,8 @@
   ],
   "top_genres": [],
   "hourly_distribution": [
-    133,
-    77,
+    140,
+    82,
     52,
     100,
     118,
@@ -1125,8 +1125,8 @@
     {
       "key": "qua",
       "label": "Qua",
-      "plays": 265,
-      "minutes": 939
+      "plays": 277,
+      "minutes": 987
     },
     {
       "key": "qui",
@@ -1375,9 +1375,9 @@
       "day": 25,
       "weekday": 2,
       "weekday_label": "Qua",
-      "plays": 0,
-      "minutes": 0,
-      "top_track": null
+      "plays": 12,
+      "minutes": 48,
+      "top_track": "Era Óbvio"
     },
     {
       "date": "2026-11-26",
