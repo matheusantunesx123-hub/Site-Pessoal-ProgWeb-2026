@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T01:25:23.235976+00:00",
+  "updated_at": "2026-11-27T15:59:49.702225+00:00",
   "top_artists": [
     {
       "id": "6BXiBj4eAZsiynbcmSRHUs",
@@ -520,6 +520,60 @@
     }
   ],
   "recently_played": [
+    {
+      "id": "21KbWPoY3MTpI5byU6d0dl",
+      "name": "Louca por Ti \"Dust in the Wind\"",
+      "url": "https://open.spotify.com/track/21KbWPoY3MTpI5byU6d0dl",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "As 20 +",
+        "image": "https://i.scdn.co/image/ab67616d0000b2731282750cefbc00ee37ee94f6"
+      },
+      "duration_ms": 164480,
+      "played_at": "2026-11-27T10:57:33.318Z"
+    },
+    {
+      "id": "1yNstWFOG0z4CFkJrusyzP",
+      "name": "Manchete dos Jornais",
+      "url": "https://open.spotify.com/track/1yNstWFOG0z4CFkJrusyzP",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Mágica, Vol. 12",
+        "image": "https://i.scdn.co/image/ab67616d0000b2730feadb03b09b02564d643132"
+      },
+      "duration_ms": 239516,
+      "played_at": "2026-11-27T10:54:57.887Z"
+    },
+    {
+      "id": "0vBWwc6LnM7mhg4GZjhqNv",
+      "name": "Hoje à Noite",
+      "url": "https://open.spotify.com/track/0vBWwc6LnM7mhg4GZjhqNv",
+      "artists": [
+        {
+          "id": "6Kps94g1Npexh3LrinIOvC",
+          "name": "Calcinha Preta",
+          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
+        }
+      ],
+      "album": {
+        "name": "Hoje à Noite, Vol. 11 (Inéditas e ao Vivo)",
+        "image": "https://i.scdn.co/image/ab67616d0000b2732c214376195b1bb3ab0871d7"
+      },
+      "duration_ms": 212715,
+      "played_at": "2026-11-27T09:46:55.297Z"
+    },
     {
       "id": "6qqdFWe7C4LsBjWbXQdsHA",
       "name": "Dark Paradise",
@@ -1460,65 +1514,6 @@
       },
       "duration_ms": 225402,
       "played_at": "2026-11-25T22:12:13.756Z"
-    },
-    {
-      "id": "4YKujFSyakVjLdH1sDllVc",
-      "name": "Dois Fugitivos - Ao Vivo",
-      "url": "https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc",
-      "artists": [
-        {
-          "id": "2eK9gcJQ6uqVvJL63dnOM3",
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "album": {
-        "name": "Cintilante (Ao Vivo / Vol.2)",
-        "image": "https://i.scdn.co/image/ab67616d0000b27312ba283ff7c22143b2172858"
-      },
-      "duration_ms": 173370,
-      "played_at": "2026-11-25T22:06:21.783Z"
-    },
-    {
-      "id": "59EohlfMvYOO1aVm8F91ZR",
-      "name": "Louca por Ti - Ao Vivo",
-      "url": "https://open.spotify.com/track/59EohlfMvYOO1aVm8F91ZR",
-      "artists": [
-        {
-          "id": "6Kps94g1Npexh3LrinIOvC",
-          "name": "Calcinha Preta",
-          "url": "https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC"
-        }
-      ],
-      "album": {
-        "name": "Ao Vivo em Salvador, Vol. 1",
-        "image": "https://i.scdn.co/image/ab67616d0000b27381c22296621b181ed20679a0"
-      },
-      "duration_ms": 205838,
-      "played_at": "2026-11-25T22:03:28.452Z"
-    },
-    {
-      "id": "4qsOrxBv09HhNSpsgMRXdC",
-      "name": "Esqueça-Me Se For Capaz",
-      "url": "https://open.spotify.com/track/4qsOrxBv09HhNSpsgMRXdC",
-      "artists": [
-        {
-          "id": "1yR65psqiazQpeM79CcGh8",
-          "name": "Marília Mendonça",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
-        },
-        {
-          "id": "59jlthNnbmim5l9tmNA7se",
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
-        }
-      ],
-      "album": {
-        "name": "Festa das Patroas 35%",
-        "image": "https://i.scdn.co/image/ab67616d0000b2734ed454af2f9a6719f4155241"
-      },
-      "duration_ms": 169058,
-      "played_at": "2026-11-25T22:00:02.574Z"
     }
   ]
 }
